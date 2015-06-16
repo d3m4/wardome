@@ -1,0 +1,113 @@
+#21000
+muir~
+Muir~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 2 0 0
+E
+#21001
+tempus~
+Tempus~
+Tempus, god of war and battle stands here.
+~
+He is Tempus, one of the 9 major gods of the wardome world. Unless you are a very experienced player, you should not face him.
+~
+3663962 638583976 0 E
+200 -980 -20 30d1000+500000 20d341+80
+3000 21077738 127
+8 8 1 10 12
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#21002
+ilmanateur~
+Ilmanateur~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 1 0 0
+E
+#21003
+selune~
+Selune~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 2 0 0
+E
+#21004
+helm~
+Helm~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 1 0 0
+E
+#21005
+oghma~
+Oghma~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 1 0 0
+E
+#21006
+bane~
+Bane~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 1 0 0
+E
+#21007
+pandora~
+Pandora~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 2 0 0
+E
+#21008
+talos~
+Talos~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 10d1+0
+0 0 127
+8 8 1 0 0
+E
+$

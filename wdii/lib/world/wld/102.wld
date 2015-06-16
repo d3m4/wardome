@@ -1,0 +1,2201 @@
+#10200
+The Castle Entrance~
+   You are standing at the castle entrance, in a lower level. There is a
+plataform, followed by a stair. Red royal carpets fullfills every step that
+you give. There is two pathways leading to both sides of the lower level
+of the plataform. Also there is some statues decorating among the pathways.
+~
+102 8 0
+D0
+~
+~
+0 0 10214
+D1
+~
+~
+0 0 10207
+D2
+~
+~
+0 0 11758
+D3
+~
+~
+0 0 10201
+S
+#10201
+The Left Walkway by the Lobby~
+   You just leaved the entrance red royal carpet and now entered a
+stone floor. You are standing before a big plataform, and pushed against
+the walls there is some iron-armored statues. The pathway continues to the
+north or to the west.
+~
+102 8 0
+D0
+~
+~
+0 0 10202
+D1
+~
+~
+0 0 10200
+D3
+~
+~
+0 0 10203
+S
+#10202
+The Upper-Left Walkway By the Lobby~
+   Walking around the plataform you reaches it ends. There is a tapestry
+banner in front of you, which goes to the top of the plataform. You can
+also see some portraits posted by the walls here.
+~
+102 8 0
+D2
+~
+~
+0 0 10201
+S
+#10203
+At the top of the stairs~
+   At the top of the stair you hear some agony screams. Something
+really strange seems to be hapenning down there. You can see some
+strings of blood among the starway. Whatever is down there, it is
+not a good thing...
+~
+102 8 0
+D1
+~
+~
+0 0 10201
+D5
+~
+~
+0 0 10204
+S
+#10204
+At the bottom of the stairs~
+   As you keep going downards, reaching the bootom of the stairs, the
+screams seems to get more louder. There is a maid here, cleaning the
+blood strings, you can see a little bloodied white curtain in the
+east side of the rooms, the strings seems to be leading there.
+~
+102 8 0
+D3
+~
+~
+0 0 10205
+D4
+~
+~
+0 0 10203
+S
+#10205
+The Wounded Haven~
+   You are in a little dirty room, but still very confortable for those
+whom 've been hurted in the wars. There are some wounded people resting
+by the beds, and a couple of nurses walks monitoring 'em. But you still
+hear the screams, that seems to come from a massive oak door in the
+south of the room.
+~
+102 8 0
+D1
+~
+~
+0 0 10204
+D2
+~
+~
+0 0 10206
+S
+#10206
+The Healing Room~
+   Definetively the loud screams come from this room. You are standing on
+a very bloodied room, there is guts spreads by all the room, the vision of
+a medic sawing a living and awake mercenary is disgusting. There are several
+tools spread by a table in the side of a cirurgy bed.
+~
+102 8 0
+D0
+~
+~
+0 0 10205
+S
+#10207
+The Right Walkway by the Lobby~
+   You just leaved the entrance red royal carpet and now entered a
+stone floor. You are standing before a big plataform, and pushed against
+the walls there is some iron-armored statues. The pathway continues to the
+north or to the east.
+~
+102 8 0
+D0
+~
+~
+0 0 10208
+D1
+~
+~
+0 0 10209
+D3
+~
+~
+0 0 10200
+S
+#10208
+The Upper-Left Walkway by the Lobby~
+   Walking around the plataform you reaches it ends. There is a tapestry
+banner in front of you, which goes to the top of the plataform. You can
+also see some portraits posted by the walls here.
+~
+102 0 0
+D2
+~
+~
+0 0 10207
+S
+#10209
+At the top of the stairs~
+   This side of the castle is a little bit more habited. There are some
+soldiers in rest going downstairs, you can hear some noises coming from
+down there, it seems to be spoon and knifes noises. You can hear some
+speech down there too.
+~
+102 0 0
+D3
+~
+~
+0 0 10207
+D5
+~
+~
+0 0 10210
+S
+#10210
+At the bottom of the stairs~
+   You are in the entrance of something that looks like a tavern. Maybe
+its because tha castle has lots of soldiers. To your left you are able
+to see a dinning hall, and to your south there is a little walkway which
+leads to a wooden door.
+~
+102 8 0
+D1
+~
+~
+0 0 10211
+D2
+~
+~
+0 0 10212
+D4
+~
+~
+0 0 10209
+S
+#10211
+The Dinning Hall~
+   Indeed the room look quite like a tavern. Lots of soldiers are talking
+, eating and drinkin' here. There are some servants cleaning the tables
+and providing food to the starving army.
+~
+102 8 0
+D3
+~
+~
+0 0 10210
+S
+#10212
+The Main Kitchen~
+   Passing through the wooden door, you finally reaches the kitchen.
+There is a big Furnace at the bottom of the room, and it is spreading
+smoke through all the room. You can see a big fat cook here, doing
+the soldier's request.
+~
+102 0 0
+D0
+~
+~
+0 0 10210
+D1
+~
+~
+0 0 10213
+S
+#10213
+The Flour Floor~
+   You are standing on a sort of dispence. There is lots, and when i
+mean lots, i really mean it, lots of flour spread among the room. Some
+big closets adornates the wall. You can see lots of condiments among
+the reckless opened closet doors.
+~
+102 8 0
+D3
+~
+~
+0 0 10212
+S
+#10214
+Leading to the Guardia's Main Hall~
+   Walking among the red royal carpet you reach the bottom of some stairs,
+stairs which leads an upper plataform, among the stairs there is 3 couples
+of armored statues turned to your side, the stair rail is made out of
+pure marble.
+~
+102 8 0
+D2
+~
+~
+0 0 10200
+D4
+~
+~
+0 0 10215
+S
+#10215
+Guardia's Castle Main Hall~
+   Guardia has certainly a really fancy hall. The whole room is fullfilled
+of a red carpet, from here you can see the royal thrones to your north,
+after a little starway, and to the east and left you can also see some
+corridors leading to the unknown.
+~
+102 8 0
+D0
+~
+~
+0 0 10231
+D1
+~
+~
+0 0 10232
+D3
+~
+~
+0 0 10216
+D5
+~
+~
+0 0 10214
+S
+#10216
+The Corridor~
+   You are in a stone silent corridor, from here you can hear some echoes
+of iron tingling. Some weapons seems to be drawned far to the west, there
+is also a bifurcattion giving you the option to follow the echoes or
+leading north to the unknown.
+~
+102 8 0
+D0
+~
+~
+0 0 10222
+D1
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10217
+S
+#10217
+Walking by the long corridor~
+   The stone corridor begins to become darker, and needs to be litten
+by some torches, fixed by the wall. As you walk the echoes begans to
+become louder. There is a massive oak door west from here.
+~
+102 9 0
+D1
+~
+~
+0 0 10216
+D3
+~
+~
+0 0 10218
+S
+#10218
+The Smell of Iron~
+   In this dark room you can smell the iron, the forges, there are
+some soldiers getting out of the adjacent rooms with swords drawn.
+You can hear the tinglin of iron from north and west, there are 2 doors
+and both wide open.
+~
+102 9 0
+D0
+~
+~
+0 0 10221
+D1
+~
+~
+0 0 10217
+D3
+~
+~
+0 0 10220
+S
+#10219
+The Secret Palace of Keys~
+You are in an unfinished room.
+~
+102 0 0
+S
+#10220
+Guardia's Army Weapon Rack~
+   You are in the weapon rack stand. There is a few pieces of weapon,
+mostly seems to be already used. Whathever is attacking this kingdom seems
+to be very powerfull and effective, you can see some blacksmiths by the
+rack trying to fix some broken weapons. You realize that the echoes must
+come from here.
+~
+102 9 0
+D1
+~
+~
+0 0 10218
+S
+#10221
+Guardia's Army Armor Rack~
+   You are in the armor rack. Hundreds of pieces of armors, from leather
+to the mighty full plate warriors are placed in the rooms. There is 3
+racks covering the whole room, and it seems to be getting smaller. You
+can see lots of empty slots in the rack, but it is still a large quantity
+of equipment.
+~
+102 9 0
+D2
+~
+~
+0 0 10218
+S
+#10222
+At the bottom of a long circular Stairway~
+   You are standing at the bottom of massive stone circular stairway,
+which seems to be very, very long... There are some paintings before
+reaching the stairs. Also, hanging in the wall there are some torches
+littin' the room.
+~
+102 8 0
+D2
+~
+~
+0 0 10216
+D4
+~
+~
+0 0 10223
+S
+#10223
+Walking by the long circular Stairway~
+   You began climbing the stairs, the stone, straight stairway makes you
+feel unpleasant, it seems to be draining all the air from you. It gives
+you a cloisterphobia sensation. You reach a small intersection in the stairs
+but you can still keep climbing up.
+~
+102 264 0
+D1
+~
+~
+0 0 10224
+D4
+~
+~
+0 0 10225
+D5
+~
+~
+0 0 10222
+S
+#10224
+A mercenary Shelter~
+   The Army's Quarter. This place is a common accommodation for the
+mercenary army of guardia. There seems to be a medium number of soldiers
+most of the beds are empty, they must be facing a huge war against
+another great kingdom.
+~
+102 8 0
+D3
+~
+~
+0 0 10223
+S
+#10225
+At the Middle of the Starway~
+   After climbing for a while, the lack of breath sensation beguns to
+take your mind, the stairs begun to become more and more thiner, but
+you manage to go on. You can turn east and enter the bifurcation or keep
+going up and see if you still have breath.
+~
+102 264 0
+D1
+~
+~
+0 0 10226
+D4
+~
+~
+0 0 10227
+D5
+~
+~
+0 0 10223
+S
+#10226
+An Army's Quarter~
+   You are standing on a specie of reunion room of the army. There is a
+big oak rounded table by the center of the room, with a large amount of
+papers spread. There is twenty chairs among the table's corner, and
+almost no one is using those chairs.
+~
+102 8 0
+D3
+~
+~
+0 0 10225
+S
+#10227
+Reaching the top of the Starway~
+   You reach the top of the stairs, when it wasnt possible to the walls
+become more thiner, there is a end-tunnel light, you can see a big open
+air space heading a little bit up. Still there is the option to turn to
+the left.
+~
+102 264 0
+D1
+~
+~
+0 0 10228
+D4
+~
+~
+0 0 10229
+D5
+~
+~
+0 0 10225
+S
+#10228
+The Chancellor's Room~
+   Entering the dark chancellor's room you lite it with your torch.
+It seems to be a quite common room, except for the large ammount of
+papers thrown by the desk, and the huge amount of ocultism books spread
+out by his bed. This guy must be really strange.
+~
+102 9 0
+D3
+~
+~
+0 0 10227
+D4
+~
+~
+0 0 10247
+S
+#10229
+Finally, The top of the Starway~
+   Your lungs greets the top of the starway. As you arrive at it ends,
+you take a deep, long breath, almost revitalizing you. Backwars you can
+see the long starway and for your west there is a open field by a stone
+bridge floor.
+~
+102 8 0
+D3
+~
+~
+0 0 10230
+D5
+~
+~
+0 0 10227
+S
+#10230
+By the gates of the Bridge~
+   You reach an open stone floor field at the bridge. There is a huge
+massive wooden gate making it impossible for you to pass. Outside here
+it is hard to breath and it is very cold also. It is really windy and
+a rain is starting, better idea to come back.
+~
+102 0 2
+D1
+~
+~
+0 0 10229
+S
+#10231
+Standing Forefront the Thrones~
+   You are standing before Queen Lenne's throne and King Leone's throne.
+There are some bodyguards standing by both sides of the thrones. Thrones
+which are mad of a massive and beautifull oak, addorned with gold and
+silver, giving a different air to the royalty of the room.
+~
+102 8 0
+D2
+~
+~
+0 0 10215
+S
+#10232
+The Corridor~
+   You are in another stone silent corridor, which is basically very
+simple, there is a single way to be followed, which is to the north.
+Or you also can come back to the hall.
+~
+102 8 0
+D0
+~
+~
+0 0 10234
+D3
+~
+~
+0 0 10215
+S
+#10233
+The Secret Stone Passageway~
+You are in an unfinished room.
+~
+102 0 0
+S
+#10234
+At the bottom of a long circular Stairway~
+   You are in the armor rack. Hundreds of pieces of armors, from leather
+to the mighty full plate warriors are placed in the rooms. There is 3
+racks covering the whole room, and it seems to be getting smaller. You
+can see lots of empty slots in the rack, but it is still a large quantity
+of equipment.
+~
+102 8 0
+D2
+~
+~
+0 0 10232
+D4
+~
+~
+0 0 10235
+S
+#10235
+Walking by the long circular Stairway~
+   You began climbing the stairs, the stone, straight stairway makes you
+feel unpleasant, it seems to be draining all the air from you. It gives
+you a cloisterphobia sensation. You reach a small intersection in the stairs
+but you can still keep climbing up.
+~
+102 264 0
+D3
+~
+~
+0 0 10236
+D4
+~
+~
+0 0 10237
+D5
+~
+~
+0 0 10234
+S
+#10236
+The Storage Room~
+   You are in a dark cold room. It seems to be used as a storage rooms
+a while ago. Now you can see some chests pilled in the corner of the
+room and some broken armor racks throwed randomly by the room.
+~
+102 9 0
+D1
+~
+~
+0 0 10235
+S
+#10237
+At the Middle of the Starway~
+   After climbing for a while, the lack of breath sensation beguns to
+take your mind, the stairs begun to become more and more thiner, but
+you manage to go on. You can turn east and enter the bifurcation or keep
+going up and see if you still have breath.
+~
+102 264 0
+D3
+~
+~
+0 0 10238
+D4
+~
+~
+0 0 10239
+D5
+~
+~
+0 0 10235
+S
+#10238
+The Trash Room~
+   This room is quite equal the room that you stepped before, it has
+some straw throwed by the room, it was probably a deposit, but now
+all it has is trash. Nothing but trash...
+~
+102 9 0
+D1
+~
+~
+0 0 10237
+S
+#10239
+Reaching the top of the Starway~
+   You reach the top of the stairs, when it wasnt possible to the walls
+become more thiner, there is a end-tunnel light, you can see a big open
+air space heading a little bit up. Still there is the option to turn to
+the left.
+~
+102 264 0
+D3
+~
+~
+0 0 10240
+D4
+~
+~
+0 0 10241
+D5
+~
+~
+0 0 10237
+S
+#10240
+The Destroyed Room~
+   Now this is a really mess, the two other rooms that you saw before
+cannot be compared to this. Whatever did this it was big... and angry.
+The room is entirelly destroyed.
+~
+102 9 0
+D1
+~
+~
+0 0 10239
+S
+#10241
+Finally, The top of the Starway~
+   You reach the top of the stairs, when it wasnt possible to the walls
+become more thiner, there is a end-tunnel light, you can see some lights
+coming from the east side of the corridor, there is also a big wooden
+door, decorated with marble blocking the way.
+~
+102 9 0
+D1
+~
+~
+0 0 10242
+D5
+~
+~
+0 0 10239
+S
+#10242
+Standing Before the Princess Room~
+   You are standing before a wooden door, with a crown emblem carved
+on it. Before the door two guards stands in watch position. There are
+one statue to the right of the first guard. This room is also very
+litten by large amounts of torches on the wall.
+~
+102 8 0
+D0
+~
+~
+0 0 10243
+D1
+~
+~
+0 0 10244
+D3
+~
+~
+0 0 10241
+S
+#10243
+Princess Marle's Bedroom~
+   This room is very peculiar, it look indeed very royal. There is a desk
+on the right bottom of the room, and a small bed at the upper bottom,
+you can notice lots of paintings in the walls, and also 2 painting pedestals
+with blank paintings on them.
+~
+102 8 0
+D2
+~
+~
+0 0 10242
+S
+#10244
+Before Royal Red Curtains~
+   This rooms looks very much like the room before it, but it is a little
+less litten, because one of the torches in the wall is broken. Besides
+the two guards which stands before the door. There is a big red royal
+curtain blocking your view.
+~
+102 8 0
+D0
+~
+~
+0 0 10245
+D3
+~
+~
+0 0 10242
+S
+#10245
+The Royal Bedroom~
+   It appears to be the king and queens room. It is all covered by
+expensive and exotic tappestry, curtains, and jewelry. There is a
+couple bed in the upper bottom of the room and a marble bathtube
+at the right corner of it.
+~
+102 8 0
+D2
+~
+~
+0 0 10244
+S
+#10246
+The Entrance to Guardia's Cathedral~
+   You are in the entrance of Guardia's Cathedral, it sounds very gothic
+and melancholic. The arched windows and the vitrals intones the style
+of the cathedral. You are stepping on a green carpet with red details.
+You can see some prayer benchs from here.
+~
+102 8 0
+D0
+~
+~
+0 0 10247
+S
+#10247
+The Center of the Cathedral~
+   After walking for a while you're still stepping into the
+green carpet. You are in the walkway, leading north you can
+be in the altar, leading both west or east you will be on
+one of the chair stands for prayers.
+~
+102 8 0
+D0
+~
+~
+0 0 10250
+D1
+~
+~
+0 0 10251
+D2
+~
+~
+0 0 10246
+D3
+~
+~
+0 0 10248
+D5
+~
+~
+0 0 10228
+S
+#10248
+The Left Bench Stand~
+   You are standing among wooden bench stands. You believe
+that this is the place where prayers are done. The cathedral
+is actually abandoned and no one is sitting on the benchs.
+For the north you can see a big pipe organ.
+~
+102 8 0
+D0
+~
+~
+0 0 10249
+D1
+~
+~
+0 0 10247
+S
+#10249
+The Pipe Organ Stand~
+   Crossing the chairs, you get to the left bottom of the cathedral,
+standing by the side of the main altar room, you are in a space,
+mostly fullfilled by the gargantuan pipe organ placed in the walls.
+There is also a circular carpet end.
+~
+102 8 0
+D2
+~
+~
+0 0 10248
+S
+#10250
+The Altar~
+   You are standing in front of a big and massive stone
+altar. There is some candles and a wooden cup at the altar.
+Placed aside the cup there is a blank piece of cloth and
+a big red bible.
+~
+102 8 0
+D2
+~
+~
+0 0 10247
+S
+#10251
+The Right Bench Stand~
+   You are standing among wooden bench stands. You believe
+that this is the place where prayers are done. The cathedral
+is actually abandoned and no one is sitting on the benchs.
+For the north you can see a small cabin.
+~
+102 8 0
+D0
+~
+~
+0 0 10252
+D3
+~
+~
+0 0 10247
+S
+#10252
+The Penitential Tribunal~
+   You are in a penitential tribunal. This room is very
+quiet and dark. You are sitting on a wooden bench, to
+your left a small screen hides who is on the other side.
+Which you believe that is actually no one.
+~
+102 8 0
+D2
+~
+~
+0 0 10251
+S
+#10253
+The Secret Passageway~
+   After opening the screen, and unlocking the secret passageway, you
+attach a hidden chamber in the cathedral. Whoever did this didn't wanted
+intrusers, maybe it is some kind of fleing route for wars, or even a
+connection to the castle.
+~
+102 8 0
+D4
+~
+~
+0 0 10254
+S
+#10254
+The Cathedral Hidden Floor~
+   Indeed it is a secret passageway, after climbing some stairs you are
+now in a second floor of the secret passageway. Your suspects that this
+actually is a fleing route are increasing. The reason? The carpet
+is filled with blood stains.
+~
+102 8 0
+D0
+~
+~
+0 0 10255
+D1
+~
+~
+0 0 10257
+D5
+~
+~
+0 0 10253
+S
+#10255
+A bend over through the corridor~
+   You are in a corridor bend over. The blood stains are still present
+at the carpet, but after walking for a while you can see that the carpet
+is ripped off. You can continue to the east.
+~
+102 8 0
+D1
+~
+~
+0 0 10256
+D2
+~
+~
+0 0 10254
+S
+#10256
+A Jail Cell~
+   A jail cell? It is rather strange to a cathedral have a cell inside.
+For prisioners of war? But even that don't justify the existence of
+a cell in a church. There is some several stains of blood on the walls.
+There is also a skeleton hangin' on a cuff.
+~
+102 8 0
+D3
+~
+~
+0 0 10255
+S
+#10257
+A Long Hallway~
+   Walking by the corridor you reach a long hallway. From here to the
+north you can see a plataform. The carpet seems to be ripped off here,
+something with claws probably did it.
+~
+102 8 0
+D1
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10254
+S
+#10258
+The Main Secret Hall~
+   You are in the main hall of the corridor. There is three ways from
+here, to the west, to the east and to the north. There is some ripped
+carpet throwed by the floor, and some trail of blood leading up to
+the north.
+~
+102 8 0
+D0
+~
+~
+0 0 10263
+D1
+~
+~
+0 0 10259
+D3
+~
+~
+0 0 10257
+S
+#10259
+A Long Hallway~
+   Walking by the corridor you reach a long hallway. From here to the
+north you can see a plataform. The carpet seems to be ripped off here,
+something with claws probably did it.
+~
+102 8 0
+D1
+~
+~
+0 0 10260
+D3
+~
+~
+0 0 10258
+S
+#10260
+The Bend over through the hallway~
+   It seems rather strange, this part of the floor still has the carpet
+blood stained as usually, but it is still placed here. Well, you reach
+a bend over, you can continue to the north or even go back to the
+west.
+~
+102 8 0
+D0
+~
+~
+0 0 10261
+D3
+~
+~
+0 0 10259
+S
+#10261
+A left bend over through the corridor~
+   You are in a corridor bend over. The blood stains are still present
+at the carpet, but after walking for a while you can see that the carpet
+is ripped off. You can continue to the west.
+~
+102 8 0
+D2
+~
+~
+0 0 10260
+D3
+~
+~
+0 0 10262
+S
+#10262
+Another Jail Cell~
+  A jail cell? It is rather strange to a cathedral have a cell inside.
+For prisioners of war? But even that don't justify the existence of
+a cell in a church. There is some several stains of blood on the walls.
+There is also a skeleton hangin' on a cuff.
+~
+102 8 0
+D1
+~
+~
+0 0 10261
+S
+#10263
+In front of a Starway~
+   You are standing before a trashed starway. Broken planks everywhere,
+ripped pieces of carpet and tapestry on the walls, stains of blood,
+from the walls to the floors. There is also two statues, one to the left
+another one to the right. The right statue seems to be glowing &RRed&w.&n
+~
+102 8 0
+D2
+~
+~
+0 0 10258
+D4
+~
+~
+0 0 10264
+S
+#10264
+The Path Choise~
+   You are in a small intersection. You can go west or either east, there
+is also a strange gloom coming from the north corridor. This carpet from
+green has turned in to red because of the blood stains.
+~
+102 8 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10267
+D3
+~
+~
+0 0 10265
+D5
+~
+~
+0 0 10263
+S
+#10265
+The Right Path~
+   You are in the right path of the plataform. To the west you can hear
+some screams and some strange metal sounds. You are stepping in the
+carpet and it is not ripped, as if a miracle. There is a statue of
+an inquisitor against the wall.
+~
+102 8 0
+D1
+~
+~
+0 0 10264
+D3
+~
+~
+0 0 10266
+S
+#10266
+A torture room~
+   Now, the cells and the secret passageway wasnt enough. This is the
+most strange thing to be inside a holy place, well, not so holy, you
+realize now... A torture room. There is lots of stains of blood on
+the floor, guts, eyes even brains... The cathedral went from holy
+to unholy ground in the moment that you entered this room.
+~
+102 8 0
+D1
+~
+~
+0 0 10265
+S
+#10267
+The Left Path~
+   The right path seems to be a little darker. Pushed against the walls
+you see a big Gargoyle statue, the tappestry is all ripped of and there
+is a huge pool of blood coming from the next room to the corridor.
+~
+102 9 0
+D1
+~
+~
+0 0 10268
+D3
+~
+~
+0 0 10264
+S
+#10268
+An Execution Room~
+   Your last vision is a room fullfilled of killing articles, from
+blind axes to whips and other kind of stuff. But you wander why it is
+your last vision. Well, it is because you didn't have the privilege
+to see the sharpen axe coming from the roof and ripping your head off.
+~
+102 8 0
+D3
+~
+~
+0 0 10267
+S
+#10269
+Towards Dead End~
+    You are in a strange room, a strange gloom seems to emanate from
+the north, the strings on the walls seems to be forming a kind of
+hypnotic patern, going from black to white, red to blue.
+~
+102 8 0
+D0
+~
+~
+0 0 10270
+D2
+~
+~
+0 0 10264
+S
+#10270
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10271
+D5
+~
+~
+0 0 10269
+S
+#10271
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10272
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10272
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10273
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10273
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10274
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10274
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10275
+S
+#10275
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10276
+D5
+~
+~
+0 0 10269
+S
+#10276
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10277
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10277
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10278
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10278
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10279
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10279
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10280
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10280
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10281
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10281
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10282
+S
+#10282
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10283
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10283
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10284
+D5
+~
+~
+0 0 10269
+S
+#10284
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10285
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10285
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10286
+D5
+~
+~
+0 0 10269
+S
+#10286
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10287
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10287
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10288
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10288
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10289
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10290
+D5
+~
+~
+0 0 10269
+S
+#10290
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10291
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10291
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10292
+S
+#10292
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10293
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10293
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10294
+D5
+~
+~
+0 0 10269
+S
+#10294
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10295
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10295
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10296
+S
+#10296
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10297
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10269
+D5
+~
+~
+0 0 10269
+S
+#10297
+Towards Dead End~
+    You are walking on a dizzy room, strings all around, going from blue
+to red, from black to white. Scattered against the walls you can see big
+"ruby" prints, which reads:
+
+"I'm walking towards dead end, and I'm walking all alone,
+Two steps ago I past insanity,
+There's no starlight guiding my way out this downward death row
+So now is the time, I have to go."
+~
+102 0 0
+D0
+~
+~
+0 0 10269
+D1
+~
+~
+0 0 10269
+D2
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10269
+D4
+~
+~
+0 0 10298
+D5
+~
+~
+0 0 10269
+S
+#10298
+A Dark Court of Justice~
+    You are in a very pleasant room, the ground is entirelly made of
+a kind of pearly white marble... and there is dark bench stands in
+a circular way, around you. It seems to have a big wooden plataform
+ahead of you, some sounds seems to be coming from behind the wooden
+plataform.
+~
+102 0 0
+D2
+~
+~
+0 0 10269
+S
+$~

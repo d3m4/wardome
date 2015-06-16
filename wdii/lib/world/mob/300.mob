@@ -1,0 +1,459 @@
+#30000
+elven guard~
+Elven Guard~
+An elven guard stands here.
+~
+
+~
+1050698 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 3 3
+Att2: 90
+Att3: 30
+E
+#30001
+asfaloth white horse~
+&WAsfaloth&n~
+&WAsfaloth&y, a mighty &WWhite &yHorse stands here.&n
+~
+
+~
+1050698 16782504 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 0 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30002
+elven minstrel~
+Elven Minstrel~
+An elven minstrel stands here.
+~
+
+~
+1050698 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 3 3
+Att2: 90
+Att3: 30
+E
+#30003
+helpful elven bard~
+Helpful Elven Bard~
+A fair and helpful elven bard stands here.
+~
+
+~
+1050696 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 -1 3
+Att2: 90
+Att3: 30
+E
+#30004
+almon elven stablehand~
+Almon~
+Almon the stablehand stands here.
+~
+
+~
+1050696 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 -1 3
+Att2: 90
+Att3: 30
+E
+#30005
+elven youth~
+Elven Youth~
+An elven youth stands here.
+~
+
+~
+1050696 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 -1 3
+Att2: 90
+Att3: 30
+E
+#30006
+majestic statue of gil galad~
+Majestic Statue of Gil-Galad~
+A majestic statue of Gil-Galad stands in the middle of the room.
+~
+Standing tall and fair at your front, you see a large golden statue, at the
+momment you see it, you recognize as Gil-Galad the might elf of the House of
+Fingolfin.  Wielding his legendary spear, he looks ready for battle.    
+~
+1050698 16782504 1000 E
+75 -25 -7 1d1+4500 5d8+70
+1125 1641484 4
+8 8 0 10 3
+Att2: 90
+Att3: 30
+E
+#30007
+amorphorn shopkeeper~
+Amorphorn~
+Your friendly shopkeeper, Amorphorn stands here.
+~
+
+~
+1075274 5288 750 E
+90 -33 -9 1d1+5400 5d10+76
+1350 2749377 4
+8 8 1 -1 3
+Att2: 96
+Att3: 60
+Att4: 10
+E
+#30008
+elven dancer~
+Elven Dancer~
+An elven dancer, shagging and twisting!
+~
+
+~
+1050696 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 -1 3
+Att2: 90
+Att3: 35
+E
+#30009
+elven mariner~
+Elven Mariner~
+An elven mariner stands here.
+~
+
+~
+1050696 5288 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 -1 3
+Att2: 90
+Att3: 35
+E
+#30010
+lovely maiden ~
+Lovely Maiden ~
+A lovely maiden stands here.
+~
+
+~
+1050696 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 3
+Att2: 90
+Att3: 35
+E
+#30011
+injured seagull ~
+Injured Seagull~
+An injured seagull stands here.
+~
+
+~
+1050696 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30012
+elven artisan ~
+Elven Artisan~
+An elven artisan stands here.
+~
+
+~
+1050696 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30013
+elven guard~
+Elven Guard~
+An elven guard stands here.
+~
+
+~
+1050696 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 3 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30014
+Pedoran master feasts~
+Pedoran~
+Pedoran, master of feasts stands here.
+~
+
+~
+1050698 16782504 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 2 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30015
+elven musician~
+Elven Musician~
+An elven musician is playing a softly music here.
+~
+
+~
+1050696 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30016
+experienced cook~
+Experienced Cook~
+An experienced cook is making a delicious dinner here.
+~
+
+~
+1050698 5288 500 E
+80 -28 -8 1d1+4800 5d9+72
+1200 1969179 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30017
+aeron elven~
+Aeron~
+Aeron the croupier stands here.
+~
+
+~
+1050696 16782504 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30018
+elven lad~
+Elven Lad~
+An elven lad stands here.
+~
+
+~
+2120 5288 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30019
+galdor messenger~
+Galdor~
+Galdor, Cirdan's messenger is waiting for a message to send.
+~
+
+~
+1050698 16782504 750 E
+120 -48 -14 1d1+7200 5d13+88
+1800 6260242 4
+8 8 1 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30020
+cirdan~
+Cirdan~
+Cirdan stands here.
+~
+&w   &n
+~
+10 0 750 E
+120 -48 -14 1d1+7200 5d13+88
+1800 6260242 4
+8 8 1 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30021
+Denesgal elven stargazer~
+Denesgal~
+Denesgal, an elven stargazer stands here.
+~
+&w   &n
+~
+2120 5288 500 E
+80 -28 -8 1d1+4800 5d9+72
+1200 1969179 4
+8 8 1 -1 3
+Att2: 96
+Att3: 50
+Att4: 10
+E
+#30022
+barnacled lobster ~
+Barnacled Lobster~
+A barnacled lobster stands here.
+~
+&w   &n
+~
+2120 5288 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 1 -1 3
+Att2: 90
+Att3: 40
+Att4: 5
+E
+#30023
+scuttling crab~
+Scuttling Crab~
+A scuttling crab stands here.
+~
+&w &n
+~
+2120 5288 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 5
+E
+#30024
+hermit crab~
+Hermit Crab~
+A hermit crab stands here.
+~
+&w &n
+~
+2120 5288 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 5
+E
+#30025
+Gelmir lighthouse keeper ~
+Gelmir~
+Gelmir, the lighthouse keeper stands here.
+~
+&w &n
+~
+2122 16782504 750 E
+120 -48 -14 1d1+7200 5d13+88
+1800 6260242 4
+8 8 1 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30026
+Haldir shipwright~
+Haldir~
+Haldir, a shipwright stands here.
+~
+&w &n
+~
+2122 16782504 750 E
+120 -48 -14 1d1+7200 5d13+88
+1800 6260242 4
+8 8 1 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30027
+Germon ship captain ~
+Germon~
+Germon, a ship captain stands here.
+~
+&w &n
+~
+2122 16782504 750 E
+100 -38 -11 1d1+6000 5d11+80
+1500 3711892 4
+8 8 1 -1 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#30028
+black cat~
+&wBlack Cat&n~
+A black cat is slinking around here.
+~
+&w &n
+~
+2120 5288 500 E
+80 -28 -8 1d1+4800 5d9+72
+1200 1969179 4
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 5
+E
+#30029
+black grey sparrow~
+Sparrow~
+A small black and grey sparrow angrily chirps at your presence.
+~
+&w &n
+~
+2120 5288 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 5
+E
+#30030
+ramil elven ranger~
+Ramil~
+Ramil, a tall elven ranger stands here.
+~
+&w &n
+~
+2120 16782504 750 E
+110 -43 -12 1d1+6600 5d12+84
+1650 4875817 4
+8 8 0 7 3
+Att2: 100
+Att3: 60
+Att4: 10
+E
+$

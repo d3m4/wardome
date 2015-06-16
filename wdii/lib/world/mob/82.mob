@@ -1,0 +1,664 @@
+#8200
+bat grey~
+a grey bat~
+a grey bat is sleeping here.
+~
+Is a normal bat not a vampire, he looks cute while he is sleeping you should
+live it like that or maybe kill it.
+~
+137288 1065 -15 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+4 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8204
+poor citizen~
+a poor citizen~
+a poor citizen of France is sitting here.
+~
+He is definitive from the lower classes of all France, he is a beggar who is
+asking for a few gold coins or a peace of meat.
+~
+2120 1056 -20 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+6 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8211
+Priest~
+Tintoreto the priest~
+A priest
+~
+He is sitting in a wood chair, he looks very old, but is strong enough
+to give a good fight for his life. You must remember that he has God on
+his side, so dont disturb him.
+~
+18442 1152 50 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+6 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8216
+believer the~
+the believer~
+The believer man is standing here.
+~
+You are looking at a French man of middle age, and middle class. He is
+dressed with black boots, brown pants and a white shirt.
+~
+6280 1056 10 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8221
+Choirboy~
+a choirboy~
+A choirboy is singing here.
+~
+He is a boy who sings in the cathedral, for some coins. He doesnt look very
+strong or powerful, and he would sing any song for some coins.
+~
+4232 32 20 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8222
+believer~
+a believer~
+A believer praing
+~
+She is a very believer of Chriest, and she also believes in that the vest
+thing in the world is the gold. She is dressed with elegant white clothes.
+~
+6216 33792 20 E
+150 -63 -18 1d1+9000 5d16+100
+2250 11927425 4
+6 8 2 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8224
+Richelieu cardenal~
+the cardenal Richelieu~
+The cardenal Richelieu shouting to the people is standing here.
+~
+The cardenal of France and minister of Louis XIV, is here dressed all in
+red, you can identify him for his peculiar mustache.
+~
+2058 1160 50 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#8225
+pigeon~
+a pigeon~
+a white pigeon is here
+~
+It is a white bird, havent you ever seen one?
+~
+8 0 1 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 0 -1 -1
+BareHandAttack: 1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#8226
+man hunchback the~
+the hunchback~
+a man with a strange body, is here playing with the bells.
+~
+You see a strange and mad man who is screaming for someone named Emerald, he
+looks very strong and dangerous. He is wearing some colorful clothes.
+~
+18698 172 10 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#8230
+Monk Jean The~
+Jean the monk~
+Jean the monk cleaning the second floor is standing here.
+~
+Jean is a monk, everybody bugs him because of his name, he doesnt look very
+strong and looks like a truble maker. Maeve thats why he is here cleaning,
+and surely is an awful punishment. He is dressed with a brown tunic.
+~
+4296 32800 -25 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#8234
+The statue gargoyle stone~
+the gargoyle~
+A horrible monster made of stone, is here collectin dust.
+~
+This stone monster has been here for years and years, it is the home of
+some pigeons, and bugs. Its face makes you to remember the evil and the
+bad feeiling, this horrible monster seems to be dangerous.
+~
+18474 32896 -100 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 0 -1 -1
+BareHandAttack: 10
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#8237
+Dartagnan~
+Dartagnan~
+An apprentice of Musketeer is standing here.
+~
+You see a middle age boy, who realy wants to became a Musketeer, but he looks
+a little lost and out of place. Maybe you should help him.
+~
+4424 132 10 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#8240
+citizen Lyon~
+citizen of Lyon~
+a citizen of Lyon is standing here.
+~
+He is a comon citizen of this town, maybe he works as a farmer or merchant,
+the only thing you are shure is that he isnt a good figther.
+~
+4296 32768 10 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8241
+puddle~
+a white puddle ~
+a white puddle is tied to a tree here.
+~
+It looks like his owner left him here, while he went to do some shopings at
+the stores. Poor little animal it looks hungry.
+~
+6154 1192 -15 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#8243
+Pierre~
+Pierre the magician~
+Pierre is standing here mixing something very special.
+~
+He is a very busy man, who is now  working is a very special potion.
+~
+24586 136 100 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 35
+E
+#8245
+merchant~
+a French merchant~
+a French merchant is here making a great deal.
+~
+He is an old man who works hard every day to win some cents and buy food,
+he is from the lower and hard worker classes of Lyon.
+~
+6154 128 18 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 35
+E
+#8247
+French woman~
+a French woman~
+a French woman is sitting here waiting for a carriage to pass.
+~
+She is a very pretty French woman, you can notice that she is from a 
+privilegiated social class of Lyon, she is dressed with a beautiful and
+large green dress made out of expencive cloth.
+~
+4296 32 8 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+5 8 2 -1 -1
+Att2: 100
+Att3: 60
+Att4: 35
+E
+#8248
+black rat~
+a black rat~
+a black rat is here eating some trash.
+~
+It is one black rat one of the ones that has many diseases, kill it before it
+bytes you, because that can be you death.
+~
+1546 1088 -100 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 60
+Att4: 35
+E
+#8249
+Renoir thief the~
+Renoir the thief~
+Renoir pailing his dagger
+~
+He is wearing black clothes, he looks very dangerous and agressive. If I
+where you I would disturb him and would go back from where I came from.
+~
+2090 525416 -100 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+6 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 60
+Att4: 35
+E
+#8251
+hermit degas~
+Degas the hermit~
+Degas the hermit is recolecting some fruits here.
+~
+Degas is a man that has 3 jobs, he is a hermit, thief, and revolutioner. The
+story of his life is based in crime and fights so you must be careful, and 
+keep and eye on him, an the other eye in you pocket.
+~
+6280 33792 -20 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#8255
+brown squirrel~
+a brown squirrel~
+a brown squirrel coleecting nuts is here.
+~
+Is a cute little squirrel, who is preparing for the winter.
+~
+4232 1024 0 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 60
+Att4: 40
+E
+#8257
+Emerald gipsy the~
+Emerald the gypsy~
+a mysterious woman is dancing here.
+~
+She is a very famous gypsy, her name is Emerald, be careful she doesnt look
+strong, but she is powerful because of her magic.
+~
+2058 130 -50 E
+175 -75 -22 1d1+10500 5d18+110
+2625 18669140 4
+8 8 2 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 80
+Att4: 40
+E
+#8263
+citizen of Paris~
+a citizen of Paris~
+a citizen of Paris is standing here.
+~
+He is a citizen of Paris, he looks a little nervous, because of all the
+insecurity that is living all France in this moment.
+~
+6344 4096 10 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8267
+Robespierre revolutioner~
+Robespierre~
+a revolutioner is here.
+~
+Robespierre looks to have new ideas, and he looks like a man who you would 
+like to have problemsith, but doesnt look to strong.
+~
+6152 262184 0 E
+45 -10 -2 1d1+2700 5d5+58
+675 398619 4
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 48
+Att3: 9
+E
+#8268
+Musketeer guard~
+a Musketeer in service~
+a Musketeer who suppose to be guarding the door
+~
+He doesnt look to be a guard who would give his life for the king, you ask
+how did he got this job? Well with all the problems there letting anybody
+to became a Musketeer.
+~
+6154 16416 -25 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+4 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8271
+Monet~
+Monet the cook~
+Monet the cheff is cooking breakfast is here.
+~
+He is one of the best cheffs of all France, and he has the priviledge to
+coofor the royal guards of the king Louis XIV.
+~
+26634 168 100 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8272
+Portos~
+Portos the Musketeer~
+Portos the Musketeer looking for trouble is here.
+~
+He is one of the best Musketeers of all France, and one of the strogest, 
+you wouldnt want to have his as an enemy.
+~
+6408 132 25 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 -1 -1
+Att2: 66
+Att3: 18
+E
+#8277
+Atos~
+Atos the Musketeer~
+Atos the Musketeer is standing here.
+~
+Atos, not the most intelligent or strongest Musketeer, but he does his job,
+and with that he has won the respect of all.
+~
+6154 41344 12 E
+160 -68 -20 1d1+9600 5d17+104
+2400 14384759 4
+8 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8278
+Aramis~
+Aramis the Musketeer~
+Aramis the Musketeer is standing here.
+~
+He is one of the best Musketeers, of all France he is the most intelligent
+of all, at least that is what he says. 
+~
+6154 34176 12 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#8287
+trained horse~
+a Musketeer horse~
+a well trained horse is eating some grass here.
+~
+It is a beautiful black horse, one of the best horses in the world for 
+the guards of the French king.
+~
+8202 32808 20 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8288
+receptionist~
+a French receptionist~
+a French receptionist is here to help you
+~
+She looks very pretty and young to, she looks very kind and with the wishes of
+helping you.
+~
+6154 4096 15 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+6 8 2 -1 -1
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#8289
+Musketeer royal~
+a royal Musketeer~
+a royal Musketeer is here protecting the king.
+~
+Nothing.
+He is a Musketeer like many others, but he has the privilege of been one
+of the Musketeers that protects personaly the life of the king.
+~
+6216 34048 10 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8290
+man mask~
+a man in an iron mask~
+a man in an iron mask
+~
+He is a man who has been here for a long time this you cant know because of
+his clothes. He must be strong to cary that heavy mask, but you have the
+impresion that he had been in the past someone important.
+~
+2058 33792 -10 E
+170 -73 -21 1d1+10200 5d18+108
+2550 17158047 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8291
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+180 -78 -23 1d1+10800 5d19+112
+2700 22293019 4
+8 8 0 0 0
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8292
+flea~
+a flea~
+a tiny flea is jumping around
+~
+It is very small and has a kind of blood color (red) is a very comon bug
+of this kind of places.
+~
+4296 1280 -100 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8293
+Paulo pricioner~
+Paulo the prisoner~
+Paulo the player killer is standing here.
+~
+Paulo looks very dangerous and you can say he would kill you with one hand tide at his back.
+~
+42 525480 -500 E
+90 -33 -9 1d1+5400 5d10+76
+1350 2749377 4
+8 8 1 -1 -1
+BareHandAttack: 10
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#8295
+sentinel~
+a sentinel~
+a Musketeer is here working as sentinel.
+~
+It looks unfinished.
+~
+79882 1192 10 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8296
+guardian~
+guardian of time and space~
+the guardian of time and space rounds here
+~
+He is a tall and strange man, he has 200 or 250 years, he is very old and
+wise. As a warrior he is not worth a gold coin, but he has a very important
+job, he guards the key that opens portals to many fanstastic worlds.
+~
+65608 32938 0 E
+190 -83 -24 1d1+11400 5d20+116
+2850 23728851 4
+8 8 1 -1 -1
+BareHandAttack: 6
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#8298
+Toulouse~
+Toulouse the shoper~
+Toulouse is here ready to help you.
+~
+He is a middle age man who works in this town selling many diferent and
+intresting things to the tourist and citizens.
+~
+30730 32936 10 E
+180 -78 -23 1d1+10800 5d19+112
+2700 20266381 4
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#8299
+king Louis~
+King of France~
+Louis XIV is sitting here.
+~
+He is the person who is responsable of all the problems that has been hapening
+in this country, many people says that he was a very good king until a pair
+of months ago, some even say that he is another person.
+~
+6154 1152 -50 E
+200 -88 -26 1d1+12000 5d21+120
+3000 27564549 4
+6 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

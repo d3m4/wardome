@@ -1,0 +1,230 @@
+#600
+Entrance of Wardome School~
+   Be Well coming you has just entered in Wardome Mud.
+You will be here for two levels, us which  will learn
+some commands for best to unmask that enourmous world.
+So Let's Go!!
+              &YTYPE: &RREAD INFORMATION.&n
+~
+6 262188 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 601
+D2
+~
+door~
+1 -1 -1
+D3
+~
+~
+0 0 -1
+E
+information info sign~
+   If you want to learn how to play mud, only type EAST or E and follow the instructions. Good Luck on WarDome.
+~
+S
+#601
+The Begin~
+   Be well coming adventurous nobleman. You are entering in a different world
+of everything that you already saw. And for best to do that, we will
+show  some commands and possibilities in Wardome Mud. You will leave of here
+after having moved forward for the second Level.
+~
+6 262176 0
+D0
+~
+~
+0 0 604
+D3
+~
+~
+0 0 600
+S
+#602
+Second School~
+You are in an unfinished room.
+~
+6 0 0
+D1
+~
+~
+0 0 600
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+S
+#603
+Third School~
+You are in an unfinished room.
+~
+6 0 0
+D2
+~
+~
+0 0 600
+S
+#604
+Whats to Learn?~
+   Here you will learn how to use the basic commands as: wear, use, wield,
+open, close, unlock, lock. And to speak in the public channels of
+communication. Then we go there.
+~
+6 262192 0
+D0
+~
+~
+0 0 605
+D2
+~
+~
+0 0 601
+S
+T 39
+#605
+Basic commands~
+   Now some commands basic however essential. That commands
+ they will help you to walk her, to run, to walk, to verify your statistics
+to communicate and much more.
+~
+6 262192 0
+D0
+~
+~
+0 0 606
+D2
+~
+~
+0 0 604
+S
+T 40
+#606
+How can I eat and Drink?~
+    Eat and Drink is essential to survive in a Mud.
+Nobody likes when  appears that message " You are hungry "
+or " You are thirsty, but doesn't have as escaping of that. 
+~
+6 262192 0
+D0
+~
+~
+0 0 607
+D2
+~
+~
+0 0 605
+S
+T 41
+#607
+How can I cast a Spell and use a Scrool?~
+   To facilitate your permanence in Wardome Mud, and to
+facilitate the combat the commands exist Cast and Recite.
+But so that it serves each one of them? It is that that
+we will see here in details with the Master of the Magic.
+~
+6 262192 0
+D0
+~
+~
+0 0 608
+D1
+~
+~
+0 0 612
+D2
+~
+~
+0 0 606
+D5
+~
+~
+0 0 -1
+S
+T 42
+#608
+Learning how to Battle~
+   Good it is the time to  lives or time to die. 
+Arrived the most important hour, the hour of the Combat.
+When entering in Wardome Mud you received some equipments 
+that along the Time you will get you improve them.
+However in themoment they are  very important.
+And you will see because with the Master of the Battle.
+~
+6 262176 0
+D0
+~
+~
+0 0 609
+D2
+~
+~
+0 0 607
+S
+#609
+Learning how to Battle~
+   That room doesn't need description. That room has the
+smell of the war of the blood. therefore kills all 
+the enemies that you can.
+~
+6 262176 0
+D0
+~
+~
+0 0 610
+D2
+~
+~
+0 0 608
+S
+#610
+Battle Room~
+   This room doesn't deen description. This room has the
+smell of the war of the blood. 
+~
+6 262176 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 609
+S
+#611
+Battle Room~
+You are in an unfinished room.
+~
+6 262160 0
+D2
+~
+~
+0 0 610
+S
+#612
+Specials Commands~
+   Good. Here it is where you will learn Wardome Mud special commands.
+Some commands were developed by the coders of Mud. The commands are:
+Challenge (not implemented), Put Points, Whois, Gemote and Arena. A Master
+reads it will help with the lessons.
+~
+6 262196 0
+D3
+~
+~
+0 0 607
+S
+$~

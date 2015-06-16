@@ -1,0 +1,1839 @@
+#29900
+The city guardhouse~
+You slowly walk into this small flet, it holds the armoury that contains the
+majority of the weapons in Lothlorien.  Several guards here on break are
+looking at you, and are obviously wondering just what you are doing up here.  
+A small stove sits in one corner, with a small skillet placed on its top.    
+~
+298 72 3
+D1
+~
+door~
+1 0 29901
+D5
+~
+~
+0 0 29869
+S
+#29901
+A small dark armoury~
+This small armoury holds the elves' excess weapons and armour.  A small rack
+lines the west wall and several crates are stacked around the room.  You figure
+that if they don't see you take anything, it's not illegal.    
+~
+298 0 0
+D3
+~
+door~
+1 0 29900
+S
+#29902
+A Meeting place of Roads~
+As you slowly walk down the street you come to a meeting place of the two
+roads.  It is very busy here and several elves are standing around waiting for
+something to do.  By, as well as several horsemen.  You notice that the city
+seems to be on a small hill.  Beautiful Mallorn trees are all around you.    
+~
+298 72 1
+D0
+~
+~
+0 0 29908
+D1
+~
+~
+0 0 29909
+D2
+~
+~
+0 0 29869
+D3
+~
+~
+0 0 29903
+S
+#29903
+A bustling shopping street~
+You are standing on a platform above the ground that serves as one of the main
+streets in Caras Galadon.  People stream by you on both sides, but not many
+seem to be stopping at all.  No one seems eager to spend money on the sorts of
+items sold along this street in the middle of a siege!  To the south a flet
+that used to be a furniture store is closed, and an apparently abandoned music
+store is to the north.    
+~
+298 72 1
+D0
+~
+~
+0 0 29904
+D1
+~
+~
+0 0 29902
+D3
+~
+~
+0 0 29905
+S
+#29904
+An Abandoned Music Shop~
+You are in a small music store.  The shelves are barren and empty, and dust has
+settled upon the floor.  The sound of passing elves outside is muted through
+the thick wooden walls of this flet.  The sound of weeping draws your
+attention, and you realize that this shop is not, in fact, abandoned.  The
+proprietor sits on the floor in the corner crying softly.    
+~
+298 72 1
+D2
+~
+~
+0 0 29903
+S
+#29905
+An empty shopping street~
+There are a lot less people here, as the "street" is closed off by a large
+barricade.  There are a number of spent arrows and some rubble lying about.  
+To the south a dingy little shop with no windows is lit by a solitary candle.
+The sign above the door proclaims the place to be the offices of a scribe.    
+~
+298 72 1
+D0
+~
+~
+0 0 29907
+D1
+~
+~
+0 0 29903
+D2
+~
+~
+0 0 29906
+S
+#29906
+A stuffy Scriptorium~
+You are in a stuffy scriptorium.  The walls are fronted by racks of pigeonholes
+crammed full of scrolls.  A small ink-stained desk sits in the middle of the
+room, and a very severe looking chair is propped against it.  Your nose is
+assaulted by the smell of dried ink and dry paper.    
+~
+298 72 1
+D0
+~
+~
+0 0 29905
+S
+#29907
+The Lothlorien Mailroom~
+You wander into a most organic mailroom.  Mallorn trees grow right into this
+room.  The trunks weave together to form a roof, the walls are formed from the
+bases of great trees, and the floor is made of leaves and interlocking
+branches.    
+~
+298 72 1
+D1
+~
+~
+0 0 29908
+D2
+~
+~
+0 0 29905
+S
+#29908
+A quiet street~
+As you slowly walk down this street it starts to get quiet again, so much so
+that only the birds and animals can be heard.  Several flets dot the trees
+around you, and a small pile of rocks sits along the side of the road.  To the
+north you see a row of shops and flets that seem to be busier than the rest of
+the city.    
+~
+298 72 1
+D0
+~
+~
+0 0 29916
+D2
+~
+~
+0 0 29902
+D3
+~
+~
+0 0 29907
+S
+#29909
+Eastern main street, under bakery~
+All around you trees rise up with flets in them that the elves live in.  One
+large flet is directly above you and a very sweet smell is coming from it.  
+Walking a little further you see it is a bakery.  The road moves further east
+and it gets very quiet here except for an occasional song floating out onto the
+breeze.    
+~
+298 72 1
+D1
+~
+~
+0 0 29911
+D3
+~
+~
+0 0 29902
+D4
+~
+~
+0 0 29910
+S
+#29910
+A large bakery~
+This large flet houses the city's bakery.  Several ovens line the back wall and
+a large sheet of stone protects the flet from the heat that comes from these
+massive ovens.  Several large bags sit on the floor and a large table for
+kneading the items and rolling them sits in the middle.  A basin of water sits
+in the far corner and a small bed sits on the wall farthest from the ovens.  A
+large sign sits on the counter with the prices.    
+~
+298 72 3
+D5
+~
+~
+0 0 29909
+S
+#29911
+A quiet forest~
+Suddenly as you are walking along it all gets very quiet.  Only the chirping of
+birds can be heard along with the occasional wind through the trees.  As you
+walk further on you see a large flet.  Behind it is a small protected glade.  
+A large sign sits on the front of the flet, while the road continues to the
+east and west.    
+~
+298 72 3
+D1
+~
+~
+0 0 29913
+D3
+~
+~
+0 0 29909
+D4
+~
+~
+0 0 29912
+S
+#29912
+In a small flet~
+As you slowly climb the ladder leading to the flet, the sound of quiet singing
+can be heard.  When you finally get to the top you see a tall elven female in a
+suit of bright chain mail.  She has a slender sword in hand, with which she is
+expertly attacking a straw dummy.  The dummy looks hurt.  As you look around
+you see a small bed and a stove.  A table with an eaten meal sits in one corner
+and a large rack sits in the sun with herbs drying in it.  There are many
+windows in the perfect position to fully light this small flet.    
+~
+298 72 3
+D5
+~
+~
+0 0 29911
+S
+#29913
+Before a large inn~
+As you walk further you come to the end of the road.  Before you is a large
+inn.  Laughter and song flows from the flet and the sweet smell of cooked meat
+caresses your nose.  It is on a large tree, whose branches start to leave the
+central trunk at about twenty-five feet.  This tree is very crowded, and the
+branches almost seem to strain under the sprawling flet perched atop them.    
+~
+298 72 3
+D3
+~
+~
+0 0 29911
+D4
+~
+~
+0 0 29914
+S
+#29914
+The common room at the Silver Arrow~
+As you finally reach the top of the ladder you find that the inn is almost
+entirely empty!  A shaky and scared elf sings, and the several patrons that
+have decided to come are all sitting as far apart from each other as possible,
+avoiding any attempts at communication.  It seems the siege has taken its toll
+on the city.  Even the barmaid seems scared of what might happen soon.    
+~
+298 72 3
+D2
+~
+~
+0 0 29915
+D5
+~
+~
+0 0 29913
+S
+#29915
+In a large sleeping room~
+As you walk into this large room, the first thing to strike you is the absence
+of guests.  Where sleeping places normally would be, only dust remains.  The
+only object in this threadbare room is a solitary mattress.  Even you, the
+hardy adventurer, would have a hard time sleeping with the thought of a large
+army not far away...  Sleep well!    
+~
+298 72 3
+D0
+~
+~
+0 0 29914
+S
+#29916
+A busy street~
+As you slowly walk towards the shops you see the full effect that the siege has
+had on the city.  Vendors stand around with carts empty and elves stand there
+waiting as if food might pop up.  The only place that is thriving right now is
+the weapons shop!  You notice there is not a shortage of perishable food
+though, just items that can't be grown.    
+~
+298 72 3
+D0
+~
+~
+0 0 29918
+D2
+~
+~
+0 0 29908
+D4
+~
+~
+0 0 29917
+S
+#29917
+Weapons and armour shop~
+As you slowly climb the ladder leading up into the shop, people all around you
+are waiting eagerly for something.  When you reach the top, you notice that the
+racks and shelves are nearly empty.  You also realize that all these people are
+waiting to see if something useful will be sold.  Then you see the prices on
+what remains, and decide that you might not be able to afford what you want,
+either.    
+~
+298 72 1
+D5
+~
+~
+0 0 29916
+S
+#29918
+Crossroads~
+As you walk further down the street you come to an intersection.  To your north
+there is a small area of flets and to your south is a large flet, huge in fact,
+that rises above the rest.  You can also see a healer's flet down the east
+path.    
+~
+298 72 1
+D0
+~
+~
+0 0 29919
+D1
+~
+~
+0 0 29925
+D2
+~
+~
+0 0 29916
+S
+#29919
+Under an Elven Flet~
+As you come to the end of the main street you observe a small area of
+tightly-knit flets.  A large one above you looks rather inviting and pleasing
+to the eye.  All around flets similar to this one are scattered around the
+forest.  Slender elves of all ages come and go about you.  This is clearly a
+residential area.    
+~
+298 72 3
+D1
+~
+~
+0 0 29921
+D2
+~
+~
+0 0 29918
+D4
+~
+~
+0 0 29920
+S
+#29920
+Inside a Small Flet~
+You stand in a small flet.  There is a small sleeping pallet in the corner, and
+a few hampers scattered about, presumably holding food.  You can look out of
+the low walls and see that you are surrounded by many more flets like this one.
+The
+~
+298 72 3
+D5
+~
+~
+0 0 29919
+S
+#29921
+Under an Elven Flet~
+You are standing under a great mallorn tree upon which a small flet rests.  
+All around, flets similar to this one are scattered in a seemingly haphazard
+fashion.  Slender elves of all ages come and go about you.  This is clearly a
+residential area.    
+~
+298 72 3
+D1
+~
+~
+0 0 29923
+D3
+~
+~
+0 0 29919
+D4
+~
+~
+0 0 29922
+S
+#29922
+Inside a Small Flet~
+You stand in a small flet.  There is a small sleeping pallet in the corner, and
+a few hampers scattered about, presumably holding food.  You can look out of
+the low walls and see that you are surrounded by many more flets like this one.
+  
+~
+298 72 3
+D5
+~
+~
+0 0 29921
+S
+#29923
+Before a large flet~
+You are at the end of the closely-spaced flets.  The walls block you from any
+direction but west.  One large flet above you looks as if its open door is an
+invitation to enter.  All around flets similar to this one are scattered around
+the forest.  But it seems very quiet and strange in this area, strange indeed.
+  
+~
+298 72 3
+D3
+~
+~
+0 0 29921
+D4
+~
+~
+0 0 29924
+S
+#29924
+Calad's house~
+As you climb to the top you see why there was no door, orcs inhabit this flet!
+The corpse of an elf lies half into a stew pot and anything of beauty in this
+room has been destroyed.  A large mound of feces sits in one corner and several
+dead animals in another.  In the corner you can see an old diary lying
+forgotten.  This is not what catches your eye at first, however.  It's the huge
+gaping hole in the middle of the floor.  It looks like a boil or some terrible
+affliction in this magnificent tree's very center.  As you stare at it
+fascinated, you notice a rope and wooden ladder leading down it, through the
+living blood of the tree.    
+~
+298 72 3
+D5
+~
+~
+0 0 29923
+S
+#29925
+Beginnings of a path~
+As you turn off the northern main street, you find yourself on an even smaller
+path through the trees.  It simply leads back west to the main street and keeps
+going on to the east.  Looking above you, you can catch glimpses of shadowy
+figures hopping through the trees.    
+~
+298 72 3
+D1
+~
+~
+0 0 29926
+D3
+~
+~
+0 0 29918
+S
+#29926
+Below the healing room~
+This path seems to be getting darker and darker the farther you get from the
+main street.  This definitely looks like one of the less-travelled streets of
+Caras Galadon.  The noise of horses moving about and neighing can be heard to
+the east.  A slight glow seems to come from the flet up above you.    
+~
+298 72 3
+D1
+~
+~
+0 0 29928
+D3
+~
+~
+0 0 29925
+D4
+~
+~
+0 0 29927
+S
+#29927
+The healing house~
+As you enter this flet, the light blinds you somewhat.  After a few seconds,
+your eyes adjust to the glow.  The walls are lined with bottles and odd-looking
+packages.  Occasionally the old elf takes one of these down briefly.  As you
+look around you see a wide variety of elves, almost as varied as their
+ailments, who have come to seek the help of the healer.    
+~
+298 72 1
+D5
+~
+~
+0 0 29926
+S
+#29928
+Along the path before the stables~
+As you walk along this path, the number of hoofprints on the ground seem to
+increase in number.  They all lead to or from the north, where sounds of horses
+can be heard.  It must be the stables, seeing as how it looks to be the only
+building on the ground.    
+~
+298 72 1
+D0
+~
+~
+0 0 29929
+D1
+~
+~
+0 0 29931
+D3
+~
+~
+0 0 29926
+S
+#29929
+Stables~
+These are the stables of the city.  The horses of the Lord and Lady are usually
+allowed to roam free, but the horses of their guests are not so well trained.
+Hay is laying all over the ground, creating a soft padding wherever you walk.
+Another thing that provides soft padding is the abundance of horse manure.  Oh
+well, nothing is perfect.  A sign is posted on the wall.    
+~
+298 72 1
+D2
+~
+~
+0 0 29928
+D4
+~
+~
+0 0 29930
+S
+#29930
+Loft above the stables~
+This is where they store the hay which they use to feed the horses.  There
+doesn't seem to be all that much hay left up here.  It has probably all been
+used for feeding the horses.  A pile of hay which has become separated from its
+various bales is over in one corner.    
+~
+298 72 1
+D5
+~
+~
+0 0 29929
+S
+#29931
+The end of the path~
+As you walk along this path, you notice that it rises to the east, as if it
+were heading for a lofty destination.  The path is also less distinct here,
+perhaps due to the lack of great traffic.  Up ahead you can see a bit of the
+sky through the interwoven branches of the trees.    
+~
+298 72 1
+D0
+~
+~
+0 0 20249
+D1
+~
+~
+0 0 29932
+D3
+~
+~
+0 0 29928
+S
+#29932
+The lawn~
+This is the northwestern corner of the lawn.  From here, you can see the city
+of Caras Galadon clearly spread out beneath you.  A bit of wrought- iron
+fencing encloses the corner, defining the lawn.  Stones are set in a quarter
+circle from the corner.  In all, it is a very peaceful effect.    
+~
+298 72 3
+D2
+~
+~
+0 0 29933
+D3
+~
+~
+0 0 29931
+S
+#29933
+The lawn~
+You are standing in a very heavily populated part of the lawn.  Elves are
+milling about every which way.  A few of them are sitting on the iron benches
+that dot the lush lawn.    
+~
+298 72 3
+D0
+~
+~
+0 0 29932
+D2
+~
+~
+0 0 29934
+S
+#29934
+The lawn~
+You are standing on a lush, green lawn.  The grass is just high enough to
+cushion your feet without appearing to be mowed.  Trees, of all shapes and
+sizes, provide shade from the searing sun.  To your north, you can see more of
+this huge land.  To your south stands a majestic tree.  Off to the west is the
+beautiful city of Caras Galadon.  To your east is a beautiful fountain of
+silver.  A sense of peace fills your soul.  Breathe deeply and taste the fresh
+air....    
+~
+298 72 3
+D0
+~
+~
+0 0 29933
+D1
+~
+~
+0 0 29935
+D2
+~
+~
+0 0 29944
+S
+#29935
+Fountain~
+A fountain made of the purest silver dominates the center of the lawn.  At the
+center of the fountain is a little island upon which grows a lovely Mallorn
+tree.  Gold lamps hang from the boughs of the tree, casting an ethereal light
+over the fountain.  A stream, seemingly made of molten silver, spills forth
+from the fountain.  Between the silver water and the golden light, the whole of
+the fountain has a look that was last seen in the time of the two trees of
+Valinor.    
+~
+298 72 3
+D0
+~
+~
+0 0 29936
+D1
+~
+~
+0 0 29938
+D2
+~
+~
+0 0 29943
+D3
+~
+~
+0 0 29934
+S
+#29936
+The companion's pavilion~
+A pavilion made of a soft green cloth surrounds you.  This is an obviously
+temporary place, but whoever stays here must be very important!  There are
+several soft couches arrayed about the room.  One of them is curiously short.
+The cloth tent parts at the northern side - you can see another room to the
+pavilion just beyond it.    
+~
+298 72 3
+D0
+~
+~
+0 0 29937
+D2
+~
+~
+0 0 29935
+S
+#29937
+Companion's pavilion~
+You step into a very small pavilion room.  Only two couches are in here.  Both
+of them are very short.  The soft green cloth that makes up the walls parts at
+the southern side to reveal another pavilion room.    
+~
+298 72 3
+D2
+~
+~
+0 0 29936
+S
+#29938
+The lawn~
+The lawn continues.  Willow trees line the eastern side, sheltering the lawn
+from the rest of Lothlorien.  Part of the runoff from the fountain collects in
+a little pond here.  Lily pads float on top of the water.    
+~
+298 72 3
+D0
+~
+~
+0 0 29939
+D2
+~
+~
+0 0 29941
+D3
+~
+~
+0 0 29935
+S
+#29939
+The lawn~
+You seem to have walked into history.  Statues of elven heroes, carved in pure,
+white marble stand here among the trees.  It seems as if a dark look has come
+over the heroes though.  You wish they would come alive and help to fight the
+darkness but alas most are either dead or have gone west.    
+~
+298 72 3
+D0
+~
+~
+0 0 29940
+D2
+~
+~
+0 0 29938
+S
+#29940
+The lawn~
+Amazing!  The view from here is breathtaking!  As you peer over the overlook,
+you unconsciously grab a nearby tree branch to reassure yourself that you are
+still on the lawn.  The lawn breaks before you to form an overlook of a great
+expanse of Mallorn trees.  Thousands of them are before you, all in gold and
+green.  Birds soar through the forest.  From this view, however, they look the
+size of ants.    
+~
+298 72 3
+D2
+~
+~
+0 0 29939
+S
+#29941
+Among the Lilacs~
+At this point, the lush grass gives way to lilac bushes.  Little paths run
+among the bushes.  Occasionally you find an iron bench along one of the paths.
+The southeastern-most part is dominated by a large willow tree.  Its sweeping
+branches completely hide the trunk, making it the perfect place for a tryst.  
+
+~
+298 72 3
+D0
+~
+~
+0 0 29938
+D2
+~
+~
+0 0 29942
+D3
+~
+~
+0 0 29943
+S
+#29942
+A narrow path~
+You are on a narrow path leading to a grove of isolated mallorn trees.  On both
+sides of the path are smaller mallorns.  The leaves of the trees are golden and
+the bark is silver.  At the end of the path you see a small fire through the
+trees, and you hear soft music.  It must be a clearing inside the grove.    
+~
+298 72 3
+D0
+~
+~
+0 0 29941
+D2
+~
+~
+0 0 29976
+S
+#29943
+The lawn~
+This part of the lawn is curiously hilly and treeless.  As you look closer you
+realize that someone has made the grassy earth into couches!  Indeed, the earth
+is shaped to cradle the elven body in a relaxing position.  A few of these
+"couches" are occupied by elves sunning them-selves and enjoying the clean air.
+  
+~
+298 72 3
+D0
+~
+~
+0 0 29935
+D1
+~
+~
+0 0 29941
+D3
+~
+~
+0 0 29944
+S
+#29944
+Base of Celeborn's tree~
+A great tree looms before you.  You can't see how high it reaches nor encircle
+the trunk with your arms.  It is just too big.  A broad white ladder leans up
+against the trunk to the west
+~
+298 0 0
+D0
+~
+~
+0 0 29934
+D1
+~
+~
+0 0 29943
+D3
+~
+~
+0 0 29945
+S
+#29945
+Before a great golden tree~
+You stand before a huge golden tree, the largest in all of Lothlorien.  This
+glorious tree is home to the ancient elves Celeborn and Galadriel.  Flets dot
+the tree from level to level, and near the very top sits a huge house-like
+structure.  Elven guards and sentries patrol the flets above.  Higher still,
+various elven guests are visible as they stand on the balconies looking out
+over the siege.    
+~
+298 72 3
+D1
+~
+~
+0 0 29944
+D4
+~
+~
+0 0 29946
+S
+#29946
+At the lowest flet~
+You stand on the first flet level.  You are quite a bit higher in the tree than
+you care to be.  The elves don't seem to mind the height at all.  As you look
+around, you notice several limbs and what appears to be the guest flet.  An
+abundance of guards occupy this level, protecting the inhabitants of the tree
+from outside dangers.  There is not much light here, but the tree seems to
+shine, almost magically.    
+~
+298 72 3
+D1
+~
+~
+0 0 29947
+D3
+~
+~
+0 0 29948
+D4
+~
+~
+0 0 29953
+D5
+~
+~
+0 0 29945
+S
+#29947
+A well lit sleep chamber~
+You are in a small sleep chamber.  There is a large four-poster bed in the
+middle of the room, and the sheets are very mussed, whoever slept here must
+have had some very anxious dreams.  There is light everywhere, and everything
+is surrounded in an almost holy glow.  There is nothing else in the room except
+a thin curtain over the window.    
+~
+298 72 3
+D3
+~
+~
+0 0 29946
+S
+#29948
+On a Branch~
+As you slowly walk down this huge tree limb you come to a branch.  The branch
+leads north, and the main limb continues west toward a rather small balcony.  
+It is worn flat where you have walked and it feels like many scores of feet
+have walked on this limb.  Every so often a leaf falls on your head from above.
+  
+~
+298 72 3
+D0
+~
+~
+0 0 29949
+D1
+~
+~
+0 0 29946
+D3
+~
+~
+0 0 29950
+S
+#29949
+A Small Room~
+As you slowly walk further north you come to a small room at the end of the
+walkway.  It is sparsely furnished but it appears as if someone lives here at
+the moment.  A small desk sits in one corner with a lamp attached to the desk.
+A bed rests on the north wall near a window that points northward.  Several
+pictures dot the walls.    
+~
+298 72 3
+D2
+~
+~
+0 0 29948
+S
+#29950
+A small walkway leading westwards~
+As you slowly walk further down the limb careful of your balance you near the
+end.  But further than before.  The wind slowly sways the limb below and you
+get a feel that maybe this should be left to elves.  At the end you can see a
+balcony and to the north is what appears to be a parlor.    
+~
+298 72 3
+D0
+~
+~
+0 0 29951
+D1
+~
+~
+0 0 29948
+D3
+~
+~
+0 0 29952
+S
+#29951
+A small guest parlor~
+After a small walk you come upon a small room with several chairs and a small
+table.  A small light source hangs from a limb above you and several windows
+dot the room.  A finely crafted floor lines the ground below you.    
+~
+298 72 3
+D2
+~
+~
+0 0 29950
+S
+#29952
+A small balcony looking over the forest~
+You finally come to the end of the limb.  You peer out and see mile upon mile
+of forest stretching out.  The sky sits above you, crystal clear without a
+cloud in it.  The air seems to have a strange look to it, though, not as clear
+as it first seemed to be.  You can also see some mountains in the distance.  
+
+~
+298 72 3
+D1
+~
+~
+0 0 29950
+S
+#29953
+On a Flet~
+From here you can barely see the ground below you, because the leaves of the
+tree are so dense.  A long balcony completely encircles the tree.  Several
+people are walking around the balcony, and you feel an urge to go out there and
+check it out for yourself.    
+~
+298 72 3
+D1
+~
+~
+0 0 29954
+D3
+~
+~
+0 0 29959
+D4
+~
+~
+0 0 29960
+D5
+~
+~
+0 0 29946
+S
+#29954
+A Balcony Above the Forest~
+This part of the balcony affords a splendid view to the east.  Directly in
+front of you, you can see the sumptuous lawns spread out before a large willow
+tree.  Elven figures can be seen going about their business, as can one or two
+distinctly non-elven guests.    
+~
+298 72 3
+D1
+~
+~
+0 0 29955
+D3
+~
+~
+0 0 29953
+S
+#29955
+A Balcony Above the Forest~
+The balcony carries on round the tree in both directions, well-worn boards
+indicating that many have come here over the ages to enjoy the views afforded
+by such a vantage point.  You glance outwards and catch sight of a fountain
+playing merrily in the distance, blissfully unaware of the despair pervading
+the air.    
+~
+298 72 3
+D0
+~
+~
+0 0 29956
+D3
+~
+~
+0 0 29954
+S
+#29956
+Above the Forest~
+Below you the forest stretches out like a living carpet of green and gold.  
+Staring out to the north, you are so overcome by a feeling of tranquility, that
+you can almost forget that there is a terrible battle raging about this city.
+But the distant rumble and thump of orcish war-drums shatter your illusion of
+peace while you stand here admiring, people are shedding their life blood into
+that beautiful green carpet.    
+~
+298 72 3
+D2
+~
+~
+0 0 29955
+D3
+~
+~
+0 0 29957
+S
+#29957
+Above the Forest~
+The forest looks so peaceful from up here.  The wars that are going on down
+below are almost forgotten to you.  From here, you can't see the elves fighting
+to save this city.  Your attention is on the sky and the trees.  From this
+height everything looks like a painting.  If it wasn't for the arrow that
+almost just struck you down, this would be the most peaceful place you've ever
+been to.    
+~
+298 72 3
+D1
+~
+~
+0 0 29956
+D2
+~
+~
+0 0 29958
+S
+#29958
+Above the Forest~
+The forest spreads around you like a lush green carpet, and you can see why the
+elves are so attached to this forest home.  Far below you, you catch a glimpse
+of metal, flashing in the sun, and are reminded of the battle to the south.  
+
+~
+298 72 3
+D0
+~
+~
+0 0 29957
+D2
+~
+~
+0 0 29959
+S
+#29959
+A Balcony~
+As you climb onto this broad-based balcony, you are blown away as you see the
+forest spread out before you.  Many different trees populate the region around
+you, but all are small compared to the one you are currently standing on.  Off
+to the west and south, the true beauty of these mighty woods can be seen in its
+full splendor.  Although the sight is peaceful, there are still many signs of
+war.  Periodically an elf walks by, looking carefully out over the canopy,
+checking for anything out of place.  A glint of metal can occasionally be seen
+among the trees, but the forest as a whole seems remarkably quiet.    
+~
+298 72 3
+D0
+~
+~
+0 0 29958
+D1
+~
+~
+0 0 29953
+S
+#29960
+A Guarded Flet~
+You stand in the midst of what appears to be the barracks and guardhouse of the
+tree.  The most honored and esteemed warriors stand here protecting the queen,
+and in the case of battle, acting as a final defense.  The tree's limbs extend
+out towards the northwest holding the barracks and planning room at the edges.
+  
+~
+298 72 3
+D0
+~
+~
+0 0 29961
+D4
+~
+~
+0 0 29964
+D5
+~
+~
+0 0 29953
+S
+#29961
+A small guardroom~
+Walking further down this thick tree limb you come to a small sheltered
+guardroom.  It has several lanterns hanging from the ceiling that give off just
+enough light to see.  A small table has been set up with several chairs that
+the guards off duty are at.  A small pile of gear sits in one corner, worthless
+by the looks of it.    
+~
+298 72 3
+D2
+~
+~
+0 0 29960
+D3
+~
+~
+0 0 29962
+S
+#29962
+A small bunkroom and kitchen~
+You walk further down the limb into a small room that the guards eat and sleep
+in.  A small stove sits in one corner and a table full of food sits next to it.
+Several bunks sit on the north wall, at the moment not a soul is sleeping here.
+A small sign sits near the door to the northwest, it seems fairly important.  
+
+~
+298 72 3
+D0
+~
+door~
+1 -1 29963
+D1
+~
+~
+0 0 29961
+S
+#29963
+The War Room~
+You have walked into a war-room.  In the center of the room is a rather large
+wooden table, with chairs all around it.  On top of the table is a map of the
+forest.  Small twigs and pebbles litter the map, as if a child had been playing
+on top of it.  The room is rather large, as if it was meant to have more in it
+than just the table and chairs.    
+~
+298 72 3
+D2
+~
+door~
+1 -1 29962
+S
+#29964
+On a Flet outside a Ballroom~
+You sit down on the wooden flet.  You see lanterns inside the ballroom which
+now lies to your southeast, which give it an eerie light.  The stillness and
+calmness of this area are very soothing.  Above you seems to be the
+headquarters for the elven army, and beneath this flet lies a heavily guarded
+flet.    
+~
+298 72 3
+D2
+~
+~
+0 0 29965
+D4
+~
+~
+0 0 29966
+D5
+~
+~
+0 0 29960
+S
+#29965
+A huge ballroom~
+As you set foot into this huge ballroom you notice the small lights that dot
+the ceiling above you, creating a small glow that barely lightens the room.  
+Unfortunately it is totally empty and not a living soul except yourself is
+here.  There is a small balcony overlooking the forest below and a small empty
+table sitting in the corner.  What appears to be a fountain also sits in the
+corner near the table.    
+~
+298 72 3
+D0
+~
+~
+0 0 29964
+S
+#29966
+HQ Flet~
+You have come to a large bustling flet, huge in fact.  It appears to be the
+headquarters for all the elven army.  Messengers run by carrying unknown
+articles and plans.  Inside a small army of paper workers can be seen handling
+the mass logistics of the operation.    
+~
+298 72 3
+D0
+~
+~
+0 0 29968
+D2
+~
+~
+0 0 29967
+D4
+~
+~
+0 0 29970
+D5
+~
+~
+0 0 29964
+S
+#29967
+The Manager's room~
+Although very busy, this room is nothing compared to the rest of the flet.  
+The room has little furniture, only the manager's desk, his chair, and another
+chair facing him.  As your eyes scan the room, you see the typical wooden walls
+and floor.  The roof is a natural canopy of leaves from one of the higher
+branches.  Occasionally an elf enters the room, drops off papers and picks up
+something, and leaves.  Outside, you can hear random tidbits of conversation
+and shouting of orders.    
+~
+298 72 3
+D0
+~
+~
+0 0 29966
+S
+#29968
+Army Logistics~
+There are elves running to and from everywhere in here!  All that you can hear
+is the rustling of paper over a background buzz of voices.  One of the clerks
+shouts something at you, and goes right back into his work.  From the amount of
+paper being processed in here, you'd think that they were doing logistics for
+all of Middle-Earth, not just for an army!    
+~
+298 72 3
+D1
+~
+~
+0 0 29969
+D2
+~
+~
+0 0 29966
+S
+#29969
+General's Office~
+The silence in this room is deafening, after the hustle in the outer office.  
+This seems to be the office of the elven army's general.  A desk, covered with
+papers, and two stiff chairs, are the only furnishings in here.    
+~
+298 72 3
+D3
+~
+~
+0 0 29968
+S
+#29970
+Waiting Area~
+Whew!  What a long climb.  You look around, and notice you are almost to the
+top of the tree.  Here the tree starts to thin, and almost starts to look like
+a normal tree.  This place seems to be some kind of waiting area for people
+waiting to see the Lady and Lord of Lothlorien.  To the west you see a
+checkpoint of some kind.  You also see the top of a ladder going down.    
+~
+298 72 3
+D3
+~
+~
+0 0 29971
+D5
+~
+~
+0 0 29966
+S
+#29971
+Galadriel's Secretary~
+This is where you can make an appointment to see Galadriel and Celeborn.  A
+large stairway leads up to two large doors.  A desk sits against the far wall,
+and on it rests a large tome.  Across from the desk is a large plank of wood
+set in the wall forming a crude but elegant bench.    
+~
+298 72 3
+D1
+~
+~
+0 0 29970
+D3
+~
+~
+0 0 29972
+S
+#29972
+High up in a tree~
+You are now very near the top of the tree.  This is where people come to see
+Galadriel.  Looking out from the flet you are able to view a considerable
+portion of the lands around you, and it doesn't look pretty.  Your immediate
+surroundings, on the other hand, are absolutely beautiful.  Of course, you
+would expect no less from someone as important as Galadriel.  There are several
+wooden benches that look quite comfortable, and you imagine this is where her
+guests sit.  In the center of the flet are two chairs, highly decorated and
+very expensive-looking.  This must be where Galadriel and Celeborn sit while
+holding an audience.  The whole place is decorated with flowers and other
+plants, giving you the feeling that you are in the middle of a garden rather
+then on top of a tree.  The stairs from which you entered from lead back down
+to the waiting area.    
+~
+298 72 3
+D1
+~
+~
+0 0 29971
+S
+#29973
+&wIn The &GForest&n~
+You are walking in the middle of the forest, you are searching for the river...
+  
+~
+298 64 3
+D0
+~
+~
+0 0 29864
+D3
+~
+~
+0 0 29974
+S
+#29974
+&wIn The &GForest&n~
+You are walking in the middle of the forest, you are searching for the river...
+  
+~
+298 64 3
+D1
+~
+~
+0 0 29973
+D2
+~
+~
+0 0 29863
+S
+#29975
+&YTreasure &yRoom&n~
+You see a Pretty statue of Elendil, and a great treasure in around your eyes
+shiny when you look through the statue.    
+~
+298 0 0
+D5
+~
+~
+0 0 10135
+S
+#29976
+At the Celebrant dock~
+This is a dock with a lot of kinds of boats floating before it.  The water is
+very crystaline, and the place transmit a sensation of freedom.  The boats are
+linked to the dock by a different type of rope.  The rope is made of hithlain,
+a kind of fiber.    
+~
+298 4 6
+D0
+~
+~
+0 0 29942
+D2
+~
+~
+0 0 29977
+S
+#29977
+Streaming to the Anduin~
+The water is too fast, now going directly to the Anduin, there are less threes
+as you get far from your startpoint.    
+~
+298 4 7
+D0
+~
+~
+0 0 29976
+D1
+~
+~
+0 0 29978
+S
+#29978
+Near the river intersection~
+You see that you are reaching the intersection of Celebrant and the big river
+Anduin, and the water is getting a strong impulse at you.    
+~
+298 4 7
+D1
+~
+~
+0 0 29979
+D3
+~
+~
+0 0 29977
+S
+#29979
+Anduin~
+Now you are navigating through the giant river, Anduin.  Known by been like a
+enemy line on conflicts between Gondor and Mordor.  The water is flowing too
+quick carrying you to the south.    
+~
+298 4 7
+D2
+~
+~
+0 0 29980
+D3
+~
+~
+0 0 29978
+S
+#29980
+Anduin~
+The vegetation is very short here, and the ambient gets arid as you aproach
+southwards.    
+~
+298 0 0
+D0
+~
+~
+0 0 29979
+D2
+~
+~
+0 0 29981
+S
+#29981
+Rampage on the big river~
+The water gets more quick and it is hard to keep the control on these waters.
+It carries you to the east margin of the river, because of the Limlight river
+that streams from the west with so many strength not allowing you to go that
+way.    
+~
+298 0 0
+D0
+~
+~
+0 0 29980
+D2
+~
+~
+0 0 29982
+S
+#29982
+&cThe &WArgonath's &ygate&n~
+You are completely astonished as you look in the distance and see a giant
+valley approaching with two COLOSSAL statues of the kings of before in both
+sides of the river, with serious expressions on their faces.  They have their
+hands raised foward showing a warning sign.  This is the line before the middle
+earth's dunedain domain.    
+~
+298 88 0
+D0
+~
+~
+0 0 29981
+D2
+~
+~
+0 0 29983
+S
+#29983
+A little bay inside the valley~
+This is a good place to rope your boat and check out the bay of both sides of
+this enalarged point of the river inside the valley.  To the west you see some
+kind of forest, and to the east, you can climb a arduous cliff to reach Emyn
+Muil.    
+~
+298 4 3
+D0
+~
+~
+0 0 29982
+D1
+~
+~
+0 0 29991
+D2
+~
+~
+0 0 29984
+D3
+~
+~
+0 0 29985
+S
+#29984
+Waterfall of Rauros~
+&y                _____&g,,,/&G|&g\,,/&G|&g\,&G|&g,
+&B               /&b-- --- --- -----
+&B              //o/&b---  -- -- &wYou stupidly jumps
+&B              &b!&B///&g,-,,/&G|&g\,/&G|&g\,,&G|&g,/&G|&g\,, &wdown the waterfall.
+&B            o&b!&B*&b!&Bo'&y\          /\
+&B            &b!&B o ", &y\/\  /\  /  \/\
+&B            &b!&Bo&b!&B &b!&B&b!&B    &y\/  \/     /
+&B            (  o&b!&B'              &y/
+&B            o &b!&B*&b!&B'             &y/
+&w      \ /    &B(o''|  &y'         /
+&w      _|_    &b!&B *|'            &y\
+&w       @    &B' &b!&Bo&b!&B'             &y\ &wYour body beautifuly...
+&B             ( ('|             &y/
+&B             o &b!&B *            &y/
+&B               &b!&Bo&b!&B           &y/
+&B             ( &b!&B'(          &y/ &wlands on the bottom, but
+&B             o &b!&B*&b!&B'         &y\
+&b -- - -&WoO*OoOo&B (o''          &y\
+&b---- --* &WoO*OoO&B *&b!&B'          &y/
+&b  --  - *--&WoO*OoOo&B!&y_________/ &RD E A D ! !&n
+~
+298 70 7
+D0
+~
+~
+0 0 29983
+S
+#29985
+&wBefore a &WLight &GForest&n~
+After getting out of the water, you finally step in a solid soil.  This ground
+is full of yellow leaves, and there are some footprints between them here.  
+There are ancient statues here of old times.  The forest starts westwards you.
+  
+~
+298 72 3
+D1
+~
+~
+0 0 29983
+D3
+~
+~
+0 0 29986
+S
+T 29985
+#29986
+Leaf trails through the forest~
+There are giant monuments sparsed in the middle of the trees, wich one of them
+is a throne.  There are other kinds of monuments, been swallowed by the leaves
+on the ground.  The trail divides itself into two, wich one leads you to the
+throne to the north.    
+~
+298 72 3
+D0
+~
+~
+0 0 29987
+D1
+~
+~
+0 0 29985
+D3
+~
+~
+0 0 29988
+S
+T 29986
+#29987
+The rock throne~
+You feel yourself small near this big throne.  There is a beautiful sight.  
+You can see the Anduin river to the northeast shining with the sunlights
+reflecting on it.    
+~
+298 72 3
+D2
+~
+~
+0 0 29986
+S
+#29988
+Road through the plains~
+These are the plains that will lead you to Rohan with a long travel westwards.
+You can also reach the Fangorn Forest to traveling a while to the north.  
+There is a vast vision of all the plain in this elevated place you are.    
+~
+298 76 3
+D0
+~
+~
+0 0 29989
+D1
+~
+~
+0 0 29986
+S
+T 29987
+#29989
+Traveling...~
+A long travel going north, requires a rest.  Now in the distance, as you go
+north, the Entwash river appears, because you noticed your way had a little bit
+curve to the east re-taking north again.    
+~
+298 72 3
+D0
+~
+~
+0 0 29990
+D2
+~
+~
+0 0 29988
+S
+T 29988
+#29990
+Reaching the Fangorn forest~
+Now you are between the end of the plains and the begining of a ancient forest,
+the Fangorn Forest, that was here since middle earth had only a single center
+forest.  The forest s dark, and the trees are thick because of its age.  Odd
+sounds are coming from the north.    
+~
+298 72 3
+D2
+~
+~
+0 0 29989
+S
+#29991
+At the feet of the cliff.~
+The way goes now upwards.  If you want to reach the top of this cliff, it is
+better be careful.  The rocks down here, are like spears waiting for someone to
+fill in.  It is a hard way!    
+~
+298 76 4
+D3
+~
+~
+0 0 29983
+D4
+~
+~
+0 0 29992
+S
+#29992
+The Top~
+Oof!  You reached the top of the cliff.  This is the begining of the mountains
+of Emyn Muil.  This place is very rocky, and just for steping closer to the
+east, you feel your heart darker, and an agony feeling fills you.    
+~
+298 76 5
+D1
+~
+~
+0 0 29993
+D5
+~
+~
+0 0 29991
+S
+#29993
+The Hills of Emyn Muil~
+Here we are, in the hostil terrain presented by the Emyn Muil.  Every movement
+seems to drain all of your energy and every breath you take makes you feel
+without oxigen.  Take care and watch your back here.    
+~
+0 72 5
+D1
+~
+~
+0 0 29994
+D3
+~
+~
+0 0 29992
+S
+T 20250
+#29994
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20298
+D1
+~
+~
+0 0 29995
+D2
+~
+~
+0 0 20298
+D3
+~
+~
+0 0 29993
+S
+T 20250
+#29995
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20297
+D1
+~
+~
+0 0 29996
+D2
+~
+~
+0 0 29997
+D3
+~
+~
+0 0 29994
+S
+T 20250
+#29996
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20298
+D1
+~
+~
+0 0 20288
+D2
+~
+~
+0 0 20280
+D3
+~
+~
+0 0 29995
+S
+T 20250
+#29997
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 29995
+D1
+~
+~
+0 0 20280
+D2
+~
+~
+0 0 29998
+S
+T 20250
+#29998
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+298 72 5
+D0
+~
+~
+0 0 29995
+D1
+~
+~
+0 0 20298
+D2
+~
+~
+0 0 20250
+D3
+~
+~
+0 0 29999
+S
+T 20250
+#29999
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+298 72 5
+D1
+~
+~
+0 0 29998
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20297
+S
+T 20250
+$~

@@ -1,0 +1,388 @@
+#6900
+ruler dungeon~
+the dungeon ruler~
+The dungeon ruler sits here in his chair.
+~
+   This guy looks mean!  You had better run while you still have time!    
+~
+2634 8388616 -900 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 1 -1 -1
+Att2: 70
+Att3: 30
+Att4: 10
+E
+#6901
+old woman housekeeper owner~
+an old woman~
+An old woman sits here waiting to attack you, the intruder.
+~
+   She looks really nasty.  You don't want to find out how the deep scratches
+and blood marks got on those walls....  Or do you?    
+~
+2634 8388616 -700 E
+184 -72 -17 1d1+5148 5d19+72
+2760 16977560 0
+8 8 2 -1 12
+Att2: 60
+Att3: 30
+Att4: 5
+E
+#6902
+wandering ghoul~
+a wandering ghoul~
+A spooky ghost is floating in mid-air here.
+~
+   His eyes glow yellow, and then you practically feel them penetrate yours.  
+He reveals long, razor-sharp, 6 inch long claws and then takes a swipe at you!
+  
+~
+2634 8388616 -900 E
+181 -70 -17 1d1+5064 5d19+72
+2715 16182867 0
+8 8 0 -1 -1
+Att2: 60
+Att3: 30
+Att4: 10
+E
+#6903
+darkness dark~
+darkness~
+Darkness reigns over the entire room.
+~
+   It is a huge shadowy figure with no eyes or anything.  Just total darkness.
+How weird.  But when he hits you, it will HURT!!    
+~
+2634 8388616 -900 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 0 -1 -1
+Att2: 60
+Att3: 30
+Att4: 10
+E
+#6904
+spider harmless~
+a harmless spider~
+A harmless spider sits in his web here.
+~
+   This spider couldn't be dangerous....  But could it?    
+~
+2634 8388616 -900 E
+175 -67 -16 1d1+4896 5d18+70
+2625 14668610 0
+8 8 0 -1 -1
+Att2: 55
+Att3: 30
+Att4: 10
+E
+#6905
+mad dragon~
+the mad dragon~
+A dragon is here waiting for you to move closer...
+~
+   This thing doesn't like you.  It breaths fire out of its nostrils, and then
+comes in for the kill.  If I were you, I'd get out of here and fast!    
+~
+68170 75497488 -900 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 0 -1 21
+Att2: 70
+Att3: 40
+Att4: 15
+E
+#6906
+box~
+a box~
+A small box lays in the corner, torn somehow.
+~
+   A small box lays in the corner, torn somehow.    
+~
+2634 8388616 -900 E
+178 -69 -16 1d1+4980 5d18+70
+2670 15413352 0
+8 8 0 -1 -1
+Att2: 55
+Att3: 35
+Att4: 15
+E
+#6907
+rock~
+a rock~
+A rock lays on the ground here.
+~
+   It's just a plain old rock.    
+~
+2634 8388616 -900 E
+178 -69 -16 1d1+4980 5d18+70
+2670 15413352 0
+8 8 0 -1 -1
+Att2: 65
+Att3: 30
+Att4: 10
+E
+#6908
+spider little~
+a little spider~
+A little spider sits here.
+~
+   It's a cute little spider.    
+~
+2634 8388608 -900 E
+179 -69 -16 1d1+5004 5d18+70
+2685 15667085 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 65
+Att3: 30
+Att4: 10
+E
+#6909
+headless ghost~
+a headless ghost~
+A ghost is here, carrying his head with him.
+~
+   His head was somehow cut off and now he must carry it wherever he goes.  
+It's is a very bloody picture.  Sick.  Actually, it makes you want to puke.  
+
+~
+2634 8388616 -900 E
+184 -72 -17 1d1+5148 5d19+72
+2760 16977560 0
+8 8 0 -1 -1
+BareHandAttack: 1
+Att2: 65
+Att3: 35
+Att4: 15
+E
+#6910
+bat large~
+a large bat~
+A large bat flies around up here.
+~
+   It's a bat!  Eeeeek!  Run!!    
+~
+2634 8388616 -900 E
+183 -71 -17 1d1+5124 5d19+72
+2745 16709840 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 60
+Att3: 35
+Att4: 20
+E
+#6911
+little bat~
+a little bat~
+A bat is flying around.
+~
+   It's a bat!  Eeeeek!  Run!!    
+~
+2634 75497480 -900 E
+179 -69 -16 1d1+5004 5d18+70
+2685 15667085 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 60
+Att3: 30
+Att4: 25
+E
+#6912
+rat~
+a rat~
+A rat crawls around in a skull here.
+~
+   This little guy is having loads of fun playing inside of a skull on the
+ground here.  It sits in the eyehole and starts watching you now...    
+~
+2634 8388616 -900 E
+176 -68 -16 1d1+4920 5d18+70
+2640 14914130 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 65
+Att3: 35
+Att4: 20
+E
+#6913
+rat wandering~
+a wandering rat~
+A rat is wandering around the entire area looking lost.
+~
+   This little guy looks so cute....  Don't let the looks fool you, though.  
+Be on your guard at every moment.    
+~
+2634 8388616 -900 E
+175 -67 -16 1d1+4896 5d18+70
+2625 14668610 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#6914
+roach~
+a roach~
+A roach crawls around here.
+~
+   It's a bug!  Squash it!    
+~
+2634 8388616 -900 E
+175 -67 -16 1d1+4896 5d18+70
+2625 14668610 0
+8 8 0 -1 -1
+Att2: 65
+Att3: 35
+Att4: 10
+E
+#6915
+beetle~
+a beetle~
+A beetle crawls around here.
+~
+   Yuck!  A beetle!  How sick!    
+~
+2634 8388616 -900 E
+175 -67 -16 1d1+4896 5d18+70
+2625 14668610 0
+8 8 0 -1 -1
+Att2: 65
+Att3: 35
+Att4: 15
+E
+#6916
+insane prisoner~
+an insane prisoner~
+Someone is acting like an idiot.
+~
+   It's simple: he's LUNEY!!    
+~
+3594 8390664 -900 E
+181 -70 -17 1d1+5064 5d19+72
+2715 16182867 0
+8 8 1 3 10
+BareHandAttack: 8
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#6917
+evil prisoner~
+the evil prisoner~
+A very evil prisoner stands here plotting his revenge.
+~
+   This guy is really evil.  He walks around with a file trying to get out of
+this dungeon.  It looks like he's been in here for years!    
+~
+34858 8389128 -900 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 1 5 15
+BareHandAttack: 13
+Att2: 75
+Att3: 45
+Att4: 30
+E
+#6918
+sad prisoner~
+a sad prisoner~
+Someone who looks very sad is here.
+~
+   All he does is weep all day long.  He does not belong here.  He cries and
+balls, and then starts screaming of how he's here for no reason.    
+~
+3594 8523784 -900 E
+181 -70 -17 1d1+5064 5d19+72
+2715 16182867 0
+8 8 1 5 15
+BareHandAttack: 13
+Att2: 70
+Att3: 40
+Att4: 25
+E
+#6919
+slave~
+a slave~
+A slave sits here working for his master.
+~
+   It looks unfinished.  This is really sad.  He gets whipped and whipped by
+the dungeon ruler, who makes him work all day long for nothing.  He has marks
+all over his body from a whip.    
+~
+3658 8388616 -900 E
+179 -69 -16 1d1+5004 5d18+70
+2685 15667085 0
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 65
+Att3: 35
+Att4: 10
+E
+#6920
+lost wizard~
+a lost wizard~
+A wizard is wandering around here.
+~
+   This guy is bout half of your size and carries around a magic wand.  He
+keeps mumbling to himself, and he probably is very lost.    
+~
+2090 8388616 -900 E
+188 -74 -18 1d1+5256 5d19+74
+2820 19884716 0
+8 8 0 0 1
+BareHandAttack: 12
+Att2: 80
+Att3: 55
+Att4: 35
+E
+#6921
+boogie monster~
+the boogie monster~
+A monster from your nightmares stands here.
+~
+   It's the boogie monster!  Run and hide under your bed!    
+~
+3594 8388616 -900 E
+186 -73 -17 1d1+5208 5d19+74
+2790 17521542 0
+8 8 0 -1 -1
+Att2: 70
+Att3: 45
+Att4: 25
+E
+#6922
+crow dark~
+a dark crow~
+A crow stands here.
+~
+   There's nothing really special about this bird.    
+~
+3658 75497480 -900 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#6923
+stone wall~
+a stone wall~
+The walls are strangely made of stone...
+~
+   It's just a wall made of hard stone...    
+~
+69130 8388640 -900 E
+188 -74 -18 1d1+5256 5d19+74
+2820 18077015 0
+8 8 0 -1 -1
+BareHandAttack: 9
+Att2: 80
+Att3: 55
+Att4: 45
+E
+$

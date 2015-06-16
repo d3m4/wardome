@@ -1,0 +1,1793 @@
+#5735
+Path to Firetop Mountain~
+You have reached the base of Firetop Mountain. The steep impenetrable face
+that rises before you is deeply gouged, as if by the claws of a gargantuan
+beast. Strange red vegetation grows at the peak, hence the mountain's name.
+A small dark opening in front of you allows you to enter the depths of
+Firetop Mountain, domain of the evil Warlock.
+
+You see a small sign stuck to a nearby withered tree.
+~
+57 4 3
+D0
+inside the mountain~
+~
+0 -1 5736
+D2
+~
+~
+0 -1 -1
+E
+sign~
+The sign says-
+
+     "Welcome to Firetop Mountain, a fun- and excitement-filled area brought
+to you by the Mad Elf. He hopes you enjoy yourself".
+
+and below that-
+
+     "Firetop Mountain was built on a DOS text-editor in November 1995 by
+Yaegar for AnonyMud, though any Merc 2.2 Mud can (and is indeed welcome to)
+use it".
+~
+S
+#5736
+Inside the Mountain~
+You are heading north along a gloomy stone passageway. Your footsteps echo
+in the eerie silence, which is broken only by the distant sound of running
+water. You soon reach a junction where you can head east or west.
+~
+57 9 0
+D1
+a door~
+~
+0 -1 5737
+D2
+the entrance~
+~
+0 -1 5735
+D3
+a guard post~
+~
+0 -1 5739
+S
+#5737
+A Door~
+You are standing before a wooden door, set flush with the stone wall that
+marks the end of the passageway. It looks solid, but you get the idea that
+it would give easily to a good shove from your shoulder. Or, you could try
+just opening it with the handle...
+~
+57 9 0
+D1
+a pit~
+~
+1 0 5738
+D3
+inside the mountain~
+~
+0 -1 5736
+S
+#5738
+A Pit~
+Ack! As you open the door and pass through, you fall into a deep pit! The 
+sides are smooth and unscaleable, and for some reason your magic doesn't
+seem to work here. Looks like you might need to recall.
+~
+57 13 0
+D5
+a trapdoor~
+~
+1 0 -1
+S
+#5739
+A Guard Post~
+After a short distance, the westward passage that you are following bends to
+the north. At the bend there is a small niche in the wall, just large enough
+for a medium-sized humanoid to stand in. A stone stool is in this niche, as
+is a half-drunk flagon of some unknown alcohol, and you (correctly) assume 
+that this alcove is used as a sentry post. Its inebriated occupant may be
+around, so keep alert.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5740
+D1
+inside the mountain~
+~
+0 -1 5736
+S
+#5740
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+You hear loud snoring from behind the door nearest you.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5742
+D2
+a guard post~
+~
+0 -1 5739
+D3
+a door~
+~
+1 0 5741
+S
+#5741
+Orc Sleeping Quarters~
+This room evidently serves as sleeping quarters for some of the foul Orcs
+that reside in this place. Loud snoring echoes around this room, coming from
+its single sleeping occupant, who lies with his arms curled about an
+interesting-looking box...
+~
+57 9 0
+D1
+a corridor~
+~
+1 0 5740
+S
+#5742
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+No sound comes from behind the door nearest you.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5744
+D2
+a corridor~
+~
+0 -1 5740
+D3
+a door~
+~
+1 0 5743
+S
+#5743
+Guards' Quarters~
+This room seems to function as quarters for the Orcish soldiers that guard
+the entrance here. From what you've seen so far of the Warlock's "Guards",
+you think that maybe he should reconsider his choices for protection...
+There is a small snake curled up around a box in the far corner of this room.
+~
+57 9 0
+D1
+a corridor~
+~
+1 0 5742
+S
+#5744
+A Corridor~
+You are advancing down a long north-south corridor lined by several wooden
+doors to the west. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+You hear loud raucous drunken singing coming from behind the door nearest you.
+
+There is a junction to the north of here.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5746
+D2
+a corridor~
+~
+0 -1 5742
+D3
+a door~
+~
+1 0 5745
+S
+#5745
+A Party~
+You are hit by the combined stench of Orc Grog, sweat, vomit, urine and
+blood as soon as you enter. Repulsed, you glance about and quickly gather
+that this foul place serves as some sort of recreation area for the Orcish
+soldiers. If you are lucky, you will be spared an encounter with the vile
+drunkards.
+~
+57 9 0
+D1
+a corridor~
+~
+1 0 5744
+S
+#5746
+A Junction~
+You have reached a T-junction in the passageway, where passages run to the
+west, east and south. You can hear screaming and what sounds like a whip
+cracking to the west, while the sound of many Orcs slurping and chomping
+on their vile food emanates from the east. A variety of sounds come from
+the south. In the distance, you can hear what sounds like running water.
+~
+57 9 0
+D1
+another junction~
+~
+0 -1 5748
+D2
+a corridor~
+~
+0 -1 5744
+D3
+a westward corridor~
+~
+0 -1 5747
+S
+#5747
+A Westward Corridor~
+You are advancing along an east-west corridor that ends at the east in a
+juction and at the west in a solid oak portal. From behind the portal you
+can hear screams, apparently being elicited by the bullwhip you hear cracking
+just before each cry.
+~
+57 9 0
+D1
+a junction~
+~
+0 -1 5746
+D3
+a door~
+~
+1 0 5799
+S
+#5748
+Another Junction~
+You have reached another junction. From here you can go north, toward a huge
+iron portcullis, west, toward a branch in the corridor to the south, or east,
+toward what sounds like a kitchen/dining area, judging by the clangour of
+rattling pots and pans, and the shouts and grunts of the diners.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5750
+D1
+a door~
+~
+0 -1 5749
+D3
+a junction~
+~
+0 -1 5746
+S
+#5749
+Outside the Kitchen~
+The noises of the kitchen are loudest here. Behind this door there must be
+some very nauseating dinner parties, if the noises and the *SMELL* are 
+anything to go by.
+~
+57 9 0
+D1
+the kitchen~
+~
+1 0 5800
+D3
+another junction~
+~
+0 -1 5748
+S
+#5750
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+You hear dreadful screaming coming from behind the door to the east.
+
+There are junctions to the north and south of here.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5752
+D1
+a door~
+~
+1 0 5751
+D2
+another junction~
+~
+0 -1 5748
+S
+#5751
+A Cell~
+Eeyew! This foul place obviously serves as a combined garbage room/prison
+cell, for several skeletons manacled to the walls are half-buried in all
+manner of disgusting refuse that has been hurled into here by the Orcs.
+Just looking at the evil mess makes you want to vomit, and by the looks of
+it you haven't been the first to so react...
+~
+57 9 0
+D3
+a corridor~
+~
+1 0 5750
+S
+#5752
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+There are junctions to the north and south of here.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5754
+D1
+a door~
+~
+1 0 5753
+D2
+another junction~
+~
+0 -1 5750
+S
+#5753
+Armory~
+You have entered an armory. Most of the weapons here are of Orcish make,
+crude and clumsy-looking, and you ignore them. However, a few weapons of
+human and elf make are also stored here- perhaps you may find one of use
+to you...
+~
+57 9 0
+D3
+a corridor~
+~
+1 0 5752
+S
+#5754
+A Corridor~
+You are advancing along a long north-south corridor lined by several wooden
+doors to the east. The corridor is unlit- evidently it is either rarely
+used or the occupants of this place have no need for light...
+
+You hear piteous moans and cries of pain, followed by insane cackling, 
+coming from the door nearest you.
+
+There are junctions to the north and south of here.
+~
+57 9 0
+D0
+a junction~
+portcullis~
+1 -1 5756
+D1
+a door~
+~
+1 0 5755
+D2
+another junction~
+~
+0 -1 5752
+S
+#5755
+A Torture Chamber~
+You have entered a torture chamber, currently being used by the Warlock's
+Goblin torturers to extract information from intruders or confessions from
+crooked or incompetent Orcish sentries. Of course, they don't really care
+what you know, they are going to torture you anyway :).
+~
+57 9 0
+D3
+a corridor~
+~
+1 0 5754
+S
+#5756
+A Junction~
+You have reached a T-Junction which allows you to travel east, west or south.
+The corridor to the south is lined with doors to the east, while the east
+and west branches of the junction disappear into the darkness which is barely
+penetrated by your light source.
+
+You fancy that you can hear the sounds of a river to the far north.
+~
+57 9 0
+D1
+a bend in the corridor~
+~
+0 -1 5757
+D2
+a corridor~
+portcullis~
+1 -1 5754
+D3
+a long passageway~
+~
+0 -1 5779
+S
+#5757
+A Bend in the Corridor~
+You have reached a bend in the corridor where you can head north to another
+junction or back west to a southern branch of the corridor. The sound of 
+running water seems to be coming directly from the north now.
+
+You get the feeling this may be a good place to rest and collect yourself.
+~
+57 29 0
+D0
+a junction ~
+~
+1 0 5758
+D3
+a junction~
+~
+0 -1 5756
+S
+#5758
+A Junction~
+You have reached yet another junction, where you can head east, west, or south to 
+a strange-looking bench. There is a door to the far east, but you can hear
+nothing coming from that direction.
+~
+57 9 0
+D1
+a junction~
+~
+0 -1 5759
+D2
+a bench~
+~
+0 -1 5757
+D3
+a bend~
+~
+0 -1 5761
+S
+#5759
+A Junction~
+At this point, a long, dark passageway stretches off to the north, ending at
+a wooden door. You fancy that you can hear heavy breathing coming from
+behind it. You can still hear naught from behind the eastern door, which you
+are standing before now.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5765
+D1
+a door~
+~
+1 0 5760
+D3
+a junction~
+~
+0 -1 5758
+S
+#5760
+An Ornate Room~
+You enter a room heavily decorated by ornate stonework and detailed murals
+and reliefs, crafted and colored in a style you have never seen before, 
+giving the room an unearthly beauty. A pedestal has been placed in the
+center of the room, and atop it is an iron statue of what looks like a one-
+eyed demon.
+~
+57 9 0
+D3
+a junction~
+~
+1 0 5759
+S
+#5761
+A Bend~
+At this point the corridor bends sharply to the north, heading past doors
+to the east and west toward some distant point, lost in the all-encompassing
+murky darkness. You are thankful for your light.
+~
+57 9 0
+D0
+outside three doors~
+~
+0 -1 5762
+D1
+a junction~
+~
+0 -1 5758
+S
+#5762
+Outside Three Doors~
+You are standing in a north-south running corridor between two doors. The
+one to the east has a small sign upon it, while the one to the west is
+blank. You can here a gentle humming noise, as if of someone singing to
+themself, behind the east door.
+
+There is another, pitch-black portal to the north. It looks ominous...
+~
+57 9 0
+D0
+a pitch-black portal~
+~
+1 0 5766
+D1
+a shop~
+~
+1 0 5764
+D2
+a bend~
+~
+0 -1 5761
+D3
+a door~
+~
+1 0 5763
+E
+sign~
+The sign says, in large, neatly-scribed letters-
+
+     "T H E     H O U S E     O F      C A N D L E S"
+     
+     Visitors welcome. Please leave your children and pets outside.
+     No Hawkers or Canvassers. Shoplifters WILL be prosecuted.
+
+~
+S
+#5763
+A Cavern~
+The door opens onto a rough-hewn cavern, dark and dreary as the rest of the
+dungeon, save that it has more than the usual amount of cobwebs, and also
+sports a fair collection of Orcish, Dwarven and Human bones. You enter
+cautiously, well aware that this may be the lair of a Huge SPIDER.
+~
+57 9 0
+D1
+outside three doors~
+~
+1 0 5762
+S
+#5764
+A Shop~
+You have entered a brightly-lit shop, an oddity in this place made even
+stranger by the bizarre array of goods available. However, what interests
+you most in this normally black dungeon is the availability of magic candles
+that can help light your way.
+~
+57 152 0
+D3
+outside three doors~
+~
+1 0 5762
+S
+#5765
+A Barbarian!~
+You have entered the quarters of an insane barbarian, who by now is attacking
+you if he has not already been slain by another adventurer before you. There
+is little of interest in this dingy room.
+
+A passage runs from here to another door to the north.
+~
+57 9 0
+D0
+a short passage~
+~
+1 0 5801
+D2
+a door~
+~
+1 0 5759
+S
+#5766
+A Black Corridor~
+As you enter this foreboding place, your light source dwindles to a faint
+glimmer, threatening to go out entirely at any moment. In its bleak glare
+you manage to make out hideous murals on the walls depicting people being
+maimed and tortured, and you could swear that they are actually MOVING. You
+feel a sudden urge to flee this horrid place.
+~
+57 9 0
+D0
+a fountain room~
+~
+1 0 5768
+D2
+outside three doors~
+~
+1 0 5762
+S
+#5767
+A Gallery~
+You have entered what appears to be an art gallery. Paintings of various old
+men and women of noble birth line the whitewashed walls and you supress a
+yawn as you walk past. However, one portrait here appears to be different...
+
+Doors to the north and south allow you to leave this place.
+~
+57 8 0
+D0
+a short corridor~
+~
+1 0 5802
+D2
+a short corridor~
+~
+1 0 5801
+S
+#5768
+A Fountain~
+You have entered a small room, no more than a slight broadening of the 
+passage, with a fountain in the middle of it. The passage continues to the
+north and terminates at a pitch-black portal to the south.
+~
+57 9 0
+D0
+a corridor~
+~
+0 -1 5770
+D2
+a pitch-black portal~
+~
+1 0 5766
+S
+#5769
+A Pear-Shaped Room~
+You have entered a pear-shaped room, with the south entrance opening into
+the wide base and a door to the north exiting at the top of the fruit shape.
+Several items of interest are scattered on the floor here..
+
+The sound of flowing water is stronger than ever here. It appears to be
+coming from directly beyond the door in the north wall.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5773
+D2
+a short corridor~
+~
+0 -1 5802
+S
+#5770
+A Corridor~
+You are marching along a long north-south corridor, which ends near a 
+fountain to the south, and a small door to the north. A second door is in the 
+eastern wall near you.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5803
+D1
+a door~
+~
+1 0 5771
+D2
+a fountain~
+~
+0 -1 5768
+S
+#5771
+A Bare Room~
+You have entered a room that is completely unrearkable save for a table and
+some interesting items upon it.
+~
+57 9 0
+D3
+a corridor~
+~
+1 0 5770
+S
+#5772
+A Junction~
+You have reached a junction in the passageway, where you may go east, west
+or south. The sound of running water is unmistakable now, and seems to be
+coming from the western passage, which bends to the north. Bestial grunts 
+echo from the passage to the east.
+~
+57 9 0
+D1
+a cave~
+~
+0 -1 5775
+D2
+a door~
+~
+1 0 5803
+D3
+a bend~
+~
+0 -1 5774
+S
+#5773
+A Ferryman and a Bridge~
+You have finally reached the source of the sound of running water- a broad
+underground river that cuts through the dungeons of Firetop Mountain. You
+peer into it but can see nothing in its icy black depths, but doubtless this
+river sports its own particular little nasties like all the other parts of
+the dungeon have so far.
+
+A rickety bridge allows you to cross to the other side if you wish, or you
+may wish to go boating using a nearby punt.
+
+A sign says- "Don't Pay the Ferryman...till he gets you to the other side..."
+~
+57 9 0
+D0
+the other side~
+~
+0 -1 5798
+D1
+river~
+~
+0 -1 5778
+D2
+pear room~
+~
+1 0 5769
+D3
+river~
+~
+0 -1 5777
+S
+#5774
+On the Banks of the River~
+You have finally reached the river you have been hearing for so long. It
+looks deep, dark and unswimmable, though if you had a boat you may be able
+to cross it, though at this point there appears to be nothing of interest
+on the other side. Perhaps you may find a crossing further down?
+~
+57 9 0
+D0
+the river~
+~
+0 -1 5777
+D1
+a junction~
+~
+0 -1 5772
+S
+#5775
+A Cave~
+You have entered a huge cave, cut from the rock face by Gods-know what force.
+There is a campfire burning in the center of the room, and several hides and
+rocks are scattered about the area, along with several bones and chewed
+strips of half-cooked meat.
+~
+57 9 0
+D3
+a junction~
+~
+0 -1 5772
+S
+#5776
+The River~
+You are sailing along the mighty underground river that cuts through the
+dungeons of Firetop Mountain. To the west you can see a rocky beach, while
+to the east the river flows into the murky darkness that pervades here.
+~
+57 9 7
+D1
+river~
+~
+0 -1 5777
+D3
+a rocky beach~
+~
+0 -1 5797
+S
+#5777
+The River~
+You are sailing along the mighty underground river that cuts through the
+dungeons of Firetop Mountain. To the west you can see a rocky beach, while
+to the east the river flows towards what looks like a bridge.
+
+There is a small alcove to the south at which you could dock.
+~
+57 9 7
+D1
+bridge~
+~
+0 -1 5773
+D2
+alcove~
+~
+0 -1 5774
+D3
+river~
+~
+0 -1 5776
+S
+#5778
+The River~
+You are sailing along the mighty underground river that cuts through the
+dungeons of Firetop Mountain. To the west you can see a rickety bridge, 
+while to the east the river down a narrow crevice and is impassable.
+~
+57 9 7
+D3
+bridge~
+~
+0 -1 5773
+S
+#5779
+A Long Passageway~
+You are heading along a long east-west passageway which meets a junction to
+the east and bends sharply to the north to the west.
+~
+57 9 0
+D1
+a junction~
+~
+0 -1 5756
+D3
+entrance to a cave~
+~
+0 -1 5780
+S
+#5780
+Entrance to a Cave~
+You are passing by the entrance to a small cave, on the northern side of
+this long east-west passage. A vile smell wafts from this dark place, and
+you fancy that you can hear bestial gruntings.
+~
+57 9 0
+D0
+cave~
+~
+0 -1 5781
+D1
+a passage~
+~
+0 -1 5779
+D3
+a passage~
+~
+0 -1 5782
+S
+#5781
+Ogre Cave~
+Whew! What a smell! This cave, littered as it is with garbage, offal and 
+half-eaten body parts, smells atrocious. And so does its inhabitant! Too
+bad for you he's very sensitive about it all, and when he sees you gag and
+retch, he leaps forward to attack.
+
+A traveller once told you that he found a gateway to another dimension in 
+an Ogre cave in these parts...
+~
+57 9 0
+D2
+entrance to a cave~
+~
+0 -1 5780
+E
+floor ground~
+There is a circular scorch mark on the floor here.
+~
+S
+#5782
+A Bend~
+You have reached a bend in the passageway, where you can continue to the 
+north or the east, depending on which way you were travelling. You can hear
+faint laughter coming from the north.
+~
+57 9 0
+D0
+a junction~
+~
+0 -1 5783
+D1
+entrance to a cave~
+~
+0 -1 5780
+S
+#5783
+A Junction~
+You have reached a point where you can continue along the north-south passage
+or head west along a very narrow path. You hear laughter coming from this
+direction.
+
+As you examine the western passage, you notice that it is indeed VERY narrow,
+and you begin to harbour doubts about getting back out...
+~
+57 9 0
+D0
+a t-junction~
+~
+0 -1 5785
+D2
+a bend~
+~
+0 -1 5782
+D3
+a narrow passageway~
+~
+0 -1 5784
+S
+#5784
+A Narrow Passageway~
+You didn't listen, did you? You decided to try and worm your way down this
+NARROW (That is a six letter adjective meaning not very freaking wide), and
+now you're trapped, with only the mocking laughter you heard earlier to
+keep you company. I hope for your sake you have a spell that enables you
+to escape...
+~
+57 13 0
+S
+#5785
+A T-Junction~
+You have come to a T-Junction where an east-west passageway is met by a
+north-south one. The north-south passage terminates at the meeting-point. To
+the south it runs past another side passage before turning sharply to the
+east. The east-west passage bends to the north in both directions.
+
+You see a small recess in the north wall here and think this would be a good 
+place to rest your weary bones.
+~
+57 13 0
+D1
+a bend~
+~
+0 -1 5786
+D2
+a side passage~
+~
+0 -1 5783
+D3
+a bend~
+~
+0 -1 5788
+S
+#5786
+A Bend~
+The passage you are following bends sharply here, and you have the option of
+going west or north, depending on which direction you were coming from. The
+north passage looks particularly dull and empty, while the west leads to a
+junction near a small recess in the north wall.
+~
+57 9 0
+D0
+a long passageway~
+~
+0 -1 5787
+D3
+a junction~
+~
+0 -1 5785
+S
+#5787
+A Long Passageway~
+This passageway is the longest straight-running passageway you have so far
+encountered, running without interruption for at least 250 metres. It 
+continues in both directions.
+~
+57 9 0
+D0
+a bend~
+~
+0 -1 5794
+D2
+a bend~
+~
+0 -1 5786
+S
+#5788
+A Bend~
+Turning the bend in the corridor, you sunndenly notice that the floor in the
+bend has collapsed, making a gaping huge hole. Peering down into the hole,
+you notice that there is another passageway below this one, running north.
+Since the hole is far too big to leap over, and the passage beyond is blocked
+by rubble, your only options are to go down or head back east. 
+
+A horrid stench from the pit below suddenly wafts upward, making your eyes
+water.
+~
+57 9 0
+D1
+a junction~
+~
+0 -1 5785
+D5
+a troll den~
+~
+0 -1 5789
+S
+#5789
+The Troll Den~
+While climbing down, you misjudge your step, and go tumbling down into the
+hole, which is a LOT deeper than you originally thought. Stunned, you 
+slowly turn over, and find yourself staring into the vacant eye sockets of a
+half-eaten decomposing corpse! Leaping back, you fall onto a pile of whitened
+bones, and in a panicked state you suddenly recognise the odor you detected
+earlier- TROLL.
+~
+57 9 0
+D0
+a rough cavern~
+~
+0 -1 5790
+S
+#5790
+A Rough Cavern~
+Proceeding away from the Troll den, you come into a long, rough cavern,
+littered with decaying corpses and shards of broken bones and weapons.
+Remembering the previous occupant of this foul place you encountered, you
+grip your trusty weapons firmly and glare about, ready for anything. A
+distant howl suddenly echoes about the cavern, and you tense, sweat beading
+on your brow.
+
+You spy a set of steps leading up to a door in the far wall, to the north, 
+and step up to it.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5791
+S
+#5791
+Rat Room~
+You cautiously step through the door and enter a room which is knee-deep in
+bones! Several dark shapes move about amongst the bones, and with growing
+alarm you realize that you have entered the lair of some giant rats! The door
+to the south appears jammed from this side, and you realize you will 
+probably have to fight your way out of here.
+~
+57 9 0
+D0
+a giant's room~
+~
+1 0 5792
+D1
+a junction~
+~
+1 0 5793
+S
+#5792
+A Giant Room~
+Fee Fi Fo Fum! You have entered a huge room filled with huge furniture. 
+Obviously you have stumbled into the lair of a giant! He probably uses the
+giant rats in the room you just exited as a food supply. Foul creature!
+~
+57 9 0
+D2
+rat room~
+~
+1 0 5791
+S
+#5793
+A Junction~
+At this junction, you have the option of going north, where the sound of
+running water is once more clearly audible, or east, towards a bend in the
+passage to the south. Alternatively, you could step through a door to the
+west, from which the sounds of scratching and high-pitched squeaking emanate.
+~
+57 9 0
+D0
+a passageway~
+~
+0 -1 5796
+D1
+a bend~
+~
+0 -1 5794
+D3
+a door~
+~
+1 0 5791
+S
+#5794
+A Bend~
+You have entered into a bend in the passage, where you can head west toward
+a junction, or south along a long dark passageway. There is also a heavy
+oaken portal to the north, wich has a rubber skirt along the base, and heavy
+rubber insulation along the sides...
+~
+57 9 0
+D0
+gas room~
+~
+1 0 5795
+D2
+a long passageway~
+~
+0 -1 5787
+D3
+a junction~
+~
+0 -1 5793
+S
+#5795
+A Gas Room!~
+*Cough* This room is filled with gas. And it's attacking you!
+
+
+There is a niche on the far wall, which looks like it could contain a key.
+~
+57 9 0
+D2
+a bend~
+~
+0 -1 5794
+S
+#5796
+A Long Passageway~
+This passageway is running south to a junction and north toward the sound
+of running water. You can smell fresh water on the breeze, which blows
+cold from the river to the north.
+~
+57 9 0
+D0
+a rocky beach~
+~
+0 -1 5797
+D2
+a junction~
+~
+0 -1 5793
+S
+#5797
+A Rocky Beach~
+You have come to a rocky beach, set in a hollowed-out portion of the south
+wall which the river runs past. From the look of the huge holes in the
+ground, you aren't the only one who comes here...
+~
+57 9 0
+D1
+the river~
+~
+0 -1 5776
+D2
+a passageway~
+~
+0 -1 5796
+S
+#5798
+The Other Side~
+You have reached the other side of the river. From here you can progress
+east towards a secure-looking door, or west towards what looks like a door
+to living quarters. Alternatively, there is a door set flush in the north
+wall directly ahead of you.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5807
+D1
+towards a door~
+~
+0 -1 5815
+D2
+a bridge to the south bank~
+~
+0 -1 5773
+D3
+towards living quarters~
+~
+0 -1 5804
+S
+#5799
+The Chieftain's Quarters~
+You have entered the quarters of the leader of the Orcs of Firetop Mountain.
+He is standing here brandishing a big bullwhip, which he is using to beat
+another, smaller Orc, presumably his batman or servant. A chest in the far
+corner catches you eye, and you wonder what wealth this Chieftain may 
+possess...
+~
+57 9 0
+D1
+a westward corridor~
+~
+1 0 5747
+S
+#5800
+The Orc Kitchen~
+It is here that the Orcs prepare their meals and partake of them, seated at
+long filthy benches deeply scarred and stained. Pots and pans bubble and fry
+atop a wood-burning cast-iron stove, and from it an Orc occasionally serves
+himself some rat stew and grits. The Orcs in here seem far too engrossed in
+their gastronomic acitivities to notice your presence, though doubtless they
+would react strongly were you to disturb their meals.
+~
+57 9 0
+D3
+outside the kitchen~
+~
+0 -1 5749
+S
+#5801
+A Short Corridor~
+A short, unremarkable corridor that terminates to the north at a solid oak
+door and to the south in a small room.
+~
+57 9 0
+D0
+a gallery~
+~
+1 0 5767
+D2
+a barbarian~
+~
+0 -1 5765
+S
+#5802
+A Short Corridor~
+A short, unremarkable corrdior that terminates to the north at a pear-shaped
+room and to the south at a solid oak door.
+~
+57 9 0
+D0
+a pear-shaped room~
+~
+1 0 5769
+D2
+a gallery~
+~
+1 0 5767
+S
+#5803
+Room of Hands and Stars~
+You have entered a room with a floor decorated with a mural of hands and
+stars. Something about this room strikes you as being not quite right, and
+you get the strange feeling that the hands are somehow ALIVE...
+~
+57 9 0
+D0
+a junction~
+~
+1 0 5772
+D2
+a corridor~
+~
+1 0 5770
+S
+#5804
+Outside a Door~
+You are standing at the end of a short east west corrdior, outside a door
+set in the north wall. You can open this door, or head back to the east,
+where you can see a bridge crossing a wide river.
+~
+57 9 0
+D0
+a door~
+~
+1 0 5805
+D1
+a junction on the north bank near a bridge~
+~
+0 -1 5798
+S
+#5805
+Inside the Shipbuilder's Quarters~
+This room houses the shipbuilder and his faithful dog. There are bits of
+wood and tools lying about everywhere, and a section of hull serves as a 
+resting bench for the shipbuilder, who can usually be found sprawled over 
+it. There is a door to the west, as well as the southern one you originally
+came through.
+~
+57 9 0
+D2
+outside a door~
+~
+1 0 5804
+D3
+a pantry~
+~
+1 0 5806
+S
+#5806
+Pantry~
+This well-stocked larder is full of jars of preserved foods and jacks of ale,
+but most of it looks inedible. There are a couple of jars, however, that
+seem to contain palatable foodstuffs.
+~
+57 9 0
+D1
+the shipbuilder's quarters~
+~
+1 0 5805
+S
+#5807
+A Short Dark Corridor~
+You are heading along a short dark corridor with doors at either end.
+~
+57 13 0
+D0
+a zombie room~
+~
+1 0 5808
+D2
+a junction on the north bank near a bridge~
+~
+1 0 5798
+S
+#5808
+A Zombie Room~
+You have entered the quarters of some of the Warlock's many undead servants.
+Several Zombies reside here, along with some interesting-looking items
+belonging to past adventurers which have been scattered on the floor here.
+
+There is a door in the north wall.
+~
+57 9 0
+D0
+a crypt~
+~
+1 0 5809
+D2
+a short dark corridor~
+~
+1 0 5807
+S
+#5809
+A Crypt~
+You have entered a Gothic-looking crypt, which currently houses three 
+ornately-fashioned marble coffins, one of which is open. You glance about
+nervously, seeking its owner, who must be nearby...
+~
+57 9 0
+D2
+a zombie room~
+~
+1 0 5808
+D3
+a junction~
+~
+1 0 5810
+S
+#5810
+A Junction~
+You have reached a junction, a crossroads this time, where you may proceed
+in any of the four cardinal directions. A door blocks the passage to the 
+east, and you can hear sounds of construction to the west. No sound comes
+from the northern or southern branches.
+~
+57 9 0
+D0
+a bend~
+~
+0 -1 5813
+D1
+a door~
+~
+1 0 5809
+D2
+dead end~
+~
+0 -1 5811
+D3
+construction~
+~
+0 -1 5812
+S
+#5811
+A Dead End~
+You have reached a dead end, utterly devoid of anything whatsoever of the
+slightest interest. Go back. Now.
+
+
+
+
+
+
+
+
+
+
+
+
+You're still here?
+~
+57 9 0
+D0
+a junction~
+~
+0 -1 5810
+S
+#5812
+A Construction Site~
+You have come across a construction site, where an effort is being made to
+construct a tunnel downwards from this passage. This in itself isn't unusual-
+what makes this so weird is the fact that the laborers are animated tools,
+industrious picks, shovels and spades, working and singing merrily as they 
+do! Some of them even stop to make smalltalk with you. You may rest here as
+long as you want, as the toosl will prevent you from any harm. However, you
+cannot attack them, as they are quite immune to your puny efforts.
+~
+57 13 0
+D1
+a junction~
+~
+0 -1 5810
+S
+#5813
+A Bend in the Passageway~
+You have come to a bend, where you may proceed south toward a junction, or
+east toward a hole in the north wall. The sounds one would normally associate
+with heavy excavation echo from the south somewhere.
+~
+57 9 0
+D1
+a hole~
+~
+0 -1 5814
+D2
+a junction~
+~
+0 -1 5810
+S
+#5814
+A Hole in the Wall~
+You are passing by a hole in the north wall in this east west passageway.
+You can feel a strangely warm breeze blowing from this direction. You can
+enter if you wish, or proceed east or west. A junction lies to the east,
+while to the west the passage bends sharply to the south.
+~
+57 9 0
+D1
+a junction~
+~
+0 -1 5820
+D3
+a bend~
+~
+0 -1 5813
+D5
+a creepy room~
+~
+0 -1 5823
+S
+#5815
+A Door~
+You have reached a securely-locked door. Through a small hole in the door,
+you can see a group of skeletons industriously working on a large boat,
+moving about with practiced efficiency as they hammer, saw and sand the
+boat into shape.
+~
+57 9 0
+D1
+a shipbuilding room~
+~
+1 5779 5816
+D3
+a junction on the north bank near a bridge~
+~
+0 -1 5798
+S
+#5816
+A Shipbuilding Room~
+This room is scattered with tools, planks, nails, rivets and sailcloth. You
+see desks, tables and deck plans for various ships strewn about. Evidently
+the Warlock is something of a nautical man. This room is usually filled
+with skeletons busily constructing boats for the Warlock, and occasionally
+the chief ship-builder will actually be doing his job here.
+
+There are doors to the north and west.
+~
+57 8 0
+D0
+a door~
+~
+1 0 5817
+D3
+a door~
+~
+1 5779 5815
+S
+#5817
+A Corridor~
+You have entered a short corridor that runs between the boathouse to the
+south and the quarters of shipbuilders to the north.
+~
+57 9 0
+D0
+a room~
+~
+1 0 5818
+D2
+a boathouse~
+~
+1 0 5816
+S
+#5818
+A Room~
+You have entered a sleeping room of some sort. Juding by the smell, the only
+creatures that ever rest here are undead ones...There is a tatty wall-hanging
+one one wall that has a faded representation of the Mountain woven into it,
+and some scraps of cloth on the other wall contained some image that no-one
+will ever see again.
+
+A small door is set into the north wall.
+~
+57 9 0
+D0
+a corridor~
+~
+1 0 5819
+D2
+a corridor~
+~
+1 0 5817
+S
+#5819
+A Corridor~
+You have entered a short corridor that runs north to a junction and south to
+a sturdy oak door. You fancy you can hear raspy breathing coming from behind
+it.
+~
+57 9 0
+D0
+junction~
+~
+0 -1 5820
+D2
+a room~
+~
+1 0 5818
+S
+#5820
+A Junction~
+You have reached a junction, where you may go west, east or south.
+~
+57 9 0
+D1
+a door~
+~
+0 -1 5821
+D2
+a corridor~
+~
+0 -1 5819
+D3
+a long passageway and a hole~
+~
+0 -1 5814
+S
+#5821
+A Door~
+You are standing outside a huge studded metal door, set firmly into the
+south wall. It has a massive golden keyhole. You know just by looking at it
+that you have scant hopes of forcing it down.
+~
+57 9 0
+D2
+loot room~
+~
+1 5806 5822
+D3
+a junction~
+~
+0 -1 5820
+S
+#5822
+Loot Room~
+You have found the treasury of the Warlock! Congratulations! Now...quickly
+fill your sacks with gold and your packs with gems, before he finds you 
+here...
+~
+57 8 0
+D0
+outside the loot room~
+~
+1 5806 5821
+S
+#5823
+A Creepy Room~
+You have entered a creepy-looking room, littered with corpses and various
+items of rubbish. Shadows flicker and dance in the glare of your wavering
+light source, and you fancy you can feel a palpable aura of evil in this
+place. You may hurry quickly north to a passage there, or back up to the
+safety of the corridor you just left.
+~
+57 9 0
+D0
+a bend~
+~
+0 -1 5824
+D4
+a passage~
+~
+0 -1 5814
+S
+#5824
+A Bend~
+You have entered a bend in the passage, where you can head east toward a
+wide section of the passage, or back south towards a ghastly smell...
+~
+57 9 0
+D1
+a widening of the passage~
+~
+0 -1 5825
+D2
+a creepy room~
+~
+0 -1 5823
+S
+#5825
+A Widening in the Passage~
+*>CLANG<*! As soon as you enter this area, a huge, heavy portcullis slams
+down into place behind you, preventing your returning in that direction,
+meaning you have no choice but to continue east into a sinister-looking area
+of the dungeons of Firetop Mountain. You pray that you will find the key
+to the portcullis somewhere in here...
+~
+57 9 0
+D1
+junction~
+~
+0 -1 5826
+D3
+a bend~
+~
+1 5808 5824
+S
+#5826
+A Junction~
+You have come to a junction. From here you can head east or south, or through
+a door to the north.
+~
+57 9 0
+D0
+dwarf room~
+~
+1 0 5827
+D1
+another door~
+~
+0 -1 5828
+D2
+a bend~
+~
+0 -1 5830
+D3
+portcullis~
+~
+0 -1 5825
+S
+#5827
+The Dwarf Room~
+You open this door to be greeted by a very odd sight. Several Dwarves, 
+smoking pipes and playing poker, are seated about a table. There is a deck
+of cards scattered about, and as you watch the last player folds and the
+dealer collects. Spying you they offer a cordial greeting and ask you if
+you would like to join them.
+~
+57 8 0
+D2
+a junction~
+~
+1 0 5826
+S
+#5828
+Another Door~
+You are standing outside another door. From behind this one you can hear
+the sounds of pots being smashed and what sounds like the snortings of a 
+bull...
+~
+57 9 0
+D0
+a minotaur room~
+~
+1 0 5829
+D2
+a junction~
+~
+0 -1 5831
+D3
+a junction~
+~
+0 -1 5826
+S
+#5829
+A Minotaur Room~
+You have entered the lair of a MINOTAUR! And he will sure be pissed if he
+catches you here, so you'd better leave real quick or get ready for a fight.
+From the looks of things, he has been mad for a while- broken pots scatter
+the floor, and several smashed cups and plates are piled in one corner.
+~
+57 9 0
+D2
+another door~
+~
+1 0 5828
+S
+#5830
+A Bend~
+You are standing at a bend in the corridor, where you can head north to a
+junction or east to another junction.
+
+You fancy you can smell brimstone...
+~
+57 9 0
+D0
+a junction~
+~
+0 -1 5826
+D1
+a junction~
+~
+0 -1 5831
+S
+#5831
+A Junction~
+You are standing at a junction, where you can proceed north towards a door,
+west towards a bend in the corridor, or down into a lower passage, from which 
+waves of heat and the stench of brimstone emanate...
+~
+57 9 0
+D0
+another door~
+~
+0 -1 5828
+D3
+a bend~
+~
+0 -1 5830
+D5
+dragon cave~
+~
+0 -1 5832
+S
+#5832
+A Dragon Cave~
+Oh Dear...As you progress, you begin to feel uneasy, due to both the heat and
+smell, and the huge claw marks on the walls of this downward-sloping passage.
+Reaching the bottom, your worst fears are confirmed- you have entered the 
+lair of a dragon!
+
+A passage leading to a locked steel door in the south wall offers itself as a 
+possible escape route, as does a sloping passage that leads back up.
+~
+57 9 0
+D2
+a locked steel door~
+~
+0 -1 5833
+D4
+a junction~
+~
+0 -1 5831
+S
+#5833
+A Locked Steel Door~
+This hefty portal blocks any further progress in this direction, unless
+you have a skeleton key...:)
+~
+57 9 0
+D0
+dragon cave~
+~
+0 -1 5832
+D1
+the warlock's chambers~
+chamber door~
+1 5807 5834
+S
+#5834
+The Warlock's Chambers~
+You have finally discovered the Chambers of the Warlock of Firetop Mountain.
+This room is a huge study, lined with shelves full of books of lore, a glass
+cabinet full of curios, and a massive desk, behind which sits an impressive-
+looking padded chair. You better hope that you have entered on one of the
+rare occasions that the Warlock is absent...
+~
+57 8 0
+D3
+a door~
+door~
+1 5807 5833
+S
+$~

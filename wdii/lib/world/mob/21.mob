@@ -1,0 +1,263 @@
+#2101
+brownie forest~
+the forest brownie~
+A forest brownie scampers about here.
+~
+   The forest brownie winks at you and scurries away.  Quite an amicable
+fellow.    
+~
+200 1024 100 E
+75 -17 -1 1d1+2100 5d8+30
+1125 1289737 0
+8 8 0 -1 -1
+Att2: 70
+Att3: 30
+E
+#2102
+wolf~
+the wolf~
+a wolf trots by, looking for a rabbit
+~
+   The wolf looks rather hungry.  You see him trying to decide if YOU taste
+like rabbit.    
+~
+104 32 -100 E
+78 -19 -1 1d1+2184 5d8+30
+1170 1440480 0
+8 8 0 -1 -1
+Att2: 75
+Att3: 25
+E
+#2103
+rabbit brown~
+the brown rabbit~
+A brown rabbit hops along merrily.
+~
+   The rabbit looks up at you with big brown eyes, then scoots away..  Hey..  
+There goes lunch!    
+~
+200 0 100 E
+75 -17 -1 1d1+2100 5d8+30
+1125 1289737 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 70
+Att3: 35
+E
+#2104
+tomal woodsman~
+Tomal~
+A woodsman watches you, a stalk of grass hanging from his mouth
+~
+   The woodsman chuckles and says, 'Howdy stranger- the name is Tomal..  Howya
+doing?  '
+~
+4168 1032 100 E
+80 -20 -2 1d1+2232 5d9+32
+1200 1701933 0
+8 8 1 1 0
+Att2: 80
+Att3: 40
+E
+#2105
+demon guardian~
+the guardian demon~
+A shadowy form steps out of the mist.
+~
+   You see a nightmarish array of teeth and claws, the guardian demon is
+determined to rip your guts out.    
+~
+2090 8 -300 E
+80 -20 -2 1d1+2232 5d9+32
+1200 1547212 0
+8 8 0 -1 19
+Att2: 80
+Att3: 50
+E
+#2106
+guard graye guardsman~
+the Graye guardsman~
+The Graye guardsman is posted here.
+~
+   The guardsman smiles at you kindly.  He says, 'better stick with me guy--
+its a dangerous world out there.  '
+~
+2314 5120 200 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+8 8 1 3 0
+Att2: 75
+Att3: 25
+E
+#2107
+demon imp~
+the demon imp~
+A tiny demon snarls at you.
+~
+   It seems like a relatively harmless little demon, but those sharp teeth
+might hurt if they were wrapped around your arm.    
+~
+2152 8192 -200 E
+85 -22 -2 1d1+2376 5d9+34
+1275 1836749 0
+8 8 0 -1 19
+Att2: 75
+Att3: 45
+E
+#2108
+minor demon~
+the minor demon~
+A minor demon jumps out of the shadows at you!
+~
+   The demon resembles little, but a sinewy mass of flesh, tendons, and teeth.
+It glares at you with pure fury in it's eyes.    
+~
+2090 0 -250 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+0 8 0 -1 19
+Att2: 75
+Att3: 55
+E
+#2109
+citizen graye man~
+the Graye Citizen~
+A citizen of Graye rushes by here, looking over his shoulder.
+~
+   The citizen looks rather nervous- You would too if your town was beseiged by
+demons.    
+~
+2120 1024 100 E
+75 -17 -1 1d1+2100 5d8+30
+1125 1289737 0
+8 8 1 5 0
+Att2: 75
+Att3: 45
+E
+#2110
+citizen gray woman~
+the Graye Citizen~
+A citizen of Graye rushes by here, looking over her shoulder.
+~
+   The citizen looks rather nervous- You would too if your town was beseiged by
+demons
+~
+200 1024 200 E
+75 -17 -1 1d1+2100 5d8+30
+1125 1289737 0
+8 8 2 5 0
+BareHandAttack: 11
+Att2: 70
+Att3: 45
+E
+#2111
+demon major~
+a major demon~
+A major demon lurks about here.
+~
+   You look deep into the eyes of the beast.  You sense no absolutely no
+intellect, only raw power and rage.    
+~
+2090 8192 -250 E
+93 -26 -3 1d1+2604 5d10+36
+1395 2371379 0
+8 8 0 -1 19
+Att2: 80
+Att3: 45
+E
+#2112
+guardian rift~
+the rift guardian~
+A shadow wraith drifts into your way.
+~
+   All you see is a fog-like apparition, with two glowing red eyes...    
+~
+2570 8224 -150 E
+95 -27 -4 1d1+2652 5d10+38
+1425 2519512 0
+8 8 0 -1 -1
+Att2: 75
+Att3: 55
+E
+#2113
+guard jail~
+the jail guard~
+A jail guard patrols here, whipping the prisoners.
+~
+   The guard seems to be..  Well...  Mostly human.  He is covered in boils and
+tufts of hair.  He glares at you with his one good eye and says, 'Put down that
+weapon..  Prisoner!  '
+~
+1050634 40 0 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+8 8 1 -1 -1
+BareHandAttack: 1
+Att2: 80
+Att3: 45
+E
+#2114
+rymat~
+Rymat~
+The King's Advisor is here, weeping.
+~
+   He looks at you and begs, 'please!  They have taken him!  I can see that you
+are a great adventurer..  Please bring him back to us!  ' The advisor turns
+from you and continues to sob uncontrollably.    
+~
+2058 4224 0 E
+85 -22 -2 1d1+2376 5d9+34
+1275 1836749 0
+8 8 1 5 0
+BareHandAttack: 3
+Att2: 75
+Att3: 40
+E
+#2115
+irgon arch demon~
+the Arch-Demon Irgon~
+The Arch-Demon Irgon emerges from the shadows.
+~
+   Irgon frowns down upon you.  His oily black skin reflects the torchlight.  
+A thick white claw points at you, and he utters, 'prepare to die.  '
+~
+2090 40 -300 E
+95 -27 -4 1d1+2652 5d10+38
+1425 2519512 0
+8 8 0 -1 -1
+Att2: 80
+Att3: 60
+E
+#2116
+scrytin demon~
+Scrytin~
+Scrytin, the demon lord's apprentice, smiles at you.
+~
+   Scrytin looks at you kindly, and suddenly you feel very peacefull and
+relaxed.  You stare directly into his eyes, and feel yourself slipping deeper
+and deeper...  NOOO!!  Scrytin growls, 'Won't become a minion of mine eh?..  
+Then you shall DIE!  '
+~
+2090 40 -300 E
+95 -27 -4 1d1+2652 5d10+38
+1425 2519512 0
+8 8 0 -1 -1
+Att2: 80
+Att3: 45
+E
+#2117
+relnar king~
+Relnar~
+The good king Relnar is here.
+~
+   You look into the eyes of the descendant of Graye, and know now why his city
+is so prosperous and happy.    
+~
+2376 4232 200 E
+100 -30 -5 1d1+2796 5d11+40
+1500 2916487 0
+8 8 1 5 0
+Att2: 85
+Att3: 55
+E
+$

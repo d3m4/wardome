@@ -1,0 +1,700 @@
+AC
+
+"AC" is your armor class.  It is a number from -10 to 10, roughly
+defined as follows:
+
+
+  AC  Roughly equivalent to
+-----------------------------------------------------------
+  10  Naked person
+   0  Very Heavily armored (Plate mail, and "two shields") 
+ -10  Armored battle tank
+
+The score command displays your armor class as a number such as 78/10;
+this means 78 on a scale from -100 to 100 (i.e., 7.8 on the scale from
+-10 to 10.)
+
+See also: SCORE
+#
+AREAS
+
+   This is a listing of the areas available for exploration on this
+CircleMUD.
+
+Limbo                    -- DikuMud
+God Simplex              -- CircleMUD, modified by Taz of Tazmania
+Rome                     -- Onivel of JediMUD
+King Welmar's Castle     -- CircleMUD*
+Newbie Zone              -- Maynard of StrangeMUD
+The High Tower Of Magic  -- Skylar of SillyMUD*
+Midgaard                 -- DikuMUD
+The Three Of Swords      -- C.A.W.
+Miden'Nir                -- Copper II, modified by VampLestat of MercMUD*
+The Chessboard           -- Exxon of SillyMUD
+Mount Moria              -- DikuMUD*
+The Great Eastern Desert -- Rorschach
+The Drow City            -- Rorschach
+The City Of Thalos       -- Rorschach
+The Great Pyramid        -- Andersen of HexOynx*
+New Thalos               -- Duke Of SillyMUD*
+The Haon-Dor Forest      -- DikuMUD, modified by Derkhil of CircleMUD
+The Orc Enclave          -- C.A.W.
+Rand's Tower             -- C.A.W.
+The Dwarven Kingdom      -- DikuMUD
+The Sewers               -- DikuMUD
+Arachnos                 -- Mahatma of HexOynx
+River Island Of Minos    -- Mahatma of HexOynx
+Redferne's Residence     -- DikuMUD, modified by Cyron of VieMUD
+
+All those marked with * have been heavily modified by Furry of VieMUD
+C.A.W. stands for the Curious Areas Workshop.  For more information
+mail furry@viemud.org
+
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > look at board
+  > read 6
+  > remove 6
+
+See also: MAIL, READ, WRITE
+#
+CLERIC
+
+Clerics have an ancient belief in not carrying sharp weapons.  Hence, they can
+only wield bludgeoning weapons.  This class gives you the wisdom of peace,
+blessing and healing, though it is possible to learn more violent spells.
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points.  When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+See also: GROUP, SCORE
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (KILLER)    Player is trying to kill other players.  That means you
+              can try to kill him/her without being flagged.
+  (THIEF)     Player is trying to steal from other players.  Fire away.
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the Gods.
+
+See also: NOSHOUT, NOTELL, QUEST, STEAL, VISIBLE
+#
+GUILD
+
+The Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world.  Each guild is heavily guarded, so that only members
+may enter the building.  Guilds are also the places where people come to
+learn and practice the skills of their trade.
+
+See also: PRACTICE
+#
+HOUSES
+
+Houses have been implemented as of CircleMUD 3.0.  A house entails two things:
+access control and crash protection.  Only you and your guests will be allowed
+to enter the house.  Your house will be crash-saved every five minutes.  You
+can force your house to save by typing 'save' while standing in your house.
+In the event of a crash, the objects in your house as of the last crash-save
+will be loaded back into your house when the MUD reboots.  Also, if you own
+a house, and quit from the game while standing in your house, you will be
+loaded into your house next time you enter the game.
+
+Guests of your house can be defined using the HOUSE command.  See HOUSE for
+more information.
+
+Houses are an alternative to renting.  You can simply enter your house and
+quit; your objects will drop to the ground and be crash-saved for when you
+return.  There is currently no limit to the number of objects which can be
+stored in your house.  Of course, players must expect to pay a much higher
+premium for the convenience of houses; contact your local Implementor for
+a fee schedule.
+
+See also: HOUSE
+#
+IMPLEMENTOR
+
+The most powerful being in existence.
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+
+Specifically, the game will save your equipment while you are logged out.
+There is a daily cost for renting, based on your equipment.  Each item has
+a per diem charge.  The per diem charge is calculated to the nearest second,
+however -- if you rent at the rate of 2400 coins per day, and you come back
+39 hours later, you will be charged 3900 coins.
+
+A CRYOGENIC CENTER will store your items for a one-time charge of four
+days rent.
+
+Rent files are deleted if you run out of money to pay the per diem charges
+or after 30 days.  Cryogenic-rent files are deleted after 60 days.
+
+See also: OFFER, RENT
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+"MAGIC USER" WIZARD MAGE
+
+This is the class of powerful and violent magic, but the magic user do not
+control the nature, and can therefore not bless and such.
+
+You can improve your spells by using the practice command.
+
+See 'help spells' for a list of spells available.
+
+See also: PRACTICE, SPELLS
+#
+MANA
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+See also: SPELLS
+#
+MIDGAARD MAP
+
+                           Temple Altar
+                                 |
+                                 |
+                    Reading -- Temple -- Donations
+                     Room        of
+                              Midgaard     Post   Reception
+                                 |        Office   /
+                  Cleric         |            |  /
+                  Guild----Temple Square----Grunting---Bar
+                             (Fountain)     Boar Inn
+                 Magic           |
+                 Shop   Bakery   |    Grocer  Weaponsmith
+                   |      |      |       |        |        East
+      <---West-----+------+----Market----+--------+--------Gate--->
+          Gate     |      |    Square    |        |         |
+           |     Mage   Armory   |      Pet    Warrior    Wally's
+         (Wall   Guild           |     Shop     Guild    World of Water
+          Road)                  |
+           |                     |                     Uncle Juans's
+           |                     |                           |
+           +-(Poor-Alley)-+----Square----+(Dark-Alley)-------+
+           |              |      |       |        |          |
+           |            Grubby   |    Thieves    Levee   Warehouse
+           |             Inn     |     Guild      |
+         (Wall                  Dump              |
+          Road)           Sewers/                 |
+           |                                      |
+           |                                   Midgaard
+  <=== [Bridge] =============================== River =============>
+           |
+           |
+           +(Concourse)+------------+-------------+----------+
+           |           |            |             |          |
+           |           +            +----Cafe     +---Penny  |
+           |           |    Park--v |             |   Lane   |
+           |   City    |         +--+--+          |          |
+           |  Guard----+----+----+--o--+-----+----+---City   |
+           |     HQ    |                          |   Hall   |
+           |           +            +--(Emerald)--+          |
+      (Concourse)      |            |                   (Concourse)
+           |           +------(Park-+-Road)-------+          |
+           |                        |             |          |
+           |           +--(Emerald)-+             +---Elm    |
+           |           |                          |  Street  |
+           |           +                          +          |
+           |           |                          |          |
+           +-----------+------(Concourse)---------+----------+
+                                                  |
+                                              Graveyard 
+                                              Entrance
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SORCERER
+
+Sorcerer - a master of spells, this class has almost the most useful spells of the mud,
+it just a good class to help your group before the combat.
+
+
+See SKLIST, SPLIST
+
+
+      Class:Sorcerer                       
+Spell                  Level       
+----------------------------
+chill touch            [  3]
+infravision            [  5]
+detect invisibility    [ 10]
+armor                  [ 12]
+detect magic           [ 13]
+detect poison          [ 13]
+burning hands          [ 15]
+strength               [ 17]
+shocking grasp         [ 20]
+mana shield            [ 20]
+blindness              [ 22]
+locate object          [ 25]
+lightning bolt         [ 27]
+color spray            [ 30]
+mana sword             [ 35]
+wall of fog            [ 41]
+sleep                  [ 43]
+enchant weapon         [ 45]
+fly                    [ 48]
+charm person           [ 57]
+fireball               [ 61]
+============================
+Skill                  Level
+----------------------------
+vitalize mana          [  7]
+meditate               [ 20]
+second attack          [ 35]
+pierce                 [ 37]
+pound                  [ 46]
+whip                   [ 50]
+
+
+#
+THIEF THIEVES
+
+Thief - an ugly class, a class dedicated for player killers, contains very useful skills
+like steal and backstab, if well played, turns the class one of the most powerful and 
+killer class of the mud.
+
+
+See SKLIST, SPLIST
+
+
+       Class:Thief
+Skill                  Level
+----------------------------
+sneak                  [  1]
+pick lock              [  5]
+swim                   [  7]
+hide                   [ 10]
+backstab               [ 15]
+second attack          [ 20]
+listen                 [ 22]
+steal                  [ 25]
+track                  [ 30]
+escape                 [ 32]
+pierce                 [ 35]
+first aid              [ 36]
+whip                   [ 37]
+stab                   [ 38]
+second stab            [ 40]
+tumble                 [ 43]
+circle arround         [ 45]
+scan                   [ 50]
+
+
+#
+WARRIOR FIGHTER
+
+Warrior - this class is for that people who likes to be a player killer, the class
+has skills that is very usefulto be greater player killer, skills as bash, third and fourth
+attack, but his int is pretty low.
+
+See SKLIST, SPLIST
+
+       Class:Warrior
+Skill                  Level
+----------------------------
+kick                   [  1]
+slash                  [  5]
+swim                   [  7]
+rescue                 [ 10]
+vitalize health        [ 13]
+track                  [ 15]
+second attack          [ 20]
+bash                   [ 25]
+third attack           [ 30]
+scan                   [ 30]
+whip                   [ 35]
+punch                  [ 37]
+parry                  [ 40]
+dual wield             [ 45]
+combo                  [ 55]
+
+#
+
+NECROMANCER
+
+Necromancer - class like the magic users but use necromantic spells, a pretty cool class
+to play, your enemys can be controlled by you and your spells are very powerful and useful
+against mobs and players.
+
+
+See SKLIST, SPLIST
+
+     Class:Necromancer
+Spell                  Level
+----------------------------
+poison                 [  1]
+curse                  [  5]
+golem                  [  7]
+detect invisibility    [  9]
+energy drain           [ 10]
+blindness              [ 15]
+animate dead           [ 25]
+satan pact             [ 30]
+blood thirst           [ 35]
+damned curse           [ 40]
+charm person           [ 45]
+satanic cure           [ 50]
+end of world           [ 55]
+============================
+Skill                  Level
+----------------------------
+vitalize mana          [  7]
+second attack          [ 20]
+
+#
+PALADINS
+
+Paladins - a good class, fights against the poor people, with good spells of cure that is
+useful during and after the combat, but it isn't a stronger class, if you want to be a player
+killer, it is not the right class.
+
+
+See SKLIST, SPLIST
+       Class:Paladin
+Spell                  Level
+----------------------------
+armor                  [  1]
+cure light             [  5]
+create food            [ 12]
+create water           [ 12]
+bless                  [ 18]
+cure critic            [ 25]
+remove curse           [ 28]
+blindness              [ 32]
+revitalize             [ 35]
+sanctuary              [ 61]
+============================
+Skill                  Level
+----------------------------
+stroke                 [  8]
+second attack          [ 20]
+blast                  [ 30]
+claw                   [ 35]
+pierce                 [ 40]
+third attack           [ 45]
+shield block           [ 50]
+
+
+#
+NINJA
+
+Ninja - a very fast class, skills with fast result and pretty cool to play with the class.
+
+
+See SKLIST, SPLIST
+
+
+Skill                  Level
+----------------------------
+sneak                  [  1]
+hand damage            [  5]
+vitalize health        [  7]
+kick                   [  8]
+escape                 [ 10]
+track                  [ 15]
+second attack          [ 18]
+agility                [ 20]
+harakiri               [ 25]
+white gas              [ 30]
+stab                   [ 35]
+dual wield             [ 35]
+slash                  [ 37]
+third attack           [ 40]
+hit                    [ 40]
+disarm                 [ 45]
+sabre                  [ 50]
+
+#
+RANGER
+
+Ranger - a twisted class, it results in a class with good spells and skills that are very 
+useful at the mud, this is a medium power class, good for newbie players.
+
+
+See SKLIST, SPLIST
+
+       Class:Ranger
+Spell                  Level
+----------------------------
+armor                  [  1]
+magic missile          [  6]
+infravision            [ 10]
+invisibility           [ 15]
+fireshield             [ 28]
+lightning bolt         [ 32]
+entangle               [ 50]
+haste                  [ 55]
+============================
+Skill                  Level
+----------------------------
+track                  [  8]
+swim                   [ 13]
+second attack          [ 18]
+sting                  [ 20]
+first aid              [ 20]
+hide                   [ 30]
+bite                   [ 37]
+crush                  [ 45]
+disarm                 [ 61]
+
+#
+BARBARIAN
+
+Barbarian - like the warrior class, the barbarian is a very strenght class that do not
+think twice before kill another person, to player with this class you will need just
+a shield and a sword, kill before, ask later.
+
+
+See SKLIST, SPLIST
+
+      Class:Barbarian
+Skill                  Level
+----------------------------
+hand damage            [  1]
+vitalize health        [  3]
+slash                  [  5]
+kick                   [ 10]
+second attack          [ 15]
+critical attack        [ 20]
+maul                   [ 20]
+third attack           [ 25]
+headbash               [ 30]
+thrash                 [ 35]
+bludgeon               [ 40]
+fourth attack          [ 45]
+berzerk                [ 50]
+dodge                  [ 55]
+
+#
+SHAMAN
+
+Shaman - this is another util class to play, a class with spells of attack and cure, thetwo kind of magic inside a class.
+
+
+See SKLIST, SPLIST
+
+
+Spell                  Level
+----------------------------
+armor                  [  1]
+chill touch            [  4]
+burning hands          [ 10]
+cure critic            [ 16]
+dispel evil            [ 18]
+group armor            [ 20]
+shocking grasp         [ 25]
+god pact               [ 30]
+bless                  [ 32]
+fire wall              [ 33]
+ice wall               [ 40]
+heal                   [ 45]
+group heal             [ 48]
+fast health            [ 50]
+mana shield            [ 55]
+============================
+Skill                  Level
+----------------------------
+vitalize mana          [ 23]
+second attack          [ 35]
+whip                   [ 40]
+levitate               [ 40]
+sting                  [ 46]
+slash                  [ 50]
+
+#
+WARLOCK
+
+Warlock - same as the others class of spells and skills, contains spells and skills of
+all the races in a class.
+
+
+See SKLIST, SPLIST
+
+      Class:Warlock
+Spell                  Level
+----------------------------
+magic missile          [  1]
+armor                  [  5]
+invisibility           [  7]
+shocking grasp         [ 10]
+strength               [ 15]
+enhanced armor         [ 20]
+mana shield            [ 25]
+haste                  [ 30]
+force shield           [ 35]
+teleport               [ 40]
+icestorm               [ 47]
+meteorstorm            [ 50]
+firestorm              [ 53]
+clone                  [ 55]
+fireball               [ 61]
+============================
+Skill                  Level
+----------------------------
+meditate               [ 20]
+stab                   [ 32]
+pierce                 [ 35]
+levitate               [ 37]
+whip                   [ 43]
+
+
+#
+PCIONISCIST 
+
+Pcioniscist - an other fun class to play, and very powerful too, very good spells
+that can be useful before and after the fight.
+
+
+See SKLIST, SPLIST
+
+     Class:Pcioniscist
+Spell                  Level
+----------------------------
+infravision            [  1]
+detect invisibility    [  3]
+detect alignment       [  5]
+illusion               [  7]
+detect poison          [ 10]
+burning hands          [ 12]
+invisibility           [ 15]
+locate object          [ 18]
+sense life             [ 23]
+lightning bolt         [ 25]
+sleep                  [ 38]
+mental rage            [ 40]
+charm person           [ 45]
+fly                    [ 50]
+teleport               [ 55]
+============================
+Skill                  Level
+----------------------------
+meditate               [ 30]
+second attack          [ 33]
+levitate               [ 42]
+
+
+
+#
+CIRCLE CIRCLEMUD CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink and George Greer, for submitting a veritable mountain of
+     excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, David Carver
+     for porting it to OS/2, and Jack Patton and Steffen Haeuser for the
+     Amiga port.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+  -- Jules (hamotek sheli) for being the greatest.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.circlemud.org or ftp2.circlemud.org in pub/CircleMUD
+ To report bugs:  bugs@circlemud.org
+    To get help:  help@circlemud.org
+            URL:  http://www.circlemud.org/
+   Mailing List:  listserv@post.queensu.ca
+                  (write "subscribe circle <first name> <last name>")
+
+--Jeremy Elson (jelson@circlemud.org)
+#
+$

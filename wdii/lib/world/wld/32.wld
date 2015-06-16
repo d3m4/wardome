@@ -1,0 +1,415 @@
+#3200
+A Grassy Field~
+   You are travelling across a great grassy field.  The wind blows softly,
+causing the ripe ends of the grass stalks to bob lazily back and forth.  To the
+north you spy what appears to be some sort of temple, its great white walls
+blazing with the light of the sun.    
+~
+32 16777216 2
+D0
+   You see the entrance to the temple.    
+~
+~
+0 0 3201
+D2
+~
+~
+0 0 3578
+E
+grass~
+   Looks like an average grass stalk.  You pluck one and put it in your mouth.
+  
+~
+S
+#3201
+Before the Temple~
+   The dazzling white stone walls of the temple momentarily blind you.  Great
+columns are spaced evenly around the perimeter of the temple, and an arch
+beckons you inside.    
+~
+32 0 0
+D0
+~
+~
+0 0 3202
+D2
+~
+~
+0 0 3200
+S
+#3202
+Under the Arch~
+   Your eyes slowly adjust to the level of darkness under the protective shade
+of the arch.  To the north is a great marble door, which seems to be the best
+way to get inside the temple.  "Why the;heck to I want to go in there ?", you
+think to yourself.  You shrug your shoulders and suddenly get the feeling that
+you are being watched.    
+~
+32 0 0
+D0
+~
+marble door~
+1 3205 3204
+D2
+~
+~
+0 0 3201
+E
+marble~
+   It is a remarkably well polished marble door.    
+~
+S
+#3203
+The Temple~
+   The echo of you footsteps reverberates through the temple.  Everything is
+white, the tiled floor, the walls, the ceiling.....    
+~
+32 0 0
+D0
+~
+~
+0 0 3206
+D1
+~
+~
+0 0 3204
+S
+#3204
+The Temple~
+   The echo of your footsteps reverberates through the temple.  Everything is
+white, the tiled floors, the walls, the ceiling.....    
+~
+32 0 0
+D1
+~
+~
+0 0 3205
+D2
+~
+marble door~
+1 3205 3202
+D3
+~
+~
+0 0 3203
+S
+#3205
+The Temple~
+   The echo of your footsteps reverberates through the temple.  Everything is
+white, the tiled floor, the walls, the ceiling.....    
+~
+32 0 0
+D0
+~
+~
+0 0 3208
+D3
+~
+~
+0 0 3204
+S
+#3206
+The Temple~
+   The echo of your footsteps reverberates through the temple.  Everything is
+white, the tiled floor, the walls, the ceiling.....    
+~
+32 0 0
+D0
+~
+~
+0 0 3209
+D1
+~
+~
+0 0 3207
+D2
+~
+~
+0 0 3203
+S
+#3207
+The Atrium and Gardens~
+   Beautiful green plants wind around bamboo poles here, leaves outfolded to
+catch the sun's rays coming in from the open sky.  The smell of rich dark earth
+overwhelms your senses, and a small brook winds beneath your feet.    
+~
+32 0 0
+D0
+~
+~
+0 0 3210
+D1
+~
+~
+0 0 3208
+D3
+~
+~
+0 0 3206
+E
+brook~
+   What a nice little bubbling brook!    
+~
+S
+#3208
+The Temple~
+   The echo of your footsteps reverberates through the temple.  Everything is
+white, the tiled floor, the walls, the ceiling.....    
+~
+32 0 0
+D0
+~
+~
+0 0 3211
+D2
+~
+~
+0 0 3205
+D3
+~
+~
+0 0 3207
+S
+#3209
+The Stairwell~
+   There is a beautiful curving stairwell leading upwards.  It seems to have
+been carved directly from stone.    
+~
+32 0 0
+D2
+~
+~
+0 0 3206
+D4
+~
+~
+0 0 3212
+E
+stairwell~
+   A work of great craftmanship!    
+~
+S
+#3210
+The Temple~
+   The echo of your footsteps reverberates through the temple.  Everything is
+white, the tiled floor, the walls, the ceiling.....  There is a nice framed
+sign on the north wall.    
+~
+32 0 0
+D2
+~
+~
+0 0 3207
+E
+sign~
+          *-*-* Temple of the Bull *-*-*
+          *                            *
+          *        Written by:         *
+          *    Aten of GenericMUD      *
+          *        March 1994          *
+          *                            *
+          *       Modified to          *
+          *        Wardome Mud         *
+          *        By Heimdall         *
+          *                            *
+          *-*-*-*-* o==[=====- *-*-*-*-*
+~
+S
+#3211
+The Stairwell~
+   There is a beautiful curving stairwell leading upwards.  It seems to have
+been carved directly from stone.    
+~
+32 0 0
+D2
+~
+~
+0 0 3208
+D4
+~
+~
+0 0 3214
+S
+#3212
+The Upper Temple~
+   You find yourself in a small room atop the stairs.  Strangely enough, this
+part of the temple has decorations.  The walls are covered with murals and
+furs.  A corridor leads off the the south, and the stairs offer a retreat
+downwards.    
+~
+32 0 0
+D2
+~
+~
+0 0 3215
+D5
+~
+~
+0 0 3209
+E
+mural~
+   The mural shows a great shaggy beast with two pointed horns.    
+~
+E
+fur~
+   The fur is brown, short, and coarse.    
+~
+S
+#3213
+Mateon's Chamber~
+   You find yourself in a small, cramped chamber.  A window is set in the north
+wall, and a sturdy oak door is to the west.    
+~
+32 0 0
+D1
+~
+door oak~
+1 3206 3214
+E
+window~
+   The window overlooks a grassy field.    
+~
+S
+#3214
+The Upper Temple~
+   You find yourself atop a flight of stairs.  A sturdy oak door is to the
+west, a corridor leads south, and the stairs offer a path downwards.    
+~
+32 0 0
+D2
+~
+~
+0 0 3217
+D3
+~
+door oak~
+1 3206 3213
+D5
+~
+~
+0 0 3211
+S
+#3215
+The Corridor~
+   You are standing in a drafty corridor.  There is a window set in the west
+wall, and a balcony to the east protects you from falling down into the
+gardens.    
+~
+32 0 0
+D0
+~
+~
+0 0 3212
+D2
+~
+~
+0 0 3218
+E
+balcony~
+   Its a simple piece of polished wood.  You can see the gardens below.    
+~
+E
+window~
+   The window overlooks a grassy field.    
+~
+S
+#3216
+Aten's Chamber~
+   You are standing in a comfortable chamber.  Sunlight streams in the the open
+windows, and a warm spring breeze ruffles your hair.  Thick furs cover the
+stone walls and floor.  A stained oak table dominates the center of the room,
+and couches line the walls.  You look out the window and are vaguely surprised
+that you can't see the ground.    
+~
+32 0 0
+S
+#3217
+The Corridor~
+   You are standing in a drafty corridor.  There is a window set in the east
+wall, and a balcony to the west protects you from falling into the gardens.  
+
+~
+32 0 0
+D0
+~
+~
+0 0 3214
+D2
+~
+~
+0 0 3220
+E
+window~
+   The window looks down upon a grassy field.    
+~
+E
+balcony~
+   Its a simple piece of polished wood.  You can see the gardens below.    
+~
+S
+#3218
+The Cul-de-Sac~
+   The corridor comes to an abrupt halt here, and the only exit appears to be
+back the way you came.    
+~
+32 0 0
+D0
+~
+~
+0 0 3215
+S
+#3219
+The Bull's Chamber~
+   This room is in TOTAL dissaray.  Items seem to have been swept of the room's
+numerous shelves and just dumped on the floor.  The room has an unfamiliar
+smell, and you wrinkle your nose in disgust.  An great sliding window is open
+to the south and leads to the balcony, and a heavy iron door is to the east.  
+
+~
+32 0 0
+D1
+~
+door heavy iron~
+1 3207 3220
+D2
+~
+~
+0 0 3221
+E
+shelves~
+   The shelves have been swept clean.    
+~
+E
+window~
+   Its a great, big walk-through window.    
+~
+S
+#3220
+The Dark Chamber~
+   You are in a shadowy chamber, and the hairs at the back of your neck begin
+to rise.  There is so little light in this room that you start to imagine
+things..  Or do you?  You know for certain that you spotted a door to the west
+when you first entered.    
+~
+32 0 0
+D0
+~
+~
+0 0 3217
+D3
+~
+door heavy iron~
+1 3207 3219
+S
+#3221
+The Balcony~
+   You sense that you have reached journey's end.  The balcony overlooks a
+great grassy field.  The sun's rays blind you, and you hear a snort.    
+~
+32 0 0
+D0
+~
+~
+0 0 3219
+S
+$~

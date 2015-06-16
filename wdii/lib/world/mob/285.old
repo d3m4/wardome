@@ -1,0 +1,295 @@
+#28500
+citizen Atlantis~
+the Atlantis Citizen~
+A Atlantis citizen is here, hurrying through streets.
+~
+You see a rather ragged Atlantis. It appears that it is
+in too much of a hurry to stop and chat.
+~
+8 0 0 E
+105 -32 -5 1d1+2145 1d107+52
+5085 2933896 0
+8 8 0 -1 10
+Att2: 98
+Att3: 44
+E
+#28501
+guard Atlantis~
+the Atlantis Guard~
+A Atlantis guard patrols the area.
+~
+This Atlantis is not too happy at your appearance in his
+beloved city.
+~
+8 0 0 E
+115 -37 -7 1d1+2455 1d117+57
+5835 3808250 0
+8 8 0 -1 10
+Att2: 100
+Att3: 50
+E
+#28502
+warrior Atlantis~
+the Atlantis Warrior~
+A Atlantis warrior is here looking for trouble.
+~
+You see a huge, musclebound Atlantis that is covered in blood. The 
+very sight of him makes you cringe in terror. 
+~
+8 0 0 E
+115 -37 -7 1d1+2455 1d117+57
+5835 3808250 0
+8 8 0 -1 10
+Att2: 100
+Att3: 50
+E
+#28503
+Atlantis gatekeeper~
+the Atlantis Gatekeeper~
+A Atlantis is here guarding the Keep of Atlantiss.
+~
+The Atlantis stands rigidly before the gates of the keep. It looks 
+quite miserable, but then again with the recent layoffs and the lousy 
+health benefents, so would you.
+~
+8 0 0 E
+125 -42 -8 1d1+2775 1d127+62
+6610 4840761 0
+8 8 0 -1 10
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#28504
+7~
+the High Atlantis Guard~
+The high Atlantis guard is here guarding the Keep.
+~
+The high guard is dressed in glittering armor. He looks quite dangerous 
+and skilled.
+~
+74 0 0 E
+130 -45 -9 1d1+2940 1d132+65
+7010 5420427 0
+8 8 0 -1 10
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#28505
+Atlantis royal guard~
+the Royal Atlantis Guard~
+The royal Atlantis guard orders you to leave at once.
+~
+The royal guard is quite huge. He is dressed in magnicifant armor.  He 
+does not like pests.
+~
+8 0 0 E
+125 -42 -8 1d1+2775 1d127+62
+6610 4840761 0
+8 8 0 -1 10
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#28506
+guard Atlantis elite~
+the Elite Atlantis Guard~
+The elite Atlantis guard watches your every move.
+~
+This Atlantis does not look like the talkative type, better leave him alone.
+~
+8 0 0 E
+125 -42 -8 1d1+2775 1d127+62
+6610 4840761 0
+8 8 0 -1 10
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#28507
+woman haremgirl harem slave~
+Atlantis Woman~
+A Atlantis Woman cowers here in fear.
+~
+She looks quite attractive. Her low cut gown reveals why she was chosen 
+to be in the harem.
+~
+8 0 0 E
+125 -42 -8 1d1+2775 1d127+62
+6610 4840761 0
+8 8 0 -1 10
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#28508
+butler Atlantis~
+the Atlantis Ranger~
+A Atlantis Ranger stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a Atlantis.
+~
+8 0 0 E
+125 -42 -8 1d1+2775 1d127+62
+6610 4840761 0
+8 8 0 -1 10
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#28509
+keeper Atlantis keymaster~
+the Atlantis Holy Kepper~
+The Atlantis Holy Kepper stands guarding his post.
+~
+He looks mean......what more is there to say?
+~
+74 0 0 E
+140 -50 -11 1d1+3278 1d142+70
+7830 6714781 0
+8 8 0 -1 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28510
+Atlantis master warrior~
+Atlantis Master of Warrior~
+The Master of Warriors, is here practicing his skills.
+~
+This warrior is HUGE. His muscles are bigger than you!
+~
+90 16777384 0 E
+140 -50 -11 1d1+4000 1d142+100
+8000 6714781 0
+8 8 0 3 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28511
+Atlantis Master of Mages~
+Atlantis Master of Mages~
+The Master of Mages, stands here grinning wickedly.
+~
+This mage is a living incarnation of evil. He radiates a dark aura, and 
+a cold chill runs down your spine.
+~
+74 16777384 0 E
+140 -60 -11 1d1+4000 1d142+80
+8000 6714781 0
+8 8 0 0 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28512
+Atlantis Master of Clerics~
+Atlantis Master of Clerics~
+The Master of Clerics, is here worshipping silently.
+~
+The Atlantis incarnation of good. You feel safe and at ease in 
+his presence. 
+~
+74 16777384 0 E
+140 -60 -11 1d1+4000 1d142+80
+8000 6714781 0
+8 8 0 1 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28513
+godzilla sea~
+GodZilla~
+Godzilla gonna show you the quit menu!
+~
+The sea killer. GODZILLA WILL $%#&?* YOU!
+~
+8314 16777392 0 E
+140 -50 -11 1d1+4000 1d142+70
+8000 6714781 0
+8 8 0 8 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28514
+Atlantis Avatar~
+Avatar of Atlantis~
+the Atlantis Avatar is here looking hungry.
+~
+He is another good-hearted soul. 
+~
+90 17825960 0 E
+150 -70 -11 1d1+4100 1d142+90
+8500 6714781 0
+8 8 0 -1 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28515
+Atlantis General of War~
+Atlantis Generalof War~
+The Atlantis General of War is here studying the arts of swords.
+~
+The General is quite a nasty looking Atlantis. 
+~
+74 16777384 0 E
+140 -60 -11 1d1+4000 1d142+80
+8000 6714781 0
+8 8 0 3 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28516
+Atlantis Master of Thieves~
+Atlantis Master of Thieves~
+The Atlantis Thief, looks unhappy about having visitors.
+~
+This Atlantis looks quite agile and thin, when compared to
+the normal Atlantis. He looks at you with a slight smirk.
+~
+74 17301672 0 E
+140 -80 -11 1d1+4000 1d142+75
+8500 6714781 0
+8 8 0 2 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28517
+Atlantis Master of Gladiators~
+Atlantis Master of Gladiators~
+The Gladiator is here , greedily keeps track of his kombat.
+~
+Gladiator is tall and slender, unlike most Atlantiss. 
+~
+74 16810152 0 E
+140 -70 -11 1d1+4300 1d142+95
+8000 6714781 0
+8 8 0 10 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28518
+Atlantis Master of Masters~
+Atlantis Master of Masters~
+The Atlantis Supreme Master, is here looking down at you.
+~
+Master towers above you. He is simply huge. You can see why he is 
+the leader of the Atlantiss. 
+~
+65610 58757304 0 E
+160 -50 -11 1d1+5000 1d142+120
+10000 6714781 0
+8 8 0 5 10
+Att2: 100
+Att3: 68
+Att4: 18
+E
+$

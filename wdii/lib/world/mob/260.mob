@@ -1,0 +1,94 @@
+#26000
+bjorn shopkeeper shop keeper~
+Bjorn~
+Bjorn the shopkeeper is here melting and forging some artifacts.
+~
+Bjorn is a massive muscle shopkeeper.  He forges weapons with the same facility
+that he could break your neck.  He sells some powerful stuffs for war here.  
+
+~
+3661834 1636860072 1000 E
+200 -80 -20 1d1+21600 10d41+80
+3000 34652576 10
+8 8 0 10 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 26000
+#26095
+Kasham~
+Kasham~
+Kasham this here facing you.
+~
+It looks unfinished.
+~
+3342346 1636893824 0 E
+200 -230 -20 1d1+100000 50d50+250
+3000 34652576 10
+8 8 2 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#26096
+Boss Spy~
+Boss Spy~
+A boos spy is here observing you.
+~
+It looks unfinished.
+~
+3342346 1636893824 0 E
+200 -105 -20 1d1+75000 25d25+125
+3000 34652576 10
+8 8 2 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#26097
+Geographer~
+Geographer~
+A Geographer is here studando some maps.
+~
+It looks unfinished.
+~
+3342346 1636893824 0 E
+100 -30 -5 1d1+50000 10d21+40
+1500 4666379 10
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#26098
+Archeologist~
+Archeologist~
+An Archaeologist is here studying some old bones.
+~
+It looks unfinished.
+~
+3342346 1636893824 0 E
+100 -30 -5 1d1+10800 10d21+40
+1500 4666379 10
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#26099
+spy~
+Spy~
+A spy is here observing you.
+~
+It looks unfinished.
+~
+3342378 1636893824 0 E
+100 -30 -5 1d1+25000 10d21+40
+1500 4666379 10
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

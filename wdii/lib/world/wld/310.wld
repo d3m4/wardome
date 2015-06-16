@@ -1,0 +1,104 @@
+#31000
+Entrance to The Etna Mountain~
+   This is the entrance to the Etna Mountain, the mountain is huge,
+and its peak pass the clouds, probably touch the sky. The Titans used
+this mountain to climb the sky and depose Jupiter. Here is the Guardian
+protecting the mountain from invaders.
+Exits goes Up and DOWN ????.
+~
+310 4736 1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#31001
+On the Beginning of the Path~
+   This is the beginning of the mountain, here was placed one fountain to
+quench the Titans thirst on the climbing. When you look up you see a
+huge mountain, it goes under the clouds.
+Exits goes Up and Down.
+~
+310 133 1
+D4
+~
+~
+0 0 31002
+D5
+~
+~
+0 0 31000
+S
+#31002
+Temple of Cronus~
+   This is a huge temple, with columns and statues of the Titans. Here was
+the place where the Titans rested during the great journey to the heaven.
+Here you can sleep or meditate during your escalation.
+Exits goes Up and Down.
+~
+310 1048708 1
+D4
+~
+~
+0 0 31004
+D5
+~
+~
+0 0 31001
+S
+#31004
+Mnemosyne's Shop~
+   This is where Mnemosyne decided wait while the Titans depose Jupiter.
+After Mnemosyne builded a house here. Mnemosyne's son still living here
+and trade things to make money to live. 
+Exits goes Up and Down.
+~
+310 144 1
+D4
+~
+~
+0 0 31005
+D5
+~
+~
+0 0 31002
+S
+#31005
+Crius's Board~
+   When Crius reach this point he writted on a stone board a message to the
+other Titans, telling then de path to the sky. The Stone Board still here
+and some other peoples writted other messages on it.
+Exits goes Down.
+~
+310 132 1
+D4
+Gate
+~
+gate~
+1 0 31006
+D5
+~
+~
+0 0 31004
+S
+#31006
+Hyperion Deposit~
+   Here Hyperion droped his things to release weight to reach the sky and
+depose Jupiter. Now this place is used to communion of things. Peoples come
+here to drop things useless and get other things. Here you can drop things
+to help other clan members and get things who'll help you in your journey.
+There only one exit here, it leaves Down. The passage to Up was sealed by
+Jupiter when he recovered the trone.
+~
+310 6788 1
+D5
+Gate
+~
+gate~
+1 0 31005
+S
+$~

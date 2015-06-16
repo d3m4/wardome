@@ -1,0 +1,1931 @@
+#20200
+The south gate of Dimrill Dale~
+You have reached the south gate of Dale.  The gate has been braced with every
+spare piece of metal and wood in the town.  The gate is about twenty feet tall
+and is all that stands in the way of the howling orcs, you can hear them very
+clearly right now.  Occasionally someone will come carrying some miscellaneous
+item and wedge it into the mass already supporting the gate.  To the east is
+King Brand's house.    
+~
+202 9 1
+D0
+~
+~
+0 0 20209
+D1
+~
+~
+0 0 20201
+D2
+~
+~
+0 0 20248
+S
+#20201
+In front of the king's house~
+You are standing in front of a very big house.  Not quite large enough to be
+called a castle, but large enough to make it clear that no ordinary person
+lives here.    
+~
+202 9 1
+D3
+~
+~
+0 0 20200
+D4
+~
+~
+0 0 20202
+S
+#20202
+Entrance hall~
+The entrance of the house is a medium-sized, sparsely decorated room.  The
+floor is made of finely polished marble, plain draperies adorn the walls, and
+some benches stand in the center of the room.  It is here that the many
+visitors are welcomed, however not all are let through into the house itself.
+  
+~
+202 9 1
+D2
+~
+~
+0 0 20203
+D5
+~
+~
+0 0 20201
+S
+#20203
+The waiting hall~
+This hall is a huge chamber, decorated in a lavish way.  Twin rows of big
+marble pillars support the roof.  A big carpet covers the marble floor, many
+paintings hang on the walls.  Some tables accompanied by numerous chairs stand
+scattered around the room.    
+~
+202 9 1
+D0
+~
+~
+0 0 20202
+D1
+~
+door~
+2 20203 20204
+D3
+~
+~
+0 0 20205
+S
+#20204
+The armoury~
+This armoury was the showcase for the King's extensive weapons collection.
+
+Now it looks like it has been ransacked.  Racks that used to hold swords are
+now empty, hooks that were meant to carry armour are doubly so.  Big display
+cases that held the most rare weapons are now devoid of them.  In their search
+for weapons, the defenders of Dale must have thrown caution to the wind and
+have destroyed most of the display stands.  Broken racks, cases, chairs and all
+sorts of rubble lie strewn around the room.  The only thing that has been left
+untouched is a large mirror fixed to one of the walls.
+~
+202 9 1
+D3
+~
+door~
+2 20203 20203
+S
+#20205
+A passageway~
+Were it not for the absence of any other passages, you would be in a maze of
+twisty little passages, all alike.  This one passage is quite long, and twisty
+enough to confuse your sense of orientation.    
+~
+202 9 1
+D1
+~
+~
+0 0 20203
+D3
+~
+~
+0 0 20206
+S
+#20206
+Another passageway~
+This part of the passageway is rather straight, and stops abruptly a few feet
+in front of you.  Also right in front of you is a very very long staircase,
+winding up, up, up, you can't even see the top...    
+~
+202 9 1
+D1
+~
+~
+0 0 20205
+D4
+~
+~
+0 0 20207
+S
+#20207
+The middle of a stairway~
+You're resting on a long stairway.  The stairway is very very long, and you're
+just about in the middle.  You can see what must be the ceiling a long long way
+up.  You can also see the floor, a long, long way down.  Not much else to see
+really...    
+~
+202 9 1
+D4
+~
+~
+0 0 20208
+D5
+~
+~
+0 0 20206
+S
+#20208
+In the top room of a tall watch tower~
+You stand in the uppermost room of a stone watch tower.  The room is plain and
+very small.  There is a window in the southern section of the wall that looks
+out on the open ground around Dale--ground now covered by the beseiging army of
+orcs and easterlings.  A large rug covers the stone floor below the window.  
+Behind you, the floor opens onto the stairs that lead down.  The roof of the
+tower is low above your head, conical in shape and made of rough wood.  A plain
+chair sits against the wall.    
+~
+202 9 1
+D5
+~
+~
+0 0 20207
+S
+#20209
+Main street~
+You stand near town square on Main street.  The street is cold and empty, all
+the houses and buildings along the street are barred and locked on every entry.
+The city is filled with fear of the orcs.  Standing on the street you feel
+vulnerable to orcs.  You'd feel much safer standing inside somewhere.    
+~
+202 9 1
+D0
+~
+~
+0 0 20218
+D1
+~
+~
+0 0 20214
+D2
+~
+~
+0 0 20200
+D3
+~
+~
+0 0 20210
+S
+#20210
+Ochurst street~
+You stand half way along on Ochurst street.  The street is cold and empty, all
+the houses and buildings along the street are barred and locked on every entry.
+The city is filled with fear of the orcs.  Standing on the street you feel
+vulnerable to orcs.  You'd feel much safer standing inside somewhere.    
+~
+202 9 1
+D1
+~
+~
+0 0 20209
+D3
+~
+~
+0 0 20211
+S
+#20211
+Ochurst street~
+You stand near the wall on Ochurst street.  The street is cold and empty, all
+the houses and buildings along the street are barred and locked on every entry.
+The city is filled with fear of the orcs.  Standing on the street you feel
+vulnerable to orcs.  You'd feel much safer standing inside somewhere.    
+~
+202 9 1
+D0
+~
+~
+0 0 20212
+D1
+~
+~
+0 0 20210
+S
+#20212
+A Waiting Room~
+You stand in a nice room, decorated mostly with plants.  The floor is clean,
+the walls are clean, it's generally a nice clean room.  It must be some sort of
+waiting room, as you see no purpose but the door on the north wall.    
+~
+202 9 1
+D0
+~
+~
+0 0 20213
+D2
+~
+~
+0 0 20211
+S
+#20213
+A poker table~
+You are sitting in a comfy velvet covered chair.  Before you is a small wooden
+table, lit by several dim lamps, across the table sits a man, partially
+enshrouded in darkness.  To one side of you, sits a dealer holding a deck of
+cards firmly in one hand, the other hand rests on a box.    
+~
+202 9 1
+D2
+~
+~
+0 0 20212
+S
+#20214
+A park~
+You stand in the middle of a park.  There are many young trees planted in the
+grass, each tree is covered in healthy green leaves.  You notice the exit to
+the park is to the west and that to the north is a giant sandbox with lots of
+playground equipment.    
+~
+202 9 1
+D0
+~
+~
+0 0 20215
+D1
+~
+~
+0 0 20217
+D3
+~
+~
+0 0 20209
+S
+#20215
+A play ground~
+You stand in a large sandbox.  All around the sandbox is park and trees.  Yet
+here your shoes fill with sand and other interesting things that are buried
+under the sand.  There are many different types of toys here, from a HUGE
+playground house to swings, and slides.  All around you, bratty children scream
+as they chase each other around in multiple games of tag and hide and seek.  
+As you look at the scene you think back to the fun times you had as a kid, when
+evil orcs were not trying to kill you and towns did not need walls to keep out
+evil creatures.    
+~
+202 9 1
+D1
+~
+~
+0 0 20216
+D2
+~
+~
+0 0 20214
+S
+#20216
+A park~
+You stand in the middle of a park.  The grass is green and the trees are
+covered in leaves.  A large drainage grate is covered with moss.  As you look
+around you notice that a group of eight guards are coming your way.    
+~
+202 9 1
+D2
+~
+~
+0 0 20217
+D3
+~
+~
+0 0 20215
+S
+#20217
+A park~
+You stand in the middle of the park.  The grass is green and the trees are
+covered with leaves.  You see mothers carefully watching over their children as
+they run about the park at play.  You notice that none of the kids go north and
+that there are 8 guards there.    
+~
+202 9 1
+D0
+~
+~
+0 0 20216
+D3
+~
+~
+0 0 20214
+S
+#20218
+Town square~
+You stand on the convergence of several streets, all of which were probably
+once busy centers of commerce.  Now, nothing more than the occasional insect
+scuttles across the street.  In the center of the crossing stands a joyful
+fountain.  The cool water bubbles out of the top, and gurgles happily down
+several tiers before splashing into the basin.  It lightens your spirit just
+looking at it.    
+~
+202 9 1
+D0
+~
+~
+0 0 20222
+D1
+~
+~
+0 0 20223
+D2
+~
+~
+0 0 20209
+D3
+~
+~
+0 0 20219
+S
+#20219
+Veriol Street~
+You stand near the town square on Veriol Street.  The street is cold and empty,
+all the houses and buildings along the street are barred and locked on every
+entry.  The city is filled with fear of the orcs.  Standing on the street you
+feel vulnerable to orcs.  You'd feel much safer standing inside somewhere.    
+~
+202 9 1
+D0
+~
+~
+0 0 20221
+D1
+~
+~
+0 0 20218
+D3
+~
+~
+0 0 20220
+S
+#20220
+Veriol Street~
+You stand by the wall on Veriol Street.  The street is cold and empty, all the
+houses and buildings along the street are barred and locked on every entry.  
+The city is filled with fear of the orcs.  Standing on the street you feel
+vulnerable to orcs.  You'd feel much safer standing inside somewhere.    
+~
+202 9 1
+D1
+~
+~
+0 0 20219
+S
+#20221
+A fortified bank~
+This building is one of the few that remain open in this besieged city.  From
+the layout, you can tell that it is the bank for the citizens who have chosen
+to entrust their valuables to the King's guard.  The man sitting behind the
+highly fortified counter is the only one brave enough to work here.  A large
+brass sign is mounted on the wall to the right of the man.    
+~
+202 9 1
+D2
+~
+~
+0 0 20219
+S
+#20222
+The north gate of Dimrill Dale~
+You have reached the north gate of Dale.  The gate has been braced with every
+spare piece of metal and wood in the town.  The gate is about twenty feet tall
+and is all that stands in the way of the howling orcs, you can hear them very
+clearly right now.  Occasionally someone will come carrying some miscellaneous
+item and wedge it into the mass already supporting the gate.    
+~
+202 9 1
+D2
+~
+~
+0 0 20218
+S
+#20223
+Veriol Street~
+You stand near the town square on Veriol Street.  The quality of the street
+here is degrading quickly, you can see that it's gone from a vacant clean
+street to a street inhabited by small bits of garbage and probably smaller
+things too (most of which is garbage).  To the east the street continues to get
+trashier and looking more like a dump.    
+~
+202 9 1
+D1
+~
+~
+0 0 20224
+D3
+~
+~
+0 0 20218
+S
+#20224
+A bloody street~
+You stand on a bloody street, obviously the site of a recent fight.  Light
+shimmers off pools of blood around the houses...  If you choose to call four
+wooden poles with straw thatch atop them a house.    
+~
+202 9 1
+D1
+~
+~
+0 0 20225
+D2
+~
+~
+0 0 20231
+D3
+~
+~
+0 0 20223
+S
+#20225
+The common room of a small house~
+You stand in the common room of a small, square house.  A partition separates
+this room from the only other in the house, which appears to be a sleeping
+area.  This room is used primarily for meals: a pot sits on a grate over the
+fire pit.    
+~
+202 9 1
+D0
+~
+~
+0 0 20226
+D1
+~
+~
+0 0 20227
+D3
+~
+~
+0 0 20224
+S
+#20226
+A sleeping room~
+Pulling aside the curtain of skins that hangs between the common room and this
+sleeping area, you step into the crowded space.  You find a bed and a small
+wooden chest.  By the looks of the house, there is probably nothing worthwhile
+in the chest.    
+~
+202 9 1
+D2
+~
+~
+0 0 20225
+S
+#20227
+A battle-stricken street~
+All along this cobbled road is the gore of recent battle.  This part of town
+was clearly in the thick of the fighting.  The grass along the sides of the
+road was probably once very nice, but has now been trampled under the harsh
+feet of war.  A small house sits to the west, and a tent is to the east.    
+~
+202 9 1
+D0
+~
+~
+0 0 20229
+D1
+~
+~
+0 0 20228
+D3
+~
+~
+0 0 20225
+S
+#20228
+Inside a tent~
+This army tent houses soldiers of Dimrill Dale.  Right now it is abandoned, as
+all the soldiers are out on the walls attempting to fend off the orc and
+easterling armies surrounding the city.  Battle plans are strewn out on the
+ground here--these should not be laying about like this!    
+~
+202 9 1
+D3
+~
+~
+0 0 20227
+S
+#20229
+A cobblestone road~
+You walk along a cobbled road.  As you do, you notice it is getting bumpier and
+less even.  Tents have been erected along both sides of the road.  Most of them
+are showing wear, and even a few rips.  You have heard rumours that Dale's
+defenses are breaking down and orc scouts have been spotted inside the walls.
+To your north is the defensive wall that protects you and the citizens of Dale
+from the brunt of the war.    
+~
+202 9 1
+D1
+~
+~
+0 0 20230
+D2
+~
+~
+0 0 20227
+S
+#20230
+Inside a tent~
+You stand inside a tent that is covered in ash, dirt and little bits of iron.
+You notice chipped and broken remains of swords and other weapons: too bad they
+are all rusted and broken, of no use now.  Over in one corner a small forge
+sits under a hole cut into the greasy fabric to let smoke and heat out.    
+~
+202 9 1
+D3
+~
+~
+0 0 20229
+S
+#20231
+A filthy intersection~
+You stand at a crossroads cluttered with debris.  Something is moving about to
+the east, but you can not quite make out what it is.  The road to the north
+bends west after a bit.  The road leading west passes between two rows of
+buildings.  The road to the south is just as trash-littered as this
+intersection.    
+~
+202 9 1
+D0
+~
+~
+0 0 20224
+D1
+~
+~
+0 0 20232
+D2
+~
+~
+0 0 20236
+D3
+~
+~
+0 0 20233
+S
+#20232
+A dead end~
+The alley ends abruptly.  If someone or something was here earlier, it left no
+trace.  You are walled in on three sides looks like your only exit is back the
+way you came.    
+~
+202 9 1
+D3
+~
+~
+0 0 20231
+S
+#20233
+A dark alley~
+You find yourself in a more battle-stricken part of the town.  Dead bodies line
+the alley, both human and others.  To the north is nothing but a tall towering
+wall of an inn, also decorated with corpses hanging out of windows.    
+~
+202 9 1
+D1
+~
+~
+0 0 20231
+D3
+~
+~
+0 0 20234
+S
+#20234
+A dark alleyway~
+You stand in a narrow street between the brick walls of two buildings to the
+south and north.  There is a sign on the wall to the north beside a door that
+is completely boarded up.  Far above you on the north wall is a window chipped
+roughly out of the brick wall.    
+~
+202 9 1
+D1
+~
+~
+0 0 20233
+D3
+~
+~
+0 0 20235
+S
+#20235
+A dark alleyway~
+You walk along a dull and trashy street.  Alongside the road a strange fungus
+clings to the brick walls of an old inn.  The inn seems to have several bricks
+missing in what seem to be key points of the structure.    
+~
+202 9 1
+D1
+~
+~
+0 0 20234
+D5
+~
+~
+0 0 20245
+S
+#20236
+A trashy street~
+You step carefully around piles of garbage as you walk down this street.  This
+area seems to be the uptown of the slums, as houses are made out of old wooden
+planks probably stolen from the nicer parts of Dimrill Dale.  To your west is
+what was a fine jewelry shop.  Now, as all of Dimrill Dale's forces are gone
+fighting the evil armies, it has been broken into and most of it is in pieces.
+  
+~
+202 9 1
+D0
+~
+~
+0 0 20231
+D2
+~
+~
+0 0 20238
+D3
+~
+~
+0 0 20237
+S
+#20237
+A busted-up jewelry shop~
+You step through a carpet of glass and wood chips to stand at the front display
+case of what was once a jewelry shop.  The display case is now in pieces.  
+There is a sign lying on the floor.  This shop seems to have been looted and
+abandoned.    
+~
+202 9 1
+D1
+~
+~
+0 0 20236
+S
+#20238
+A trash-littered street~
+This part of the street is littered with trash of all sorts.  Since some of it
+seems to be food remains, you would guess the building to your east might be a
+tavern--one with all the frills of a pig sty.    
+~
+202 9 1
+D0
+~
+~
+0 0 20236
+D1
+~
+~
+0 0 20246
+D3
+~
+~
+0 0 20239
+S
+#20239
+An empty market place~
+You walk along a deserted street.  This was once a market place, but business
+quickly died out as the siege took hold.  Down the street to the west you can
+see upturned carts that once held groceries and other goods for the paying
+citizens of Dale.    
+~
+202 9 1
+D1
+~
+~
+0 0 20238
+D3
+~
+~
+0 0 20240
+S
+#20240
+An abandoned market place~
+Along this street are numerous upturned and broken carts.  Tattered pieces of
+tarp and wood litter the road, remnants of some of the carts that were most
+violently destroyed.  It would appear that there was a riot when the food began
+to run short as a result of the siege.    
+~
+202 9 1
+D0
+~
+~
+0 0 20241
+D1
+~
+~
+0 0 20239
+D3
+~
+~
+0 0 20242
+S
+#20241
+A small bakery~
+You stand inside a small bakery.  Bread is baked here in a quaint little brick
+furnace.  There is a counter where hungry paying customers line up to buy
+bread.  The aroma from the furnace is tantalizingly pleasant.  There is a sign
+on the counter.  It is surprising that this bakery did not suffer the same fate
+as the other vendors during the food riots.  A menu on the wall lists the types
+of bread for sale.    
+~
+202 9 1
+D2
+~
+~
+0 0 20240
+S
+#20242
+A street swarming with rats~
+You walk along a street littered with rat and vermin corpses.  There are little
+bones scattered everywhere.  A crude house sits off the road to the north.    
+~
+202 9 1
+D0
+~
+~
+0 0 20243
+D1
+~
+~
+0 0 20240
+D5
+~
+~
+0 0 20244
+S
+#20243
+A hut made of willow branches and thatch~
+You crouch down and crawl into a little domed hut built entirely from gnarled
+willow branches and thatch.  Pots and pans hang from the crude thatch walls.  
+A pile of matted grass fills one corner of the tiny house.  A foul stench
+permeates the air.    
+~
+202 9 1
+D2
+~
+~
+0 0 20242
+S
+#20244
+A narrow side street~
+You step over piles of garbage and corpses as you walk along this narrow side
+street.  To the east is a small building that looks like a pile of sticks and
+twigs.    
+~
+202 265 1
+D0
+~
+~
+0 0 20245
+D4
+~
+~
+0 0 20242
+S
+#20245
+A narrow side street~
+You step over piles of garbage and corpses as you walk along this narrow side
+street.  To the east is a small building that looks like a pile of sticks and
+twigs.    
+~
+202 265 1
+D2
+~
+~
+0 0 20244
+D4
+~
+~
+0 0 20235
+S
+#20246
+A dangerous tavern~
+You stand in the entrance of a building.  Obviously a bar, as you can see the
+bar itself--and some ill-tempered people--off to one side.  The only furniture
+left intact here is a lonely chair that looks like it has been thrown around
+quite a bit.  You should be ready to duck just in case someone decides to throw
+it at you!    
+~
+202 9 1
+D1
+~
+~
+0 0 20247
+D3
+~
+~
+0 0 20238
+S
+#20247
+A rough bar~
+You slide onto a stool at the bar.  There are some other people here, all of
+whom look like they've had one too many drinks.  You should watch your step.  
+This is where the soldiers come when they are not on duty.  It is probably not
+a very friendly place for strangers.  A menu sits on the bar.    
+~
+202 9 1
+D3
+~
+~
+0 0 20246
+S
+#20248
+The Forest~
+You are walking on a forest that shows itself very pretty to you.  In front of
+you is a great corridor made of trees.  You can go back, if you want to.    
+~
+0 0 0
+D0
+~
+~
+0 0 20200
+D2
+~
+~
+0 0 20249
+S
+#20249
+The Forest~
+You are walking on a forest that shows itself very pretty to you.  In front of
+you is a great corridor made of trees.  You can go back, if you want to.    
+~
+0 0 0
+D0
+~
+~
+0 0 20248
+D2
+~
+~
+0 0 29931
+S
+#20250
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 29998
+D1
+~
+~
+0 0 20251
+D2
+~
+~
+0 0 20280
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20251
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20298
+D1
+~
+~
+0 0 20252
+D2
+~
+~
+0 0 20255
+D3
+~
+~
+0 0 20250
+S
+T 20250
+#20252
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20253
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20251
+S
+T 20250
+#20253
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20297
+D1
+~
+~
+0 0 20254
+D3
+~
+~
+0 0 20252
+S
+T 20250
+#20254
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20280
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20253
+S
+T 20250
+#20255
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20251
+D1
+~
+~
+0 0 20288
+D2
+~
+~
+0 0 20256
+D3
+~
+~
+0 0 20280
+S
+T 20250
+#20256
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20255
+D2
+~
+~
+0 0 20263
+D3
+~
+~
+0 0 20257
+S
+T 20250
+#20257
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20280
+D1
+~
+~
+0 0 20256
+D2
+~
+~
+0 0 20297
+D3
+~
+~
+0 0 20258
+S
+T 20250
+#20258
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20257
+D2
+~
+~
+0 0 20259
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20259
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20258
+D1
+~
+~
+0 0 20297
+D2
+~
+~
+0 0 20262
+D3
+~
+~
+0 0 20260
+S
+T 20250
+#20260
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20259
+D2
+~
+~
+0 0 20261
+D3
+~
+~
+0 0 20298
+S
+T 20250
+#20261
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20260
+D1
+~
+~
+0 0 20262
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20280
+S
+T 20250
+#20262
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20259
+D1
+~
+~
+0 0 20297
+D2
+~
+~
+0 0 20280
+D3
+~
+~
+0 0 20261
+S
+T 20250
+#20263
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20256
+D1
+~
+~
+0 0 20288
+D2
+~
+~
+0 0 20264
+D3
+~
+~
+0 0 20297
+S
+T 20250
+#20264
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20263
+D1
+~
+~
+0 0 20265
+D2
+~
+~
+0 0 20280
+D3
+~
+~
+0 0 20297
+S
+T 20250
+#20265
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20266
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20264
+S
+T 20250
+#20266
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20267
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20265
+S
+T 20250
+#20267
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20268
+D2
+~
+~
+0 0 20297
+D3
+~
+~
+0 0 20266
+S
+T 20250
+#20268
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20269
+D1
+~
+~
+0 0 20298
+D2
+~
+~
+0 0 20272
+D3
+~
+~
+0 0 20267
+S
+T 20250
+#20269
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20270
+D1
+~
+~
+0 0 20298
+D2
+~
+~
+0 0 20268
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20270
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20271
+D1
+~
+~
+0 0 20298
+D2
+~
+~
+0 0 20269
+D3
+~
+~
+0 0 20280
+S
+T 20250
+#20271
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20280
+D1
+~
+~
+0 0 20298
+D2
+~
+~
+0 0 20270
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20272
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20268
+D1
+~
+~
+0 0 20273
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20297
+S
+T 20250
+#20273
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D2
+~
+~
+0 0 20274
+D3
+~
+~
+0 0 20272
+S
+T 20250
+#20274
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20273
+D1
+~
+~
+0 0 20275
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20275
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20297
+D1
+~
+~
+0 0 20276
+D2
+~
+~
+0 0 20297
+D3
+~
+~
+0 0 20274
+S
+T 20250
+#20276
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20277
+D1
+~
+~
+0 0 20297
+D2
+~
+~
+0 0 20297
+D3
+~
+~
+0 0 20275
+S
+T 20250
+#20277
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20297
+D1
+~
+~
+0 0 20278
+D2
+~
+~
+0 0 20276
+S
+T 20250
+#20278
+The Hills of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20297
+D1
+~
+~
+0 0 20279
+D2
+~
+~
+0 0 20297
+D3
+~
+~
+0 0 20277
+S
+T 20250
+#20279
+The Hills of Emyn Muil~
+At finally, the end!  The enormous maze of mountains is in your back now.  But
+don't start to comemorate yet!  Look to the east and prepare for the next step
+of your journey...  The Dead Marshes.    
+~
+0 72 5
+D3
+~
+~
+0 0 20278
+S
+T 20250
+#20280
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20287
+D2
+~
+~
+0 0 20281
+S
+T 20250
+#20281
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20280
+D2
+~
+~
+0 0 20282
+S
+T 20250
+#20282
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20281
+D1
+~
+~
+0 0 20283
+S
+T 20250
+#20283
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20284
+D3
+~
+~
+0 0 20282
+S
+T 20250
+#20284
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20285
+D3
+~
+~
+0 0 20283
+S
+T 20250
+#20285
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20286
+D2
+~
+~
+0 0 20284
+S
+T 20250
+#20286
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D2
+~
+~
+0 0 20285
+D3
+~
+~
+0 0 20287
+S
+T 20250
+#20287
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20286
+D3
+~
+~
+0 0 20280
+S
+T 20250
+#20288
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20295
+D1
+~
+~
+0 0 20289
+D2
+~
+~
+0 0 20291
+D3
+~
+~
+0 0 20293
+S
+T 20250
+#20289
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20296
+D2
+~
+~
+0 0 20290
+D3
+~
+~
+0 0 20288
+S
+T 20250
+#20290
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20289
+D3
+~
+~
+0 0 20291
+S
+T 20250
+#20291
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20288
+D1
+~
+~
+0 0 20290
+D3
+~
+~
+0 0 20292
+S
+T 20250
+#20292
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20293
+D1
+~
+~
+0 0 20291
+S
+T 20250
+#20293
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20294
+D1
+~
+~
+0 0 20288
+D2
+~
+~
+0 0 20292
+S
+T 20250
+#20294
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20295
+D2
+~
+~
+0 0 20293
+S
+T 20250
+#20295
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D1
+~
+~
+0 0 20296
+D2
+~
+~
+0 0 20288
+D3
+~
+~
+0 0 20294
+S
+T 20250
+#20296
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D2
+~
+~
+0 0 20289
+D3
+~
+~
+0 0 20295
+S
+T 20250
+#20297
+The Hills Of Emyn Muil~
+From here all you can see is a lot of mountains, for everywhere.  The place is
+grey and the fog covers your path.  Be careful where you put your foots in.  
+You feel your vital energy dissipating.    
+~
+0 72 5
+D0
+~
+~
+0 0 20298
+D1
+~
+~
+0 0 20280
+D2
+~
+~
+0 0 20298
+D3
+~
+~
+0 0 20298
+S
+T 20250
+#20298
+The hills of Emyn Muil~
+                          &RYOU &rARE &RDEAD&r!  &RR&c.&RI&c.&RP&c.&n
+~
+0 78 5
+S
+$~

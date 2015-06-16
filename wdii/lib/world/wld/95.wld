@@ -1,0 +1,686 @@
+#9500
+Entrance to Maze of Dts~
+  This is the entrance of the Wardome Maze of Dts. If you
+are a player that don't like to explore and you are afraid
+of DTs don't enter this zone. But if you are player that 
+thinks that adventuring is most nice that zone will be
+perfect to you. Don't forget that you must use your brain
+a lot in this zone.
+  Maze of Dts, made in Brazil, by the Wardome Mud by the
+God Luigi.
+~
+95 16777217 0
+D0
+~
+GATE~
+0 0 9501
+D3
+~
+~
+0 0 12058
+S
+#9501
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+1 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9500
+D4
+~
+~
+0 0 9502
+D5
+~
+~
+0 0 9523
+S
+#9502
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9503
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9501
+S
+#9503
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+  If you are here you may be considered a great adventurer. 
+I will give you a clue. Try to read the music of the words.
+~
+95 1 0
+D0
+~
+~
+0 0 9504
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9502
+D5
+~
+~
+0 0 9523
+S
+#9504
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9505
+D2
+~
+~
+0 0 9503
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9523
+S
+#9505
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9504
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9506
+S
+#9506
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9507
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9505
+S
+#9507
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9506
+D2
+~
+~
+0 0 9508
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9523
+S
+#9508
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9509
+D1
+~
+~
+0 0 9507
+D2
+~
+~
+0 0 9512
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9523
+S
+#9509
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9508
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9510
+D5
+~
+~
+0 0 9523
+S
+#9510
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9509
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9511
+S
+#9511
+Don't really know~
+  You are in a maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. In the end of this maze, there is
+a great treasure.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9521
+D4
+~
+~
+0 0 9510
+D5
+~
+~
+0 0 9523
+S
+#9512
+Don't really know~
+  You are in the new maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. Continue this path you will find the 
+second part of this amazing maze.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9513
+D3
+~
+~
+0 0 9508
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9523
+S
+#9513
+Don't really know~
+  You are in the new maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. Continue this path you will find the 
+second part of this amazing maze.
+~
+95 1 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9514
+D4
+~
+~
+0 0 9512
+D5
+~
+~
+0 0 9523
+S
+#9514
+Don't really know~
+  You are in the new maze of Dts, the exits to north, east, up,
+down, south, west are completely dark. You have no idea of
+where you are standing. Continue this path you will find the 
+second part of this amazing maze.
+~
+95 1 0
+D0
+~
+~
+0 0 9524
+D1
+~
+~
+0 0 9513
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9524
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9524
+S
+#9515
+Don't really know~
+  You are in the second part of the maze of Dts, the exits to north, east, 
+up, down, south, west are completely dark. You have no idea of
+where you are standing. This is the part of Charism, you'll have to
+pass three rooms, then the Great Avatar of Charism, and in the end, the
+third part Guardian of the Maze of Dts.
+~
+95 1 0
+D0
+~
+~
+0 0 9515
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9524
+D4
+~
+~
+0 0 9524
+D5
+~
+~
+0 0 9516
+S
+#9516
+Don't really know~
+  You are in the second part of the maze of Dts, the exits to north, east, 
+up, down, south, west are completely dark. You have no idea of
+where you are standing. This is the part of Charism, you'll have to
+pass three rooms, then the Great Avatar of Charism, and in the end, the
+third part Guardian of the Maze of Dts.
+~
+95 1 0
+D0
+~
+~
+0 0 9515
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9524
+D4
+~
+~
+0 0 9524
+D5
+~
+~
+0 0 9517
+S
+#9517
+Don't really know~
+  You are in the second part of the maze of Dts, the exits to north, east, 
+up, down, south, west are completely dark. You have no idea of
+where you are standing. This is the part of Charism, you'll have to
+pass three rooms, then the Great Avatar of Charism, and in the end, the
+third part Guardian of the Maze of Dts.
+~
+95 1 0
+D0
+~
+~
+0 0 9524
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9518
+D4
+~
+~
+0 0 9524
+D5
+~
+~
+0 0 9516
+S
+#9518
+Don't really know~
+  Finally you have reached the Great Avatar of Charism, what you have to
+do to pass from him?
+~
+95 1 0
+D0
+~
+~
+0 0 9517
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9524
+D4
+~
+~
+0 0 9524
+D5
+~
+~
+0 0 9524
+S
+T 22210
+#9521
+Don't really know~
+ If you are here by your own efforts, you are a true hero
+But you must first kill the guardian to get the treasure.
+~
+95 1 0
+D1
+~
+~
+0 0 501
+S
+#9522
+Poseidon room  ~
+   Here it is the room of Poseidon the king of the seven seas. It is very 
+big and beautiful you get to see the throne of Poseidon, there are a lot 
+of paintings in the walls.  
+You feel very well here, you feel happy
+~
+95 161 8
+D4
+~
+~
+0 0 9521
+S
+#9523
+Don't really know~
+You made a wrong move... Watch out next time...
+You are dead!
+~
+95 3 0
+D0
+~
+~
+0 0 9523
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9523
+D5
+~
+~
+0 0 9523
+S
+#9524
+Don't really know~
+You made a wrong move... Watch out next time...
+You are dead!
+~
+95 3 0
+D2
+~
+~
+0 0 9523
+S
+$~

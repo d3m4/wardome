@@ -1,0 +1,261 @@
+#32600
+Entrance to the Museum.~
+You are near a great museum, looking like a wax museum.
+~
+326 4 0
+S
+#32601
+The Castle~
+   You are in front of a huge castle made of crystal. It seems to be a temple of a God forgotten a long time ago. There's no evidence of living presence here for ages. The Castle shines so much that it almost makes you blind.
+~
+326 4 2
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 32609
+D2
+~
+~
+0 0 32602
+S
+#32602
+In the open field~
+   You are in a open field. Something really strange is going on here. Maybe there are too many animals. LOOK OUT!!! Maybe your mother-in-law shows up to see her friends... Can you see any snake here waiting for her?
+~
+326 0 2
+D0
+~
+~
+0 0 32601
+D2
+~
+~
+0 0 32603
+D3
+~
+~
+0 0 32604
+S
+#32603
+The trail~
+   This seems to be an trail forgotten for a long time... There are trees all over the place. All you can see is something shining to the north.
+~
+326 0 0
+D0
+~
+~
+0 0 32602
+D2
+~
+~
+0 0 32608
+D3
+~
+~
+0 0 32606
+S
+#32604
+The forest~
+   What's a strange place is it? There are trees everywhere. To the north you can see something that looks like a cave. To the east you can see... An open field?!?!?!?!?!? How much strange this could be?
+~
+326 0 0
+D0
+~
+~
+0 0 32605
+D1
+~
+~
+0 0 32602
+D2
+~
+0~
+0 0 32606
+S
+#32605
+The Kiss Store~
+   Finally an almost normal place around here. This is a cave lightned with many candles. Maybe too many.
+~
+326 144 0
+D2
+~
+~
+0 0 32604
+S
+#32606
+An unfinished room~
+You are in an unfinished room.
+~
+326 0 0
+D0
+~
+~
+0 0 32604
+D1
+~
+~
+0 0 32603
+D2
+~
+~
+0 0 32607
+S
+#32607
+An unfinished room~
+You are in an unfinished room.
+~
+326 0 0
+D0
+~
+~
+0 0 32606
+D1
+~
+~
+0 0 32608
+S
+#32608
+An unfinished room~
+You are in an unfinished room.
+~
+326 0 0
+D0
+~
+~
+0 0 32603
+D3
+~
+~
+0 0 32607
+S
+#32609
+The east entrace to the Castle~
+The entrace is all made of crystal just like the outside of the Castle. There is a big statue of a very handsome guy. Maybe he is the owner of this place.
+~
+326 0 0
+D1
+~
+~
+0 0 32610
+D3
+~
+~
+0 0 32601
+S
+#32610
+The garden~
+   This is what seems to be the garden of the Castle... Here you can see all kinds of flowers... There are a few trees very well handled. You probably never been in such a beaultiful place.
+~
+326 0 2
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 32609
+D4
+~
+~
+0 0 -1
+S
+#32680
+skill 1~
+&MBACKSTAB
+
+&c- &CClasses que aprendem: &GThief &w(&W26&w)
+&c- &CDelay: &R3 &crounds
+&c- &CDuracao: &cinstantanea
+&c- &CCondicao: &cexecutor e alvo nao podem estar lutando, arma especifica (tipo pierce)
+&c- &CDescricao: &cPermite Apunhalar um inimigo pelas costas, causando dano agravado.
+&c- &CSintaxe: &cbackstab <&Ralvo&c>
+           &cex.: backstab zombie
+~
+326 0 0
+D0
+~
+~
+0 0 32681
+D1
+~
+~
+0 0 32682
+S
+#32681
+skill 2~
+&MSECOND ATTACK
+
+&c- &CClasses que aprendem: &rWarrior &w(&W45&w)&c, &RBarbarian &w(&W53&w)&c, Ninja &w(&W61&w)&c, &GThief &w(&W74&w)&c, &YRanger &w(&W76&w)&c, &yPaladin &w(&W78&w)&c,
+&BCleric &w(&W90&w)&c, &bShaman &w(&W101&w)&c, &WNecromancer &w(&W104&w)&c, &CSorcerer &w(&W108&w)&c, &mWarlock &w(&W108&w)
+&c- &CDelay: &Rn/a
+&c- &CDuracao: &cpassiva
+&c- &CCondicao: &cn/a
+&c- &CDescricao: &cPermite um golpe a mais ao jogador.
+&c- &CSintaxe: &cn/a
+~
+326 0 0
+D1
+~
+~
+0 0 32683
+D2
+~
+~
+0 0 32680
+S
+#32682
+spell 1~
+&MINFRAVISION
+
+&c- &CClasses que aprendem: &YRanger &w(&W4&w)
+&c- &CEfeito: &Gassistencia
+&c- &CAlvo: &capenas em si mesmo
+&c- &CCondicao: &cn/a
+&c- &CVariante: &cn/a
+&c- &CDescricao: &cMagia que permite o jogador enxergar no escuro.
+&c- &CSintaxe: &ccast 'infravision'
+~
+326 0 0
+D0
+~
+~
+0 0 32683
+D3
+~
+~
+0 0 32680
+S
+#32683
+spell 2~
+&MAREA LIGHTNING
+
+&c- &CClasses que aprendem: &bShaman &w(&W64&w)
+&c- &CEfeito: &Rdano
+&c- &CAlvo: &carea
+&c- &CCondicao: &cn/a
+&c- &CVariante: &ctempestades
+&c- &CDescricao: &cMagia que invoca raios por toda a sala
+&c- &CSintaxe: &ccast 'area lightning'
+~
+326 0 0
+D2
+~
+~
+0 0 32682
+D3
+~
+~
+0 0 32681
+S
+#32699
+Miriel's Horror Lab~
+This room looks more like a torture room, full with the smells of death and decay. Here and there you see a pool of something that resembles blood, you see it in the most bizarre colors. As you can also notice the only way to come in here is by magic.
+~
+0 6291457 0
+S
+$~

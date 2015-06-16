@@ -1,0 +1,4476 @@
+#24500
+At the corner of the world~
+You smoulder in the flames of the corner of the world
+devoted to fire. The vapors of your burning flesh reach your
+nose. Beyond the corner is only the blackness. There is
+an unstoppered vial glowing orange red in the flames.
+~
+245 16777216 1
+D0
+Lake of fire
+~
+~
+0 0 24514
+D1
+Lake of fire
+~
+~
+0 0 24501
+D3
+~
+~
+0 0 195
+E
+vial~
+4th vial of wrath: fire for blasphemers.
+~
+S
+#24501
+On the lake of fire~
+You are upon a vast lake of fire burning with brimstone. About
+you the wrath of The Gods is visited upon the sinful.
+~
+245 0 7
+D0
+Lake of fire
+~
+~
+0 0 24515
+D1
+Lake of fire
+~
+~
+0 0 24502
+D3
+The corner of the world
+~
+~
+0 0 24500
+S
+#24502
+On the lake of fire~
+You are upon a vast lake of fire burning with brimstone. About
+you the wrath of The Gods is visited upon the sinful.
+~
+245 0 7
+D3
+Lake of fire
+~
+~
+0 0 24501
+S
+#24503
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24517
+D1
+The plagued lands
+~
+~
+0 0 24504
+S
+#24504
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24518
+D3
+The plagued lands
+~
+~
+0 0 24503
+S
+#24505
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24519
+D1
+MaGog
+~
+~
+0 0 24506
+S
+#24506
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24520
+D1
+MaGog
+~
+~
+0 0 24507
+D3
+MaGog
+~
+~
+0 0 24505
+S
+#24507
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view. Here the evil is so
+strong you can almost feel it caress you. To the south lead a series of stairs
+to a solid adamantite gate emblazoned with the seals of heaven.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24521
+D1
+MaGog
+~
+~
+0 0 24508
+D2
+Into the bottomless pit
+~
+gate adamantite south
+~
+1 24500 24682
+D3
+MaGog
+~
+~
+0 0 24506
+S
+#24508
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24522
+D1
+MaGog
+~
+~
+0 0 24509
+D3
+MaGog
+~
+~
+0 0 24507
+S
+#24509
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24523
+D3
+MaGog
+~
+~
+0 0 24508
+S
+#24510
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24524
+D1
+More blood
+~
+~
+0 0 24511
+S
+#24511
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24525
+D1
+More blood
+~
+~
+0 0 24512
+D3
+More blood
+~
+~
+0 0 24510
+S
+#24512
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24526
+D1
+The corner of the world
+~
+~
+0 0 24513
+D3
+More blood
+~
+~
+0 0 24511
+S
+#24513
+The corner of the world~
+You are at the corner of the world, floating on a vast sea of blood.
+An unstoppered vial floats in the water here. Beyond the corner is
+an endless stretch of empty black.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24527
+D3
+More blood
+~
+~
+0 0 24512
+E
+runes strange~
+2nd vial of wrath: Turning of the seas to blood.
+~
+E
+vial unstoppered~
+You look at the vial. On the side are some strange runes.
+~
+S
+#24514
+On the lake of fire~
+You are upon a vast lake of fire burning with brimstone. About
+you the wrath of The Gods is visited upon the sinful.
+~
+245 0 7
+D0
+Lake of fire
+~
+~
+0 0 24528
+D1
+Lake of fire
+~
+~
+0 0 24515
+D2
+The corner of the world
+~
+~
+0 0 24500
+S
+#24515
+On the lake of fire~
+You are upon a vast lake of fire burning with brimstone. About
+you the wrath of The Gods is visited upon the sinful.
+~
+245 0 7
+D1
+The plagued lands
+~
+~
+0 0 24516
+D2
+Lake of fire
+~
+~
+0 0 24501
+D3
+Lake of fire
+~
+~
+0 0 24514
+S
+#24516
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24530
+D1
+The plagued lands
+~
+~
+0 0 24517
+D3
+Lake of fire
+~
+~
+0 0 24515
+S
+#24517
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24531
+D1
+The plagued lands
+~
+~
+0 0 24518
+D2
+The plagued lands
+~
+~
+0 0 24503
+D3
+The plagued lands
+~
+~
+0 0 24516
+S
+#24518
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24532
+D2
+The plagued lands
+~
+~
+0 0 24504
+D3
+The plagued lands
+~
+~
+0 0 24517
+S
+#24519
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24533
+D1
+MaGog
+~
+~
+0 0 24520
+D2
+MaGog
+~
+~
+0 0 24505
+S
+#24520
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24534
+D1
+MaGog
+~
+~
+0 0 24521
+D2
+MaGog
+~
+~
+0 0 24506
+D3
+MaGog
+~
+~
+0 0 24519
+S
+#24521
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view. South of you
+is the 'Synagogue of Satan' where people claiming to be Jews fornicate
+and eat food sacrificed to idols.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24535
+D1
+MaGog
+~
+~
+0 0 24522
+D2
+MaGog
+~
+~
+0 0 24507
+D3
+MaGog
+~
+~
+0 0 24520
+S
+#24522
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24536
+D1
+MaGog
+~
+~
+0 0 24523
+D2
+MaGog
+~
+~
+0 0 24508
+D3
+MaGog
+~
+~
+0 0 24521
+S
+#24523
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view. A Nicolaitane walks
+by- why dont you stone him?
+~
+245 0 1
+D0
+MaGog
+~
+~
+0 0 24537
+D2
+MaGog
+~
+~
+0 0 24509
+D3
+MaGog
+~
+~
+0 0 24522
+S
+#24524
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24538
+D1
+More blood
+~
+~
+0 0 24525
+D2
+More blood
+~
+~
+0 0 24510
+S
+#24525
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24539
+D1
+More blood
+~
+~
+0 0 24526
+D2
+More blood
+~
+~
+0 0 24511
+D3
+More blood
+~
+~
+0 0 24524
+S
+#24526
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24540
+D1
+More blood
+~
+~
+0 0 24527
+D2
+More blood
+~
+~
+0 0 24512
+D3
+More blood
+~
+~
+0 0 24525
+S
+#24527
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24541
+D2
+The corner of the world
+~
+~
+0 0 24513
+D3
+More blood
+~
+~
+0 0 24526
+S
+#24528
+On the lake of fire~
+You are upon a vast lake of fire burning with brimstone. About
+you the wrath of The Gods is visited upon the sinful.
+~
+245 0 7
+D2
+Lake of fire
+~
+~
+0 0 24514
+S
+#24529
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24543
+D1
+The plagued lands
+~
+~
+0 0 24530
+S
+#24530
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24544
+D1
+The plagued lands
+~
+~
+0 0 24531
+D2
+The plagued lands
+~
+~
+0 0 24516
+D3
+The plagued lands
+~
+~
+0 0 24529
+S
+#24531
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D2
+The  plagued lands
+~
+~
+0 0 24517
+D3
+The plagued lands
+~
+~
+0 0 24530
+S
+#24532
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D2
+The  plagued lands
+~
+~
+0 0 24518
+S
+#24533
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view. A lukewarm worshipper
+is here to be spewed out of the mouth of the one to come.
+~
+245 0 1
+D1
+MaGog
+~
+~
+0 0 24534
+D2
+MaGog
+~
+~
+0 0 24519
+S
+#24534
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D1
+MaGog
+~
+~
+0 0 24535
+D2
+MaGog
+~
+~
+0 0 24520
+D3
+MaGog
+~
+~
+0 0 24533
+S
+#24535
+MaGog~
+You are at the gates to Satan's city, MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view. Nobody seems
+to mind the open gate.
+~
+245 4 1
+D0
+Armageddon
+~
+~
+0 0 24549
+D1
+MaGog
+~
+~
+0 0 24536
+D2
+MaGog
+~
+~
+0 0 24521
+D3
+MaGog
+~
+~
+0 0 24534
+S
+#24536
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D1
+MaGog
+~
+~
+0 0 24537
+D2
+MaGog
+~
+~
+0 0 24522
+D3
+MaGog
+~
+~
+0 0 24535
+S
+#24537
+MaGog~
+You are in Satan's city of MaGog. About you writhe and cavort sinners in
+a final frolic before destruction.Refuse and offal are the perfume of the city.
+Deterioration and decay claim every building you view.
+~
+245 0 1
+D2
+MaGog
+~
+~
+0 0 24523
+D3
+MaGog
+~
+~
+0 0 24536
+S
+#24538
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24552
+D1
+More blood
+~
+~
+0 0 24539
+D2
+More blood
+~
+~
+0 0 24524
+S
+#24539
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24553
+D1
+More blood
+~
+~
+0 0 24540
+D2
+More blood
+~
+~
+0 0 24525
+D3
+More blood
+~
+~
+0 0 24538
+S
+#24540
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+A cloud of steam
+~
+~
+0 0 24552
+D1
+More blood
+~
+~
+0 0 24541
+D2
+More blood
+~
+~
+0 0 24526
+D3
+More blood
+~
+~
+0 0 24539
+S
+#24541
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24555
+D2
+More blood
+~
+~
+0 0 24527
+D3
+More blood
+~
+~
+0 0 24540
+S
+#24542
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24556
+D1
+The plagued lands
+~
+~
+0 0 24543
+S
+#24543
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The  plagued lands
+~
+~
+0 0 24557
+D1
+The plagued lands
+~
+~
+0 0 24544
+D2
+The plagued lands
+~
+~
+0 0 24529
+D3
+The plagued lands
+~
+~
+0 0 24542
+S
+#24544
+The plagued lands~
+You walk through the wretched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+The plagued lands
+~
+~
+0 0 24558
+D2
+The plagued lands
+~
+~
+0 0 24530
+D3
+The plagued lands
+~
+~
+0 0 24543
+S
+#24545
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24559
+D1
+Armageddon
+~
+~
+0 0 24546
+S
+#24546
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24560
+D1
+Armageddon
+~
+~
+0 0 24547
+D3
+Armageddon
+~
+~
+0 0 24545
+S
+#24547
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24561
+D1
+Armageddon
+~
+~
+0 0 24548
+D3
+Armageddon
+~
+~
+0 0 24546
+S
+#24548
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24562
+D1
+Armageddon
+~
+~
+0 0 24549
+D3
+Armageddon
+~
+~
+0 0 24547
+S
+#24549
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24563
+D1
+Armageddon
+~
+~
+0 0 24550
+D2
+MaGog
+~
+~
+0 0 24535
+D3
+Armageddon
+~
+~
+0 0 24548
+S
+#24550
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24564
+D1
+Armageddon
+~
+~
+0 0 24551
+D3
+Armageddon
+~
+~
+0 0 24549
+S
+#24551
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24565
+D3
+Armageddon
+~
+~
+0 0 24550
+S
+#24552
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24566
+D1
+More blood
+~
+~
+0 0 24553
+D2
+More blood
+~
+~
+0 0 24538
+S
+#24553
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24567
+D1
+A cloud of steam
+~
+~
+0 0 24554
+D2
+More blood
+~
+~
+0 0 24539
+D3
+More blood
+~
+~
+0 0 24552
+S
+#24554
+The sunken volcano~
+You arrive to heal the peal of the second horn, blown
+by an angel flying above. You watch as the volcanic island
+and all of its inhabitants sink into the many waters.
+You are enveloped in clouds of blood steam.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24568
+D1
+More blood
+~
+~
+0 0 24555
+D2
+More blood
+~
+~
+0 0 24540
+D3
+More blood
+~
+~
+0 0 24553
+S
+#24555
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24569
+D2
+More blood
+~
+~
+0 0 24541
+D3
+A cloud of steam
+~
+~
+0 0 24554
+S
+#24556
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D1
+The plagued lands
+~
+~
+0 0 24557
+D2
+The plagued lands
+~
+~
+0 0 24542
+S
+#24557
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D1
+The  plagued lands
+~
+~
+0 0 24558
+D2
+The plagued lands
+~
+~
+0 0 24543
+D3
+The plagued lands
+~
+~
+0 0 24556
+S
+#24558
+The plagued lands~
+You walk through the wreteched, fetid wreak of the plagued lands.
+Once fine tall grass has withered into a lifeless desert. About you
+flies lay eggs in the rotting flesh of the plagued.
+~
+245 0 2
+D0
+Wormwood
+~
+~
+0 0 24572
+D2
+The  plagued lands
+~
+~
+0 0 24544
+D3
+The plagued lands
+~
+~
+0 0 24557
+S
+#24559
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24573
+D1
+Armageddon
+~
+~
+0 0 24560
+D2
+Armageddon
+~
+~
+0 0 24545
+S
+#24560
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24574
+D1
+Armageddon
+~
+~
+0 0 24561
+D2
+Armageddon
+~
+~
+0 0 24546
+D3
+Armageddon
+~
+~
+0 0 24559
+S
+#24561
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24575
+D1
+Armageddon
+~
+~
+0 0 24562
+D2
+Armageddon
+~
+~
+0 0 24547
+D3
+Armageddon
+~
+~
+0 0 24560
+S
+#24562
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24576
+D1
+Armageddon
+~
+~
+0 0 24563
+D2
+Armageddon
+~
+~
+0 0 24548
+D3
+Armageddon
+~
+~
+0 0 24561
+S
+#24563
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24577
+D1
+Armageddon
+~
+~
+0 0 24564
+D2
+Armageddon
+~
+~
+0 0 24549
+D3
+Armageddon
+~
+~
+0 0 24562
+S
+#24564
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24578
+D1
+Armageddon
+~
+~
+0 0 24565
+D2
+Armageddon
+~
+~
+0 0 24550
+D3
+Armageddon
+~
+~
+0 0 24563
+S
+#24565
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24579
+D2
+Armageddon
+~
+~
+0 0 24551
+D3
+Armageddon
+~
+~
+0 0 24564
+S
+#24566
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+Armageddon
+~
+~
+0 0 24580
+D1
+More blood
+~
+~
+0 0 24567
+D2
+More blood
+~
+~
+0 0 24552
+S
+#24567
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24581
+D1
+More blood
+~
+~
+0 0 24568
+D2
+More blood
+~
+~
+0 0 24553
+D3
+More blood
+~
+~
+0 0 24566
+S
+#24568
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24582
+D1
+More blood
+~
+~
+0 0 24569
+D2
+A cloud of steam
+~
+~
+0 0 24554
+D3
+More blood
+~
+~
+0 0 24567
+S
+#24569
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24583
+D2
+More blood
+~
+~
+0 0 24555
+D3
+More blood
+~
+~
+0 0 24568
+S
+#24570
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24584
+D1
+Wormwood
+~
+~
+0 0 24571
+S
+#24571
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24585
+D1
+Wormwood
+~
+~
+0 0 24572
+D3
+Wormwood
+~
+~
+0 0 24570
+S
+#24572
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D1
+Armageddon
+~
+~
+0 0 24573
+D2
+The plagued lands
+~
+~
+0 0 24558
+D3
+Wormwood
+~
+~
+0 0 24571
+S
+#24573
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24574
+D2
+Armageddon
+~
+~
+0 0 24559
+D3
+Wormwood
+~
+~
+0 0 24572
+S
+#24574
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24575
+D2
+Armageddon
+~
+~
+0 0 24560
+D3
+Armageddon
+~
+~
+0 0 24573
+S
+#24575
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24576
+D2
+Armageddon
+~
+~
+0 0 24561
+D3
+Armageddon
+~
+~
+0 0 24574
+S
+#24576
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24590
+D1
+Armageddon
+~
+~
+0 0 24577
+D2
+Armageddon
+~
+~
+0 0 24562
+D3
+Armageddon
+~
+~
+0 0 24575
+S
+#24577
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24591
+D1
+Armageddon
+~
+~
+0 0 24578
+D2
+Armageddon
+~
+~
+0 0 24563
+D3
+Armageddon
+~
+~
+0 0 24576
+S
+#24578
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24592
+D1
+Armageddon
+~
+~
+0 0 24579
+D2
+Armageddon
+~
+~
+0 0 24564
+D3
+Armageddon
+~
+~
+0 0 24577
+S
+#24579
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24593
+D1
+Armageddon
+~
+~
+0 0 24580
+D2
+Armageddon
+~
+~
+0 0 24565
+D3
+Armageddon
+~
+~
+0 0 24578
+S
+#24580
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24594
+D2
+The many waters
+~
+~
+0 0 24566
+D3
+Armageddon
+~
+~
+0 0 24579
+S
+#24581
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D1
+More blood
+~
+~
+0 0 24582
+D2
+More blood
+~
+~
+0 0 24567
+S
+#24582
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24596
+D1
+More blood
+~
+~
+0 0 24583
+D2
+More blood
+~
+~
+0 0 24568
+D3
+More blood
+~
+~
+0 0 24581
+S
+#24583
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24597
+D2
+More blood
+~
+~
+0 0 24569
+D3
+More blood
+~
+~
+0 0 24582
+S
+#24584
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+The Euphrates
+~
+~
+0 0 24598
+D1
+Wormwood
+~
+~
+0 0 24585
+D2
+Wormwood
+~
+~
+0 0 24570
+S
+#24585
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D2
+Wormwood
+~
+~
+0 0 24571
+D3
+Wormwood
+~
+~
+0 0 24584
+S
+#24586
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D0
+The Euphrates
+~
+~
+0 0 24600
+D1
+The Euphrates
+~
+~
+0 0 24587
+S
+#24587
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24588
+D3
+The Euphrates
+~
+~
+0 0 24586
+S
+#24588
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24589
+D3
+The Euphrates
+~
+~
+0 0 24587
+S
+#24589
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D0
+The Euphrates
+~
+~
+0 0 24603
+D3
+The Euphrates
+~
+~
+0 0 24588
+S
+#24590
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+A bridge over the Euprhates
+~
+~
+0 0 24604
+D1
+Armageddon
+~
+~
+0 0 24591
+D2
+Armageddon
+~
+~
+0 0 24576
+S
+#24591
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24592
+D2
+Armageddon
+~
+~
+0 0 24577
+D3
+Armageddon
+~
+~
+0 0 24590
+S
+#24592
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24606
+D1
+Armageddon
+~
+~
+0 0 24593
+D2
+Armageddon
+~
+~
+0 0 24578
+D3
+Armageddon
+~
+~
+0 0 24591
+S
+#24593
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24607
+D1
+Armageddon
+~
+~
+0 0 24594
+D2
+Armageddon
+~
+~
+0 0 24579
+D3
+Armageddon
+~
+~
+0 0 24592
+S
+#24594
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24595
+D2
+Armageddon
+~
+~
+0 0 24580
+D3
+Armageddon
+~
+~
+0 0 24593
+S
+#24595
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D3
+Armageddon
+~
+~
+0 0 24594
+S
+#24596
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+The Euprates river
+~
+~
+0 0 24610
+D1
+More blood
+~
+~
+0 0 24597
+D2
+More blood
+~
+~
+0 0 24582
+S
+#24597
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+More blood
+~
+~
+0 0 24611
+D2
+More blood
+~
+~
+0 0 24583
+D3
+More blood
+~
+~
+0 0 24596
+S
+#24598
+The source of the Euphrates~
+You stand at the headwaters for the Euphrates. A dirty dry
+wind blows across what is left of the once mighty river. Now all
+you see are occasional puddles of bloody water. There is a vial
+floating in the largest puddle of blood.
+~
+245 0 4
+D0
+Wormwood
+~
+~
+0 0 24612
+D1
+The Euphrates
+~
+~
+0 0 24599
+D2
+Wormwood
+~
+~
+0 0 24584
+E
+lettering~
+The 3rd vial of wrath: rivers and fountains to blood.
+The 6th vial of wrath: Drying of Euphrates.
+~
+E
+vial~
+You scoop out the vial.
+Actually there are two vials.
+There is some lettering on them.
+~
+S
+#24599
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24600
+D3
+The Euphrates
+~
+~
+0 0 24598
+S
+#24600
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D2
+The Euphrates
+~
+~
+0 0 24586
+D3
+The Euphrates
+~
+~
+0 0 24599
+S
+#24601
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24615
+S
+#24602
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24616
+S
+#24603
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24604
+D2
+The Euphrates
+~
+~
+0 0 24589
+S
+#24604
+The Euphrates at the Bridge~
+You stand at a bridge crossing the canyon
+that used to be the river Euphrates. Steps are carved
+into the wall leading up to the bridge and down
+to the canyon. From the bridge you may go north
+and south into the plain of Armageddon, or you
+may follow The Euphrates east and west.
+~
+245 0 4
+D0
+Armageddon
+~
+~
+0 0 24618
+D1
+The Euphrates
+~
+~
+0 0 24605
+D2
+Armageddon
+~
+~
+0 0 24590
+D3
+The Euphrates
+~
+~
+0 0 24603
+S
+#24605
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D0
+The Euphrates
+~
+~
+0 0 24619
+D3
+The Euphrates
+~
+~
+0 0 24604
+S
+#24606
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24607
+D2
+Armageddon
+~
+~
+0 0 24592
+S
+#24607
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D2
+Armageddon
+~
+~
+0 0 24593
+D3
+Armageddon
+~
+~
+0 0 24606
+S
+#24608
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D0
+The Euphrates
+~
+~
+0 0 24622
+D1
+The Euphrates
+~
+~
+0 0 24609
+S
+#24609
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24610
+D3
+The Euphrates
+~
+~
+0 0 24608
+S
+#24610
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D2
+The Euphrates
+~
+~
+0 0 24596
+D3
+The Euphrates
+~
+~
+0 0 24609
+S
+#24611
+The many waters~
+You are on a vast sea of blood. Vultures soar in the red sky in search of
+carrion. Wreckage of many ships litters the waters, an ill omen indeed.
+~
+245 0 7
+D0
+Armageddon
+~
+~
+0 0 24625
+D2
+More blood
+~
+~
+0 0 24597
+S
+#24612
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24626
+D1
+A strange glow
+~
+~
+0 0 24613
+D2
+The Euphrates
+~
+~
+0 0 24598
+S
+#24613
+Wormwood~
+You are in the heart of Wormwood, where the flames are most
+intense. A giant star lies on the ground here, glowing a hateful
+red. All of the brush nearby has been blasted flat. A young boy
+stands staring at the star. You ask him what happened, and he
+says that an angel came, sounded a horn, and the star fell from
+the sky. He was told that someone would come by the 5th horn to
+get the key of david to unlock the pit.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24627
+D1
+Wormwood
+~
+~
+0 0 24614
+D3
+Wormwood
+~
+~
+0 0 24612
+S
+#24614
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D0
+Wormwood
+~
+~
+0 0 24628
+D1
+Wormwood
+~
+~
+0 0 24615
+D3
+A strange glow
+~
+~
+0 0 24613
+S
+#24615
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D2
+Wormwood
+~
+~
+0 0 24601
+D3
+Wormwood
+~
+~
+0 0 24614
+S
+#24616
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24630
+D1
+Armageddon
+~
+~
+0 0 24617
+D2
+Armageddon
+~
+~
+0 0 24602
+S
+#24617
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24631
+D1
+Armageddon
+~
+~
+0 0 24618
+D3
+Armageddon
+~
+~
+0 0 24616
+S
+#24618
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24632
+D2
+A bridge over the Euphrates
+~
+~
+0 0 24604
+D3
+Armageddon
+~
+~
+0 0 24617
+S
+#24619
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24620
+D2
+The Euphrates
+~
+~
+0 0 24605
+S
+#24620
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24621
+D3
+The Euphrates
+~
+~
+0 0 24619
+S
+#24621
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D1
+The Euphrates
+~
+~
+0 0 24622
+D3
+The Euphrates
+~
+~
+0 0 24620
+S
+#24622
+The Euphrates~
+You walk the bottom of the canyon where the Euphrates used to
+flow. All that is left of the once mighty river are scattered red pools of
+blood. A terrible wind blows from down stream, bringing the smell
+of death to your nose.
+~
+245 0 4
+D2
+The Euphrates
+~
+~
+0 0 24608
+D3
+The Euphrates
+~
+~
+0 0 24621
+S
+#24623
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24637
+D1
+Armageddon
+~
+~
+0 0 24624
+S
+#24624
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24638
+D1
+Armageddon
+~
+~
+0 0 24621
+D3
+Armageddon
+~
+~
+0 0 24623
+S
+#24625
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24639
+D3
+Armageddon
+~
+~
+0 0 24624
+S
+#24626
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D1
+Wormwood
+~
+~
+0 0 24627
+D2
+Wormwood
+~
+~
+0 0 24612
+S
+#24627
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D1
+Wormwood
+~
+~
+0 0 24628
+D2
+A strange glow
+~
+~
+0 0 24613
+D3
+Wormwood
+~
+~
+0 0 24626
+S
+#24628
+Wormwood~
+You are in the burning forest of Wormwood. In the sky above you,
+stars fall earthward to land with  resounding explosions. The
+smoke is thick. You hear the wail, and smell the seared flesh
+of the dying from all around you.
+~
+245 0 3
+D2
+Wormwood
+~
+~
+0 0 24614
+D3
+Wormwood
+~
+~
+0 0 24627
+S
+#24629
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24643
+D1
+Armageddon
+~
+~
+0 0 24630
+S
+#24630
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24631
+D2
+Armageddon
+~
+~
+0 0 24616
+D3
+Armageddon
+~
+~
+0 0 24629
+S
+#24631
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24632
+D2
+Armageddon
+~
+~
+0 0 24617
+D3
+Armageddon
+~
+~
+0 0 24630
+S
+#24632
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Gog
+~
+~
+0 0 24646
+D1
+Armageddon
+~
+~
+0 0 24633
+D2
+Armageddon
+~
+~
+0 0 24618
+D3
+Armageddon
+~
+~
+0 0 24631
+S
+#24633
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24634
+D3
+Armageddon
+~
+~
+0 0 24632
+S
+#24634
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24635
+D3
+Armageddon
+~
+~
+0 0 24633
+S
+#24635
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24649
+D1
+Armageddon
+~
+~
+0 0 24636
+D3
+Armageddon
+~
+~
+0 0 24634
+S
+#24636
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24650
+D1
+Armageddon
+~
+~
+0 0 24637
+D3
+Armageddon
+~
+~
+0 0 24635
+S
+#24637
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Into the heavens
+~
+~
+0 0 24651
+D1
+Armageddon
+~
+~
+0 0 24638
+D2
+Armageddon
+~
+~
+0 0 24623
+D3
+Armageddon
+~
+~
+0 0 24636
+S
+#24638
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24639
+D2
+Armageddon
+~
+~
+0 0 24624
+D3
+Armageddon
+~
+~
+0 0 24637
+S
+#24639
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D2
+Armageddon
+~
+~
+0 0 24625
+D3
+Armageddon
+~
+~
+0 0 24638
+S
+#24640
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The shaking lands
+~
+~
+0 0 24654
+D1
+The shaking lands
+~
+~
+0 0 24641
+S
+#24641
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The shaking lands
+~
+~
+0 0 24655
+D1
+The shaking lands
+~
+~
+0 0 24642
+D3
+The shaking lands
+~
+~
+0 0 24640
+S
+#24642
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The shaking lands
+~
+~
+0 0 24656
+D3
+The shaking lands
+~
+~
+0 0 24641
+S
+#24643
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24657
+D2
+Armageddon
+~
+~
+0 0 24629
+S
+#24644
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city. On the ground you see a girl worshipping
+a devil idol.
+~
+245 4 1
+D0
+Gog
+~
+~
+0 0 24658
+D1
+Gog
+~
+~
+0 0 24645
+S
+#24645
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24659
+D1
+Gog
+~
+~
+0 0 24646
+D3
+Gog
+~
+~
+0 0 24644
+S
+#24646
+Gog~
+You are at the gates to Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 4 1
+D0
+Gog
+~
+~
+0 0 24660
+D1
+Gog
+~
+~
+0 0 24647
+D2
+Armageddon
+~
+~
+0 0 24632
+D3
+Gog
+~
+~
+0 0 24645
+S
+#24647
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city. Here you witness a sorcerer draining the
+blood of a boy for a spell component.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24661
+D1
+Gog
+~
+~
+0 0 24648
+D3
+Gog
+~
+~
+0 0 24646
+S
+#24648
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city. A discarded vial lies here.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24662
+D3
+Gog
+~
+~
+0 0 24647
+E
+vial~
+5th vial of wrath: the darkening.
+~
+S
+#24649
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24663
+D1
+Armageddon
+~
+~
+0 0 24650
+D2
+Armageddon
+~
+~
+0 0 24635
+S
+#24650
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24664
+D2
+Armageddon
+~
+~
+0 0 24636
+D3
+Armageddon
+~
+~
+0 0 24649
+S
+#24651
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D0
+The heavens
+~
+~
+0 0 24665
+D1
+The heavens
+~
+~
+0 0 24652
+D2
+Armageddon
+~
+~
+0 0 24637
+S
+#24652
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D0
+The heavens
+~
+~
+0 0 24666
+D1
+The heavens
+~
+~
+0 0 24653
+D3
+The heavens
+~
+~
+0 0 24651
+S
+#24653
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D0
+The heavens
+~
+~
+0 0 24667
+D3
+The heavens
+~
+~
+0 0 24652
+S
+#24654
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The corner of the world
+~
+~
+0 0 24668
+D1
+The shaking lands
+~
+~
+0 0 24651
+D2
+The shaking lands
+~
+~
+0 0 24640
+S
+#24655
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The shaking lands
+~
+~
+0 0 24669
+D1
+The shaking lands
+~
+~
+0 0 24656
+D2
+The shaking lands
+~
+~
+0 0 24641
+D3
+The shaking lands
+~
+~
+0 0 24654
+S
+#24656
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D0
+The shaking lands
+~
+~
+0 0 24670
+D1
+Armageddon
+~
+~
+0 0 24657
+D2
+The shaking lands
+~
+~
+0 0 24642
+D3
+The shaking lands
+~
+~
+0 0 24655
+S
+#24657
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24671
+D2
+Armageddon
+~
+~
+0 0 24643
+D3
+The shaking lands
+~
+~
+0 0 24656
+S
+#24658
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24672
+D1
+Gog
+~
+~
+0 0 24659
+D2
+Gog
+~
+~
+0 0 24644
+S
+#24659
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24673
+D1
+Gog
+~
+~
+0 0 24660
+D2
+Gog
+~
+~
+0 0 24645
+D3
+Gog
+~
+~
+0 0 24658
+S
+#24660
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city. You see a vial floating in the fountain.
+~
+245 0 1
+D0
+The unholy shrine
+~
+~
+0 0 24674
+D1
+Gog
+~
+~
+0 0 24661
+D2
+Gog
+~
+~
+0 0 24646
+D3
+Gog
+~
+~
+0 0 24659
+E
+Vial~
+First vial of Divine wrath: the pox.
+~
+S
+#24661
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city. Here you see a rich merchant besotted with
+wine.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24675
+D1
+Gog
+~
+~
+0 0 24662
+D2
+Gog
+~
+~
+0 0 24647
+D3
+Gog
+~
+~
+0 0 24660
+S
+#24662
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D0
+Gog
+~
+~
+0 0 24676
+D2
+Gog
+~
+~
+0 0 24648
+D3
+Gog
+~
+~
+0 0 24661
+S
+#24663
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24677
+D1
+Armageddon
+~
+~
+0 0 24664
+D2
+Armageddon
+~
+~
+0 0 24649
+S
+#24664
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D0
+Armageddon
+~
+~
+0 0 24678
+D2
+Armageddon
+~
+~
+0 0 24650
+D3
+Armageddon
+~
+~
+0 0 24663
+S
+#24665
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D0
+The heavens
+~
+~
+0 0 24679
+D1
+The heavens
+~
+~
+0 0 24666
+D2
+The heavens
+~
+~
+0 0 24651
+S
+#24666
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+Great hail the size of talents pelts you.
+~
+245 0 9
+D0
+The heavens
+~
+~
+0 0 24680
+D1
+The heavens
+~
+~
+0 0 24667
+D2
+The heavens
+~
+~
+0 0 24652
+D3
+The heavens
+~
+~
+0 0 24665
+S
+#24667
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D0
+The corner of the world
+~
+~
+0 0 24681
+D2
+The heavens
+~
+~
+0 0 24653
+D3
+The heavens
+~
+~
+0 0 24666
+S
+#24668
+The corner of the world~
+You stand at the corner of the world. As any alchemist will
+tell you, the world has 4 corners, one devoted to each element, and
+held in place by angels. You are at the earth corner. Beyond the
+corner stretches the infinite black nothing.
+~
+245 0 5
+D1
+The shaking lands
+~
+~
+0 0 24669
+D2
+The shaking lands
+~
+~
+0 0 24654
+S
+#24669
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D1
+The shaking lands
+~
+~
+0 0 24670
+D2
+The shaking lands
+~
+~
+0 0 24655
+D3
+The corner of the world
+~
+~
+0 0 24668
+S
+#24670
+The shaking lands~
+Around you the earth moves violently. Mile deep fissures open and
+close like giant mouthes trying to bite you. It is all you can
+do to make headway on all fours.
+~
+245 0 5
+D2
+The shaking lands
+~
+~
+0 0 24656
+D3
+The shaking lands
+~
+~
+0 0 24669
+S
+#24671
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D2
+Armageddon
+~
+~
+0 0 24657
+S
+#24672
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D1
+Gog
+~
+~
+0 0 24673
+D2
+Gog
+~
+~
+0 0 24658
+S
+#24673
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D1
+The unholy shrine
+~
+~
+0 0 24674
+D2
+Gog
+~
+~
+0 0 24659
+D3
+Gog
+~
+~
+0 0 24672
+S
+#24674
+The unholy shrine~
+You have entered the unholy shrine erected at the
+dragons decree to the beast. Murals on the walls depict
+the miracle where the beast's head healed after a severe
+sword wound. There is a giant mound of offerings near
+the throne where the beast rests.
+~
+245 0 1
+D1
+Gog
+~
+~
+0 0 24675
+D2
+Gog
+~
+~
+0 0 24660
+D3
+Gog
+~
+~
+0 0 24673
+S
+#24675
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D1
+Gog
+~
+~
+0 0 24676
+D2
+Gog
+~
+~
+0 0 24661
+D3
+The unholy shrine
+~
+~
+0 0 24674
+S
+#24676
+Gog~
+You are in Satan's city, Gog. Around you the marked ones
+teem and chant the idealogy of the beast. They seem oblivious
+to your presence. An unholy shrine towers above all in the
+center of the city.
+~
+245 0 1
+D2
+Gog
+~
+~
+0 0 24662
+D3
+Gog
+~
+~
+0 0 24675
+S
+#24677
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D1
+Armageddon
+~
+~
+0 0 24678
+D2
+Armageddon
+~
+~
+0 0 24663
+S
+#24678
+Armageddon~
+You stand in the vast plain of Armageddon. About you angels
+sound trumpets and cut through sinners with sickles. The sun
+has been swallowed by blackness, and the blood red light of
+the moon flickers across the battlefield.
+~
+245 0 2
+D2
+Armageddon
+~
+~
+0 0 24664
+D3
+Armageddon
+~
+~
+0 0 24677
+S
+#24679
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D1
+The heavens
+~
+~
+0 0 24680
+D2
+The heavens
+~
+~
+0 0 24665
+S
+#24680
+The heavens~
+You fight the strong buffeting wind of a raging thunderstorm
+as you fly upwards into the sky. About you lightning arcs in
+great sizzling bolts, followed by the deafening boom of thunder.
+Rain beats hard against your face, making it difficult to see.
+~
+245 0 9
+D1
+The corner of the world
+~
+~
+0 0 24681
+D2
+The heavens
+~
+~
+0 0 24666
+D3
+The heavens
+~
+~
+0 0 24679
+S
+#24681
+The corner of the world~
+You have flown to the corner of the sky. Here the wind is
+is somewhat calmer than the rest of the heavens. Beyond the
+corner is the infinite nothing. You feel at peace here. As you
+relax you hear the 7th horn and a SIGHT unfolds before your eyes.
+Floating in the wind is a vial.
+~
+245 16 9
+D2
+The heavens
+~
+~
+0 0 24667
+D3
+The heavens
+~
+~
+0 0 24680
+D5
+Into the throne room
+~
+yourheart~
+2 0 24690
+E
+sight~
+You look skyward, and see the temple of The Gods opening.
+You can see in his temple the ark of his testament.
+The temple of New Jerusalem desends earthward.
+~
+E
+vial~
+The 7th vial of wrath: lightnings, thunders and hail.~
+S
+#24682
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24683
+S
+#24683
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24684
+S
+#24684
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24685
+S
+#24685
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24686
+S
+#24686
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24687
+S
+#24687
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24688
+S
+#24688
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it? Desperately you pray for
+deliverence- you dont know if you have been heard.
+~
+245 8388617 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24689
+S
+#24689
+The bottomless pit~
+You fall, forever downwards into the bottomless pit. About you
+blackness races, with no sign of a wall for support. You look up
+and see the same nothingness as you do downward. What awaits you
+at the bottom? Will you ever reach it?
+~
+245 9 0
+D5
+Falling further into the black pit
+~
+~
+0 0 24682
+S
+#24690
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+The throne room
+~
+~
+0 0 24693
+D1
+The throne room
+~
+~
+0 0 24691
+S
+#24691
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+The throne room
+~
+~
+0 0 24694
+D1
+The throne room
+~
+~
+0 0 24692
+D3
+The throne room
+~
+~
+0 0 24690
+S
+#24692
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+The throne room
+~
+~
+0 0 24695
+D3
+The throne room
+~
+~
+0 0 24691
+S
+#24693
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+The throne room
+~
+~
+0 0 24696
+D1
+The throne room
+~
+~
+0 0 24694
+D2
+The throne room
+~
+~
+0 0 24690
+S
+#24694
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+At the throne
+~
+~
+0 0 24697
+D1
+The throne room
+~
+~
+0 0 24695
+D2
+The throne room
+~
+~
+0 0 24691
+D3
+The throne room
+~
+~
+0 0 24693
+S
+#24695
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D0
+The throne room
+~
+~
+0 0 24698
+D2
+The throne room
+~
+~
+0 0 24692
+D3
+The throne room
+~
+~
+0 0 24694
+S
+#24696
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D1
+At the throne
+~
+~
+0 0 24697
+D2
+The throne room
+~
+~
+0 0 24693
+S
+#24697
+At the throne~
+You grovel before the throne. He who sits at the throne
+tells you 'Now is your time'. With a gesture a black
+hole appears at your feet. He motions for you to go into
+the hole, and resumes his Judgement.
+~
+245 8 0
+D1
+The throne room
+~
+~
+0 0 24698
+D2
+The throne room
+~
+~
+0 0 24694
+D3
+The throne room
+~
+~
+0 0 24696
+S
+#24698
+In the throne room~
+You stand in a magnificant throne room. Multitudes and multitudes
+of angles are here singing praise to the one who sits on the throne.
+About you are the souls of the dead shuffling foward to be judged.
+~
+245 8 0
+D2
+The throne room
+~
+~
+0 0 24695
+D3
+At the throne
+~
+~
+0 0 24697
+S
+$~

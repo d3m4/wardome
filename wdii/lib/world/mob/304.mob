@@ -1,0 +1,64 @@
+#30401
+Sith Soldier cguard~
+&wthe S&Ri&wt&Rh &rSoldier&n~
+&wThe &wS&Ri&wt&Rh &rSoldier &nis standing here, ready to attack!
+~
+It looks unfinished.
+~
+4188171 562036904 0 E
+0 0 0 0d0+0 0d0+0
+0 200 -280
+-70 1 1 63 35
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#30402
+undefined~
+&RE&wx&Ra&wd &RK&wu&Rm&n~
+&wThe &RM&wy&Rs&wt&Ri&wc&wa&Rl &wPsionicist &RE&wx&Ra&wd &RK&wu&Rm &W(&Cmediting&n) &where.&n
+~
+The Dark Knight is mediting here,  He is dressed all in black.
+He looks VERY strong and you can feel the POWER emanating from him.
+~
+3668490 579937452 0 E
+0 0 0 0d0+0 0d0+-1000
+200 -480 -230
+1 1 63 124 110
+BareHandAttack: 12
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#30403
+destroyer disciple sith~
+&RDi&rs&wci&Rple &wof &RD&re&ws&Wt&Rr&ro&wy&We&rr&n~
+&wThe &RDi&rs&wci&Rple &wof &RD&re&ws&Wt&Rr&ro&wy&We&Rr &W(&Cmediting&W) &where.
+~
+You see the disciple of the old Sith Master, Destroyer.
+~
+3405898 1636933864 0 E
+0 0 0 -1000d200+-880 -150d30+1000
+-24288 100 110
+-34 74 11 15 8
+BareHandAttack: 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#30404
+emo~
+&YL&yegolita, &yt&Yh&ye &MEMO&n~
+&MOlha o &ME&mM&MO&mO&MO&n
+~
+Legolita viado
+~
+43 40 0 E
+0 200 -4980 -100d1+1 500000d1+1
+5000 500 1000
+10 8 8 0 2
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

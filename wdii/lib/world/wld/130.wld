@@ -1,0 +1,1269 @@
+#13000
+Thieve's Lair Entrance~
+You are in the entrance of the Thief's Lair,
+you see a enormous and invulnerable Silver Gate.
+The Gate is guarded by two powerfull Warrior.
+~
+130 16777216 1
+D0
+~
+gate~
+2 13000 13001
+D5
+Thieve's Lair
+~
+~
+0 0 6151
+S
+#13001
+Durty Road~
+You are in a durty road.
+You feel something strange here, it seens 
+someone is observing you.
+~
+130 4 1
+D0
+~
+~
+0 0 13002
+D2
+~
+Silver Gate~
+2 13000 13000
+S
+#13002
+Second Avenue's Center~
+Here is the center of the second avenue, a poor road
+of the city. To the South you see a durty road, and
+the Rich First Avenue is to the North.
+~
+130 0 1
+D0
+~
+~
+0 0 13019
+D1
+~
+~
+0 0 13014
+D2
+~
+~
+0 0 13001
+D3
+~
+~
+0 0 13003
+S
+#13003
+Second Avenue~
+You are in the west side of the second avenue, a poor
+and dark road. There is a old house to the south,
+the avenue continues to East and West.
+~
+130 0 1
+D1
+~
+~
+0 0 13002
+D2
+~
+Broken Door~
+1 0 13005
+D3
+~
+~
+0 0 13004
+S
+#13004
+Second Avenue~
+You are in the Western side of the poor Second Avenue.
+To the west you see the Cemitery's Gate, the avenue
+continues to the east.
+~
+130 0 1
+D1
+~
+~
+0 0 13003
+D3
+~
+~
+0 0 13006
+S
+#13005
+Abandoned House~
+You are in a abandoned house, in the left 
+you see a broken window, when you listen a 
+strange noise... what is it... the floor is
+going down....HHHHHUUUUUUUAAAAAAAAAAAA
+O
+  O
+    H
+      H
+     
+         N
+           O
+             O
+               !
+                 !
+BBBBBBB   YYY      YYY  EEEEEEEEE
+BB   BBB   YYY    YYY   EEEEEEEE 
+BB    BBb   YYY  YYY    EEE 
+BB   BBB     YYYYYY     EEEE
+BBBBBBB       YYYYY     EEEEEEE
+BB   BBB       YYY      EEEE
+BB    BBb      YYY      EEE
+BB   BBB       YYY      EEEEEEEE
+BBBBBBB        YYY      EEEEEEEEE
+Sorry, you are dead!!!!
+~
+130 6 0
+S
+#13006
+Cemitery's Gate~
+You see a big and old gate, it is the gate of the Cemitery.
+You can enter in the cemitery, or go to the Second Avenue 
+in the East side.
+~
+130 20 0
+D1
+~
+~
+0 0 13004
+D3
+~
+Cemitery's Gate~
+1 0 13007
+S
+#13007
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+~
+0 0 13007
+D1
+~
+~
+0 0 13008
+D2
+~
+~
+0 0 13009
+D3
+~
+~
+0 0 13010
+S
+#13008
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+~
+0 0 13008
+D1
+~
+~
+0 0 13009
+D2
+~
+~
+0 0 13010
+D3
+~
+~
+0 0 13011
+S
+#13009
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+~
+0 0 13010
+D1
+~
+~
+0 0 13006
+D2
+~
+~
+0 0 13011
+D3
+~
+~
+0 0 13012
+S
+#13010
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+~
+0 0 13011
+D1
+~
+~
+0 0 13012
+D2
+~
+~
+0 0 13010
+D3
+~
+~
+0 0 13012
+S
+#13011
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+~
+0 0 13011
+D1
+~
+~
+0 0 13007
+D2
+~
+~
+0 0 13008
+D3
+~
+~
+0 0 13009
+S
+#13012
+The Cemitery~
+You are inside the cemitery, you see a lots of graves here.
+To the East you see graves, to the west you see graves,
+graves, graves, graves.... oh! oh! You are lost!!!!
+~
+130 224 4
+D0
+~
+Crypt's Door~
+1 0 13013
+D1
+~
+~
+0 0 13008
+D2
+~
+~
+0 0 13009
+D3
+~
+~
+0 0 13007
+S
+#13013
+A Crypt~
+You are in a place iluminated by a red magic light,
+there is a glass table with a black coffin in front
+of you and it emits the red light, behind the coffin you can see 
+a Holy book protected by a silver grate.
+~
+130 8196 0
+D2
+~
+Crypt's Door~
+1 0 13012
+E
+holy book~
+You look at the Holy book and read the words..
+BE CAREFUL with Locky, he is the Personification of the EVIL!!
+~
+S
+#13014
+Second Avenue~
+Here continues the poor second avenue, you are in the east side.
+You see a old house to the north and a strange place to the south,
+the avenue continues to east and west.
+~
+130 0 1
+D0
+~
+~
+0 0 13015
+D1
+~
+~
+0 0 13017
+D2
+~
+~
+0 0 13016
+D3
+~
+~
+0 0 13002
+S
+#13015
+Old House~
+You are in an old and poor house, all the windows
+are broked and you see a big web in the left wall.
+You feel you can't trust in this floor.
+The second Avenue is to the South.
+~
+130 0 0
+D2
+~
+~
+0 0 13014
+S
+#13016
+Gypsy's Place~
+You enter in a strange house, each wall with a diferent color.
+There is a table with a crystal ball and two chairs.
+You see a board with a picture of Madonna, totaly undressed.
+~
+130 132 0
+D0
+~
+~
+0 0 13014
+E
+ball crystal~
+You look at the crystall ball and see...... NOTHING!!!!
+What do you want?! See the future.. Hey, Give me a break!!!
+Only a stupid one like you to think something like that!!!!
+~
+S
+#13017
+Second Avenue~
+You are in the Eastern side of this poor avenue.
+You can go to a abandoned church to the South or 
+continue in the avenue to the west.
+~
+130 0 0
+D2
+~
+~
+0 0 13018
+D3
+~
+~
+0 0 13014
+S
+#13018
+Abandoned Church~
+Here is the church of the city, you see it's abandoned.
+In front of you there is a cross covered by spider's web.
+You can see a lots of statues of the Wardome's Gods.
+~
+130 0 0
+D0
+~
+~
+0 0 13017
+S
+#13019
+First Avenue's Center~
+Here is the center of the First Avenue, a big and rich road.
+This road represents the glory of this city.
+You can go to the Second Avenue to the South, continue in 
+the First Avenue to east and west or goto to a uncommon place
+to the North.
+~
+130 0 1
+D0
+~
+~
+0 0 13020
+D1
+~
+~
+0 0 13027
+D2
+~
+~
+0 0 13002
+D3
+~
+~
+0 0 13031
+S
+#13020
+Cave's Entrance~
+You are in front of a enormous and invulnerable rock,
+maybe the end of this city...
+You can go to the Fist Avenue to the South.
+~
+130 128 1
+D0
+~
+Rock~
+2 13019 13021
+D2
+~
+~
+0 0 13019
+S
+#13021
+Inside the Cave~
+You are inside the cave, it's a rustic place iluminated by
+two big torchs. To the north you see a big golden door,
+a pink door to the west and a black door to the East.
+~
+130 0 0
+D0
+~
+Golden Door~
+1 0 13024
+D1
+~
+Black Door~
+1 0 13022
+D2
+~
+Rock~
+2 13019 13020
+D3
+~
+Pink Door~
+1 0 13023
+S
+#13022
+Conference Room~
+  A great heraldic shield with a picture of Ali Babah is in the 
+middle of the wall at your right. A big table with many chairs
+are in the middle of the enormous room. Four chairs has a larger 
+support. Here Ali Babah and his captains decides their matters.
+~
+130 0 0
+D0
+~
+~
+0 0 -1
+D3
+~
+Black Door~
+1 0 13021
+S
+#13023
+Zeina's Room~
+You enter in the room of Zeina, the princess of the Thiefs.
+It is a big and strange room, half pink and half black, in
+the pink side you see dools, toys and pictures, in the black
+side you see axes, swords and daggers. 
+~
+130 0 0
+D1
+~
+Pink Door~
+1 0 13021
+S
+#13024
+King's Bedroom~
+WOW!! You are in a rich room, the richest you see
+in your life, certainly this is the King's room.
+There is a picture of Zeina in the west side and
+a small door to the east.
+~
+130 0 0
+D1
+~
+Small Door~
+1 0 13025
+D2
+~
+Golden Door~
+1 0 13021
+D3
+~
+Picture of Zeina~
+1 0 13026
+S
+#13025
+King's Bathroom~
+You see a big bathroom, certainly it's bigger then your
+house, but there is a horrible smell.... argh.... it's
+a good idea get out of here.
+~
+130 0 0
+D3
+~
+Small Door~
+1 0 13024
+S
+#13026
+Treasury's Room~
+You are in a small and rustic place, you do not
+see somethig interesting here, just a small chest
+in the left corner. The only exit is to the east.
+~
+130 0 0
+D1
+~
+Picture of Zeina~
+2 0 13024
+S
+#13027
+First Avenue~
+You are in the east side of the First Avenue,
+a rich road. The academy is to the south side and
+the avenue continues to east and west.
+~
+130 0 1
+D1
+~
+~
+0 0 13029
+D2
+~
+~
+0 0 13028
+D3
+~
+~
+0 0 13019
+S
+#13028
+&rThieve's Academy&n~
+Here is the Academy of the City, you see ten chairs
+and a big blackboard. Here the apprendices practices
+their skills. The first avenue is to the North.
+~
+130 0 0
+D0
+~
+~
+0 0 13027
+D4
+~
+~
+0 0 13040
+S
+#13029
+First Avenue~
+You are in the Eastern side of the First Avenue,
+here the Fist Avenue finishes. To the North there is
+a good place to relax, the first avenue continues to
+the west side.
+~
+130 0 1
+D0
+~
+~
+0 0 13030
+D3
+~
+~
+0 0 13027
+S
+#13030
+Red Light House~
+Here is the prostibule of the city. There is
+a lots of beautiful women here, they are almost
+undressed, certainly this is the best place in this city.
+The first avenue is to the South.
+~
+130 0 0
+D2
+~
+~
+0 0 13029
+S
+#13031
+First Avenue~
+You are in the west side of the rich first avenue. There 
+is a general store to the North, to the South has a good
+place to go, the Bavaria's House and the avenue continues
+to east and west.
+~
+130 0 1
+D0
+~
+~
+0 0 13033
+D1
+~
+~
+0 0 13019
+D2
+~
+~
+0 0 13034
+D3
+~
+~
+0 0 13032
+S
+#13032
+First Avenue~
+You are in the western side of the first avenue, to the north you see the
+construction of the Thief's Headquarters.
+To the south a strange house and to the west the house of the legendary thief,
+Jerry.
+The first avenue continue to the east.
+~
+130 0 0
+D1
+~
+~
+0 0 13031
+D2
+~
+~
+0 0 13035
+D3
+~
+~
+0 0 13036
+S
+#13033
+General Store~
+You are in a big store, here the travelers
+can buy everything they need. The first avenue
+is to the south.
+~
+130 144 0
+D2
+~
+~
+0 0 13031
+S
+#13034
+Bavaria's House~
+You are in a big bar. You see a lot of drinks. In the corner, you
+see a group called Nirvana trying to be famous, argh they are so 
+horrible. Lots of adventurers come here to talk about their quests.
+If you wanna a beer it's the right place. The first avenue is to
+the North.
+~
+130 0 0
+D0
+~
+~
+0 0 13031
+S
+#13035
+Mawerick's House~
+You are in a dark house, it's the house of Mawerick, it's a strange
+place, you don't see any window here, the room is iluminated by a 
+silver torch in the left corner, you see a big silver coffin in the
+middle of the room, in the coffin you see a plaque writen: "To My son,
+the Daywalker Vampire, from Locky, the EVIL.". The First Avenue is to
+the South.
+~
+130 196 0
+D0
+~
+~
+0 0 13032
+S
+#13036
+Jerry's House~
+   This place is not very well organized, looks like a
+lazy man lives here, all around you are very valuable things,
+many gold coins and treasury.
+~
+130 869 0
+D1
+~
+~
+0 0 -1
+S
+#13037
+Thief's Headquarter~
+You are in an unfinished room.
+~
+130 0 0
+S
+#13038
+Tyr's Temple~
+Here is the almighty Tyr's Temple And House.
+You see lot's of magical an powerfull items around.
+If you're here, is because Tyr has something to say to you...
+~
+130 1055316 0
+D2
+~
+0~
+2 0 -1
+S
+#13039
+The Arena Of The Martial Arts Contest.~
+You are in a great field, surrounded by some chairs and lot's of people... They semm to be screaming your name...
+You can see your opponent a few meters away. Them, you hear a whisteling rign. And a judge screams: GO!
+Now, only one can survive... Good Luck!
+~
+130 6356992 2
+S
+#13040
+&rFirst Floor of Academy&n~
+Here is the First Floor of Thiefs Academy and you see four rooms
+~
+130 68 0
+D0
+~
+~
+0 0 13041
+D1
+~
+~
+0 0 13043
+D2
+~
+~
+0 0 13042
+D3
+~
+~
+0 0 13044
+D4
+~
+~
+0 0 13045
+D5
+~
+~
+0 0 13028
+S
+#13041
+&r-= Trainning Room - Sneak =-&n~
+In this room have a student of sneak...    
+~
+130 96 0
+D2
+~
+~
+0 0 13040
+S
+#13042
+&r-= Trainning Room - Hide =-&n~
+In this room have a student of Hide...
+~
+130 96 0
+D0
+~
+~
+0 0 13040
+S
+#13043
+&r-= Trainning Room - Pick Lock =-&n~
+In this room have a student of Pick Lock...    
+~
+130 96 0
+D3
+~
+~
+0 0 13040
+S
+#13044
+&r-= Trainning Room - Steal =-&n~
+In this room have a student of Steal...
+~
+130 96 0
+D1
+~
+~
+0 0 13040
+S
+#13045
+&rSecond Floor of Academy&n~
+Here is the Second Floor of Thiefs Academy and you see four rooms...
+~
+130 68 0
+D0
+~
+~
+0 0 13046
+D1
+~
+~
+0 0 13048
+D2
+~
+~
+0 0 13047
+D3
+~
+~
+0 0 13049
+D4
+~
+~
+0 0 13050
+D5
+~
+~
+0 0 13040
+S
+#13046
+&r-= Trainning Room - Escape =-&n~
+In this room have a student of Escape...
+~
+130 96 0
+D2
+~
+~
+0 0 13045
+S
+#13047
+&r-= Trainning Room - Backstab =-&n~
+In this room have a student of Backstab...
+~
+130 96 0
+D0
+~
+~
+0 0 13045
+S
+#13048
+&r-= Trainning Room - Listen =-&n~
+In this room have a student of Listen...
+~
+130 96 0
+D3
+~
+~
+0 0 13045
+S
+#13049
+&r-= Trainning Room - Circle Arround =-&n~
+In this room have a student of Circle Arround...
+~
+130 96 0
+D1
+~
+~
+0 0 13045
+S
+#13050
+&rThird Floor of Academy&n~
+Here is the Third Floor of Thiefs Academy and you see four rooms...
+~
+130 68 0
+D0
+~
+~
+0 0 13051
+D1
+~
+~
+0 0 13052
+D2
+~
+~
+0 0 13053
+D3
+~
+~
+0 0 13054
+D4
+~
+~
+0 0 13055
+D5
+~
+~
+0 0 13040
+S
+#13051
+&r-= Trainning Room - Sting =-&n~
+In this room have a student of Sting...
+~
+130 96 0
+D2
+~
+~
+0 0 13050
+S
+#13052
+&r-= Trainning Room - Stab =-&n~
+In this room have a student of Stab...
+~
+130 96 0
+D3
+~
+~
+0 0 13050
+S
+#13053
+&r-= Trainning Room - Tumble =-&n~
+In this room have a student of Tumble...
+~
+130 96 0
+D0
+~
+~
+0 0 13050
+S
+#13054
+&r-= Trainning Room - Second Stab =-&n~
+In this room have a student of Second Stab...
+~
+130 96 0
+D1
+~
+~
+0 0 13050
+S
+#13055
+&rFourth Floor of Academy&n~
+Here is the Fourth Floor of Thiefs Academy and you see... &RYOUR DEATH&n...
+~
+130 96 0
+D4
+~
+~
+0 0 13056
+D5
+~
+~
+0 0 13050
+S
+#13056
+&rFifth Floor of Academy&n~
+Here is the Fourth Floor of Thiefs Academy and you dont see...
+~
+130 96 0
+D4
+~
+~
+0 0 13057
+D5
+~
+~
+0 0 13055
+S
+#13057
+&rRoom of The Bodyguard's&n~
+Here is the &rRoom of The Bodyguard's&n...
+&Rget out or you will die!!&n
+~
+130 96 0
+D0
+~
+door~
+1 13005 13058
+D5
+~
+~
+0 0 13056
+S
+#13058
+&rRoom of The Master Thief's&n~
+Here is the room of The Master Thief's
+~
+130 224 0
+D2
+~
+door~
+1 0 13057
+S
+#13059
+Thieve's Headquarter's Entrance~
+     You are in a enormous atrium.  To the north you see a great hall,
+to the east a  stable and to the west you see the trainning room.  The
+Headquarter's exit is to the south.
+~
+130 0 0
+D0
+~
+~
+0 0 13060
+D1
+~
+~
+0 0 13063
+D2
+~
+Gate~
+1 0 13032
+D3
+~
+~
+0 0 13064
+S
+#13060
+Headquarter's Hall~
+     You are in a great and dark hall, to the east you see a reception
+room, and to the west is the jail entrance.  The hall continues to the 
+north and the Headquarter's Entrance is to the south.
+~
+130 0 0
+D0
+~
+~
+0 0 13061
+D1
+~
+~
+0 0 13077
+D2
+~
+~
+0 0 13059
+D3
+~
+~
+0 0 13065
+S
+#13061
+Headquarter's Hall~
+     You are in a great and dark hall, there are two doors to the east
+and to the west.  The hall continues to the north and to the south.
+~
+130 0 0
+D0
+~
+~
+0 0 13062
+D1
+~
+~
+0 0 13072
+D2
+~
+~
+0 0 13060
+D3
+~
+~
+0 0 13071
+S
+#13062
+Headquarter's Hall~
+     You are in the end of the headquarter's hall, you can see a Large
+Golden Door to the  north and a big silver door to the east.  The hall
+continues to the south.
+~
+130 0 0
+D0
+~
+Golden Door~
+1 0 13069
+D1
+~
+Silver Door~
+1 0 13070
+D2
+~
+~
+0 0 13061
+S
+#13063
+Stable~
+     Here is the  Headquarter's Stable, a dirty and very smelly place,
+there are some bails with three Great Horses. The exit is to the west.
+~
+130 0 0
+D3
+~
+~
+0 0 13059
+S
+#13064
+Trainning Room~
+     Here is the trainning room.  You can  see  some recruits learning
+their skills.  The exit is to the east.
+~
+130 0 0
+D1
+~
+~
+0 0 13059
+S
+#13065
+Jail~
+     The jail is a poor dirty and smelly place.  There are three cells
+to the north, to the south and to the west.  The exit is to the east.
+~
+130 0 0
+D0
+~
+~
+0 0 13066
+D1
+~
+~
+0 0 13060
+D2
+~
+~
+0 0 13067
+D3
+~
+~
+0 0 13068
+S
+#13066
+Cell~
+     Nothing to say.
+~
+130 0 0
+D2
+~
+~
+0 0 13065
+S
+#13067
+Cell~
+     Nothing to say.
+~
+130 0 0
+D0
+~
+~
+0 0 13065
+S
+#13068
+Cell~
+     Nothing to say.
+~
+130 0 0
+D1
+~
+~
+0 0 13065
+S
+#13069
+Captain's Place~
+     Here is the richest and more beautiful place of this Headquarter,
+you see a enormous picture of Locky, the thieve's God in the left wall
+there is a big king size bed and a  golden desk here.  If you aren't a
+guest you should get out.  The exit is to the south.
+~
+130 0 0
+D2
+~
+Golden Door~
+1 0 13062
+S
+#13070
+Chief's Room~
+     You are inside the chief's room, it's a beautiful place.  You see
+a bed and a silver chest in the left corner.  The exit is to the west.
+~
+130 0 0
+D3
+~
+Silver Door~
+1 0 13062
+S
+#13071
+Headquarter's Office~
+     Here is the office, there are two desks  and a big table, you can
+see the Map of the Wardome City in the wall inside  a big square named
+NEW TARGET.  The exit is to the east.
+~
+130 0 0
+D1
+~
+~
+0 0 13061
+S
+#13072
+Corridor~
+     You are in a dark corridor, you can see three bronze doors to the
+east, north and south and a black wooden door to down.  The hall is to
+the west.
+~
+130 0 0
+D0
+~
+Bronze Door~
+1 0 13075
+D1
+~
+Bronze Door~
+1 0 13073
+D2
+~
+Bronze Door~
+1 0 13074
+D3
+~
+~
+0 0 13061
+D5
+~
+Black Wooden Door~
+1 0 13076
+S
+#13073
+Dagger's Adept Room~
+     Here is a beautiful room, you see ten beds here and some pictures
+of neautiful naked women.  Here is the room where a elite group of the
+thieve's lair called Dagger's Adept sleep.  The exit is to the west.
+~
+130 0 0
+D3
+~
+Bronze Door~
+1 0 13072
+S
+#13074
+Archer's Room~
+     Here is a beautiful room, you can see ten beds  here and a golden
+Bow in the right wall, and certanly the legendary thieve's archers are
+the guys who sleep here.  The exit is to the north.
+~
+130 0 0
+D0
+~
+Bronze Door~
+1 0 13072
+S
+#13075
+Knight's Room~
+     Here is a beautiful room, you can see ten beds  here and a golden
+Shortsword in the left wall, here is where the  powerfull group called
+Thieve's Knight sleep.  The exit is to the south.
+~
+130 0 0
+D2
+~
+Bronze Door~
+1 0 13072
+S
+#13076
+Recruit's Room~
+     You are in a big and smelly room, you can see hundreds poor beds,
+here is where the recruits sleep.  The only exit is up.
+~
+130 0 0
+D4
+~
+Black Wooden Door~
+1 0 13072
+S
+#13077
+Headquarter's Reception~
+     You are in the reception there are to desk with two old secretary
+and a big bench.  In the walls you can see some pictures of the wanted
+people, the Headquarter's Hall is to the west.
+~
+130 0 0
+D3
+~
+~
+0 0 13060
+S
+$~

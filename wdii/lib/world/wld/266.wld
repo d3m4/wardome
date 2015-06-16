@@ -1,0 +1,491 @@
+#26600
+Mud School ~
+You are in the Wardome Mud School.
+You will now learn how to play this nice mud. We,
+from the wardome staff, hopes that you enjoy this mud.
+&CIf you want to learn how to play in english type 'E or East'.&n
+&GSe vc quiser aprender a jogar em portugues tecle 'W ou West'.&n
+&w &n
+&RNota&W: O MUD eh inteiramente em ingles, feita a excessao dessa zone.
+Somente essa zona de aprendizado eh escrita em 2 linguas.
+~
+266 1310740 0
+D1
+~
+~
+0 0 26613
+D3
+~
+~
+0 0 26601
+S
+#26601
+Aprendendo a se movimentar~
+Eh facil se movimentar nesse mud. Basta digitar &RW&w(oeste), &RE&w(leste),
+&RN&w(norte), &RS&w(sul), &RU&w(para cima), &RD&n(para baixo). Para saber os locais
+que se pode ir, basta olhar o '&cExits&n' que existem em todas as salas.
+Nesta sala, existem saidas para '&Re&n'(leste) '&Rw&n'(oeste).
+Se vc digitar 'e' vc voltara para a sala inicial. Faca o teste.
+&w &n
+Digite '&Rw&n' para continuar com o aprendizado.
+~
+266 1310720 0
+D1
+~
+~
+0 0 26600
+D3
+~
+~
+0 0 26602
+S
+#26602
+Examinando a sala.~
+Para examinar a sala, basta digitar '&Rlook&n'.
+&w &n
+Ande para '&Rw&n' para continuar o seu aprendizado.
+~
+266 1310720 0
+D1
+~
+~
+0 0 26601
+D3
+~
+~
+0 0 26603
+S
+#26603
+Inventario e equipamentos~
+Para acessar o seu inventario, tecle '&Ri&n' ou '&Rinv&n'. Para ver os equipamentos
+que vc esta usando, tecle '&Req&n'. Para equipar o seu corpo com os equipamentos
+existentes no inventario digite '&Rwear Nome do Objeto&n' ou '&Rwear all&n'
+para equipar seu corpo com todos os equipamentos possiveis. Para equipar
+uma arma, use o comando wield, Como vc tem uma short sword no seu
+inventario, tecle '&Rwield sword&n' ou '&Rwield short&n'. Para remover
+um item do seu corpo basta digitar '&Rrem Nome do Objeto&n'.
+&w &n
+Tecle '&Rn&n' para continuar o seu aprendizado.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26604
+D1
+~
+~
+0 0 26602
+S
+#26604
+Analisando minhas informacoes~
+Para analisar o seu poder. Digite '&Rscore&n' ou '&Rsc&n'. Aparecera todos os numeros
+referentes ao seu personagem la. Vc aprendera a analisar esses numeros com o
+passar do tempo e com disciplina.
+&w &n
+Digite '&Ru&n' para continuar com a licao.
+~
+266 1310720 0
+D2
+~
+~
+0 0 26603
+D4
+~
+~
+0 0 26605
+S
+#26605
+PORRADA!!!!~
+Vc aprendera a lutar agora. Nessa sala, existe um monstro chamado Galahar.
+Vc deve ter visto o monstro quando entrou na sala. De qualquer forma, digite
+'&Rlook&n' para examinar a sala. Voce notara que existe um monstro chamado Galahar.
+Antes de travar combate. Digite '&Rwimpy 5&n'. Sendo assim, seu personagem vai
+fugir da briga, caso o HP(energia de vida) esteja a baixo de 5. Esse comando
+eh muito util para evitar mortes estupidas. Quando estiver preparado para lutar,
+digite '&Rkill galahar&n'.
+&w &n
+Digite '&Ru&n' depois que o combate terminar.
+~
+266 1310720 0
+D4
+~
+~
+0 0 26606
+D5
+~
+~
+0 0 26604
+S
+#26606
+Pegando os pertences do morto~
+Se vc esta aqui, vc provavelmente matou o feio Galahar. Digite '&Rd&n' para
+voltar a sala onde o corpo morto de Galahar esta. Para pegar os pertences
+do corpo, digite '&Rget all corpse&n' na sala anterior.
+&w &n
+Para continuar o aprendizado, digite '&Rw&n'.
+~
+266 1310720 0
+D3
+~
+~
+0 0 26607
+D5
+~
+~
+0 0 26605
+S
+#26607
+Pegando coisas no chao~
+Nessa sala, existem varios objetos no chao. Para ver os objetos existentes
+nessa sala, digite '&Rlook&n'. Para pegar os objetos basta digitar
+'&Rget Nome do Objeto&n'. Exemplo : '&Rget sunglass&n'
+O objeto ira automaticamente para o seu inventario.
+&w &n
+Digite '&Rn&n' para continuar a sua licao.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26608
+D1
+~
+~
+0 0 26606
+S
+#26608
+Interagindo com outros players~
+Eh importante interagir com outras pessoas. Eles podem te ajudar em
+varias sentidos. Para ver quem esta jogando esse mud digite '&Rwho&n'. Para
+mandar uma mensagem para todos digite '&Rnewbie Texto&n'.
+Exemplo : Digite '&Rnewbie esse eh meu primeiro chat.&n'
+&w &n
+Digite '&Rn&n' para continuar a sua licao.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26609
+D2
+~
+~
+0 0 26607
+S
+#26609
+Comendo e bebendo~
+Eh interessante sempre deixar seu player em boa saude. Para comer
+algo, digite : '&Reat Nome da comida&n'. Como vc possue um '&ybread&n' digite '&Reat bread&n'
+para se alimentar. Para beber, digite '&Rdrink Nome da Bebida&n'. Como vc possue
+um '&ybottle&n' digite : '&Rdrink bottle&n' para matar a sua sede.
+&w &n
+Nao se preocupe, ninguem morre por fome e sede nesse mud. Comer e beber
+apenas aumentam o taxa de recuperacao (&Rlife&n/&Cmana&n/&Gmove&n) de seu player.
+&w &n
+Digite '&Rw&n' para continuar a sua licao.
+~
+266 1310720 0
+D2
+~
+~
+0 0 26608
+D3
+~
+~
+0 0 26610
+S
+#26610
+Usando skills~
+Para usar uma Skill(tecnica) basta digitar o nome da skill. Para ver as skills
+que vc tem, digite '&RSkills&n'.
+&w &n
+&RNota1&W: Algumas skills sao automaticas(nao eh necessario usar).&n
+&RNota2&W: Classes de magias(necromancer, cleric e outras) nao possuem skills
+no primeiro nivel.&n
+&w &n
+Digite '&Rn&n' para continuar a licao.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26611
+D1
+~
+~
+0 0 26609
+S
+#26611
+Usando spells~
+Para usar uma spell, basta digitar: &Rcast 'NOME SPELL' vitima&n. Para ver as
+suas spells, digite spell. Exemplo : &Rcast 'meteor shower' galahar&n ou
+simplesmente  &Rc 'met sho' gala&n (basta usar as iniciais).
+&w &n
+&RNota1&W: Eh necessario mana para usar spells.&n
+&RNota2&W: Apenas as classes de magia(Shaman, Cleric, Warlock, etc) podem usar
+spells no primeiro nivel.&n
+&RNota3&W: Digite slist pra ver as spells skills que vc aprendera com o tempo.&n
+&w &n
+Digite '&Rn&n' para continuar.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26612
+D2
+~
+~
+0 0 26610
+S
+#26612
+Final~
+Voce ja sabe os principais comandos basicos do mud, caso queira aprender um
+pouco mais digite: '&Rsay quero ajuda&n' que o Ajudente de Newbie ira tirar
+suas duvidas.  Depois que voce tirar todas as suas duvidas vc ja pode jogar mud
+tranquilamente.  Caso vc possua alguma outra duvida, digite : &Rnewbie
+(texto)&n para tirar duvidas com alguem que esteja online.  Se vc for do tipo
+caladao, digite help para ver o help disponivel.  Continue a matar os monstros
+aqui, qdo vc estiver no level 2, Digite '&Rsay estou pronto&n' para ser
+transportado para uma zona mais avancada.  Os deuses e implementadores do
+Wardome Mud esperam que vc tenha uma boa diversao aqui com conosco.    
+&n                                                    Atenciosamente, Someone.&n
+~
+266 1310740 0
+D2
+~
+~
+0 0 26611
+S
+T 26612
+#26613
+Learning how to move.~
+It's easy to move around this mud. Just type &RW&n(West), &RE&n(East),
+&RN&n(North), &RS&n(South), &RU&n(Up), &RD&n(Down). To see where you can move,
+just look at the '&cExits&n' menu, just bellow the description of 
+the room. In this room, there are exits to '&Re&n'(east) and '&Rw&n'(west).
+If you type '&Rw&n' you will be back to the initial room.
+&n
+Try it. Type '&Re&n' to continue with your lessons.
+~
+266 1310720 0
+D1
+~
+~
+0 0 26614
+D3
+~
+~
+0 0 26600
+S
+#26614
+Examining the room~
+To examine the room, just type '&Rlook&n'.
+&n
+Walk to '&Re&n' to continue your lessons.
+~
+266 1310720 0
+D1
+~
+~
+0 0 26615
+D3
+~
+~
+0 0 26613
+S
+#26615
+Inventary and equipment~
+To look in your inventary, type 'i' or 'inventary'. To look
+on your weapons, type 'eq'. To equip your body with the equipments
+that are in your inventary, type : wear NAME OF EQ. Or wear all
+to equip your body with all possible equipments. 
+To equip a weapon, use the command wield. You have a short sword
+in your inventary, so, type : wield sword or wield short.
+Type 'n' to continue.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26616
+D3
+~
+~
+0 0 26614
+S
+#26616
+Reading my information~
+To read your information, type 'sc' or 'score'. You will see all
+the numbers that makes your player. You will learn to analyse 
+those numbers with time and discipline.
+Type 'u' to continue.
+~
+266 1310720 0
+D2
+~
+~
+0 0 26615
+D4
+~
+~
+0 0 26617
+S
+#26617
+Fighting~
+You will learn how to fight now. In the room, there is a monster called
+Astrain. You have already seen it when you first came to this room. Anyway, 
+type 'look' to examine the room. You will notice that there is a
+monster called Astrain in this room.
+Before fighting, type 'wimpy 5'. This way, you will run if your hp
+(hit points) is below 5. This 'wimpy' is very useful to avoid deaths.
+If you are ready to fight, type 'kill astrain' or 'k a'.
+Type 'u' to continue.
+~
+266 1310720 0
+D4
+~
+~
+0 0 26618
+D5
+~
+~
+0 0 26616
+S
+#26618
+Looting corpses~
+If you are here, you probably killed the ugly Astrain. Type 'd'
+to go back to the room where his body is. To take his belongings,
+type 'get all all' in the previous room.  
+Type 'w' to continue.
+~
+266 1310720 0
+D3
+~
+~
+0 0 26619
+D5
+~
+~
+0 0 26617
+S
+#26619
+Taking objects~
+In this room, there is an object in the floor. To see the objects
+in a room, just type 'l' or 'look'. To take the objects, type 
+'get OBJECT NAME'. To get all the objects in the room. type 'get all'. 
+The object will go to your inventary. E.G.: get sunglass.
+Type 'n' to continue.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26620
+D1
+~
+~
+0 0 26618
+S
+#26620
+Talking with other players~
+It is important to talk with other players. The can help you
+a lot. To see who is playing this mud, type 'who'. To send a message
+to those people, type 'chat TEXT'. E.G.: 'chat this is my fist chat'.
+Go to north(typing n) to continue. 
+~
+266 1310720 0
+D0
+~
+~
+0 0 26621
+D2
+~
+~
+0 0 26619
+S
+#26621
+Eating and drinking~
+It is good to keep your good healthy. To eat, just type 'eat food'. You
+have a bread in your inventary, so, type 'eat bread' to eat it. To
+drink, just type 'drink containner'. You have a bottle, so, type drink
+bottle.
+Do not worry, you neve die of lack of food or drinking in this mud, but it
+is good to keep good healty to improve the stamina of your player.
+Type 'n' to continue.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26622
+D2
+~
+~
+0 0 26620
+S
+#26622
+Using skills~
+To use a skill, just type the name of it. To see the 
+skills that you are able to use, type 'skills'.
+NOTE1 : Magic classes(like necromancer, cleric, etc) do not have
+skills on the first level.
+NOTE2 : Some skills are passive(automatic, no need to use).
+Type 'n' to continue.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26623
+D2
+~
+~
+0 0 26621
+S
+#26623
+Using spells~
+To use a spell, type : 'cast 'SPELL NAME' TARGET' . To see your spells,
+type 'spells'. E.G. : cast 'meteor shower' astrain or c 'me sh' as.
+Note1 : You must have mana to use a spell.
+Note2 : Only the magic classes have spells on the first level.
+Note3: Type slist to see the skills and spells that you will learn.
+Type 'n' to continue.
+~
+266 1310720 0
+D0
+~
+~
+0 0 26624
+D2
+~
+~
+0 0 26622
+S
+#26624
+Final~
+You already know the basics of this mud. If you have some questions,
+feel free to use the command 'chat' to ask something to the most
+experienced players. You can also type 'help' and 'help TOPIC' to
+read useful informations. Continue killing the monsters here and 
+there. When you reach level 2, just say 'i am done' to begin to play
+in a more advanced zone.
+The Wardome Gods and Imples hope that you have a good time with us.
+
+Grateful, someone.
+~
+266 1310720 0
+D2
+~
+~
+0 0 26623
+S
+T 26624
+#26625
+whatever ~
+You are in an unfinished room.
+~
+266 0 0
+S
+$~

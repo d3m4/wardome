@@ -1,0 +1,118 @@
+#3900
+library guardian~
+the Library Guardian~
+An Huge Guardian is here protecting the Library Entrance.
+~
+   It's a statue...  You can swear on that, still it moves towards you!    
+~
+10 2 0 E
+180 -74 -19 1d1+7920 10d19+76
+2700 19598258 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 75
+Att4: 30
+E
+#3901
+golem metal~
+the Metal Golem~
+A Metal Golem is here searching its pair.
+~
+It looks unfinished.
+This huge creature 10 feet tall walks around trying to keep the place 
+safe and clean. Humm, he thinks you might cause problems, so he attacks!
+~
+6152 0 0 E
+180 -74 -19 1d1+7920 10d19+76
+2700 19598258 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 75
+Att4: 40
+E
+#3902
+scholar~
+A Scholar~
+A Scholar is reading some books here.
+~
+   He somehow looks translucid...  With a closer look you realize he is not
+alive the only thing that keeps him to this world is his love for the books.  
+
+~
+8 0 0 E
+190 -78 -20 1d1+8352 10d20+80
+2850 36955695 2
+5 5 0 0 0
+Att2: 100
+Att3: 75
+Att4: 45
+E
+#3903
+mage library~
+The Library Mage~
+The Librarian Mage is scouting here.
+~
+   Long hours of study with weak light made this fellow looks ten years older
+than what he really is, he pays no mind to you.    
+~
+4104 0 0 E
+190 -78 -20 1d1+8352 10d20+80
+2850 36955695 2
+8 8 0 0 0
+Att2: 100
+Att3: 75
+Att4: 50
+E
+#3904
+Sora thief~
+Sora, the thief~
+Sora is here selling some old books.
+~
+   This fellow has an odd green hair in a fancy style, however his gaze and the
+katars he hold tell you its not a good ideia to laugh...  He sells books!    
+~
+3579930 1133555880 0 E
+200 -84 -22 1d1+8796 10d21+84
+3000 26655827 2
+8 8 2 2 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#3905
+parlin majere~
+Parlin Majere~
+Parlin Majere stands here.
+~
+   This figure, imponent and even arrogant, has almost a viseble aura around
+him, it shines with different colors, he wears a Big robe made of some color
+you can't really recognize, near his seat rests a long staff with a dragon
+encarvled in its top.    
+~
+1048602 67108864 0 E
+200 -84 -22 1d1+8796 10d21+84
+3000 42929472 2
+8 8 0 8 0
+Att2: 100
+Att3: 90
+Att4: 86
+E
+#3906
+Denubis Manager~
+Denubis Manager~
+Denubis Manager stands here, casting its spells.
+~
+   Here stands him, the one who fought in the lost wars...  The wars that took
+away all the glory and prestige of the Thalos city.  He is old, and his gaze
+holds the knowledge, of all those non wasted years of study, he wears simple
+robes.    
+~
+73738 33554432 0 E
+200 -84 -22 1d1+8796 10d21+84
+3000 42929472 2
+8 8 0 0 0
+Att2: 100
+Att3: 75
+Att4: 50
+E
+$

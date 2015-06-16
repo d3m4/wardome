@@ -1,0 +1,952 @@
+#15100
+Entering the Village~
+   All at once the darkness and thick foliage give way to a large, grubby
+village.  Looking around, you see that most of the inhabitants of this place
+must have little or no money.  Dogs with only three legs, chickens clucking to
+and fro, all of it just seems so...  Well, poor and grubby.  You only have a
+short time to register these facts, though, as you are suddenly surrounded by a
+group of heavily armed men and taken to a holding cell.  Holding Cell You sit
+in a stinky, dirt floored holding cell, with no idea why you have been put
+here.  Obviously this village is under some sort of militaristic control, and
+visitors are unwelcome.  The only thing to keep you occupied is the fact that
+the small hole in the ground used for a toilet stinks so bad that you have to
+keep trying to hold your breath, and every time you take in air you have to
+cover your mouth with your arm and breath that way or else you'll gag.    
+~
+150 4 1
+D1
+~
+door cell~
+2 15111 15101
+D2
+~
+~
+0 0 15002
+E
+credits~
+*Mordecai's Village
+*Written by Kaan
+*Put on Wd for Heimdall
+~
+S
+#15101
+A Dirt Path~
+   A worn dirt path leads east, north and south from here.  To the north and
+south, you can see more holding cells, to the east you see a number of huts,
+tents, and outbuildings.    
+~
+150 64 1
+D0
+~
+~
+0 0 15103
+D1
+~
+~
+0 0 15111
+D2
+~
+~
+0 0 15102
+D3
+~
+door cell~
+2 -1 15100
+S
+#15102
+A Dirt Path~
+   This is the end of a path which leads to the camp prisoner's holding cells,
+one of which is directly west of you, currently closed.  To the southwest,
+right next to the cell, is what appears to be an outhouse.  To the northwest is
+another holding cell.    
+~
+150 64 1
+D0
+~
+~
+0 0 15101
+D2
+~
+~
+0 0 15108
+D3
+~
+door cell~
+1 -1 15105
+S
+#15103
+A Dirt Path~
+   You are in an unfinished room.  You stand at the end of a dirt path, or as
+Mordecai would have it, one of the 'roads' in the village.  A crude bamboo
+holding cell is directly west of you, with an outhouse just north of it.  To
+the south are more cells.    
+~
+150 0 1
+D0
+~
+~
+0 0 15109
+D2
+~
+~
+0 0 15101
+D3
+~
+door cell~
+1 -1 15104
+S
+#15104
+A Holding Cell~
+   Much like your own, this cell offers no comfort whatsoever.  In fact, this
+cell is MUCH more uncomfortable than yours was.  Sitting close enough for you
+to reach through the bars and touch it is an outhouse.  Actually, all you know
+for sure is that it is a small square building that smells like something out
+of a cheap 'B' horror movie.  Just the same, you assume it's an outhouse.  
+Another clue to the small building's capacity is the tepid trail, a mini
+stream, of urine which runs downhill right through the middle of this cell -
+EWWWWWW!    
+~
+150 0 1
+D1
+~
+door cell~
+1 -1 15103
+S
+#15105
+A Holding Cell~
+   This cell seems about the same as the others outside.  A small building,
+which looks as if it might be an outhouse, lies to the south, wedged right up
+against the side of the cell.    
+~
+150 0 1
+D1
+~
+door cell~
+1 -1 15102
+S
+#15106
+An Outhouse~
+   This small space smells worse than a huge stable holding four hundred head
+of cattle who haven't been outside for three months.  This place smells BAD.  
+Two holes dug in opposing corners offer incense to remember, your feet squish
+into the wet dirt floor, and although you consider yourself a relatively strong
+person, you find your gorge rising, and your inability to suppress it only
+validates the fact that this place REALLY STINKS.    
+~
+150 0 1
+D1
+~
+~
+0 0 15109
+S
+#15107
+An Outhouse~
+   This outhouse, smelly by anyone's standards, but not that bad by outhouse
+standards, is a small 8x8 cubicle which allows relief to most of the village.
+Although it IS the public poop hole, it is relatively kept up and, against your
+better judgement, you find yourself wanting to try it out - just for the heck
+of it.    
+~
+150 0 1
+D1
+~
+~
+0 0 15108
+S
+#15108
+A Dirt Path~
+   This path leads north to a row of holding cells or west into a building
+which looks to be an outhouse.    
+~
+150 0 1
+D0
+~
+~
+0 0 15102
+D3
+~
+~
+0 0 15107
+S
+#15109
+A Dirt Path~
+   This path leads south to a row of holding cells or west into a building
+which smells SO bad, it MUST be an outhouse.    
+~
+150 0 1
+D2
+~
+~
+0 0 15103
+D3
+~
+~
+0 0 15106
+S
+#15110
+A Dirt Path~
+   This path leads T's off to the west, leading to a row of holding cells, to
+the east you may enter the main section of the village, and directly north and
+south of you are long, low buildings which look a great deal like barracks.  
+
+~
+150 0 1
+D0
+~
+~
+0 0 15112
+D1
+~
+~
+0 0 15114
+D2
+~
+~
+0 0 15113
+D3
+~
+~
+0 0 15111
+S
+#15111
+A Dirt Path~
+   This path leads east towards the main part of the village or west to a row
+of holding cells.    
+~
+150 0 1
+D1
+~
+~
+0 0 15110
+D3
+~
+~
+0 0 15101
+S
+#15112
+Barracks~
+   Long and low, this building houses all the single men and women who have
+chosen to fight for Mordecai's cause.  Two rows of beds run the length of the
+walls, both east and west, all with a matching trunk next to it.    
+~
+150 0 1
+D2
+~
+~
+0 0 15110
+S
+#15113
+Barracks~
+   This building houses all the single men and women who have chosen Mordecai
+as their savior and leader.  Rows of beds line walls to either side, all
+complete with a foot locker next to each bed.    
+~
+150 0 1
+D0
+~
+~
+0 0 15110
+S
+#15114
+A Dirt Path~
+   This path leads east to a crossing of paths (possibly the center of
+the;village) and west toward some low buildings and a row od holding cells.  
+
+~
+150 0 1
+D1
+~
+~
+0 0 15115
+D3
+~
+~
+0 0 15110
+S
+#15115
+A Muddy Crossing~
+   This section of trail has got to be the messiest, gookiest, nastiest
+crossing in the whole town.  The mud here is up past you ankles, making travel
+difficult, and disgusting.  You catch a faint odor breezing it's way from the
+north, and in looking in that direction, you see why.  To the north is a barn,
+while to the south is a huge tent set up on a hill.    
+~
+150 0 1
+D0
+~
+~
+0 0 15116
+D1
+~
+~
+0 0 15130
+D2
+~
+~
+0 0 15123
+D3
+~
+~
+0 0 15114
+S
+#15116
+A Muddy Trail~
+   The trail does not get any better here, the mud is still deep as hell and to
+make matters worse, it even is beginning to smell a bit.  A ways north of you
+is a hay barn, to the northeast and northwest are chicken coops.    
+~
+150 0 1
+D0
+~
+~
+0 0 15117
+D2
+~
+~
+0 0 15115
+S
+#15117
+A Muddier Trail~
+   Damn this mud is deep!  To both the east and west you see chicken coops,
+both holding a few chickens.  To the north is a hay barn, which seems to be
+stocked well.    
+~
+150 0 7
+D0
+~
+~
+0 0 15120
+D1
+~
+~
+0 0 15119
+D2
+~
+~
+0 0 15116
+D3
+~
+~
+0 0 15118
+S
+#15118
+Chicken Coop~
+   You stand just inside a chicken coop, ankle deep in (no pun intended)
+chicken shit.  Little cluckers run around you pecking here and pecking there,
+generally being a nuisance.    
+~
+150 0 1
+D1
+~
+~
+0 0 15117
+S
+#15119
+Chicken Coop~
+   You stand just inside a chicken coop, surrounded by a bunch of annoying
+chickens who seem to think you are the guy that's bringing the food.  By the
+way, what's that on the bottom of your shoe?
+~
+150 0 1
+D3
+~
+~
+0 0 15117
+S
+#15120
+Hay Barn~
+   This open air structure holds what appears to be the entire supply of hay
+for the village.  Bales upon bales fill this tin roofed building, alomost to
+the rafters.    
+~
+150 0 1
+D0
+~
+~
+0 0 15121
+D2
+~
+~
+0 0 15117
+S
+#15121
+Cow Barn~
+   This has got to be the smelliest place in Dibrova!  Not even the pet shop in
+Jareth can compare to this.  Stalls line the east wall, with a cow milling
+about in each one.  The floor os covered in fecal matter, obviously from the
+cows in the stalls.  Watch your step!    
+~
+150 0 1
+D0
+~
+~
+0 0 15122
+D2
+~
+~
+0 0 15120
+S
+#15122
+Pasture~
+   This small but lush and open plot of land provides food for the cows which
+graze here at this time.  Fenced in, this pasture's only exit is south into the
+Stinky Barn.    
+~
+150 0 1
+D2
+~
+~
+0 0 15121
+S
+#15123
+A Dirt Trail~
+   This trail leads south to a huge tent set upon a hill, to the southeast you
+see another structure, a more permanent looking place.  To the north the trail
+gets very muddy.    
+~
+150 0 1
+D0
+~
+~
+0 0 15115
+D2
+~
+~
+0 0 15124
+S
+#15124
+A Dirt Trail~
+   The trail continues it's way up the hill to the tent, but also branches off
+both to the east and west here.  To the east you see a wooden building, not a
+lodging, but maybe some sort of storage structure.  West the trail twists and
+turns, if it leads to anything, you cannot see what that might be.    
+~
+150 0 1
+D0
+~
+~
+0 0 15123
+D1
+~
+~
+0 0 15126
+D2
+~
+~
+0 0 15125
+D3
+~
+~
+0 0 15127
+S
+#15125
+Food Tent~
+   This is where the village comes to eat their meals, three times daily.  A
+raised chair at the head of the long table looks down on all, this must
+obviously be Mordecai's seat of honor.  Currently, there is no one here eating.
+  
+~
+150 0 1
+D0
+~
+~
+0 0 15124
+S
+#15126
+Food Storage and Preparation~
+   This building houses all the foodstuffs for the village.  Rows of bushel
+baskets filled with dried vegetables and grains line the walls, while skinned
+animals hang above them, collecting flies and who knows what else.  An area
+near the rear of the building looks to be seignated as the prep area with a
+hand pump for water and many different kinds of spices and seasonings on
+shelves.    
+~
+150 0 1
+D3
+~
+~
+0 0 15124
+S
+#15127
+A Twisty Turning Trail~
+   This trail heads through some trees to an unknown destination, but generally
+in an easterly direction.    
+~
+150 0 1
+D1
+~
+~
+0 0 15124
+D3
+~
+~
+0 0 15128
+S
+#15128
+A Twisty Turning Trail~
+   The trail ends here, at a small stone building.  The entrance to the
+building is directly south of you, but it doesn't appear as if you will be
+getting in any time soon, since the door is oak bound in iron, and no apparent
+windows from where you stand.    
+~
+150 0 1
+D1
+~
+~
+0 0 15127
+D2
+~
+door~
+1 0 15129
+S
+#15129
+Weapon Cache~
+   Various implements of destruction are stored here, just waiting for some
+lucky soul to come along and abuse them.    
+~
+150 0 1
+D0
+~
+door~
+1 0 15128
+S
+#15130
+A Dirt Path~
+   The trail continues east toward the center of the village.  You begin to see
+tents and huts the farther east you go, these must be the permanent residences
+of the village.    
+~
+150 0 1
+D1
+~
+~
+0 0 15131
+D3
+~
+~
+0 0 15115
+S
+#15131
+A Dirt Trail~
+   The trail heads east into the center of the village, to the north and south
+of you are tents, large enough to hold a family or at a few people.    
+~
+150 0 1
+D1
+~
+~
+0 0 15132
+D3
+~
+~
+0 0 15130
+S
+#15132
+A Meeting of Two Trails~
+   Here the two main trails in the village meet.  One of them heads west and
+the other runs north to south.    
+~
+150 0 1
+D0
+~
+~
+0 0 15144
+D2
+~
+~
+0 0 15141
+D3
+~
+~
+0 0 15131
+S
+#15133
+Tent Dwelling~
+   This tent, roughly 10x10, serves as the primary dwelling for one of the
+families under Mordecai's 'care'.  Four cots sit side by side along one wall
+and a leather chest sits in a corner, holding what you assume would be all of
+their wordly belongings.    
+~
+150 0 1
+D1
+~
+~
+0 0 15141
+S
+#15134
+Tent Dwelling~
+   This tent, roughly 10x10, serves as the primary dwelling for one of the
+families under Mordecai's 'care'.  Four cots sit side by side along one wall
+and a leather chest sits in a corner holding what you assume would all of their
+worldy possessions.    
+~
+150 0 1
+D3
+~
+~
+0 0 15141
+S
+#15135
+Tent Dwelling~
+   You are in an unfinished room.  This tent, roughly 10x10, serves as the
+primary dwelling for one of the families under Mordecai's 'care'.  Four cots
+sit side by side along one wall and a leather chest sits in a corner holding
+what you assume would all of their worldy possessions.    
+~
+150 0 1
+D3
+~
+~
+0 0 15144
+S
+#15136
+Tent Dwelling~
+   This tent, roughly 10x10, serves as the primary dwelling for one of the
+families under Mordecai's 'care'.  Four cots sit side by side along one wall
+and a leather chest sits in a corner holding what you assume would all of their
+worldy possessions.    
+~
+150 0 1
+D1
+~
+~
+0 0 15145
+S
+#15137
+Hut~
+   Made of muddy claya and straw, this small hut serves as a permanent home to
+a family of four.  In this cramped 8x8 area, four cots and a large chest all
+occupy what little living area there was.    
+~
+150 0 1
+D3
+~
+~
+0 0 15146
+S
+#15138
+Hut~
+   Made of muddy claya and straw, this small hut serves as a permanent home to
+a family of four.  In this cramped 8x8 area, four cots and a large chest all
+occupy what little living area there was.    
+~
+150 0 1
+D3
+~
+~
+0 0 15142
+S
+#15139
+Hut~
+   Made of muddy claya and straw, this small hut serves as a permanent home to
+a family of four.  In this cramped 8x8 area, four cots and a large chest all
+occupy what little living area there was.    
+~
+150 0 1
+D1
+~
+~
+0 0 15146
+S
+#15140
+Hut~
+   Made of muddy claya and straw, this small hut serves as a permanent home to
+a family of four.  In this cramped 8x8 area, four cots and a large chest all
+occupy what little living area there was.    
+~
+150 0 1
+D1
+~
+~
+0 0 15144
+S
+#15141
+The Trail Out of Town~
+   This trail leads south into the wilderness, leaving the village behind.  To
+the north the trail leads into the main part of the village.    
+~
+150 0 1
+D0
+~
+~
+0 0 15132
+D1
+~
+~
+0 0 15134
+D2
+~
+~
+0 0 15142
+D3
+~
+~
+0 0 15133
+S
+#15142
+The Trail Out of Town~
+   This trail leads south into the wilderness, even now the way becomes a bit
+more choked with trees.  To the north you see the main part of the village.  
+
+~
+150 0 1
+D0
+~
+~
+0 0 15141
+D1
+~
+~
+0 0 15138
+D2
+~
+~
+0 0 15143
+S
+#15143
+The Trail Out of Town~
+   You are now at the outskirts of the village.  You may leave it to the south
+or go back into the main section to the north.    
+~
+150 0 1
+D0
+~
+~
+0 0 15142
+S
+#15144
+A Dusty Trail~
+   This trail north and south of you.  South it leads to the meeting of this
+trail and another running west.  To the north there are some tents and huts and
+farther north, upon a hill, you see a few more permanent looking structures.  
+
+~
+150 0 1
+D0
+~
+~
+0 0 15145
+D1
+~
+~
+0 0 15135
+D2
+~
+~
+0 0 15132
+D3
+~
+~
+0 0 15140
+S
+#15145
+A Dusty Trail~
+   The trail leads north to south, huts and tents spaced out at intervals.    
+~
+150 0 1
+D0
+~
+~
+0 0 15146
+D2
+~
+~
+0 0 15144
+D3
+~
+~
+0 0 15136
+S
+#15146
+A Dusty Trail~
+   The trail leads north and south from here.  North you see what appear the
+main buildings for this village, possibly even Mordecai's place of dwelling.  
+South of you are the many huts and tents which serve as homes for Mordecai's
+people.    
+~
+150 0 1
+D0
+~
+~
+0 0 15147
+D1
+~
+~
+0 0 15137
+D2
+~
+~
+0 0 15145
+D3
+~
+~
+0 0 15139
+S
+#15147
+A Dusty Trail~
+   Here you stand at the top of a large sloping hill, which slopes downward to
+the east.  It appears as if a temple or place of worship has been erected
+there, you may enter it to the east.  North of you are the main buildings for
+Mordecai, south are the many huts and tents of the village people.    
+~
+150 0 1
+D0
+~
+~
+0 0 15148
+D1
+~
+~
+0 0 15149
+D2
+~
+~
+0 0 15146
+S
+#15148
+The End of the Road~
+   Directly north of you looms Mordecai's home, a tall stone structure with a
+sloping peaked roof.  It appears that he fears none of his people, for the door
+to his home is wide open.  To the east you see another stone house, this one a
+bit smaller than Mordecai's, and west of you is yet another stone house.    
+~
+150 0 1
+D0
+~
+~
+0 0 15152
+D1
+~
+door~
+1 0 15150
+D2
+~
+~
+0 0 15147
+D3
+~
+~
+0 0 15151
+S
+#15149
+Outdoor Temple~
+   This small basin, set in an almost tranquil setting, has been fashioned into
+a place of worship by the people of the village.  Wooden benches serving as
+pughs have been set into side of the hill.  At the bottom of the basin, a stage
+with a podium has been erected, obviously for Mordecai and his sermons.    
+~
+150 0 1
+D3
+~
+~
+0 0 15147
+S
+#15150
+Lieutenant Caspan's Home~
+   Lieutenant Caspan, Mordecai's most trusted advisor and soldier, has been
+granted this home in recognition of his extreme loyalty, and he does appear at
+all pleased to see that you have invaded his sanctuary.    
+~
+150 0 0
+D3
+~
+door~
+1 0 15148
+S
+#15151
+The Wives~
+   The interior of this home smells of both stale perfume and rotten fish.  
+Mordecai keeps his favorites for the month in this home, in apparent 'luxury',
+treating them well for the services they render.  Heaps of stained bedding lie
+in disarray all over the floor.  Pillows, torn and in some places,
+bloodstained, lie in heaped in different corners.    
+~
+150 0 1
+D1
+~
+~
+0 0 15148
+S
+#15152
+Mordecai's Home~
+   This is the home of the Great Mordecai?  One cot, one wash basin (dry
+and;apparently unused for the most part), and a wardrobe on the east wall are
+all that occupy this place.  One would think a man of Mordecai's stature would
+have just a bit more in the way of luxuries.    
+~
+150 0 1
+D1
+~
+wardrobe~
+2 15112 15154
+D2
+~
+~
+0 0 15148
+S
+#15153
+Penelope's Cell~
+   Ah, the fair Penelope, daughter of the Lord of Jareth.  Such a sight to
+behold, in all her beauty and majesty, such a wondrous vision.  And so very
+well guarded!    
+~
+150 0 1
+D2
+~
+~
+0 0 15152
+S
+#15154
+Mordecai's Stash~
+   You have finally figured out why Mordecai didn't have any good stuff in his
+home.  It was all here.  A plush, velvet upholstered chair sits in the center
+of his wealth, obviously the place where Mordecai enjoys a great deal of his
+time.    
+~
+150 0 1
+D3
+~
+wardrobe~
+1 15112 15152
+D5
+~
+trapdoor~
+2 15114 15155
+S
+#15155
+Dark and Gloomy Tunnel~
+   This is the end of the tunnel.  Above you, a faint light filters through
+cracks in a trap door.    
+~
+150 0 0
+D2
+~
+~
+0 0 15156
+D4
+~
+~
+0 0 15153
+S
+#15156
+A Dark and Gloomy Tunnel~
+   The tunnel continues along it's dark and gloomy way heading in a direction
+only the maker of this place would know.    
+~
+150 0 1
+D0
+~
+~
+0 0 15155
+D2
+~
+~
+0 0 15157
+S
+#15157
+A Dark and Gloomy Tunnel~
+   Still dark.  Still Gloomy.  Still going.    
+~
+150 2 1
+S
+$~

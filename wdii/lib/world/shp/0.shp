@@ -1,0 +1,50 @@
+CircleMUD v3.0 Shop File~
+#1~
+-1
+1.00
+0.00
+1
+10
+11
+19
+-1
+%s I don't have this item, so scream!~
+%s Are you kidding me? WHERE IS THE ITEM?~
+%s WHY THE HELL WOULD I BUY THAT DAMN THING??~
+%s I don't have money right now, go away.~
+%s HAH! GO GET SOME MONEY, LOSER!~
+%s Good, your money is very appreciated.. heh heh~
+%s Bah, take this coins and get outta my sight!~
+0
+0
+306
+1
+331
+-1
+0
+23
+0
+0
+#2~
+-1
+1.00
+1.00
+-1
+%s Text 1~
+%s Text 2~
+%s Text 3~
+%s Text 4~
+%s Text 5~
+%s Text 6~
+%s Text 7~
+0
+0
+308
+0
+331
+-1
+0
+23
+0
+0
+$~

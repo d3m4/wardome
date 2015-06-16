@@ -1,0 +1,2341 @@
+#28600
+The Bottom of the Rainbow Dragon~
+   You are standing before a shimmering Rainbow Dragon arching high up into the
+sky.  You feel somehow separated from the natural world, even though the
+City spire is only a few meters below you.
+~
+286 148 3
+D4
+The Rainbow Dragon extends above you, fading out of existence only meters away.
+~
+~
+0 -1 28601
+D5
+~
+gate~
+0 -1 11002
+E
+Rainbow Dragon~
+The Rainbow Dragon softly glows with beams of light, in colours that defy 
+description.
+~
+S
+#28601
+On the Rainbow Dragon~
+   You are standing on the Rainbow Dragon, surrounded by many beams of coloured
+light.  Through the bottom of the Rainbow Dragon you can barely make out the Ci
+of Atlantis, which is now quite far away.
+~
+286 0 5
+D4
+The Rainbow Dragon extends far above you, slowly fading into darkness.
+~
+~
+0 -1 28602
+D5
+The Rainbow Dragon extends below you towards Atlantis.
+~
+~
+0 -1 28600
+E
+Rainbow Dragon~
+The Rainbow Dragon softly glows with beams of light, in colours that defie 
+description.
+~
+S
+#28602
+On the Rainbow Dragon~
+   You are standing on the Rainbow Dragon, surrounded by many beams of coloured
+light.  Through the bottom of the Rainbow Dragon you see the City of Atlantis a
+land surrounding it.  It seems to be miles below you.
+~
+286 0 5
+D4
+The Rainbow Dragon extends far above you, slowly fading into darkness.
+~
+~
+0 -1 28603
+D5
+The Rainbow Dragon extends below you towards the land you once knew as home.
+~
+~
+0 -1 28601
+E
+Rainbow Dragon~
+The Rainbow Dragon softly glows with beams of light, in colours that
+defie description.
+~
+S
+#28603
+On the Rainbow Dragon~
+   You are standing on the Rainbow Dragon, surrounded by many beams of coloured
+light.  The Rainbow Dragon extends above and below you as far as you can see.
+~
+286 0 5
+D4
+The Rainbow Dragon extends far above you.  You see a glowing white light at the
+Rainbow Dragon's end.
+~
+~
+0 -1 28604
+D5
+The Rainbow Dragon extends far below you, slowly fading into darkness.
+~
+~
+0 -1 28602
+E
+Rainbow Dragon~
+The Rainbow Dragon brightly glows with beams of light, in colours that defie an
+description.
+~
+S
+#28604
+On the Rainbow Dragon~
+   You are nearing the end of the Rainbow Dragon.  The beams of coloured
+light have begun to merge and solidify.  All around you you see glowing
+starlike motes of dust.  Ahead of you is a bridge.
+~
+286 0 5
+D4
+The Rainbow Dragon extends above you, merging into a brilliant glowing
+bridge.
+~
+~
+0 -1 28605
+D5
+The Rainbow Dragon extends far below you, slowly fading into darkness.
+~
+~
+0 -1 28603
+E
+Rainbow Dragon~
+The Rainbow Dragon brilliantly glows with beams of blinding light, in colours t
+sweep together and merge before your eyes.
+~
+E
+motes star stars dust~
+The star-like motes dance before your eyes.  They are incredibly beautiful yet
+intangible -- your hand passes right through them.
+~
+E
+bridge~
+The colors of the Rainbow Dragon seem to converge into a glowing bridge that le
+to a massive white gate.
+~
+S
+#28605
+The Glowing Bridge at the Rainbow Dragon's End~
+   After a long climb you have reached the end of the Rainbow Dragon.
+The brilliant colours have twisted and merged into a beautiful glowing bridge
+that leads toward a massive white gate to the north.
+~
+286 1 5
+D0
+The bridge leads on to a massive white gate.  You see a large grey figure
+standing there.
+~
+~
+0 -1 28606
+D4
+~
+~
+0 0 2201
+D5
+The bridge disassociates into a beautiful spectrum of colours that
+drop out of sight below you.
+~
+~
+0 -1 28604
+E
+Rainbow Dragon~
+The Rainbow Dragon seems to be forming directly from the light of the bridge.  
+drops out of sight below you.
+~
+E
+motes star stars dust~
+The star-like motes dance before your eyes.  They are incredibly beautiful yet
+intangible -- your hand passes right through them.
+~
+E
+bridge~
+The bridge glows with an unearthly light.
+~
+E
+gate~
+The gate towers tens of feet above your heads.  Beyond it is a field of utter
+blackness, from which the motes of light seem to issue forth.
+~
+S
+#28606
+The Dragon Village Gate~
+   Here the bridge ends before a massive, pearly-coloured gate beyond which
+you can see a field of blackness filled with silvery snake-like tendrils,
+stars, and occasional flashes of of light.
+~
+286 1 5
+D0
+Through the gate you see a massive field of blackness that extends as far
+as you can see.
+~
+gate~
+2 28615 28607
+D2
+The bridge extends towards the Rainbow Dragon, which drops out of sight
+below you.
+~
+~
+0 -1 28605
+E
+gate~
+You see a huge, glowing gate wrought from an incredibly hard translucent 
+material.  Each of the intricately carved bars of this mighty gate are about 
+as thick as a man's wrist, rising from the floor to a height of forty feet.  
+A plaque is inset into the wall next to one side of the gate.
+~
+E
+plaque~
+The plaque reads: 
+
+`Let this gate stand to protect mortal man for all time against the perils of
+the outer .s of existence and the creatures fair and foul that dwell
+within.
+
+-Andersen`
+~
+S
+#28607
+Into the Dragon Village Plane~
+   You step through the gate, and into another reality...
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, although it is not too
+late to return through the gate to the south.
+~
+286 4 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28608
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D2
+The Dragon Village gate leads back to your world.
+~
+gate~
+1 -1 28606
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28610
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28611
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+E
+gate~
+From here the pearly-coloured gate seems very small and insubstantial.  Through
+its bars you can see the Dragon Village Guardian, protecting your world from th
+perils of this . of existence.
+~
+S
+#28608
+Exploring the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, and it is difficult to
+maintain your bearings and sense of direction.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28613
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28610
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28607
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28614
+S
+#28609
+Exploring the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, and it is difficult to
+maintain your bearings and sense of direction.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28614
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28616
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28607
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28610
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28611
+S
+#28610
+Exploring the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, and it is difficult to
+maintain your bearings and sense of direction.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28615
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28607
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28608
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28613
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+S
+#28611
+Exploring the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, and it is difficult to
+maintain your bearings and sense of direction.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28616
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28617
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28607
+S
+#28612
+Exploring the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is very disorienting, and it is difficult to
+maintain your bearings and sense of direction.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28617
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28608
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28611
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28607
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28615
+S
+#28613
+Roaming the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is somewhat disorienting.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28618
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28615
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28608
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28614
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28610
+S
+#28614
+Roaming the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is somewhat disorienting.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28617
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28618
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28608
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28613
+S
+#28615
+Roaming the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is somewhat disorienting, though your
+instincts say you are close to home.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28622
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28610
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28613
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28616
+S
+#28616
+Roaming the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is somewhat disorenting, though your
+instincts say you are close to home.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28611
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28615
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28617
+S
+#28617
+Roaming the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is somewhat disorienting, though your
+instincts say you are close to home.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28622
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28611
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28614
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28616
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+S
+#28618
+Wandering the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is highly disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28614
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28613
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28633
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28636
+S
+#28619
+An unfinished room~
+You are in an unfinished room.
+~
+286 0 0
+S
+#28620
+An unfinished room~
+You are in an unfinished room.
+~
+286 0 0
+S
+#28621
+An unfinished room~
+You are in an unfinished room.
+~
+286 0 0
+S
+#28622
+Wandering the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is highly disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28612
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28617
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28615
+D4
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28644
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28634
+S
+#28623
+Travelling the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny tendril
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting. Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28624
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28628
+D2
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28637
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28632
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28635
+S
+#28624
+Travelling the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is extremely disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28625
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28629
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28623
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28633
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28630
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28639
+S
+#28625
+Travelling the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is extremely disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28641
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28627
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28624
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28634
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28628
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28630
+S
+#28626
+Travelling the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is extremely disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28631
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28623
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28627
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28635
+D4
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28643
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28629
+S
+#28627
+Travelling the Dragon Village .~
+   You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust.  The
+weightlessness of this environment is extremely disorienting. Nearby you see a
+large silvery strand of light.
+   Most exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28632
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28633
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28625
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28631
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 28644
+S
+#28628
+Traversing the Dragon Village .~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28609
+D1
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28647
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28634
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28623
+D4
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28645
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28625
+S
+#28629
+Traversing the Dragon Village .~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28630
+D1
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28649
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28635
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28624
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D5
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28646
+S
+#28630
+Traversing the Dragon Village .~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28647
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28633
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28629
+D3
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28645
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28625
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28624
+S
+#28631
+Traversing the Dragon Village .~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28632
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28634
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D3
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28648
+D4
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28646
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28627
+S
+#28632
+Traversing the Dragon Village .~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28649
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28635
+D2
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28631
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28627
+D4
+The Dragon Village field leads off into the depths.
+~
+~
+0 -1 28648
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28623
+S
+#28633
+Lost in the Dragon Village .~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28627
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28624
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28630
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28618
+S
+#28634
+Lost in the Dragon Village .~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28628
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28625
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28631
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28622
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+S
+#28635
+Lost in the Dragon Village .~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the Dragon Village field.
+~
+286 0 2
+D0
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28629
+D1
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28626
+D3
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28632
+D4
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 28623
+D5
+The Dragon Village field leads off into infinity.
+~
+~
+0 -1 -1
+S
+#28636
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D0
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28637
+D4
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28618
+S
+#28637
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D0
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28623
+D2
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28636
+S
+#28638
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D1
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28639
+D4
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28626
+S
+#28639
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D3
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28638
+D4
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28624
+S
+#28640
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D1
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28641
+D4
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 -1
+S
+#28641
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D2
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28625
+D3
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28640
+S
+#28642
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D0
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28643
+D1
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 -1
+S
+#28643
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D2
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 28642
+D5
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28626
+S
+#28644
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the Dragon Village field.
+~
+286 0 2
+D4
+You see the endless expanse of the Dragon Village field.
+~
+~
+0 -1 28627
+D5
+You see the infinite expanse of the Dragon Village field.
+~
+~
+0 -1 28622
+S
+#28645
+Deep Within the Dragon Village .~
+   You have travelled deep inside the Dragon Village field.  Here the fabric
+of the field has become twisted and warped due to the proximity of another.
+Some of the tendrils of light that line the Dragon Village field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+286 0 2
+D0
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28646
+D1
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28630
+D2
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+D3
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28649
+D4
+Through the nexial link you can see a stony keep.
+~
+~
+0 -1 28650
+D5
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28628
+S
+#28646
+Deep Within the Dragon Village .~
+   You have travelled deep inside the Dragon Village field.  Here the fabric
+of the field has become twisted and warped due to the proximity of another .
+Some of the tendrils of light that line the Dragon Village field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+286 0 2
+D0
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28633
+D1
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+D2
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28645
+D3
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28647
+D4
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28629
+D5
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28631
+S
+#28647
+Deep Within the Dragon Village .~
+   You have travelled deep inside the Dragon Village field.  Here the fabric
+of the field has become twisted and warped due to the proximity of another .
+Some of the tendrils of light that line the Dragon Village field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+286 0 2
+D0
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28634
+D1
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28646
+D2
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28630
+D3
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28628
+D4
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+D5
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28648
+S
+#28648
+Deep Within the Dragon Village .~
+   You have travelled deep inside the Dragon Village field.  Here the fabric
+of the field has become twisted and warped due to the proximity of another.
+Some of the tendrils of light that line the Dragon Village field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+286 0 2
+D0
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28635
+D1
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28631
+D2
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28649
+D3
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+D4
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28647
+D5
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28632
+S
+#28649
+Deep Within the Dragon Village .~
+   You have travelled deep inside the Dragon Village field.  Here the fabric
+of the field has become twisted and warped due to the proximity of another.
+Some of the tendrils of light that line the Dragon Village field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+286 0 2
+D0
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28648
+D1
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28645
+D2
+The Dragon Village field leads on into the depths.
+~
+~
+0 -1 28632
+D3
+The Dragon Village field leads on into infinity.
+~
+~
+0 -1 28629
+D4
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+D5
+The nexial link has been blocked by the gods for your protection.
+~
+~
+0 -1 -1
+S
+#28650
+Inside the Dragons Keep~
+  You are standing just inside a nexial portal that leads out onto the
+Dragon Village ..  It seems that you have found the lair of the Dragons,
+the once-human followers of Goilden Dragon.  Ahead of you stands a steel door
+leading into the keep hewn from stone.
+~
+286 4 0
+D0
+You see a rusty steel door which leads into the keep.
+~
+steel~
+1 -1 28651
+D5
+Below you is the nexial portal that leads into the Dragon Village ..
+~
+~
+0 -1 28645
+E
+steel~
+The door is made from a set of rusting steel plates set deep into the stone.
+~
+S
+#28651
+A guard station~
+   This is a small building just inside the keep.  Doors lead out to the east
+and west.  Some small weapons hang on hooks on the walls, for use in defense
+of the keep.
+   Doors stand in all directions save north.
+~
+286 8 0
+D1
+You see an iron door which leads out onto a grey stone road.
+~
+door iron~
+1 -1 28661
+D2
+You see a rusty steel door which leads out to the nexial link.
+~
+steel~
+1 -1 28650
+D3
+You see an iron door which leads out onto a grey stone road.
+~
+door iron~
+1 -1 28652
+E
+steel~
+The door is made from a set of rusting steel plates set deep into the stone.
+~
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#28652
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the north, ending to the east at an iron door.
+~
+286 0 1
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 28653
+D1
+You see an iron door which leads into a small stone building set into the wall
+of the keep.
+~
+door iron~
+1 -1 28651
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#28653
+Hydra Lair~
+    You have entered a large lair with bones strewn about the ground.  You
+notice the source of these as you come face to face with a rather large 
+Hydra.  It growls at you before it attacks.
+~
+286 0 1
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 28654
+D1
+You see a small stone building with a wooden door.
+~
+door wooden~
+1 -1 28662
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 28652
+D3
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 -1 28669
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+E
+door iron~
+The door is fashioned from many iron plates and set deep into the stone wall.
+~
+S
+#28654
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+  The cobblestone road turns to the south and continues on to the east.
+~
+286 0 1
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 28655
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 28653
+S
+#28655
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+  The cobblestone road continues to the east and west.  To the north you see a 
+massive building and a pair of large doors.
+~
+286 0 1
+D0
+Looming before you is a forbidding pair of metal doors.
+~
+doors metal~
+1 -1 28674
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 28656
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 28654
+E
+doors metal~
+The doors are formed from a silvery substance that feels very hard yet almost
+slippery to the touch.  They are covered in images in bas-relief, depicting
+scenes of combat between humans and strange tentacle-mouthed humanoids.
+~
+S
+#28656
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+  The cobblestone road continues to the east and west.  A door to the south
+leads into a tall stone building.
+~
+286 0 1
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 28657
+D2
+You see a tall stone building with a wooden door.
+~
+door wooden~
+1 -1 28664
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 28655
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28657
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the west and continues to the south.  A door
+to the north leads into a tall stone building.
+~
+286 0 1
+D0
+You see a tall stone building with a wooden door.
+~
+door wooden~
+1 -1 28673
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 28658
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 28656
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28658
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road continues to the north and south.  To the east is a
+door in a large stone building.
+~
+286 0 1
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 28657
+D1
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 -1 28667
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 28659
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#28659
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road continues to the north and south.
+~
+286 0 1
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 28658
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 28660
+S
+#28660
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the north and continues on to the west.  To
+the east is a door in a large stone building.
+~
+286 0 1
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 28659
+D1
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 -1 28665
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 28661
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#28661
+A grey road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road goes on to the east, ending to the west at an iron door
+A door to the north leads into a small stone building.
+~
+286 0 1
+D0
+You see a small stone building with a wooden door.
+~
+door wooden~
+1 -1 28663
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 28660
+D3
+You see an iron door which leads into a small stone building set into the wall
+of the keep.
+~
+door iron~
+1 -1 28651
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#28662
+A small building~
+   You have stepped inside a dimly lit building, which apparently serves as
+living quarters for several Golden Dragon.   The walls are heavy stone blocks, 
+covered with panels of strangely knotted and twisted wood.  A couple of candles
+burn dimly in sconces here and there.
+~
+286 8 0
+D1
+~
+Door Large Golden~
+2 28699 28680
+D3
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 28653
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28663
+A small building~
+   You have stepped inside a dimly lit building, which apparently serves as
+living quarters for several Golden Dragon .  The walls are heavy stone blocks, 
+covered with panels of strangely knotted and twisted wood.  A couple of candles
+burn dimly in sconces here and there.
+~
+286 8 0
+D2
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 28661
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28664
+A large dwelling~
+   You have stepped inside a dimly lit building with vaulted ceilings and high
+windows.  The walls are heavy stone blocks that rise tens of feet above your
+head, covered with panels of strangely knotted and twisted wood.  On the floor
+are charcoal stencils of pentagrams and various other ominous sigils.
+~
+286 8 0
+D0
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 28656
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28665
+The Dragons Weaponry~
+   A large chamber, full of weapons in various states of completion.  Strange
+glowing blocks of silvery metal are being pounded and rolled out into deadly 
+razor-sharp knives, daggers, and swords.
+   Sounds of hammering and blasts of heat and strange smells come from the open
+doorway to the north.  An iron door stands to the west.
+~
+286 8 0
+D0
+You see a massive forgeroom, lit by a white-hot furnace.
+~
+~
+0 -1 28666
+D3
+The iron door leads back out onto the grey cobblestone road.
+~
+door iron~
+1 -1 28660
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#28666
+The Forge~
+   In the center of the room is a massive furnace which emits great gouts of
+heat and a strange smell which comes from the melting of the silvery metal used
+by the Dragons.  A large trough of icy water stands to the west, used for 
+quenching hot metal.
+   Doorways stand to the north and south.  The furnace door lies to the east.
+~
+286 8 0
+D0
+You see the armoury.
+~
+~
+0 -1 28667
+D1
+Through the grille in the furnace door you see only flames.
+~
+door furnace~
+1 -1 28668
+D2
+You see the weaponry.
+~
+~
+0 -1 28665
+E
+door furnace~
+The entire furnace is glowing white-hot to the touch.
+The furnace door looks too hot to even attempt to open.
+~
+S
+#28667
+The Dragons Armoury~
+   A large chamber, full of suits of armor in various states of completion.  In
+this chamber the hard steels of the Dragons are shaped into ornately
+fashioned suits of mail.
+   Sounds of hammering and blasts of heat and strange smells come from the open
+doorway to the south.  An iron door stands to the west.
+~
+286 8 0
+D2
+You see a massive forgeroom, lit by a white-hot furnace.
+~
+~
+0 -1 28666
+D3
+The iron door leads back out onto the grey cobblestone road.
+~
+door iron~
+1 -1 28658
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#28668
+Inside the furnace~
+   You gasp for breath and choke on toxic sulphur and brimstone.  The sweat
+on your forehead is instantly vaporized by the flames that surround you.  You
+begin to feel faint and dizzy from the heat...
+... you'd better leave before you pass out and burn to a cinder!
+~
+286 8 0
+D0
+The flames blind you and obscure your vision.
+~
+~
+0 -1 28668
+D1
+The flames blind you and obscure your vision.
+~
+~
+0 -1 -1
+D2
+The flames blind you and obscure your vision.
+~
+~
+0 -1 28668
+D3
+The flames blind you and obscure your vision.
+~
+door furnace~
+1 -1 28666
+S
+#28669
+A guard station~
+   You are standing in a small, fairly empty building that serves as the prison
+for the keep.  The building is small because the Dragons do not make a habit 
+of taking prisoners, and those that they do capture do not last long.
+   The cellblock lies to the west and the grey stone road is to the east.
+~
+286 8 0
+D1
+You see an iron door which leads back out onto the grey cobblestone road.
+~
+door iron~
+1 -1 28653
+D3
+You see the cellblock.
+~
+~
+0 -1 28670
+E
+door iron~
+The door is fashioned from many iron plates and set deep into the stone wall.
+~
+S
+#28670
+The cellblock~
+   A torch flickers in the western wall, providing some illumination for this
+dim corridor.  Some whips, manacles, and chains hang on the walls -- they seem
+to have been used recently.
+   Cell doors stand to the north and south.  The guard station is to the east.
+~
+286 8 0
+D0
+You see a small cell.
+~
+door cell~
+1 -1 28671
+D1
+You see the guard station.
+~
+~
+0 -1 28669
+D2
+You see a small cell.
+~
+door cell~
+1 -1 28672
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#28671
+A cramped cell~
+  You are in a tiny, cold, dank cell.
+  The only exit is back through the door to the south.
+~
+286 8 0
+D2
+You see the cellblock.
+~
+door cell~
+1 -1 28670
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#28672
+A tiny cell~
+   You are in a cold, dank, cramped cell.
+   The only exit is back throught the door to the north.
+~
+286 8 0
+D0
+You see the cellblock.
+~
+door cell~
+1 -1 28670
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#28673
+A large dwelling~
+   You have stepped inside a dimly lit building with vaulted ceilings and high
+windows.  The walls are heavy stone blocks that rise tens of feet above your
+head, covered with panels of strangely knotted and twisted wood.  On the floor
+are charcoal stencils of pentagrams and various other ominous sigils.
+~
+286 8 0
+D2
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 28657
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#28674
+South End of the Hall~
+   This is a massive stone hall, lit by flaming blue stones set into the walls.
+Massive suits of armor line the walls, holding weapons fashioned from a strange
+silvery metal.
+   The great hall continues to the north and ends in a pair of huge metal doors
+to the south.
+~
+286 8 0
+D0
+The great hall continues to the north.
+~
+~
+0 -1 28675
+D2
+The metal doors lead out onto the grey cobblestone road.
+~
+doors metal~
+1 -1 28655
+E
+armor suits~
+The suits of armor are very intricately and ornately fashioned splint mail.
+~
+E
+weapons~
+Massive pole arms, spears, mighty swords, all kinds of death-dealing devices.
+~
+E
+doors metal~
+The doors are formed from a silvery substance that feels very hard yet almost
+slippery to the touch.  They are covered in images in bas-relief, depicting
+scenes of combat between humans and strange tentacle-mouthed humanoids.
+~
+S
+#28675
+North End of the Hall~
+   This is a massive stone hall, lit by flaming blue stones set into the walls.
+Massive suits of armor line the walls, holding weapons fashioned from a strange
+silvery metal.
+   The great hall continues to the south.  An archway leads into a dimly lit
+room to the north.
+~
+286 8 0
+D0
+You think you can see some steps leading up to an altar...
+~
+mist door~
+1 -1 28676
+D2
+The great hall continues to the south.
+~
+~
+0 -1 28674
+E
+armor suits~
+The suits of armor are very intricately and ornately fashioned splint mail.
+~
+E
+weapons~
+Massive pole arms, spears, mighty swords, all kinds of death-dealing devices.
+~
+E
+arch archway door~
+The archway is shrouded in a strange black mist that obscures your vision.
+~
+S
+#28676
+The Altar Chamber~
+  Your eyes have trouble adjusting to the dim lighting.  All around you are
+columnar statues of Golden Dragon turned towards the altar standing at the top
+of a series of steps.
+~
+286 9 0
+D0
+The steps lead north and up to a massive sacrificial altar.
+~
+~
+0 -1 28677
+D2
+You think you can see the hall.
+~
+mist door~
+1 -1 28675
+E
+arch archway door~
+The archway is shrouded in a strange black mist that obscures your vision.
+~
+S
+#28677
+Dracolich Queen Room~
+   You have climbed the mighty steps of the altar chamber and stand before a
+huge altar use to pay tribute to Evil, long-dead ruler of the Golden Dragon.
+The altar is covered in blood and radiates unspeakable power that is absorbed
+by the horrible presence which stands before you.
+~
+286 8 0
+D2
+The steps lie to the south, leading back down to the altar chamber floor.
+~
+~
+0 -1 28676
+D5
+The floor of the altar is pockmarked with small holes, draining blood.
+~
+hole~
+1 -1 28678
+E
+altar~
+The altar is a huge sacrificial altar covered in bloodstains.
+~
+E
+blood bloodstains stains~
+The stains of blood run down off the altar towards your feet, oozing quietly.
+~
+E
+hole holes~
+The holes have passed countless amounts of blood down below the altar.
+~
+S
+#28678
+A Gateway to the Underworld~
+   You step through the tiny hole in the altar, and stand before a swirling
+field of blackness.  Through the field you can hear the howls of lost souls
+and long-dead beings.
+~
+286 9 1
+D4
+You see the altar chamber.
+~
+hole~
+1 -1 28677
+D5
+   You look down into the field of blackness, and feel a tangible wave of evil
+wash over you.  Stepping into the field would be a bad idea.
+~
+gateway~
+2 28624 28679
+E
+blood~
+The blood drips from above your head and falls through the field...
+~
+E
+field gateway~
+The field pulses and feeds on the blood dripping from above.
+
+A tangible wave of hatred washes over you, striking fear into your very soul.
+~
+S
+#28679
+Golden Dragon Throne~
+  You have reached the final lair.  It is dominated by a huge Golden Dragon
+You suddenly realize that you have SERIOUS problems...
+  You are overwhelmed by the sensation of death and horrible pain as a shape
+begins to coalesce before you.
+~
+286 32 9
+S
+#28680
+Treasure Room~
+You are in a Treasure Room.
+~
+286 69 0
+D3
+~
+A Large Golden Door~
+2 28699 28662
+S
+$~

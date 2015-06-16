@@ -1,0 +1,213 @@
+#9000
+giant vulture~
+the giant vulture~
+A giant vulture is here.
+~
+It looks hungry.
+~
+108 9256 -1000 E
+180 -88 -30 1d1+18000 5d37+162
+2700 23885378 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#9001
+demon horse~
+The demon horse~
+A demon horse is here.
+~
+The demon horse widens its nostrils and fire burns in its
+eyes.
+~
+1546 1024 -1000 E
+185 -90 -31 1d1+18492 5d37+164
+2775 25872184 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9002
+rabid fox~
+the rabid fox~
+A rabid fox is here, drooling heavily.
+~
+The rabid fox seems almost putrid.
+~
+41003 1024 0 E
+160 -78 -27 1d1+15996 5d33+154
+2400 16953466 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9003
+earth demon~
+the earth demon~
+An earth demon lingers in the air.
+~
+It is brown and stocky.
+~
+42568 304128 -900 E
+190 -93 -32 1d1+18996 5d39+166
+2850 27966146 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9004
+evil bird~
+The evil bird~
+An evil bird is here.
+~
+It is raven black with bright, gleeming, yellow eyes.
+~
+104 1032 -1000 E
+189 -92 -31 1d1+18900 5d37+164
+2835 27538646 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 94
+Att4: 66
+E
+#9005
+iodocentipedus~
+the iodocentipedus~
+An Iodocentipedus crawls around here very slowly.
+~
+It is a mixture of colors, blue, red and brown, totally 
+lacking hair on its plated body.
+~
+6154 25232552 -700 E
+192 -94 -32 1d1+19200 5d39+166
+2880 28834365 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 69
+E
+#9006
+fanged reindeer~
+the fanged reindeer~
+A fanged reindeer walks around here looking for food.
+~
+It is awesome, at least by reindeer standards!
+~
+46 9224 -1000 E
+160 -78 -27 1d1+15996 5d33+154
+2400 16953466 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9007
+hill ghoul~
+The hill ghoul~
+An hill ghoul walks and walks and walks here.
+~
+It is large, white and looks MAD!!!
+~
+8254 558088 -1000 E
+194 -95 -32 1d1+19392 5d39+166
+2910 29720358 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#9008
+stone ogre~
+the stone ogre~
+A stone ogre tramples around.
+~
+The ogre seems confused.
+~
+7694 1064 -800 E
+196 -96 -32 1d1+19596 5d39+168
+2940 30624307 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 98
+Att4: 72
+E
+#9009
+ice troll~
+the ice troll~
+An ice troll mutters about.
+~
+It is covered with a thick ice armor.  And it certainly looks
+ready for battle.
+~
+46 557064 -1000 E
+195 -95 -32 1d1+19500 5d39+168
+2925 30170077 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#9010
+lithophiliac~
+the lithophiliac~
+A lithophiliac is here, burping his ass off.
+~
+He is skinny but still a scary beeing, presuambly because of
+his dreadful smell.
+~
+14 2 200 E
+197 -96 -32 1d1+19692 5d39+168
+2955 31083071 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 98
+Att4: 72
+E
+#9011
+ice wizard~
+the ice wizard~
+The Wizard of ice-molding looks grimly at YOU!!
+~
+He is of average height wearing a long silvery robe covered 
+with small ice crystals.  He seems very intelligent with his 
+long frosty beard and sharp looks.
+~
+8413246 1064 -1000 E
+200 -98 -33 1d1+19992 5d41+170
+3000 32486789 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#9012
+stormbringer~
+the stormbringer~
+The stormbringer sweeps around here.
+~
+The stormbringer is HUGE but still swift.
+~
+24639 1066 -1000 E
+130 -63 -23 1d1+12996 5d27+142
+1950 9292160 9
+8 8 1 -1 -1
+Att2: 72
+Att3: 21
+E
+#9089
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+9 0 0 E
+0 2 -3 1d1+0 5d1+90
+0 0 9
+8 8 0 -1 -1
+E
+$

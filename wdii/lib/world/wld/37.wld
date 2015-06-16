@@ -1,0 +1,644 @@
+#3700
+A Gravel Road in the Graveyard~
+   You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.  An iron grate
+is to the north and narrow gravel paths lead east and west.  A grate is down
+here, you feel that the necromancers are living above you.    
+~
+37 16777220 2
+D0
+~
+grate~
+1 -1 -1
+D1
+The gravel path leads eastwards between the dark evergreen trees.
+~
+~
+0 -1 3731
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3701
+D3
+The gravel path leads westwards between the dark evergreen trees.
+~
+~
+0 -1 3705
+D4
+~
+~
+0 0 3155
+D5
+~
+grate~
+1 0 13500
+S
+#3701
+A Gravel Road in the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+37 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3700
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3702
+S
+#3702
+A Gravel Road in the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+37 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3701
+D2
+The gravel road continues southwards.
+~
+~
+0 -1 3703
+S
+#3703
+A Gravel Road in the Graveyard~
+You are on a well-kept gravel road that leads north-south through the
+graveyard.  On both sides of the road grow dark evergreen trees.
+~
+37 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3702
+D2
+The gravel road continues southwards to an open space before a small
+building.
+~
+~
+0 -1 3704
+S
+#3704
+In front of the Chapel~
+You are on an open space before a small chapel.  A gravel road leads north
+through the graveyard and the chapel entrance is to the south.
+~
+37 0 2
+D0
+The gravel road continues northwards.
+~
+~
+0 -1 3703
+D1
+The gravel path leads eastwards between the dark evergreen trees.
+~
+~
+0 -1 3719
+D2
+The chapel door is made of old bone.
+~
+Bone_Door~
+1 -1 3733
+D3
+The gravel path leads westwards between the dark evergreen trees.
+~
+~
+0 -1 3717
+S
+#3705
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  An old tomb is here.
+~
+37 0 2
+D1
+The gravel path continues eastwards towards a gravel road.
+~
+~
+0 -1 3700
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3707
+D5
+~
+tomb stone~
+1 -1 3706
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3706
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 8 1
+D4
+~
+tomb stone~
+1 -1 3705
+S
+#3707
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and west.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3705
+D3
+The gravel path continues westwards.
+~
+~
+0 -1 3709
+D5
+~
+tomb stone~
+1 -1 3708
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3708
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3707
+S
+#3709
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads east and south.  An old tomb is here.
+~
+37 0 2
+D1
+The gravel path continues eastwards.
+~
+~
+0 -1 3707
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3711
+D5
+~
+tomb stone~
+1 -1 3710
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3710
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3709
+S
+#3711
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and east.  A small shed is to the west.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3709
+D1
+The gravel path continues eastwards.
+~
+~
+0 -1 3713
+D3
+It is a small black-painted shed with a wooden door.
+~
+door~
+1 -1 3712
+S
+#3712
+In a shed on the Graveyard~
+You are in a small shed that looks as if it is used to store all sorts of
+gardening equipment.  The only exit appears to be through a door to the east.
+~
+37 8 1
+D1
+~
+door~
+1 -1 3711
+S
+#3713
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads south and west.  An old tomb is here.
+~
+37 0 2
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3715
+D3
+The gravel path continues westwards.
+~
+~
+0 -1 3711
+D5
+~
+tomb stone~
+1 -1 3714
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3714
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3713
+S
+#3715
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and south.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3713
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3717
+D5
+~
+tomb stone~
+1 -1 3716
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3716
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3715
+S
+#3717
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and east.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3715
+D1
+The gravel path continues eastwards towards a building of some sort.
+~
+~
+0 -1 3704
+D5
+~
+tomb stone~
+1 -1 3718
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3718
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3717
+S
+#3719
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and west.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3721
+D3
+The gravel path continues westwards towards a building of some sort.
+~
+~
+0 -1 3704
+D5
+~
+tomb stone~
+1 -1 3720
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3720
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3719
+S
+#3721
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and south.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3723
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3719
+D5
+~
+tomb stone~
+1 -1 3722
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3722
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3721
+S
+#3723
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads east and south.  An old tomb is here.
+~
+37 0 2
+D1
+The gravel path continues eastwards.
+~
+~
+0 -1 3725
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3721
+D5
+~
+tomb stone~
+1 -1 3724
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3724
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3723
+S
+#3725
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and west.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3727
+D3
+The gravel path continues westwards.
+~
+~
+0 -1 3723
+D5
+~
+tomb stone~
+1 -1 3726
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3726
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3725
+S
+#3727
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads south and west.  An old tomb is here.
+~
+37 0 2
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3725
+D3
+The gravel path continues westwards.
+~
+~
+0 -1 3729
+D5
+~
+tomb stone~
+1 -1 3728
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3728
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3727
+S
+#3729
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads north and east.  An old tomb is here.
+~
+37 0 2
+D0
+The gravel path continues northwards.
+~
+~
+0 -1 3731
+D1
+The gravel path continues eastwards.
+~
+~
+0 -1 3727
+D5
+~
+tomb stone~
+1 -1 3730
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3730
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 9 1
+D4
+~
+tomb stone~
+1 -1 3729
+S
+#3731
+A Gravel Path on the Graveyard~
+You are on a gravel path winding its way between dark evergreen trees on
+the graveyard.  The path leads south and west.  An old tomb is here.
+~
+37 0 2
+D2
+The gravel path continues southwards.
+~
+~
+0 -1 3729
+D3
+The gravel path continues westwards towards a gravel road.
+~
+~
+0 -1 3700
+D5
+~
+tomb stone~
+1 -1 3732
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+S
+#3732
+In a dusty Tomb~
+You are in a dark burial chamber beneath a large tomb stone.
+The only exit appears to be up.
+~
+37 8 1
+D4
+~
+tomb stone~
+1 -1 3731
+S
+#3733
+&RThe &RF&rl&Ya&ym&Yi&rn&Rg T&rh&Yro&rn&Re&n~
+You come in a large room, all is in fire!  , you see a huge throne in the
+middle of the room, in fire too!  , your skins burn when you approaches the
+room!  Muhahaha, the huge flaming skeleton is standing up of the throne and is
+coming to you, its best you flee from here.    
+~
+37 77 2
+D0
+The chapel door is made of old bone.
+~
+Bone_Door~
+1 0 3704
+S
+$~

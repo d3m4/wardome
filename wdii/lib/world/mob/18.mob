@@ -1,0 +1,149 @@
+#1801
+gnome busy~
+the busy gnome~
+The busy gnome shuffles past you.
+~
+The weather does not phase him in the least.  She is ready
+to defend himself to the death.  There is a glazed look
+about her eyes.
+~
+76 32768 100 E
+96 -28 -4 1d1+2688 5d10+38
+1440 2595832 0
+8 0 2 -1 -1
+Att2: 94
+Att3: 38
+E
+#1802
+gnome guard~
+the gnome guard~
+The gnome guard stands at attention.
+~
+There is a glazed look about her eyes.
+~
+10 32768 100 E
+110 -35 -6 1d1+3072 5d12+44
+1650 3830999 0
+8 0 2 -1 -1
+Att2: 98
+Att3: 46
+E
+#1803
+bear giant polar~
+the giant polar bear~
+The giant polar bear doesn't like you disturbing her sleep.
+~
+She blends with the snow.
+~
+42 65544 0 E
+124 -42 -8 1d1+3468 5d13+48
+1860 5405736 0
+8 0 2 -1 -1
+Att2: 100
+Att3: 56
+Att4: 6
+E
+#1804
+dragon white~
+the white dragon~
+The white dragon glares at you.
+~
+He is an enormous, mature dragon, ready to freeze you.
+~
+10 128 -1000 E
+125 -42 -8 1d1+3492 5d13+50
+1875 5532299 0
+8 0 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#1805
+dragon blue~
+the blue dragon~
+The blue dragon dislikes being here.
+~
+She is an enormous, mature dragon, with an attitude
+to match her electric blue scales.
+~
+40 136 -1000 E
+126 -43 -8 1d1+3528 5d13+50
+1890 5660819 0
+8 0 2 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#1806
+queen snow~
+the Snow Queen~
+The Queen of Snows did not invite you to be here.
+~
+Dressed in all white, she almost charms you with her placidness.
+~
+8773642 16777344 0 E
+132 -46 -9 1d1+3696 5d14+52
+1980 6473886 0
+8 0 2 -1 -1
+Att2: 100
+Att3: 62
+Att4: 12
+E
+#1807
+giant frost guard~
+the cold frost giant~
+The frost giant guard is ready for intruders.
+~
+He's blue, and he doesn't really like gnomes
+but they keep him fed.
+~
+12 8 0 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+8 0 1 -1 -1
+Att2: 92
+Att3: 36
+E
+#1808
+mistress white~
+the white mistress~
+The white mistress leaps and shouts "Intruder!"
+~
+She is a fanatical servant to the Snow Queen.
+~
+46 40 -500 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+8 0 2 -1 -1
+Att2: 92
+Att3: 36
+E
+#1809
+master herbal~
+the master herbal~
+The master herbal is playing with her mints.
+~
+She is too busy to consider you.
+~
+10 32 0 E
+90 -25 -3 1d1+2520 5d10+36
+1350 2160224 0
+8 0 2 -1 -1
+Att2: 92
+Att3: 36
+E
+#1810
+thief~
+the thief~
+A thief is here, sneaking between the shadows.
+~
+He REALLY likes your money!
+~
+136 32768 -500 E
+107 -33 -5 1d1+2988 5d11+42
+1605 3539136 0
+8 0 1 -1 -1
+Att2: 98
+Att3: 44
+E
+$

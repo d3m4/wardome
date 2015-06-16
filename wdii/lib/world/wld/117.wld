@@ -1,0 +1,1179 @@
+#11700
+Journey to the city of time.~
+This is the beggining of a fantastic jorney through the gates of time.  Now you
+are standing in the edge of a city lost in time.  This place is the house of
+some greatest heros in a lost age.  Try not to get lost, visit the place where
+the hero is buried and enjoy your stay.    
+~
+117 16777216 2
+D3
+~
+~
+0 0 11701
+S
+#11701
+A street leadding to city.~
+This is a long and beauty street covered with cobblestone adorned with some
+draws in the floor that looks like professional pictures.  This street leads
+you in three directions.  North you can see a dome that resemble a worship
+temple.  To the west lies the city and east you can see the way that brought
+you here.    
+~
+117 0 1
+D0
+To the temple.
+~
+~
+0 0 11702
+D1
+~
+~
+0 0 11700
+D3
+~
+~
+0 0 11709
+S
+#11702
+The lost in time road.~
+This little road seems to be ripped from a fairy tale.  Very wide, but at the
+same time clean and well lighted, this road has some secret within that only
+the pure ones can sense.  Maybe this leads to some special place.  At night you
+can see some fireflies.  To the north you can see the temple and south of here
+is where you was.    
+~
+117 0 1
+D0
+On you way to the temple.
+~
+~
+0 0 11703
+D2
+a small street
+~
+~
+0 0 11701
+S
+#11703
+Walking in the road of time.~
+Here is the center of the road of time, now you can have a full vision of the
+temple to the north and by your sides are two houses, one of then have some
+plaque upon the door.  Standing here brings some memories that you didn't know
+to have inside.  To the north you can see a small market.    
+~
+117 0 1
+D0
+~
+~
+0 0 11708
+D1
+A closed red door
+~
+red door~
+2 11703 11706
+D2
+beggining of temple street.
+~
+~
+0 0 11702
+D3
+Another small house in the slums.
+~
+~
+0 0 11704
+S
+#11704
+&GG&glenn&c's house.~
+&GG&glenn&n lives here since the great battle against Lavos ended and the party
+was disband.  &GG&glenn&n remains like a frog, but it doesn't bore him anymore,
+he could live like this forever with the memories of the great jorney he made
+with Chronos.  The house looks clean and well arranged with some small pieces
+of wodden used like small sofa.    
+~
+117 9 0
+D1
+~
+door~
+1 0 11703
+S
+#11705
+Melchior's temple of life.~
+The aura around this place makes anyone that enters here beggin to think
+diferent of being alive and health.  When you look over the place you can see
+the life flowing through the walls, the floor and the celling.  Being here is
+one of the most beautty things of ever.  You can see a small door to the west.
+  
+~
+117 8 0
+D2
+~
+door~
+1 0 11708
+D3
+~
+altar~
+2 0 11707
+S
+#11706
+A small house.~
+This is just a common small house that you could find in any place over the
+world just with a small diference.  THIS house makes you feel nostalgic somehow
+and you can rest here without minds.    
+~
+117 136 0
+D3
+small door
+~
+red door~
+2 11704 11703
+S
+#11707
+Melchior's private bedroom.~
+Melchior, the priest of life lives here in this small cabin with only one bed
+and a small desk.  He is one of the great gurus that control the flow of
+everthing in universe.  Melchior must be treated with respect and be polite
+while talking with him.    
+~
+117 8 0
+D1
+~
+altar~
+2 0 11705
+S
+#11708
+The time square.~
+This is a small square before the great temple.  Peoples running in and out
+makes this looks like the only path to the great building north of here.  Here
+you can see a lot of citizens praying and worshiping some kind of god.  You can
+sense a strange energy flowing from north.    
+~
+117 0 1
+D0
+~
+door~
+1 0 11705
+D2
+~
+~
+0 0 11703
+S
+#11709
+Beggining of the present street.~
+You are walking over a long road with great stones on the floor.  Heading
+towards west you can see a great central city filled with people and maybe you
+can find some interesting shops there.    
+~
+117 0 1
+D1
+~
+~
+0 0 11701
+D3
+~
+~
+0 0 11710
+S
+#11710
+Walking by the present street.~
+You are walking along the street, looking down, up, left and in all other
+directions.  Now is the time to enter the city and make the better to know all
+the secrets of this placec.    
+~
+117 0 1
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 11709
+D2
+~
+~
+0 0 11711
+D3
+~
+~
+0 0 11724
+D4
+~
+~
+0 0 -1
+S
+#11711
+The cemetery road.~
+This is a small road leadding to the cemetery of the city, this path is narrow
+and hum.  You can darkness coming for all place.  Looking foward you can see
+the continuation of the road and looking behind is the place where you came
+from.  To your right you can see a small house.    
+~
+117 0 0
+D0
+~
+~
+0 0 11710
+D1
+~
+~
+0 0 11713
+D2
+~
+~
+0 0 11712
+S
+#11712
+Walking by the cemetery road.~
+You are walking through this small roud thinking where this path could lead
+you.  To north is the road's beggining and to south is the continuation of this
+sad road.  To the west you can see another house.    
+~
+117 0 0
+D0
+~
+~
+0 0 11711
+D2
+~
+~
+0 0 11715
+D3
+~
+~
+0 0 11714
+S
+#11713
+House of robot, the gravekeeper.~
+Who doesn't remeber him, a strange creature made of metal like a living golem
+that followed Chronos in the great battle for human-kind, now living in this
+room is the only way to be close to Chronos.  You can see only an empty place
+here, he doesn't need anything more to live his live in peace.    
+~
+117 0 0
+D3
+~
+~
+0 0 11711
+S
+#11714
+&WP&wla&Wt&win&Wa&n's house.~
+This is another small house next to the graveyard of the city, who dares to
+live here?  The answer is simple . The owner of this place is a nice lady
+called &WP&wla&Wt&win&Wa&n '. She looks frail but don't let your eyes trick
+you, this girl is strong and maybe could kill you in one blow.  This house is
+ornate with &Mf&mlower&Ms&n and pictures.    
+~
+117 0 0
+D1
+~
+~
+0 0 11712
+S
+#11715
+The end of the cemetery road.~
+This is the end of the road leadding to the cemetery.  Here lies the entrance
+of the last resting place of some great heros that fought brave for the good of
+humans.  Here is suposed to be the last sleep chamber of the great time
+warrior.  If you continue to walk south you will be inside the cemetery soon.
+  
+~
+117 0 0
+D0
+~
+~
+0 0 11712
+D2
+~
+~
+0 0 11717
+D3
+~
+~
+0 0 11716
+S
+#11716
+Time void deposit.~
+Garbages and trash are placed all over around here, you can see some strange
+devices and another that ressemble to the pre-historical ages.  Only after one
+minuto or two that you realize that this is a kind o time deposit where you can
+find things from all ages.    
+~
+117 0 0
+D1
+~
+~
+0 0 11715
+S
+#11717
+Cemetery entrance.~
+A small wall is surrounding the cemetery completely making this a dark place
+that it would normally be.  Now you are only one step away of the place where
+all the souls of the braves are buried.  Fell free to look around and pay some
+respect to the memory of those who left already.    
+~
+117 0 0
+D0
+~
+~
+0 0 11715
+D2
+~
+~
+0 0 11718
+S
+#11718
+The central cemetery.~
+You are standing in the middle of the graveyard, some tumbs and graves are
+fixed in the ground with names inscribed on it.  For a second you lost your
+mind thinking in how great this one was to be buried here.  To the south you
+can see a great chamber, left and east are the rest of the cemetery tumbs.    
+~
+117 0 0
+D0
+~
+~
+0 0 11717
+D1
+~
+~
+0 0 11719
+D2
+~
+~
+0 0 11721
+D3
+~
+~
+0 0 11720
+S
+#11719
+The right cemetery corner.~
+This is another room on the cemetary.  Just like the others this place stinks
+dead corpses and no one can stand here longer because of the smell.  You can
+see a lot of tumbs along the floor.  To the west you can see the central
+cemetary.    
+~
+117 0 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 11718
+S
+#11720
+The left cemetery corner.~
+This is the left corner of the cemetery, here you can see some tablets and
+tumbs in the ground.  The air has some strange smell that makes you remember
+rotten meat.  You can sense something odd here and don't have ideia what it is.
+  
+~
+117 0 0
+D1
+~
+~
+0 0 11718
+S
+#11721
+Chronos burial chamber.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11718
+D5
+~
+~
+0 0 11722
+S
+#11722
+Janus secret resting place.~
+You are in an unfinished room.
+~
+117 0 0
+D2
+~
+~
+0 0 11723
+D4
+~
+~
+0 0 11721
+S
+#11723
+Near the end of the world.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11722
+S
+#11724
+Along the present street.~
+You are in an unfinished room.
+~
+117 0 0
+D1
+~
+~
+0 0 11710
+D3
+~
+~
+0 0 11725
+S
+#11725
+The end of the present street.~
+You are in an unfinished room.
+~
+117 0 0
+D1
+~
+~
+0 0 11724
+D3
+~
+~
+0 0 11726
+S
+#11726
+The linking ages market.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11727
+D1
+~
+~
+0 0 11725
+D2
+~
+~
+0 0 11729
+D3
+~
+~
+0 0 11728
+S
+#11727
+A corner in the past street.~
+You are in an unfinished room.
+~
+117 0 0
+D2
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11730
+S
+#11728
+The linking ages weapon shop.~
+You are in an unfinished room.
+~
+117 0 0
+D1
+~
+~
+0 0 11726
+S
+#11729
+A corner in the future street.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11750
+S
+#11730
+Walking by the past street.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11732
+D1
+~
+~
+0 0 11727
+D3
+~
+~
+0 0 11731
+S
+#11731
+Along the past street.~
+You are in an unfinished room.
+~
+117 0 0
+D1
+~
+~
+0 0 11730
+D2
+~
+~
+0 0 11734
+D3
+~
+~
+0 0 11733
+S
+#11732
+Ayla's house.~
+You are in an unfinished room.
+~
+117 0 0
+D2
+~
+~
+0 0 11730
+S
+#11733
+The end of the past street.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11736
+D1
+~
+~
+0 0 11731
+D2
+~
+~
+0 0 11735
+S
+#11734
+Balthazar's reason altar.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11731
+S
+#11735
+Junction between past and present.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11733
+D2
+~
+~
+0 0 11754
+S
+#11736
+The gates of the hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11733
+S
+#11737
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11736
+D3
+~
+~
+0 0 11738
+S
+#11738
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11739
+S
+#11739
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11740
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11737
+S
+#11740
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11741
+S
+#11741
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11742
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11737
+S
+#11742
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11743
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11737
+S
+#11743
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11744
+D3
+~
+~
+0 0 11737
+S
+#11744
+The hunt zone.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11745
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11737
+S
+#11745
+A hole on the ground.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11737
+D3
+~
+~
+0 0 11737
+D5
+~
+~
+0 0 11746
+S
+#11746
+Ancient cave.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11747
+D1
+~
+~
+0 0 11748
+D4
+~
+~
+0 0 11745
+S
+#11747
+The guardian room.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11749
+D2
+~
+~
+0 0 11746
+S
+#11748
+A large underground lake.~
+You are in an unfinished room.
+~
+117 0 0
+D3
+~
+~
+0 0 11746
+S
+#11749
+Azala's throne room.~
+You are in an unfinished room.
+~
+117 0 0
+D2
+~
+~
+0 0 11747
+S
+#11750
+By the future street.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11751
+D1
+~
+~
+0 0 11729
+D3
+~
+~
+0 0 11752
+S
+#11751
+Lucca's house.~
+You are in an unfinished room.
+~
+117 0 0
+D2
+~
+~
+0 0 11750
+S
+#11752
+The end of future street.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11754
+D1
+~
+~
+0 0 11750
+D2
+~
+~
+0 0 11755
+S
+#11753
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11754
+Junction between past and future.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11735
+D2
+~
+~
+0 0 11752
+D3
+~
+~
+0 0 11756
+S
+#11755
+The gates to Truce jungle.~
+You are in an unfinished room.
+~
+117 0 0
+D0
+~
+~
+0 0 11752
+S
+#11756
+On the way to Guardia castle.~
+You are in an unfinished room.
+~
+117 0 0
+D1
+~
+~
+0 0 11754
+D3
+~
+~
+0 0 11758
+S
+#11757
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11758
+Before the Guardia castle.~
+Before the Guardia castle.    
+~
+117 0 0
+D0
+~
+~
+0 0 10200
+D1
+~
+~
+0 0 11756
+S
+#11759
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11760
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11761
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11762
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11763
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11764
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11765
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11766
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11767
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11768
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11769
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11770
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11771
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11772
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11773
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11774
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11775
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11776
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11777
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11778
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11779
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11780
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11781
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11782
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11783
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11784
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11785
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11786
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11787
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11788
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11789
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11790
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11791
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+#11792
+zone~
+You are in an unfinished room.
+~
+117 0 0
+S
+$~

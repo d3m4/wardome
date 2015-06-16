@@ -1,0 +1,330 @@
+#20400
+The Anthill's Entrance~
+Here is the entrance to an enormous Anthill, you can hear the ants Working hardly beneath.
+There are some guards blocking the intruders. You starts thinking its not a good idea to stay here.
+There are two obvious exits, down leads you to the first floor of the anthill, south leads you to safety.
+~
+204 16777228 0
+D2
+~
+~
+0 0 6133
+D5
+~
+trapdoor~
+2 0 20401
+S
+#20401
+Anthill's First Floor~
+In this First Floor you will find some deposits of food. A large Corridor goes to east.
+You can see doors as you look across the corridor.
+~
+204 0 0
+D1
+~
+~
+0 0 20402
+D4
+~
+~
+0 0 20400
+S
+#20402
+The Corridor~
+Here you can see some ants overloaded and others leaving to search more food.
+The corridor continues to east and leads back to west.
+~
+204 0 0
+D1
+~
+~
+0 0 20403
+D3
+~
+~
+0 0 20401
+S
+#20403
+The Corridor~
+This large corridor seems to be infinit, you can go east to continues ou west to back.
+North of here is the first depository, there are guards in the door.
+~
+204 0 0
+D0
+~
+deposit~
+2 20401 20404
+D1
+~
+~
+0 0 20405
+D3
+~
+~
+0 0 20402
+S
+#20404
+Depository~
+You are impressed, this room is enormous. You only try to imagine how the ants can fill it.
+The only obvious exit is back the corridor.
+~
+204 32768 0
+D2
+~
+deposit~
+1 0 20403
+S
+#20405
+The Corridor~
+There are more ants here, and near to the east you can see the entrance to another depository.
+The air smells something strange.
+The corridor continues to east and leads back to west. 
+~
+204 0 0
+D1
+~
+~
+0 0 20406
+D3
+~
+~
+0 0 20403
+S
+#20406
+The Corridor~
+To the north is another depository, and it is more guarded them the first you saw.
+To the east you can see the end of these corridor.
+~
+204 0 0
+D0
+~
+deposit~
+2 20401 20407
+D1
+~
+~
+0 0 20408
+D2
+~
+deposit~
+2 20401 20421
+D3
+~
+~
+0 0 20405
+S
+#20407
+Second Depository~
+You only enter and note that it is bigger then the other depository.
+Here the ants store the food that will be used in the winter.
+At the corner of this room you see a big cabinet, there were the royal food. The air is better here, and you can breath again.
+~
+204 0 0
+D2
+~
+deposit~
+1 0 20406
+S
+#20408
+Corridor's End~
+Here the corridor finish.
+Down here you can here the ants working and the cry of some babies, but there is not a good idea continue.
+You can go back to the west.
+~
+204 0 0
+D3
+~
+~
+0 0 20406
+D5
+~
+trapdoor~
+2 0 20409
+S
+#20409
+Anthill's Second Floor~
+In this floor you will find the dormitory of the Workers, the dining hall and probably the queens room.
+The air here is very heavy. To the west you see another corridor.
+~
+204 0 0
+D3
+~
+~
+0 0 20410
+D4
+~
+~
+0 0 20408
+S
+#20410
+Another Corridor~
+Looking aroud you note that the walls here are well made.
+There are some ants unoccupied laughing a lot to south, and to west you see nothing, only darkness.
+~
+204 0 0
+D1
+~
+~
+0 0 20409
+D2
+~
+deposit~
+2 20401 20411
+D3
+~
+~
+0 0 20412
+S
+#20411
+The Dinning Hall~
+The lights shine, the smells is good...HUM...The dinner is in the tabbles.
+The ants no more imports who is here, its only thinks in food. You can see a cook, and its assistants serving.
+Looking back, you think is better stay.
+~
+204 0 0
+D0
+~
+deposit~
+1 0 20410
+S
+#20412
+Another Corridor~
+FEAR, you only feels it. Here the Darkness domains. To west you hear some voices.
+~
+204 0 0
+D1
+~
+~
+0 0 20410
+D3
+~
+~
+0 0 20413
+S
+#20413
+Another Corridor~
+This room is very dark, but some lights comes from the west.
+Looking back you see nothing.
+West from here you hear the voices becomming higher, but you cannot know what is it.
+~
+204 0 0
+D1
+~
+~
+0 0 20412
+D3
+~
+~
+0 0 20414
+S
+#20414
+Another Corridor~
+Ligth again, your heart is no more afraid. To north you see a huge door. Westward from here the babies cries and the voices are louder.
+~
+204 0 0
+D0
+~
+~
+0 0 20415
+D1
+~
+~
+0 0 20413
+D3
+~
+~
+0 0 20416
+S
+#20415
+The Dormitory~
+Ligths go out and the silence domains here. Its not a good idea do something to wake te ants, they look dangerous when waked suddenly.
+To get out of here you need to find the door latch.
+~
+204 0 0
+D2
+~
+~
+0 0 20414
+S
+#20416
+The BirthPlace Entrance~
+There are some ants lost here, watching the babies for a glass.
+The babies cry to south, and the voices of nurses trying to stop the babies.
+To west is the Queens AnteChamber.
+~
+204 0 0
+D1
+~
+~
+0 0 20414
+D2
+~
+~
+0 0 20417
+D3
+~
+~
+0 0 20418
+S
+#20417
+Ant's BirthPlace~
+Oh, how the babies are beatiful. You are impressed, too much babies. Poor nurses they have to word hardly, probably they work harder them the Ants Workers.
+~
+204 4 0
+D0
+~
+~
+0 0 20416
+S
+#20418
+Queen's AnteChamber~
+DO NOT ENTER. With this words you feel something strange, and thinks go back.
+But go back now? Why not look at the Queen? The only problem is the Queens Bodyguards posted here. The smell of suggar is to sweet, it is comming from north there probably is the Queen Bedromm.
+~
+204 0 0
+D0
+~
+door~
+2 20403 20419
+D1
+~
+~
+0 0 20416
+S
+#20419
+Queen's Bedroom~
+OH, finaly you find the Queen. It looks bigger then the others ants.
+Looking around you can see some eggs in the corner of this room. There is a trapdoor leading down, looks like the treasure is hidden there.
+~
+204 0 0
+D2
+~
+door~
+1 0 20418
+D5
+~
+Treasure~
+2 20406 20420
+S
+#20420
+The Treasure Room~
+The treasure, but what is it? It is not gold? Well why the ants will need gold?
+~
+204 4 0
+D4
+~
+Door~
+2 0 20419
+S
+#20421
+Third Depository~
+You enter and see a lot of ant's walking around the room. You can feel the presence from something strange.
+But you can't see this, you are lost.
+~
+204 0 0
+D0
+~
+deposit~
+1 0 20406
+S
+$~

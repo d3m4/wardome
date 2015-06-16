@@ -1,0 +1,46 @@
+#30201
+Purple Dragon cguard~
+&MP&murple &BD&bragon&n~
+A cute little &MP&murple &BD&bragon&n &yis here.&n
+~
+If you're a Purple Dragon you will enter without any problem.
+But if you're not he says:
+I'm sorry.  You are not good enough to enter.
+~
+4186187 562036904 0 E
+200 -280 -70 1d1+50000 35d40+300
+0 0 12
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#30202
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+524362 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0 0
+E
+#30203
+Muir avatar cmob~
+&MA&mvatar &Wof &BM&buir&n~
+&MA&mvatar &Wof &BM&buir&n
+~
+Azoun! escreve aqui cara
+~
+3668234 51483822 1000 E
+200 -230 -35 1d1+5000 100d100+250
+0 0 10
+8 8 1 5 12
+BareHandAttack: 12
+Att2: 100
+Att3: 80
+Att4: 50
+E
+$

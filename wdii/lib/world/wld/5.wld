@@ -1,0 +1,1317 @@
+#500
+&GThe Wardome Preparation Room&n~
+   Here you can prepare yourself for the battle... Only begginers stay here. You will pass the first level here and after this, will be transfered for the Battle WarDome.
+There's a SIGN here.
+&GTO START TYPE: INFO&n
+~
+5 212 0
+E
+sign~
+   This zone only have 20 rooms. You will only pass the first level here, and after the level, you will finally enter the Wardome.
+~
+S
+#501
+&mCommon Board&n~
+   You are in a large and rustic room which is mostly empty, save a few
+rock desks and benches. You can see a couple of banners in the rock walls.
+&n   &CThe Fountain Square&n is to the east.
+~
+5 8340 0
+D1
+~
+~
+0 0 503
+D3
+You see nothing special.
+~
+~
+0 -1 570
+E
+banners~
+STAY QUIET WHILE YOU ARE HERE!!!!!!
+~
+S
+#502
+&CWardome Donation Room&n~
+&n   Here is the so called &CDonation Room&n, where donated items usually ends.
+It is quite common to see lots of items here, just as adventurers looking for
+something useful.
+&n   &CThe Fountain Square&n is to the west of here.
+~
+5 8389124 0
+D3
+~
+~
+0 0 503
+S
+#503
+&CThe Fountain Square&n~
+&n   You are standing in a large square. At the center of it, there is a
+wonderful marble fountain, gushing out a large quantity of clear water.
+&n   The Wardome &CDonation Room&n is to the east, the &mCommon Board&n is to the west,
+and you see &CThe Center of the Temple Street&n to the south.
+~
+5 148 0
+D1
+~
+~
+0 0 502
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 0 501
+D4
+To visit the ORACLE!
+~
+~
+0 0 568
+E
+Hill~
+You see the statue of Hill, the Most powerful being ever.
+~
+E
+Locky~
+You see the statue of Locky, the Evil Master of War
+~
+E
+zhantar~
+You see the statue of Zhantar, the Second Master of War
+~
+E
+Lothar~
+You see a statue of Lothar, the First Master of War
+~
+E
+Taerom~
+You see the statue of Taerom, the Good Master of War
+~
+E
+Arkhon~
+You see the statue of Arkhon, the Smart Master of War
+
+
+~
+S
+T 26699
+#504
+&cWest end of Temple Street&n~
+&n   You've reached the west end of the &cTemple Street&n. Here you can see the last
+two temples of the west side of this road: &BThe Temple of the Goraks&n to north,
+and &BThe Temple of the Drows&n to south.
+~
+5 0 0
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 505
+D2
+~
+~
+0 0 517
+S
+#505
+&cTemple Street&n~
+&n   You are on the middle of the west part of the &cTemple Street&n. To the north,
+you get a glimpse of &BThe Temple of the Sea Elves&n, while to the south, you see
+&BThe Temple of the Dwarves&n. The road continues west and east.
+~
+5 0 0
+D0
+~
+~
+0 0 512
+D1
+~
+~
+0 0 506
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 0 504
+S
+#506
+&cTemple Street&n~
+&n   Now, you are at the &cTemple Street&n, just west of &CThe Center of the Temple
+Street&n. You have two temples at your sight: &BThe Temple of the Elves&n, to the
+north, and &BThe Temple of the Lizardmen&n, to the south.
+~
+5 0 0
+D0
+~
+~
+0 0 513
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 505
+S
+#507
+&CThe Center of Temple Street&n~
+&n   You are at &CThe Center of The Temple Street&n, from here you can go to any
+temple of the Wardome City. It is quite common to see people fighting here too.
+&n   You see &RThe New Market Square&n to the south, &CThe Fountain Square&n to north,
+and the continuation of the &cTemple Street&n to the east and west.
+~
+5 1048704 0
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 525
+D3
+~
+~
+0 0 506
+D4
+~
+~
+0 0 599
+S
+#508
+&cTemple Street&n~
+&n   You are at the beggining of the east side of the &cTemple Street&n, just east of
+&CThe Center of the Temple Street&n. Here, two temples were built: &BThe Temple of
+the  Orcs&n, to the north, and &BThe Temple of the Ogres&n, to the south.
+~
+5 0 0
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 507
+S
+#509
+&cTemple Street&n~
+&n   Walking on to the east way of the &cTemple Street&n, you notice two more temples
+here, &BThe Temple of the Trolls&n, to the north, and &BThe Temple of the Giths&n, to
+the south. You feel somewhat strange, like if something very uncommon was
+happening nearby...
+~
+5 0 0
+D0
+~
+~
+0 0 515
+D1
+~
+~
+0 0 510
+D2
+~
+~
+0 0 521
+D3
+~
+~
+0 0 508
+S
+#510
+&cEast end of Temple Street&n~
+&n   You've reached the east end of the &cTemple Street&n. To the north, you see &BThe
+Temple of the Humans&n, while to the south is &BThe Temple of the Gnomes&n, and at
+last but not least, to the east is &BThe Temple if the Advanced Races&n. This one
+radiates a somewhat different, superior aura... weird thing.
+~
+5 0 0
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 567
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 509
+S
+#511
+&BThe Temple of the Goraks&n~
+   This is a dark and gloomy room... almost no light enters in this fearsome
+place. A strong smell consumes the whole room... The reflects of the shadows, which
+fullfills the room, reflects on the strong and silent statue, laid on the center
+of the room. It is a quite strange being, probably their god.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 504
+S
+#512
+&BThe Temple of the Sea Elves&n~
+   You are in the Temple of the Sea Elfs, a very beautiful place with 
+corals, reefs and fish everywhere.  It is not difficult to discover
+the God they worship because you see his image everywhere.  His name
+is Taerom, the son of Poseidon.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 505
+S
+#513
+&BThe Temple of the Elves&n~
+   You are in the Temple of Elves, a nature worshiping paradise. It is
+a very beautifull place, the large amount of flowers gives a special bloom
+to the place. In the walls you can see illustrations of trees and some
+legendary elves. Birds and butterflies constantly enters and leaves by the
+window.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 506
+S
+#514
+&BThe Temple of the Orcs&n~
+   It seems quite difficult to believe that in the underworld, where
+even for the insects it is difficult to live, life exists. You are
+standing in the Temple of Orcs, the most horrible race in Wardome.
+There is manny paintings in the walls, you cannot realize who is their
+god, or who is their chief.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 508
+S
+#515
+&BThe Temple of the Trolls&n~
+   You are in the Temple of Trolls, the walls are made of enormous
+stones and well put upon, to the ground there is a great engraving
+of the divinity that the trolls worship.  The Altar is covered by 
+gold and precious stones.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 509
+S
+#516
+&BThe Temple of the Humans&n~
+   You are in a small temple, appearing to be a house. Here you can rest, sleep
+or even wait until yor next battle. The strongests human gladiators have already
+walked upon this ground.
+   The exit to the Temple Street is to the South.
+~
+5 1048596 0
+D2
+~
+~
+0 0 510
+S
+#517
+&BThe Temple of the Drows&n~
+   You are standing on the darkest temple of Wardome. Briefly illuminated by
+torches. In the walls, there are several pictures, tracing the story of great
+battles between elves and drows, which begun many centuries ago, and still
+happens nowadays... The reason of such war remains a mystery.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 504
+S
+#518
+&BThe Temple of the Dwarves&n~
+   After passing for mountains and hills you arrive to the temple of
+the Dwarfs, not anything of very special for here just a typical cold
+air of mountains.  With total certainly you conclude that is not here
+that the Dwarfs keep their gold.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 505
+S
+#519
+&BThe Temple of the Lizardmen&n~
+   You are standing on the Lizardmens ground, a very unpleasant place, it has
+a terrible scent and it seems to be comming from the walls, your boots are sunken
+in a grossy, thick mud, that is visible every part. Surelly only a Lizardman
+could live here.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 506
+S
+#520
+&BThe Temple of the Ogres&n~
+   Certainly this is the better place for an Ogre to live, a massive Cave.
+An humid air fills the cave, it is a gloomy place, noises can be heard at
+every moment. No God seems to be worshiped by the Ogres.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 508
+S
+#521
+&BThe Temple of the Giths&n~
+   You are standing on a floor, covered by craniums and scattered bones, what
+it doesn't sound strange because they are undead creatures made by magic and bones.
+You can see by an bone-covered altar that the Giths worship evil gods.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 509
+S
+#522
+&BThe Temple of the Gnomes&n~
+   You are in the Temple of the Gnomes, there are several equipments
+over the walls. There is something on the left side of the temple,
+it seems to be a laboratory. You see paintings of the God of Gnomes called
+by them as Slinky. The room is illuminated by torches.
+   The exit to the Temple Street is to the North.
+~
+5 1048596 0
+D0
+~
+~
+0 0 510
+S
+#523
+&cFirst Street&n~
+   You are about to leave of the city, here it's the end of
+Wardome City main street, however you still get to find usefulness
+for here, like the Postoffice and Armory which are located to the
+South and North respectively.
+~
+5 12 0
+D0
+~
+~
+0 0 528
+D1
+~
+~
+0 0 524
+D2
+~
+~
+0 0 532
+D3
+~
+~
+0 502 6092
+S
+#524
+&cFirst Street&n~
+   You are standing on the street among the New Market Square and the
+exit of the city. Some shops seems to be working among the road.
+For the south you find the favorite place for Magiciands and Magic
+Adepts. To the north you find the Wardome Weaponsmith.
+~
+5 0 0
+D0
+~
+~
+0 0 529
+D1
+~
+~
+0 0 525
+D2
+~
+~
+0 0 533
+D3
+~
+~
+0 0 523
+S
+#525
+&RNew Market Square&n~
+&n   You are in the &RNew Market Square&n. It's the main place of the Wardome City,
+and every day lots of adventurers show up here. It's the best place you'll find
+if you are looking for someone to trade, to group, or even to pkill...
+&n   &CThe Center of the Temple Street&n is north of here, and &CThe Center of the
+Second Street&n is to the south. The &cFirst Street&n goes on to east and west.
+~
+5 0 0
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 526
+D2
+~
+~
+0 0 538
+D3
+~
+~
+0 0 524
+S
+#526
+&cFirst Street&n~
+   You are standing on the Firts Street continuity, you can see
+two stores from here, that helped in the survival of that world. For
+the north you can see the bakery, and for the south the Pet Shop.
+Leading west you will be in the Market Square.
+~
+5 0 0
+D0
+~
+~
+0 0 530
+D1
+~
+~
+0 0 527
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 525
+S
+#527
+&cFirst Street&n~
+   You are in the first street, to the north you can find the
+General Store and to the south you can see the Water shop.
+Leading east you will leave the town and west you will find
+yourself in the Market Square.
+~
+5 4 0
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 502 3502
+D2
+~
+~
+0 0 535
+D3
+~
+~
+0 0 526
+S
+#528
+&YArmory&n~
+   The armory, it is adorned with all kinds of armors upon the walls and
+windows. You can see from helmets to powerfull Full Plates. Leading south
+you will find yourself on the first street.
+There is a small note placed upon the wall.
+~
+5 152 0
+D2
+~
+~
+0 0 523
+D4
+You can see a blacksmith doing his job.
+~
+~
+0 0 558
+S
+#529
+&YWeaponsmith&n~
+   You are inside the Weaponsmith. In the walls you see countless weapons,
+lances, swords, daggers and all other kind of different weapons that you
+would need for a war. In case you want to negotiate your weapons feel free
+to ask.
+~
+5 136 0
+D2
+~
+~
+0 0 524
+S
+#530
+&YBakery&n~
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+~
+5 152 0
+D2
+~
+~
+0 0 526
+D4
+~
+door~
+1 0 566
+S
+#531
+&YGeneral Store&n~
+  You are inside a big general store. All sorts of items are stacked on the
+wood shelves behind the counter, safely out of your reach. The First Street
+is to the South.
+~
+5 152 0
+D2
+~
+~
+0 0 527
+S
+#532
+&YPost Office&n~
+   You are in the post office of the WarDome City. Piles of assorted mail
+lay untouched in the corners, collecting cobwebs. Here you can send and
+receive your mails. Behind the balcony you see an old man using a white
+hat with the word POSTMASTER written upon it. The First Street is to the North.
+~
+5 244 0
+D0
+~
+~
+0 0 523
+S
+#533
+&YMagic Shop&n~
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
+~
+5 152 0
+D0
+~
+~
+0 0 524
+D4
+You see nothing special.
+~
+~
+0 -1 1127
+S
+#534
+&YPet Shop&n~
+   The Pet Shop is a small crowded store, full of cages and animals of
+various sizes.  There is a sign on the wall.
+~
+5 24 0
+D0
+~
+~
+0 0 526
+S
+#535
+&YWater Shop&n~
+   You are standing in the center of a small wooden shop whose walls are
+covered with racks upon racks of water jugs.  Several large barrels with
+spigots are stacked in the corner.
+~
+5 152 0
+D0
+~
+~
+0 0 527
+S
+#536
+&cWest end of Second Street&n~
+   Here it is the end of the Second street, but nor for that the diversion 
+ends, for south you have Casino, very sought for the practice of games, 
+and to north, in case you need rest, has a comfortable and clean lodge, in
+Priscilla's Inn.
+~
+5 0 0
+D0
+~
+~
+0 0 541
+D1
+~
+~
+0 0 537
+D2
+~
+~
+0 0 545
+D3
+~
+~
+0 0 590
+S
+#537
+&cSecond Street&n~
+   This is a great street for those whom likes having fun, here you have two
+good choises, to the North the Wardome's Saloon, which the diversion is guaranteed,
+and to the South you have a good place to listen to good stories and have a good
+pitcher of ale, The Tavern.
+~
+5 0 0
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 538
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 536
+S
+#538
+&CThe Center of Second Street&n~
+&n   Here is a big and calm place, calmer than the square to the north, that is.
+You see all types of people here, beggars, drunks, prostitutes... you'd better
+watch out for your wallet here.
+&n   &RThe New Market&n Square is to the north, while &CThe Bridge&n is to the south.
+The &cSecond Street&n goes on to the east and to the west of here.
+~
+5 0 0
+D0
+~
+~
+0 0 525
+D1
+~
+~
+0 0 539
+D2
+~
+~
+0 0 547
+D3
+~
+~
+0 0 537
+S
+#539
+&cSecond Street&n~
+   That is the continuation of the Second Street, for the north you see Pit Bull's Gym
+and for the south you can see the City Hall in case you need to solve some problem
+with the Mayor or even receive a prize fo bravery, which is very common in Wardome
+City.
+~
+5 0 0
+D0
+~
+~
+0 0 543
+D1
+~
+~
+0 0 540
+D2
+~
+~
+0 0 548
+D3
+~
+~
+0 0 538
+S
+#540
+&cSecond Street&n~
+   Here it is the end of the street, however not less busy, you see some
+wounded people, and curiously to the North you find the Priest's House, where
+wounded soldiers get their wounds healed. To te South you can see the Wardome
+HQ, in which you will find some guards and the Sheriff of the City.
+~
+5 0 0
+D0
+~
+~
+0 0 544
+D1
+~
+~
+0 0 559
+D2
+~
+~
+0 0 549
+D3
+~
+~
+0 0 539
+S
+#541
+&YPriscilla's Inn&n~
+   You are in a beautiful place, confortable and very clean, the smell of
+the fresh food is what sharpens your hunger, the price seems very reasonable
+and indeed, the tavern seems very comfortable.
+~
+5 8 0
+D2
+~
+~
+0 0 536
+D5
+~
+~
+0 0 7030
+S
+#542
+&YWardome Saloon&n~
+   You enter in a very agitated place, the music is constant played by a bard,
+there are a lot of tables, a women assist the customers, in case you've been 
+looking for pleasure you've found the right spot.
+~
+5 8 0
+D2
+~
+~
+0 0 537
+D5
+~
+~
+0 0 7017
+S
+#543
+&WPitBull's Gym&n~
+   You are standing in an enormous room, by the first view it seems to be a gym.
+A training Master is here to help you. Here is the place where you can change your
+Meta Points, for Strength, Dexterity, Constitution, Hit Points and Move Points.
+TYPE:&GMETA&n
+~
+5 28 0
+D2
+~
+~
+0 0 539
+D5
+~
+~
+0 0 7048
+S
+#544
+&YPriest's House&n~
+   As you enter this Log House you feel taken by a calm sensation, actually
+this is the place where you should be if you're wounded, you can see lots of
+wounded people. You can also see an old man, plancing his hand on a dying
+warrior and suddenly, it's AMAZING, he is totally healed.
+~
+5 1048604 0
+D2
+~
+~
+0 0 540
+S
+#545
+&YCasino&n~
+   You are in the Casino of the City, an enormous and rich
+building, this place is used for socials amusements, the
+room is filled with people trying to get rich through
+the game. Do you wanna a bet??!!
+The Second Street is to the North side.
+~
+5 8 0
+D0
+~
+~
+0 0 536
+S
+#546
+&YThe Tavern of the City&n~
+   A place not very well frequented, the smell is not pleasant, actually
+the ale spilled by all the tables and floor justify the smell, besides
+the ale, which the legend says that is blessed by the gods, you can find
+yourself a good story in here.
+~
+5 152 0
+D0
+~
+~
+0 0 537
+D5
+~
+~
+0 0 7026
+S
+#547
+&CThe Bridge&n~
+   You find yourself in another way of leaving the city, which is by
+the river. For your luck, there is a Captain here, sellin canoes, boats and
+other kind of sea vehicles. Leading down the bridge you will find yourself
+already in the sea.
+~
+5 144 0
+D0
+~
+~
+0 0 538
+D5
+~
+~
+0 0 550
+S
+#548
+&YCity Hall&n~
+   Here is the city hall of Wardome, a very important place indeed,
+because it is where the Mayor spends almost all his time. Hung in the
+wall you see the city key of wardome, shining as gold, there've been
+rumors that the key is given to the noble warriors of Wardome City.
+~
+5 8 0
+D0
+~
+~
+0 0 539
+S
+#549
+&YWardome's HQ&n~
+   Every City has it HQ, and you're standing on Wardome City HQ,
+you gets to see some weapons, and armors in the wall, you also
+see a cell in the bottom of the room, and finally in the center
+there is a table where a guard leads everything.
+~
+5 8 0
+D0
+~
+~
+0 0 540
+S
+#550
+&cUnder the Bridge&n~
+   The arch under the bridge is covered by seaweed about a foot above the
+surface of the river.  The water gently flows through an opening in the lower
+part of the city wall.
+~
+5 4 6
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 551
+D3
+~
+~
+0 0 553
+D4
+~
+~
+0 0 547
+S
+#551
+&cOn the River&n~
+   North of here you see the Second Street. The river flows from east to west.
+The riverbanks are too steep to climb.
+~
+5 0 7
+D1
+~
+~
+0 0 552
+D3
+~
+~
+0 0 550
+S
+#552
+&cOn the River&n~
+   North of here you see the Second Street. The river flows from east to west.
+The riverbanks are too steep to climb.
+~
+5 0 7
+D1
+~
+~
+0 0 5001
+D3
+~
+~
+0 0 551
+S
+#553
+&cOn the River&n~
+   North of here you see the Second Street. The river flows from east to west.
+The riverbanks are too steep to climb.
+~
+5 0 7
+D1
+~
+~
+0 0 550
+D3
+~
+~
+0 0 554
+S
+#554
+&cOn the River&n~
+   North of here you see the Second Street. The river flows from east to west.
+The riverbanks are too steep to climb.
+~
+5 0 7
+D1
+~
+~
+0 0 553
+D3
+~
+~
+0 0 555
+S
+#555
+&cOn the River&n~
+   North of here you see the Second Street. The river flows from east to west.
+The riverbanks are too steep to climb.
+~
+5 0 7
+D1
+~
+~
+0 0 554
+D3
+~
+~
+0 0 900
+S
+#556
+&WThe Cryogenic Center&n~
+   You are in a strange place. A scientist look at you, he seems to be waiting
+for you to say anything. There is a small sign on the counter.
+TYPE:&GMETA&N
+~
+5 28 0
+D3
+~
+~
+0 0 559
+D5
+~
+~
+0 0 7043
+S
+#557
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+5 1032 0
+S
+#558
+&YBlacksmith&n~
+   You find yourself surrounded by lots of dirt, old armors and weapons,
+maybe even yours weapons can be in their place in a not so distant future.
+You can see the Armor shop down the stairs.
+   &wType &Yrepair &wto see the details of repairing.
+~
+5 156 0
+D5
+You can see the armour shop right there.
+~
+~
+0 0 528
+S
+#559
+&cEast end of Second Street&n~
+   You are in the end of the street, however not less busy, you can see
+some wounded people in the west, and for the east you find the Cryogenic Center,
+to the south you see a small passage to a dark alley and finally to the north you
+find the Wardome City Bank.
+~
+5 0 0
+D0
+~
+~
+0 0 562
+D1
+~
+~
+0 0 556
+D2
+~
+~
+0 0 560
+D3
+~
+~
+0 0 540
+S
+#560
+The Dark Alley~
+   You are at the Dark Alley, to north you see some people in the Second Street
+and the alley continues to the south.    
+~
+5 0 1
+D0
+~
+~
+0 0 559
+D2
+~
+~
+0 0 561
+S
+#561
+The Poor Alley~
+   You are at the poor alley and you notice a nasty smell here.  Nothing much
+here but small cats and dust.  To north is the Dark alley.    
+~
+5 0 1
+D0
+~
+~
+0 0 560
+D5
+~
+grate~
+1 -1 3801
+S
+#562
+&YThe Wardome City Bank&n~
+   You stand in a large hall decorated with black marble and red satin.  Huge
+pillars support an arched ceiling far above your head.  In the corner is a
+engine where you make your bank transactions.    
+~
+5 24 1
+D2
+~
+~
+0 0 559
+S
+#563
+The Districts Square~
+EAST  : To the noble district
+
+NORTH : To the merchant district
+
+WEST  : To the peasant district
+
+~
+5 0 0
+D2
+~
+~
+0 0 503
+S
+#564
+&YRecharge Shop&n~
+This shop was created by a mage who studies wands and staffs.
+Here, you can recharge your magical stuff for a little price.
+Have fun.
+~
+5 148 0
+S
+#565
+&RThe Council&n~
+   This is the Council room. Be aware that only trusted people can enter here. You are warned.
+Primeiro senado do wd:
+Segundo senado do wd:  Campos Phoenix Slack Saturn
+Tyr Kazhisky Azoun Mordron Destroyer Sancho.
+
+~
+5 6804 0
+S
+#566
+&YCyber Cafe&n~
+You are in Wardome's Cyber Cafe!
+Wanna play something? =)
+~
+5 148 0
+D5
+~
+door~
+1 0 530
+S
+#567
+&BThe Temple of the Advanced Races&n~
+&n   Here is the temple for the people who have achieved a greater race level,
+also known as &Yreborn&n. If you are one of these people, congrats! And please,
+make yourself at home.
+~
+5 1048604 0
+D3
+~
+~
+0 0 510
+S
+#568
+&GThe Oracle Temple&n~
+                 ____________________________
+                /                            \
+ ______________|___    ---------------  ______|______________
+| VVVVVVVVVVVVVVVVVV |THE ORACLE TEMPLE| VVVVVVVVVVVVVVVVVVV |
+ \_____________________--------------- _____________________/
+   |=====||=====||=====|              |=====||=====||=====|
+    _===_  _===_  _===_                _===_  _===_  _===_
+     |||    |||    |||                  |||    |||    |||
+     |||    |||    |||                  |||    |||    |||
+     |||    |||    |||                  |||    |||    |||
+     |||    |||    |||                  |||    |||    |||
+     |||    |||    |||                  |||    |||    |||
+    _ | _  _ | _  _ | _                _ | _  _ | _  _ | _
+   |=====||=====||=====| _____________|=====||=====||=====|&n
+              &N PLEASE: DONATE &c10.000 &nCOINS PER EVERY WISH
+                  TYPE &GIMPROVE &nTO EVOKE THE ORACLE
+~
+5 148 0
+D5
+~
+~
+0 0 503
+S
+#569
+&YLibrary&n~
+   Shhh! You are inside the library, but not a normal library.
+You can see some different books around you, called spellbooks.
+Now it's time to practice, go ahead!
+~
+5 156 0
+D5
+You see nothing special.
+~
+~
+0 -1 1127
+S
+#570
+&MSuggestion Board&n~
+&n   Here is the &MSuggestion Board&n room. Got any ideas for the Wardome Mud? Please
+feel free to post it here! It can become true, you know...
+&n   You see the &mCommon Board&n to the east.
+~
+5 0 0
+D1
+You see nothing special.
+~
+~
+0 -1 501
+S
+#590
+&YThievery Shop&n~
+This is a special place for those who know the dark
+arts of thievery. Here you can buy anything from trap
+components to gas bombs. Have fun, heh heh heh.
+~
+5 156 0
+D1
+~
+~
+0 0 536
+S
+#598
+&GReligion Temple&n~
+Type religion <number> to change your religion.
+
+The number means:
+0:Justice Guardian of Muir.
+1:Pain Bearer of Ilmanateur.
+2:Moon Blade of Selune.
+3:Law Keeker of Helm.
+4:Wisdom Seeker of Ohgma.
+5:Battle Guard of Tempus.
+6:Dread Master of Bane.
+7:Killer Rose of Pandora.
+8:Storm Lord of Talos.
+
+AVISO: Mudar religiao acarreta na perda de
+4 pontos de con e dex, para players remorteres apenas.
+
+~
+5 148 0
+D5
+~
+~
+0 0 599
+S
+#599
+&GAlignment Room&n~
+
+
+Type alignment <number> to change your alignment.
+
+The number means:
+0:Lawful Good.
+1:Neutral Good.
+2:Chaotic Good.
+3:Lawful Neutral.
+4:True Neutral.
+5:Chaotic Neutral.
+6:Lawful Evil.
+7:Neutral Evil.
+8:Chaotic Evil.
+
+
+AVISO: pLAYERS REMORTERS PERDERAM PONTOS DE
+ATRIBUTOS AO MUDAR DE ALINHAMENTO.
+
+~
+5 208 0
+D4
+~
+~
+0 0 598
+D5
+~
+~
+0 0 507
+S
+$~

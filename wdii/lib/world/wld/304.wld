@@ -1,0 +1,100 @@
+#30400
+The Beginning~
+Not much here.
+~
+304 0 0
+S
+#30401
+&REn&Wtr&ran&wce&n Of &WThe &RS&wi&Rt&wh &RT&re&Wm&wp&Rl&re&n~
+You see a huge black pyramid with a strange red triangle pointing down, 
+encarved near its top. Right in front of you is the main gate of this 
+monstruousstructure, you feel a strange power flowing within this 
+building, and without knowing why you are taken by a deep fear.
+~
+304 192 0
+D0
+~
+~
+0 0 30402
+D2
+~
+~
+0 0 6124
+S
+#30402
+&RS&wi&Rt&wh&n &RT&re&Wm&wp&Rl&re&n &wM&Wa&wi&Wn&n &RH&ra&Rl&rl&n~
+This is the main room of the temple, when you look around you see that 
+in despite of its size there aren't many men inside. The walls are 
+black, and the light is dim, you REALLY don't feel confortable here.
+~
+304 139264 0
+D0
+~
+~
+0 0 30404
+D2
+~
+~
+0 0 30401
+D4
+~
+~
+0 0 30405
+D5
+~
+~
+0 0 30403
+S
+#30403
+&RS&wi&Rt&wh&n &RW&re&Wa&wp&Ro&rn&Wr&wy&n~
+A Sith is a warrior, that no one can deny, but even the strongest 
+warrior can't survive without weapons...
+~
+304 2764 0
+D4
+~
+~
+0 0 30402
+S
+#30404
+&wThe &RS&wi&Rt&wh&w Temple&n~
+You are in a meditation chamber. It is very silent here, in fact
+you can not even hear your own footsteps.
+~
+304 64 0
+D2
+~
+~
+0 0 30402
+S
+#30405
+&RD&re&ws&Wt&Rr&ro&wy&We&Rr&r'&Ws &RT&re&Wm&wp&Rl&re&n~
+You are in an unfinished room.
+~
+304 64 0
+D0
+~
+~
+0 0 766
+D1
+~
+~
+0 0 9609
+D2
+~
+~
+0 0 7785
+D3
+~
+~
+0 0 1361
+D4
+~
+~
+0 0 19025
+D5
+~
+~
+0 0 30402
+S
+$~

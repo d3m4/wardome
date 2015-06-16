@@ -1,0 +1,4471 @@
+~. . 0 3 3 202
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~. . 0 3 3 202
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~. . 1 3 3 202
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~20 20 0 8 8 0
+&RW&rar&RD&rome &YR&y0&YX&y!&Y! &WE&wn&WJ&wo&WY &wT&Wh&wE &rW&Ra&rR&R!&r!&n
+&RW&rar&RD&rome &YR&y0&YX&y!&Y! &WE&wn&WJ&wo&WY &wT&Wh&wE &rW&Ra&rR&R!&r!&n
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~accuse accuse 0 2 2 0
+Accuse who??
+#
+You look accusingly at $M.
+$n looks accusingly at $N.
+$n looks accusingly at you.
+Accuse somebody who's not even there??
+You accuse yourself.
+$n seems to have a bad conscience.
+#
+#
+#
+#
+#
+
+~ack ack 0 2 2 0
+ACK!! You ack around like Bill the Cat!
+ACK! $n acks around like Bill the Cat!
+ACK! You ack at $N! Weird!
+ACK! $n acks at $N! Weird!
+ACK! $n acks at you! Weird!
+ACK! You ack around like Bill the Cat!
+ACK! You ack at yourself?! Weird!
+ACK! $n acks around at $mself! Weird!
+#
+#
+#
+#
+#
+
+~afk afk 0 2 2 0
+You announce to everyone you are going away from keyboard.
+$n announces $e is going away from keyboard.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~agree agree 0 2 2 0
+You agree wholeheartedly.
+$n agrees wholeheartedly.
+Yes! You agree wholeheartedly with $N!
+Yes! $n agrees with $N wholeheartedly!
+Yes! $n agrees with you wholeheartedly.
+You don't even know who you're trying to agree with do you?!
+You try and convince YOURSELF how agreeable a person you are?! Nice try!
+$n agrees with $mself, since no one else will!
+#
+#
+#
+#
+#
+
+~ale ale 0 2 2 0
+You hand everyone a nice, cold &+Yhoney ale&n in a frosted mug.
+$n hands everyone a cold &+Yhoney ale&n, in a frosted mug.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~amaze amaze 0 2 2 0
+You truly ARE amazing!
+$n thinks $mself truly amazing! Yah RIGHT!
+You try and amaze $N! Right... try again!
+$n tries to convince $N that $e is amazing! Yah RIGHT!
+$n tries to convince you that $e is amazing! Yah RIGHT!
+WHO are you trying to amaze?
+Yes, you are truly amazing, truly!
+$n thinks $mself truly amazing! Yah RIGHT!
+#
+#
+#
+#
+#
+
+~anyone anyone 0 2 2 0
+You exclaim, 'Hello???? ANYONE THERE!!!???!?!?'.
+$n exclaims, 'Hello???? ANYONE THERE!?!?!?!?'.
+You look at $N, poke $m and say, 'Hello? ANYONE THERE?'.
+$n looks at $N inquisitively and asks, 'Hello? ANYONE THERE?'.
+$n looks at you strangely and checks to see if you are alive.  You there?
+Whos not there? HELLO ANYONE THERE??! Geez.. pick a valid target.
+Well...... obviously you ARE there...
+$n looks very confused and says, 'Where am I?'.
+#
+#
+#
+#
+#
+
+~apologize apologize 0 2 2 0
+SORRY! You apologize to everyone in the room!
+SORRY! $n apologizes to everyone in the room!
+SORRY! You apologize to $N and beg for forgiveness!
+SORRY! $n gets down on $s hands and knees and begs $N for forgiveness!
+SORRY! $n gets down on $s hands and knees and begs you for forgiveness!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~applaud applaud 0 2 2 0
+Clap, clap, clap.
+$n gives a round of applause.
+You give them a round of applause.
+$n gives $N a round of applause.
+$n gives you a round of applause.
+Clap away, the're not here.
+No one else will do it, you may as well do it yourself.
+$n must be desperate for praise, $e is applauding $mself.
+#
+#
+#
+#
+#
+
+~arrived arrived 0 8 8 0
+You let everyone know that you're in the area!
+Hey Bro's!! $n's in da area, man!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~bambi bambi 0 1 1 0
+&MVoce &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&M$n &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&MVoce &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&M$n &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&M$n &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&MVoce &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&MVoce &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+&M$n &Ysaltita pela sala como um &Mbambi&Y! Ui!&n
+#
+#
+#
+#
+#
+
+~bang bang 0 2 2 0
+You shoot yourself in the head! BANG!
+$n bangs $s head against the wall in frustration! Arghhhh!
+You bounce $N's head off the wall a few times! BANG BANG BANG!
+$n bounces $N's head off the wall a few times! Owch!
+$n bangs your head up against the wall a few times! Pay attention!
+You bang your head against the wall looking for that person!
+You shoot yourself in the head! BANG!
+BANG! $n shoots $mself in the head! What a mess!
+#
+#
+#
+#
+#
+
+~bark bark 0 2 2 0
+*WOOF* *WOOF* *WOOF*
+*WOOF* *WOOF* *WOOF $n barks loudly!
+*WOOF* *WOOF* You bark at $N! What have they done?!
+*WOOF* *WOOF* *WOOF* $n barks at $N! What have they done?!
+*WOOF* *WOOF* *WOOF* $n barks at you! What have you done?!
+Barking up the wrong tree man!
+You sly dog you!
+$n barks at $mself.. hmm.. strange...
+#
+#
+#
+#
+#
+
+~bathe bathe 0 2 2 0
+You FINALLY bathe! To the relief of everyone in the room!
+$n looks around for someone to bathe, want to volunteer?
+You sensually bathe $N, running your hands all over $S body.
+$n bathes $N, running $m hands all over $N's body.
+$n sensually bathes you, relaxing those tired muscles. Ahh, that feels good!
+Guess they didn't want to be bathed!
+You FINALLY bathe! Much to the relief of everyone in the room!
+$n FINALLY bathes $mself, much to everyone's relief!
+You bathe $N, running your hands all over $S $t!
+$n bathes $N, running $s hands all over $N's $t!
+$n bathes you, running $s hands down your body, spending more time on your $t! Eeek! It must have been DIRTY!
+#
+#
+
+~bbl bbl 0 2 2 0
+You tell everyone who will listen that you will be back later.
+$n tells everyone who will listen that $e will be back later.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~beam beam 0 2 2 0
+You beam a wide smile at everyone in the room.
+$n beams a wide smile at everyone in the room.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~beat beat 0 2 2 0
+Beat Who?!
+#
+WHAP! You beat $N over the head!
+WHAP! $n beats $N over the head!
+WHAP! $n beats you over the head!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~beegees beegees 0 8 8 0
+_o/ _o_ _o/ Ah, ah, ah, ah! Staying alive! staying alive! \o_ _o_ \o_
+_o/ _o_ _o/ Ah, ah, ah, ah! Staying alive! staying alive! \o_ _o_ \o_
+#
+#
+#
+Sorry good buddy, but that person doesn't seem to be here.
+#
+#
+#
+#
+#
+#
+#
+
+~beep beep 0 2 2 0
+BEEP! BEEP! You tell everyone to get out of your way please!
+BEEP! BEEP! $n asks you to get out of the way.
+BEEP! BEEP! You ask $N to kindly get the HELL out of the way!
+BEEP! BEEP! $n asks $N to kindly get the HELL out of the way!
+BEEP! BEEP! $n asks you to kindly get the HELL out of the way!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~beer beer 0 2 2 0
+You crack open a frosty cold &Ybeer &nand &Gguzzle &nit down.
+$n guzzles a frosty &Ybeer &Gdown&n, then smashes it on $s head.
+You offer $N a nice cold beer.
+$n offers $N a nice cold beer.
+$n offers you a nice cold beer.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~beg beg 0 2 2 0
+You beg the gods for mercy.  (No way you're gonna get it! :-))
+The gods fall down laughing at $n's request for mercy.
+You desperately beg $M! Pretty Pleeze!?
+$n begs $N! Pretty Pleeze!?
+$n gets down on $s knees and begs you! Pretty Pleeze?!
+Your money-lender seems to be out for the moment.
+How? - begging yourself for money doesn't help.
+#
+#
+#
+#
+#
+#
+
+~bellow bellow 0 8 3 0
+You drunkenly bellow ,'HAR HAR HAR!'
+$n drunkenly bellows ,'HAR HAR HAR!'
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~bird bird 0 2 2 0
+You flip everyone in the room the bird! Shame on you!
+$n flips you the bird! How rude!
+You flip $N the bird! How rude of you!
+$n flips $N the bird! How rude!
+$n flips you the bird! How rude!
+You stand there with your finger in the air, looking pretty foolish!
+You flip yourself off! How silly!
+$n flips $mself off! How silly!
+#
+#
+#
+#
+#
+
+~bitch bitch 0 2 2 0
+BITCH BITCH BITCH!
+$n bitches. Bitch bitch bitch!
+You bitch at $N!
+$n bitches to $N almost non stop!
+$n bitches at you!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~bitchslap bitchslap 0 2 2 0
+You bitch-slap EVERYONE.
+$n bitch-slaps everyone.
+You send $N reeling with your mighty bitch-slap!
+$n sends $N reeling with $s mighty bitch-slap!
+$n sends you reeling with his mighty bitch-slap!
+Bitch-slap who?
+You cant bitch slap yourself!
+#
+#
+#
+#
+#
+#
+
+~bite bite 0 2 2 0
+You bite your teeth and snarl! Grrrrr!
+$n grits $s teeth and snarls! Grrrr!
+You bite $N in the leg! Owch!
+$n bites $N in the leg! Owch!
+$n bites you in the leg! Owch!
+Try biting someone in the same room as yourself dood!
+You bite yourself in the arm! Owch!
+$n bites $mself in the arm! Owch!
+You bite $S $t! Owch!
+$n bites $N's $t! Owch!
+$n bites your $t! Owch!
+You bite the $p! Owch!
+$n bites down on $p, gritting $r teeth!
+
+~bleed bleed 0 2 2 0
+You bleed profusely, making an awful mess...
+$n bleeds profusely, making an awful mess...
+You bleed all over $M.
+$n bleeds all over $N.
+$n bleeds all over you..  YUCK!
+#
+#
+#
+#
+#
+#
+You bleed all over $p.
+$n bleeds all over $p.
+
+~bleh bleh 0 2 2 0
+BLEH!
+$n looks really pissed off and says 'BLEH!'
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~blink blink 0 2 2 0
+You blink in disbelief.  No Way!!
+$n blinks $s eyes in disbelief!
+You blink at $N in disbelief! No Way!
+$n blinks at $N in disbelief! $e just can NOT believe it!
+$n blinks at you in disbelief! They can't believe what you're saying!
+Blink at who?!
+You try and blink at yourself... strange
+$n tries to blink at $mself... strange!
+#
+#
+#
+#
+#
+
+~blow blow 0 2 2 0
+Blow who? what?!
+$n blows out some hot air!
+You blow seductively in $N ear.
+$n blows seductively in $N's ear.
+$n blows seductively in your ear.
+Uhh.. blow who? what?!
+You try to blow in your own ear... hmmm strange
+$n tries to blow in $s ear! Hmm... strange
+You blow in $S's $t's!
+$n blows in $N's $t!
+$n blows in your $t!
+#
+#
+
+~blush blush 0 2 2 0
+Yah RIGHT! Who are you kidding?
+$n blushes a deep deep rosey red colour.
+You blush at the very thought of $N.
+$n blushes at the very thought of $N.
+$n blushes at the very thought of you. WhooOOO!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~boggle bog 0 2 2 0
+Boggle!
+$n boggles!
+You boggle at $N! Boggle!
+$n boggles at $N! Boggle!
+$n boggles at you! Boggle!
+Boggle!
+You boggle at yourself! Boggle!
+$n boggles at $mself! Boggle!
+#
+#
+#
+#
+#
+
+~bonk bonk 0 2 2 0
+BONK!!!!
+$n tries to bonk everyone! BONK!
+BONK!!! You bonk $N on the head!
+BONK!!! $n bonks $N on the head!
+BONK!!! $n bonks you on the head!
+Bonk WHO?!
+BONK!!! You bonk yourself on the head! Silly!
+BONK!!! $n bonks $mself on the head! How silly!
+#
+#
+#
+#
+#
+
+~boo boo 0 2 2 0
+You boo loudly!  Noooo! BOOOOOO!
+$n boos loudly!  Noooo! BOOOOOO!
+You boo at $N. BOOOOO!
+$n boos at $N.
+$n boos at you! BOOOOO!
+Boo hoo, they're not here.
+You feel like a jerk and boo yourself.
+$n feels like a jerk and boos $mself.
+#
+#
+#
+#
+#
+
+~bored bored 0 2 2 0
+Yeah Yeah, if you're bored then go DO something!
+$n tells you $e is bored to tears and needs something to do!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~bounce bounce 0 3 3 0
+You bounce around in glee!
+$n bounces around in glee!
+You bounce around $M in joyful glee.
+$n grabs $N and bounces around the room with $M.
+$n grabs you and bounces around with you in joy.
+#
+#
+#
+#
+#
+#
+You bounce up and down on the $p.
+$n bounces up and down on a $p. Hehehehe.
+
+~bow bow 0 2 2 0
+You bow deeply.
+$n bows deeply.
+You bow before $M.
+$n bows before $N.
+$n bows before you.
+Who's that?
+You kiss your toes.
+$n folds up like a jacknife and kisses $s own toes.
+#
+#
+#
+#
+#
+
+~brb brb 0 2 2 0
+You let everyone know that you'll be right back!
+$n will be right back!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~burp burp 0 2 2 0
+You burp loudly.
+$n burps loudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~bye bye 0 2 2 0
+BYE! We'll miss you!
+$n tells you $e is leaving! BYE!
+BYE! You tell $N goodbye.
+BYE! $n tells $N goodbye!
+BYE! $n tells you goodbye!
+They didn't wait for you to say Goodbye!
+You tell yourself goodbye! BYE!
+$n tells $mself goodbye! :(
+#
+#
+#
+#
+#
+
+~cackle cackle 0 2 2 0
+You cackle gleefully.
+$n throws back $s head and cackles with insane glee!
+You cackle madly at $N.
+$n cackles insanely at $N.  Someone had a bad childhood...
+$n cackles insanely at you.  Look out... $n might be rabid!
+Yes.. act insane we must.. but with regards to who?
+You cackle at yourself, succumbing to your madness.
+$n cackles insanely at $mself, eyes &+Rblood &n&+rred &nand mouth in a rictus grin.
+#
+#
+#
+#
+#
+
+~calm calm 0 2 2 0
+WHO are you trying to calm down?!
+$n gets that calm, peaceful easy feeling.
+You try and calm $N down!
+$n tries to calm $N down! 
+$n tries to calm you down! Take it easy!
+WHO do you want to calm down?!
+You try and calm yourself down! Easy easy!
+$n gets that calm, peaceful easy feeling. What's $e been smoking?
+#
+#
+#
+#
+#
+
+~caress caress 0 2 2 0
+You try unsuccessfully to caress everyone in the room!
+$n tries unsuccessfully to caress everyone in the room!
+You caress $N lovingly.
+$n caresses $N lovingly.
+$n caresses you lovingly.
+WHO are you trying to caress?!
+You caress yourself.... hmm.... you are strange!
+$n tries to caress $mself.. hmm... $e is strange!
+You caress $N's $t tenderly.
+$n caresses $N's $t tenderly.  They should get a room!
+$n caresses your $t tenderly.  Maybe you two should get a room.
+#
+#
+
+~carla carla 0 8 8 0
+Quem voce gostaria de ver mechendo o rabo?
+#
+Voce segura $N pela cintura fazendo ele &Mr&mebola&Mr&n feito a &YC&yarlinh&Ya&n!
+$n segura $N pela cintura fazendo ele &Mr&mebola&Mr&n feito a &YC&yarlinh&Ya&n!
+$n te segura pela cintura fazendo voce &Mr&mebola&Mr&n feito a &YC&yarlinh&Ya&n!
+Nao to vendo ele por aqui...
+Hehehe, balango o rabo entao...
+&M$n&n rebola a bunda feito a &YC&yarl&Ya&n Peres. 
+#
+#
+#
+#
+#
+
+~celebrate celebrate 0 3 1 0
+You yell out loud celebrating for some reason!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+Yahoo!
+
+~censor censor 0 2 2 0
+BEEP! You tell everyone to stop the obsenities!
+BEEP! $n tells you to please stop all the obsenities!
+BEEP! You tell $N to please stop the obsentities!
+BEEP! $n tells $N to please stop those obsentities!
+BEEP! $n tells you to please stop all that obsenity!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~chuckle ch 0 5 0 0
+You chuckle politely.
+$n chuckles politely.
+You chuckle politely at $N.
+$n chuckles politely at $N.
+$n chuckles politely at you.
+No one here by that name.
+You chuckle politely to yourself.
+$n chuckles politely to $mself.
+#
+#
+#
+#
+#
+
+~challenge chall 0 0 0 0
+Challenge who?
+#
+&RYou &YChallenges &C$S &Yto a &rdeadly combat &Yin the &RARENA&Y.&n
+&R$n &YChallenges &C$N &Yto a &rdeadly combat &Yin the &RARENA&Y.&n
+&R$n &YChallenges &Cyou &Yto a &rdeadly combat &Yin the &RARENA&Y.&n
+#
+&RYou &YChallenges &Wyourself &Yto a &rdeadly combat &Yin the &RARENA&Y.&n
+&R$n &YChallenges &Whimself &Yto a &rdeadly combat &Yin the &RARENA&Y.&n
+#
+#
+#
+#
+#
+
+~cheek cheek 0 2 2 0
+Yes! We all agree you certainly are a cheeky one!
+$n tells you what a cheeky person $e is!
+You kiss $N lightly on the cheek! How sweet!
+$n kisses $N lightly on the cheek! How sweet!
+$n kisses you lightly on the cheek! How sweet!
+That cheek isn't present.
+#
+#
+#
+#
+#
+#
+#
+
+~cheer cheer 0 2 2 0
+You cheer wildly! YAY!!!!!
+$n cheers wildly!! YAY!!!!!
+YAY!!!!! You cheer wildly for $N.
+$n cheers wildly for $N!!
+YAY!!!! $n cheers wildly for you!!
+You can't cheer them on.
+YAY!!! You cheer wildly for yourself, since no one else has.
+$n cheers wildly for $mself, since no one else has.
+#
+#
+#
+#
+#
+
+~chill chill 0 2 2 0
+You tell everyone to chill out.
+$n hopes that everyone can chill out and realize that this is just a game!
+You tell $N to chill out.
+$n tries to get $N to chill out.
+Chill out! $n seems to think that your taking this all a bit too seriously.
+Chill out who?
+You cant chill yourself out.
+#
+#
+#
+#
+#
+#
+
+~choke choke 0 2 2 0
+You start chocking and turn red in the face!
+$n starts chocking and turns red in the face!
+You stuff a sock down $N's throat and start choking them!
+$n stuffs a sock down $N's throat and starts choking them!
+$n stuffs a dirty sock down your throat and you start to choke!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~clap clap 0 2 2 0
+You clap your strong hands together.
+$n shows $s approval by clapping $s strong hands together.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~comb comb 0 2 2 0
+You comb your hair -- perfect.
+$n combs $s hair, what a dashing specimen!
+You patiently untangle $N's hair -- what a mess!
+$n tries patiently to untangle $N's hair.
+$n pulls your hair in an attempt to comb it.
+That person is not here.
+You pull your hair, but it will not be combed.
+$n tries to comb $s tangled hair.
+#
+#
+#
+#
+#
+
+~comfort comf 0 2 2 0
+Do you feel uncomfortable?
+#
+You comfort $M.
+$n comforts $N.
+$n comforts you.
+Comfort who?
+You make a vain attempt to comfort yourself.
+#
+#
+#
+#
+You comfort $p.
+$n comforts $p.
+
+~congratulate congratulate 0 2 2 0
+Congratulations! You tell everyone what a good job they have done!
+CONGRATULATIONS! $n congratulates everyone in the room!
+CONGRATULATIONS! You congratulate $N!
+CONGRATULATIONS! $n congratulates $N!
+CONGRATULATIONS! $n congratulates you! Good Job!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~cooties cooties 0 2 2 0
+You start flinging cooties everywhere!
+$n starts flinging cooties everywhere!
+You rub cooties all over $N.  They look nauseated.
+$n rubs cooties all over $N.  They turn a sickly shade of green.
+YUCK!  $n is rubbing cooties all over you!
+I don't think you can give cooties to that.
+You attempt to give yourself cooties...not in public!
+$n attempts to give themselves cooties...perhaps they should rent a room?
+#
+#
+#
+#
+#
+
+~cough cough 0 2 2 0
+Yuck, try to cover your mouth next time!
+$n coughs loudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~creak creak 0 2 2 0
+SNNNNNAP! You creak your neck to the side.
+SNNNNNAP! $n creaks $s neck to the side.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~cringe cringe 1 2 2 0
+You cringe in terror.
+$n cringes in terror!
+You cringe away from $M.
+$n cringes away from $N in mortal terror.
+$n cringes away from you.
+I don't see anyone by that name here.. what are you afraid of?
+I beg your pardon?
+#
+#
+#
+#
+#
+#
+
+~cry cry 0 2 2 0
+Waaaaah..
+$n bursts into tears.
+You cry on $S shoulder.
+$n cries on $N's shoulder.
+$n cries on your shoulder.
+Who's that?
+You cry to yourself.
+$n sobs quietly to $mself.
+#
+#
+#
+You cry on $p's shoulder.
+$n cries on $p's shoulder.
+
+~cuddle cud 1 2 2 0
+Who do you feel like cuddling today?
+#
+You cuddle $M.
+$n cuddles $N.
+$n cuddles you.
+They aren't here.
+You must feel very cuddly indeed.. :)
+#
+#
+#
+#
+#
+#
+
+~curious curious 0 2 2 0
+Yes! You are a VERY curious person!
+$n looks at you curiously.
+You look at $N curiously.
+$n looks at $N curiously.
+$n looks at you curiously! What's $e thinking?!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~curtsey curt 0 2 2 0
+You curtsey to your audience.
+$n curtseys gracefully.
+You curtsey before $M gracefully.
+$n curtsies before $N gracefully.
+$n curtsies before you gracefully.
+No one here by that name.
+You curtsey to yourself.
+$n curtsies to $mself.
+#
+#
+#
+#
+#
+
+~dance dance 1 2 2 0
+You dance around happily.
+$n dances a little jig.
+You lead $M to the dance floor.
+$n sends $N across the dance floor.
+$n sends you across the dance floor.
+Eh, WHO?
+You dance around happily by yourself.
+$n dances around happily by $mself.
+#
+#
+#
+#
+#
+
+~daydream daydream 1 2 2 0
+You dream of better times.
+$n looks absent-minded, $s eyes staring into space.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~daze daze 0 2 2 0
+Dahhh man, whatcha been smoking dood?
+$n appears glossy eyed and just kinda stares off into space.  STONER!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~deepscar deepscar 0 8 8 0
+&nThe &csky &ngets &BD&bA&BR&bK&n, Earthquake and &YL&yi&Yg&yh&Yt&yn&Yi&yn&Yg&ys&Y! &nThe legendary &RA&rrmy &cof &BI&bmmortals&n rises &nfrom the &Gh&gorizont&n!
+&nThe &csky &ngets &BD&bA&BR&bK&n, Earthquake and &YL&yi&Yg&yh&Yt&yn&Yi&yn&Yg&ys&Y! &nThe legendary &RA&rrmy &cof &BI&bmmortals&n rises &nfrom the &Gh&gorizont&n!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~disco disco 0 2 2 0
+BOOGIE! You show everyone in the room your best Travolta impersonation!
+BOOGIE! $n shows everyone $s prize winning Travolta impersonation!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~disgust disgust 0 3 3 0
+ARGHHHH!!!! You throw your hands up in disgust.
+ARGHHHH!!!! $n throws $s hands up in disgust.
+You pick $N up and throw $M out of the room.
+$n picks $N up and throw $M out of the room.
+$n picks you up and THROWS you out of the room.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~dizzy dizzy 0 2 2 0
+Your feeling rather dizzy as you spin around and around and around...
+$n starts to spin around and around and around, making $mself rather dizzy.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~doh doh 0 2 2 0
+DOH! You can't believe you could be so stupid!
+DOH! $n can't believe $e could be so stupid!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~dream dream 0 2 2 0
+You look around the room dreamily.
+$n looks around the room dreamily.
+You stare at $N, dreaming explicit dreams about $M.
+$n stares at $N, dreaming explicit dreams about them!
+$n stares at you, dreaming explicit dreams about you!
+Dream about who?!
+You dream about yourself.. uh... yeah...
+$n wants you to know that they dream about themselves all the time.
+You look at $N's $t and dream about it.
+$n stares at $N's $t and starts to dream!
+$n stares at your $t and starts to daydream!
+#
+#
+
+~drool drool 1 2 2 0
+You start to drool.
+$n starts to drool.
+You drool all over $N.
+$n drools all over $N.
+$n drools all over you.
+Pardon??
+Sure, go ahead and drool...yuk!
+$n drools on $mself.  What a sight.
+You drool all over $S $t.
+$n drools all over $N's $t.
+$n drools all over your $t.
+#
+#
+
+~ds ds 0 8 8 0
+&nHey People! &WT&bhe &WD&bark&WS&bide &WC&blan &nis here to &RPkill &nyou.
+&nHey People! &WT&bhe &WD&bark&WS&bide &WC&blan &nis here to &RPkill &nyou.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~duck duck 0 2 2 0
+LOOK OUT! You duck and cover!
+$n LOOK OUT! $n ducks and covers!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~duh duh 0 2 2 0
+You get a stupid look on your face and say 'Duh!'
+$n gets a stupid look on his face and says 'Duh!'
+#
+#
+#
+Who? what? where?
+You cant tell yourself your stupid even more than you could without an argument!
+#
+#
+#
+#
+#
+#
+
+~embrace emb 0 2 2 0
+You reach but come away empty.  :(
+$n reaches out for an embrace, but no one is there.
+You embrace $M warmly.
+$n embraces $N warmly.  
+$n embraces you warmly.  
+Alas, your embracee is not here.  
+You embrace yourself??  
+$n wraps his arms around himself for a warm self-embrace.
+#
+#
+#
+#
+#
+
+~envy envy 0 2 2 0
+You turn green with envy.
+$n turns green with envy.
+You glare at $N enviously.
+$n glares at $N enviously.
+$n glares at you enviously.
+#
+#
+#
+You glare at $N's $t enviously.
+$n glares at $N's $t enviously.
+$n glares at your $t enviously.
+#
+#
+
+~eowyn eowyn 0 8 8 0
+&WA&wcross the &Rb&ra&Rt&rt&Rl&re&Rf&ri&Re&rl&Rd&w, you hear the &WI&wm&Wp&wo&Wn&we&Wn&wt &WS&wo&Wu&wn&Wd&w of the &YT&wrumpe&Yt &Yo&wf &YR&woha&Yn&w coming from &YT&whe &YH&welm&Y'&ws &YD&weep.&n
+&WA&wcross the &Rb&ra&Rt&rt&Rl&re&Rf&ri&Re&rl&Rd&w, you hear the &WI&wm&Wp&wo&Wn&we&Wn&wt &WS&wo&Wu&wn&Wd&w of the &YT&wrumpe&Yt &Yo&wf &YR&woha&Yn&w coming from &YT&whe &YH&welm&Y'&ws &YD&weep.&n
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~eyebrow eye 0 2 2 0
+You raise your eyebrow.
+$n raises $s eyebrow.
+You raise your eyebrow at $N.
+$n raises $s eyebrow at $N.
+$n raises $s eyebrow at you.
+#
+You go crosseyed in an attempt to eye yourself up.
+$n goes cross eyed in an attempt to eye $mself up.
+#
+#
+#
+#
+#
+
+~fart fart 0 2 2 0
+You let out a rip-roaring fart.
+$n lets out a rip-roaring fart. Gross.
+You fart at $N, sending $M flying across the room!
+$n farts at $N, sending $M flying across the room!
+$n farts at you, sending you flying across the room!
+#
+Ewwww!
+$n tries in vain to fart upon $mself.
+#
+#
+#
+#
+#
+
+~fear fear 0 2 2 0
+Showing your dread, you solemnly mutter 'Fear'.
+$n mutters, 'Fear'.  Something is very wrong here.
+You look wide-eyed at $N and mutter the single word, 'Fear'.
+$n fears $N greatly.
+$n looks at you, full of dread and terror, and intones, 'Fear'.
+Fear who?
+Fear yourself? uhhh
+#
+#
+#
+#
+#
+#
+
+~fidget fidget 0 2 2 0
+You fidget nervously.
+$n fidgets nervously.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~flame flame 0 2 2 0
+You try to impress everyone with your flaming John Travolta impersonation!
+$n tries to impress you with his John Travolta impersonation! Flames fly from $s fingertips!
+Flames fly from your fingertips and scorch $N's body!
+Flames fly from $n's fingertips and scorch $N's body! Owch!
+Flames fly from $n's fingertips and burn you! Owch! Medic!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~flash flash 0 2 2 0
+You open up and show everyone what you got.. or ain't got.
+$n opens up $s coat and shows you all they have. Or don't have.
+You open up and show them your all.
+$n opens up and shows $N everything $e has.. or doesn't have.
+$n opens up and shows you all $e's got.. or ain't got!
+It would be more interesting if they were in the same room as you.
+You drop your pants for all to see.
+$n drops $s pants.  You get out your magnifying glass to have a look.
+#
+#
+#
+#
+#
+
+~flex flex 0 2 2 0
+You flex your bulging muscles, trying to impress everyone!
+$n flexes $s bulging muscles, trying to impress you!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~flip flip 0 2 2 0
+You flip head over heels.
+$n flips head over heels.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~flirt flirt 1 2 2 0
+You flirt outrageously.
+$n flirts outragously.
+You flirt outrageously with $N.
+$n flirts outrageously with $N.
+$n seductively walks up to you and asks you if you'd like a drink.
+Sorry, your dearly beloved is not around.
+You flirt with yourself.  Must look stupid.
+$n thinks $e is the most wonderful person in the world.
+#
+#
+#
+#
+#
+
+~flutter flut 0 2 2 0
+You flutter your eyelashes demurely.
+$n flutters $s eyelashes.
+You flutter your eyelashes at $N in attempt to look cute!
+$n flutters $s eyelashes at $N in a vain attempt to look cute!
+$n flutters $s eyelashes at you! They look so cute!
+Who?
+You flutter your eyelashes at yourself.
+#
+#
+#
+#
+#
+#
+
+~fondle fon 0 2 2 0
+Who needs to be fondled?
+#
+You fondly fondle $M.
+$n fondly fondles $N.
+$n fondly fondles you.
+You fondly try to fondle someone not in the room, but who cares.
+You fondly fondle yourself, feels funny doesn't it?
+$n fondly fondles $mself -- this is going too far!!
+You fondly fondle $N's $t.
+$n fondly fondles $N's $t.
+$n fondly fondles your $t.
+#
+#
+
+~food food 0 2 2 0
+You ask if anyone can spare some food.
+$n asks you if you could spare some food.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~fool fool 0 2 2 0
+FOOLS! All FOOLS!
+#
+You stamp FOOL onto $N's forehead! Fool!
+$n stamps FOOL on $N's forehead! FOOL!
+$n stamps FOOL on your forehead! FOOL!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~french fren 0 2 2 0
+French whom??
+#
+You give $N a long and passionate kiss, it seems to take forever...
+$n kisses $N passionately.
+$n gives you a long and passionate kiss, it seems to take forever...
+Your heart is filled with despair as that person is not here.
+You gather yourself in your arms and try to kiss yourself.
+$n makes an attempt at kissing $mself.
+#
+#
+#
+#
+#
+
+~frown frown 0 2 2 0
+What's bothering you?
+$n frowns.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~fume fume 1 2 2 0
+Take it easy now!  Count to ten, very slowly.
+$n grits $s teeth and fumes with rage.
+You stare at $M, fuming.
+$n stares at $N, fuming with rage.
+$n stares at you, fuming with rage!
+Fume away.. they ain't here.
+That's right - hate yourself!
+$n clenches $s fists and stomps his feet, fuming with anger.
+#
+#
+#
+#
+#
+
+~fuzzy fuzzy 0 2 2 0
+You see fuzzy little green men wandering around the room! Does anyone else see them?
+$n asks you if you can see the same fuzzy little green men $e is seeing?
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~gag gag 0 2 2 0
+You gag in disgust.
+$n gags in disgust.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~gape gape 0 2 2 0
+You gape your mouth open wide in sheer surprise!
+$n gapes $s mouth open wide in sheer surprise!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~gasp gasp 0 2 2 0
+You gasp in astonishment.
+$n gasps in astonishment.
+You gasp at $N in astonishment.
+$n gasps in astonishment at $N.
+$n gasps at you, looking astonished.
+No one here by that name.
+You gasp to yourself, and nearly faint.
+$n gasps to $mself and faints.  THUD!
+#
+#
+#
+#
+#
+
+~gclap gclap 0 2 1 0
+You give a polite little golfclap.  Clap, clap, clap.
+$n gives a polite little golfclap. Clap, clap, clap.
+You give $N a polite little golfclap.  Clap, clap, clap.
+$n gives $N a polite little golfclap. Hmm.
+$n gives you a polite little golfclap.  Clap, clap, clap.
+Who?
+You clap politely for yourself.
+#
+#
+#
+#
+#
+#
+
+~giggle gig 0 2 2 0
+You giggle.
+$n giggles.
+You giggle at $N.
+$n giggles at $N.
+$n giggles at you.
+hehehe You moron! Who are you giggling at?!
+hehehe Are you really that funny?
+$n giggles at $mself. Uh huh... walk away slowly, veryyy slowly.
+#
+#
+#
+#
+#
+
+~glare glare 0 2 2 0
+You glare at nothing in particular.
+$n glares around $m.
+You glare icily at $M.
+$n glares at $N.
+$n glares icily at you, you feel cold to your bones.
+You try to glare at somebody who is not present.
+You glare icily at your feet, they are suddenly very cold.
+$n glares at $s feet, what is bothering $m?
+#
+#
+#
+#
+#
+
+~glow glow 0 2 2 0
+Your face lights up as you get that warm glowing feeling.
+$n's face lights up as $e gets that warm glowing feeling.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~goose goose 0 2 2 0
+Who are you trying to goose?
+#
+You tenderly goose &N.
+$n tenderly gooses $N.
+$n tenderly gooses you.
+Goose goose DUCK!
+#
+#
+#
+#
+#
+#
+#
+
+~greet greet 0 2 2 0
+Greet Who?
+#
+You greet $N with a light kiss on the cheek.
+$n greets $N with a light kiss on the cheek.
+$n greets you with a light kiss on your cheek.
+Please -- try someone who is here?
+So, you've finally discovered yourself!
+$n greets $mself.. $e always was a strange one.
+#
+#
+#
+#
+#
+
+~gremio gremio 0 8 8 0
+&wVoce grita com orgulho: &CG&BR&WE&CM&BI&WO&B!!&N &CG&BR&WE&CM&BI&WO&B!!&N &CG&BR&WE&CM&BI&WO&B!!&N
+&w$n grita com orgulho: &CG&BR&WE&CM&BI&WO&B!!&N &CG&BR&WE&CM&BI&WO&B!!&N &CG&BR&WE&CM&BI&WO&B!!&N
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~grin grin 0 2 2 0
+You grin evilly.
+$n grins wickedly.
+You flash $M a wicked grin.
+$n flashes $N a wicked grin.
+$n flashes you a wicked grin.
+Too bad, they aren't here to grin at.
+You grin to yourself.
+$n grins to $mself.  What's $e thinking?!
+#
+#
+#
+#
+#
+
+~groan groan 0 2 2 0
+You groan loudly.
+$n groans loudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~groove groove 0 2 2 0
+Funk 'n Groove Baby!
+$N gets down to the groove! Baby!
+You ask $N if they want to groove with you.
+$n asks $N if $E wants to groove.
+$N asks you if you want to groove with $m.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~grope grope 0 2 2 0
+Whom do you wish to grope??
+#
+Well, what sort of noise do you expect here?
+$n gropes $N.
+$n gropes you.
+Try someone who's here.
+You grope yourself -- YUCK.
+$n gropes $mself -- YUCK.
+You grope $N's $t.
+$n gropes $N's $t.
+$n gropes your $t.
+#
+#
+
+~grovel grovel 1 2 2 0
+You grovel in the dirt.
+$n grovels in the dirt.
+You grovel before $M
+$n grovels in the dirt before $N.
+$n grovels in the dirt before you.
+Who?
+That seems a little silly to me..
+#
+#
+#
+#
+#
+#
+
+~growl growl 0 2 2 0
+Grrrrrrrrrr...
+$n growls.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~grumble grumble 0 2 2 0
+You grumble incoherently.
+$n grumbles incoherently.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~grunt grunt 0 2 2 0
+UGGH! You grunt like a barbarian at everyone in the room!
+UGGH! $n grunts like a barbarian!
+UGGH! You grunt at $N, showing them your animalistic instincts!
+UGGH! $n grunts at $N, showing $M $s animalistic instincts!
+UGGH! $n grunts at you, showing you $s animalistic instincts!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~gulp gulp 0 2 2 0
+GULP! Oh my goodness!
+GULP! $n gulps in sheer surprise!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~halo halo 0 2 2 0
+A halo appears over your head!
+A halo appears over $n's head.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hand hand 0 2 2 0
+Kiss who's hand?
+#
+You kiss $N's hand! Aweeee! What a sweetie!
+$n kisses $N's hand! Aweeee! What a sweetie!
+$n kisses your hand! Aweeee! What a sweetie!
+That person isn't here.
+#
+#
+#
+#
+#
+#
+#
+
+~handcuff handcuff 0 5 0 31
+Nice handcuffs! Tah Dah! *click*  Oops! Where's that damn key when you need it?!
+$n shows off her nice new handcuffs to you! Whooo Weee!
+You handcuff $N, pull down $S pants and start spanking $S big fat ass! Hard!
+$n handcuffs $N, pulls down $S pants and starts spanking $M! Hard even!
+$n handcuffs you, whips your pants off, and starts spanking your ass! OWCH!!
+#
+#
+$n handcuffs $mself to a chair! Eeek!
+#
+#
+#
+#
+#
+
+~happy happy 0 2 2 0
+Yes! What a beautiful day! Happy Happy Happy!
+$n has this happy glow about $m!
+You tell $N how happy you are!
+$n tells $N how happy $e is.
+$n tells you how happy $e is!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hi5 hi5 0 2 2 0
+You hi five everyone in the room.
+$n hi fives everyone in the room.
+You hi-five $N.
+$n hi-fives $N.
+$n hi-fives you!
+#
+You hi5 yourself! Yeah!
+$n hi5's $mself! Yeaaah!
+#
+#
+#
+#
+#
+
+~hiccup hiccup 0 2 2 0
+*HIC*
+$n hiccups.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hickey hickey 0 2 2 0
+You have to supply a name, bud.
+$n politely asks if you would like a rather large hickey?
+You give $N a rather large hickey on $S neck!
+$n gives $N a rather LARGE hickey on $S neck!
+$n gives you a rather LARGE hickey on your neck!
+Your victim has fled.
+You are sick, very sick.
+$n tries to give $mself a hickey... umm.. heh.
+You give $N a large hickey on $M $t.
+$n gives $N a large hickey on $M $t.
+$n gives you a large hickey on your $t.
+#
+#
+
+~hiss hiss 0 2 2 0
+HISSSSSSS!!! You extend your claws!
+HISSSSSSS!!! $n extends $s claws!
+HISSSSSSS!!! You hiss at $N, extending your claws.
+HISSSSSSS!!! $n hisses at $N, extending $s claws.
+HISSSSSSS!!! $n hisses at you, extending $s claws.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~holdon holdon 0 2 2 0
+HOLDON! You tell everyone to hold their horses!
+HOLDON! $n tells everyone to hold their horses!
+HOLDON! You tell $n to hold $S horses!
+HOLDON! $n tells $N to hold $S horses!
+HOLDON! $n tells you to hold your horses!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hop hop 0 2 2 0
+You hop around on one foot.
+$n hops around on one foot.
+You hop circles around $N.
+$n hops circles around $N.
+$n hops circles around you!
+Hop, hop.  They're not here.
+You hop around in circles.
+$n hops around in circles.  How silly!
+#
+#
+#
+#
+#
+
+~horns horns 0 2 2 0
+Tiny horns sprout out of your head and you grow a long red tail.
+Tiny horns sprout out of $n's head, and $e grows a long, red tail.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~howl howl 0 2 2 0
+You throw your head back and howl to the moon.
+$n howls to the moon.
+You howl at $N.
+$n howls at $N.
+$n howls at you.
+They aren't here.
+Howling at yourself does you no good sept put wounds on your mouth.
+#
+#
+#
+#
+#
+#
+
+~hrm hrm 0 3 3 0
+You hrm loudly.
+$n hrm's loudly, what's he thinking?
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hug hug 0 0 0 0
+Hug who?
+#
+You hug $M.
+$n hugs $N.
+$n hugs you.
+Sorry, friend, I can't see that person here.
+You hug yourself.
+$n hugs $mself.
+#
+#
+#
+You hug $p.
+$n hugs $p.
+
+~hum hum 0 2 2 0
+You hum a short little melody from long ago.
+$n hums a short little melody from long ago.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~hungry hungry 0 2 2 0
+You tell everyone that you are hungry!
+$n tells you that they are hungry!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~imitate imitate 0 2 2 0
+You show everyone in the room your Jimmie Hendrix imitation! Please STOP!
+$n shows you $s Jimmie Hendrix imitation! Stop $m before someone gets hurt!
+You try and imitate $N! Good Luck!
+$n tries to imitate $N...is $e doing a good job?
+$N tries to imitate you! Wish $M luck!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~impale impale 0 2 2 0
+You stab a long spike deep into.. thin air.
+#
+You impale $N with a long, jagged spike!
+$n impales $N with a long, jagged spike!
+$n impales you with a long, jagged spike!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~innocent innocent 0 2 2 0
+Yeah right!
+$n tries to convince you of their innocence.  Yah right!
+You attempt to convince $N that you are innocent.
+$n tries to convince $N that $e is innocent!
+$n attempts to convince you of $m innocence!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~itch itch 0 0 0 0
+Itch Itch Itch
+#
+#
+#
+#
+#
+You reach down and itch your crotch.  Gross!
+$n itches $r crotch. Itchy Itchy.
+You itch $N's $t.  Ewww ahh yeah baby!
+$n scratches $N's $t. Eww ahhh yeah baby!
+$n scratches your $t. Eww ahhh yeah, feels GOOD!
+#
+#
+
+~jab jab 0 2 2 0
+You jab at the air aimlessly.
+$n jabs at the air aimlessly.
+You jab at $N! What did they do?
+$n jabs at $N! What did they do?
+$n jabs at you! What did you do?!
+#
+#
+#
+You jab at $N's $t!
+$n jabs at $N's $t!
+$n jabs at your $t!
+#
+#
+
+~jealous jealous 0 3 3 0
+You turn &+Ggreen&n with envy.
+$n turns &+Ggreen &nwith envy.
+You tell $N how jealous you are.
+$n glares jealously at $N!
+$n glares jealously at you!
+#
+#
+#
+You glare enviously at $N's $p!
+$n glares enviously at $N's $p!
+$n glares enviously at your $p!
+#
+#
+
+~jk jk 0 2 2 0
+JOKING!! You tell everyone in the room you were just kidding!
+Calm down! $n tells you $e was just kidding!!!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~jubilex jubil 0 4 2 0
+&WYour &rblood &Wboils, you &rburn &Winside. &CRUN AWAY&W! The &rDemons &Ware &RUnleashed!&n
+&WYour &rblood &Wboils, you &rburn &Winside. &CRUN AWAY&W! The &rDemons &Ware &RUnleashed!&n
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~jump jump 0 2 2 0
+You jump up and down.
+$n jumps up and down.
+You jump on $N.
+$n jumps on $N.
+$n jumps on you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~kiss ki 0 2 2 0
+Isn't there someone you want to kiss?
+#
+You give $M a gentle kiss on the lips.
+$n kisses $N.
+$n gives you a gentle kiss on the lips.
+Never around when required.
+All the lonely people :(
+#
+You kiss $M on $S $t.
+$n kisses $N on $S $t.
+$n kisses you on your $t.
+You kiss $p.
+$n kisses $p.
+
+~kingdom kingdom 0 8 8 0
+&MP&murple &BD&bragons &YA&yrmies&n arrived, &GO&gutlaws &CB&cetter &RW&ratch &BO&but!
+&MP&murple &BD&bragons &YA&yrmies&n arrived, &GO&gutlaws &CB&cetter &RW&ratch &BO&but!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~lag lag 0 2 2 0
+ACK! Lag Monster hits again!
+LAG! $n tells you the lag monster has got $m! EeeK!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~laugh laugh 0 2 2 0
+You laugh out loud.
+$n laughs out loud.
+You laugh at $M.
+$n laughs at $N.
+$n laughs at you.
+Laugh at who?
+You laugh at yourself.
+$n laughs at $mself.
+#
+#
+#
+#
+#
+
+~leite leite 0 1 1 0
+&YQuem voce quer mandar ir tomar &WLEITE&Y??
+#
+&BVoce &Ymanda aquela caneca de &WLEITE&Y para &R$N &Ye grita: "Nao aguenta?? Toma &WLEITE&Y!!&n
+&B$n &Ymanda aquela caneca de &WLEITE &Ypara &R$N &Ye grita: "Nao aguenta?? Toma &WLEITE&Y!!&n
+&B$n &Ymanda aquela caneca de &WLEITE &Ypara &Rvoce &Ye grita: "Nao aguenta?? Toma &WLEITE&Y!!&n
+&YQuem??? Nao sabe hein... toma &WLEITE&Y!!&n
+&BVoce &Ypercebe que nao aguenta mesmo, e manda aquela caneca de &WLEITE&Y pra dentro!!&n
+&R$n &Ypercebe que nao aguenta mesmo, e manda aquela caneca de &WLEITE&Y pra dentro!!
+#
+#
+#
+#
+#
+
+~lick lick 0 1 1 0
+You lick your lips.
+$n licks $s lips in anticipation.
+You lick $M. Yummie!
+$n licks $N.
+$n licks you.
+No one here by that name to lick.
+You lick yourself. Yuck!
+$n licks $mself. Ewwww!
+You lick $N on $S $t!
+$n licks $N on $S $t!
+$n licks your $t!
+#
+#
+
+~lost lost 0 2 2 0
+You tell everyone how utterly hopelessly lost you are.
+$n tells you how utterly, hopelessly lost $e is.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~love love 0 2 2 0
+You love the whole world.
+$n loves everybody in the world.
+You tell your true feelings to $N.
+$n whispers softly to $N.
+$n whispers to you sweet words of &Rlove&n.
+Alas, your love is not present...
+Well, we already know you love yourself (lucky someone does!)
+$n whispers to $mself sweet words of &Rlove&n. Big Ego or WHAT?!
+#
+#
+#
+#
+#
+
+~lucky lucky 0 2 2 0
+You tell everyone how you got lucky last night.
+$n tells you that $e got lucky last night.  Too much info!
+You ask $N if they want to get lucky.
+$n asks $N if they want to get lucky.
+$n asks you if you want to get lucky.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~lust lust 0 2 2 0
+You lust after who?
+$n tells you that $s lusts after you.
+You tell $N how lusty you find them.
+$n tells $N how hot and lusty they are!
+$n tells you how hot you are! $e wants your body!
+#
+#
+$n tells $mself how much $e lusts after $mself! Uhhh.. ok!
+#
+#
+#
+#
+#
+
+~massage massage 0 2 2 0
+Massage what, thin air?
+#
+You gently massage $N's shoulders.
+$n massages $N's shoulders.
+$n gently massages your shoulders...ahhhhhhhhhh...
+You can only massage someone in the same room as you.
+You practise yoga as you try to massage yourself.
+$n gives a show on yoga-positions, trying to massage $mself.
+You gently massage $S $t.
+$n gently massages $N's $t.
+$n gently massages your $t....
+#
+#
+
+~melt melt 0 2 2 0
+You melt into a puddle of emotional mush.
+$n melts into a puddle of emotional mush.
+You melt into $N's arms.
+$n melts into $N's arms.
+$n melts into your arms.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~might might 0 8 8 210
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~moan moan 0 2 2 0
+You start to moan.
+$n starts moaning.
+You moan with pleasure at $M.
+$n moans at $N.  Get a room!
+$n moans with pleasure at you!
+Moan away, they don't care.
+You start moaning to yourself.  Get a room!
+$n starts moaning at $mself.  Whatever.
+#
+#
+#
+#
+#
+
+~moon moon 0 2 2 0
+You moon everyone in the room! Put that thing away!
+$n moons everyone in the room! Tell $m to put that thing away!
+You moon $N! What did they do to deserve this?!
+$n moons $N! What did $E do to deserve this?!
+$n moons you! What did you do to deserve this?!
+#
+You try and moon youself?! You'd have to be a contortionist!!
+$n must think $e's a contortionist! Trying to moon $mself!
+#
+#
+#
+#
+#
+
+~mosh mosh 0 2 2 0
+You mosh around the room like a mad man!
+$n moshes around the room like a mad man!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~mourn mourn 0 2 2 0
+You mourn the loss of the dead!
+$n mourns the loss of the dead!
+You mourn the death of $N! Sniff!
+$n mourns the death of $N! Sniff!
+$n mourns the death of you! Sniff!
+Uhh....who died?
+#
+#
+#
+#
+#
+#
+#
+
+~mutter mut 0 2 2 0
+You mutter something incomprehensible.
+$n mutters something incomprehensible.
+You mutter something about $N under your breath.
+$n mutters something incomprehensible about $N under $s breath.
+$n mutters something incomprehensible under $s breath about you.
+#
+You mutter something about yourself under your breath.
+$n mutters something about $mself under $s breath.
+#
+#
+#
+#
+#
+
+~naughty naughty 0 2 2 0
+Ohh feeling a little frisky are we?
+$n grows tiny horns and begins to act naughty.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~nibble nibble 0 2 2 0
+Nibble on who?
+#
+You nibble on $N's ear.
+$n nibbles on $N's ear.
+$n nibbles on your ear.
+Sorry, not here, better go back to dreaming about it.
+You nibble on your OWN ear???????????????????
+$n nibbles on $s OWN ear (I wonder how it is done!!).
+You nibble lightly on $S $t.
+$n nibbles lightly on $N's $t.
+$n nibbles lightly on your $t.
+#
+#
+
+~nirvana nirvana 0 2 2 0
+You start to sing, a mulato, an albino, a mosquitto, my libido, YEAH!
+$n starts to sing a mulato, an albino, a mosquitto, my libido, YEAH!
+You tell $S that Nirvana is the best band of the world.
+$n scream in $N's ears: NIRVANA IS THE BEST BAND OF THE WORLD!
+$n tells you that Nirvana is the best band of the world, who don't knew that?!
+Nobody here to know that Curtney Love has killed Kurt Cobain, what a bitch!
+You think with yourself that nirvana is the best!
+$n starts to scream like a crazy: NIRVANA IS THE BEST BAND OF THE WORLD!
+#
+#
+#
+#
+#
+
+~nod nod 1 2 2 0
+You nod.
+$n nods.
+You nod at $N.
+$n nods at $N.
+$n nods at you.
+Put down the beer.
+Yeah, I'm fine...Just fine.
+$n nods at themselves showing they agree with themselves.
+#
+#
+#
+#
+#
+
+~nog nog 0 2 2 0
+You nog.
+$n nogs.
+You nog at $N.
+$n nogs at $N.
+$n nogs at you.
+Nog at who?
+You nog at yourself.
+$n nogs at $mself.
+#
+#
+#
+#
+#
+
+~noogie noogie 0 2 2 0
+NOOOOGIE!! You give everyone in the room a furious noogie!
+&+WNOOOGIE!! &n $n gives everyone in the room a furious noogie!
+#
+#
+#
+Who do you want to noogie?
+You put yourself in a headlock and give yourself a furious noogie.
+#
+#
+#
+#
+#
+#
+
+~nose nose 0 2 2 0
+You pick your nose and show everyone your find! Mmmmm!
+$n picks $s nose and eats it! MMMMMM!
+You pick $N's nose for $M! You are weird!
+$n picks $N's nose for $M. That's sick!
+$n picks your nose for you. That's sick!
+I don't see a nose here close enough to pick!
+#
+#
+#
+#
+#
+#
+#
+
+~nudge nudge 0 2 2 0
+Nudge?  Nudge???  The HELL you say!!!!
+#
+You nudge $M with your elbow.
+$n nudges $N suggestively with $s elbow.
+$n nudges you suggestively.  You two have an understanding.
+Eh?  That person isn't here, you know.
+Well, just nudge yourself, but how do you get your elbow in that position?
+$n nudges $mself with $s elbows, making $m look like a large chicken.
+#
+#
+#
+#
+#
+
+~nuzzle nuz 1 2 2 0
+Nuzzle who??
+#
+You nuzzle $S neck softly.
+$n softly nuzzles $N's neck.
+$n softly nuzzles your neck.
+No.. they aren't here..
+I'm sorry, friend, but that's impossible.
+#
+#
+#
+#
+#
+#
+
+~ogle ogle 0 2 2 0
+Ogle WHO?!
+$n ogles at everyone in the room! ACK!
+You ogle $N with your googley eyes! You ogler you!
+$n ogles at $N with $s googley eyes! $e must be sexually deprived!
+$n ogles at you with $s googley eyes! ACK!
+Ogle WHO?!
+You ogle yourself...... are you sexually deprived?
+$n ogles $mself.... they must be sexually deprived!
+You ogle $N's $t and sulk.
+$n ogle's $N's $t and sulks.
+$n ogles your $t and sulks.
+#
+#
+
+~panic panic 0 2 2 0
+AYYEEEEEEEEEEE! You run around the room, waving your hands in the air!
+AYYEEEEEEEEEEE! $n runs around the room, waving $s hands in the air!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~pant pant 0 2 2 0
+You hang your tounge out and pant like a dog.
+$n hangs $s tongue out and pants like a dog.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~pat pat 0 2 2 0
+Pat who??
+#
+You pat $N on $S head.
+$n pats $N on $S head.
+$n pats you on your head.
+Who, where, what??
+You pat yourself on your head, very reassuring.
+$n pats $mself on the head.
+You pat $M on $S $t.
+$n pats $N on $S $t.
+$n pats you on your $t.
+#
+#
+
+~pedala pedala 0 4 4 0
+&YEm quem voce deseja dar um &Bpedala?
+#
+&RVoce&Y da um tapao na nuca de &R$N&Y e grita: &BPedalada Robinho!!!
+&R$n&Y da um tapao na nuca de &R$N&Y e grita: &BPedalada Robinho!!!
+&R$n&Y da um tapao na &Rsua&Y nuca e grita: &BPedalada Robinho!!!
+&YEm quem? Nao sabe? Entao &BPedaaaala!
+&RVoce&Y eh estupido? Eh impossivel fazer isso...
+&R$n&Y eh tao estupido que tenta se dar um pedala...
+#
+#
+#
+#
+#
+
+~peer peer 1 2 2 0
+You peer around you, uncertain that what you see is actually true.
+$n peers around, looking as if $e has trouble seeing everything clearly.
+You peer intently at $N.
+$n peers intently at $N, what is $e looking for?
+$n peers intently at you, what is $e looking for?
+Sorry buddy, no one here like that.
+You peer at yourself, no small feat.
+$n peers at $mself .. no small feat.
+You peer intently at $S $t.
+$n peers intently at $N's $t.
+$n peers intently at your $t.
+#
+#
+
+~pet pet 0 2 2 0
+Pet WHO?!
+#
+You pet $N lovingly.
+$n pets $N lovingly.
+$n pets you lovingly.
+Pet WHO?!
+You pet yourself lovingly on the head.
+$n pets $mself lovingly on the head! Nice kitty!
+You pet $N lovingly on the $t.
+$n pets $N lovingly on the $t.
+$n pets you lovingly on the $t.
+#
+#
+
+~pinch pinch 0 2 2 0
+Pinch everyone?!
+$n tries to pinch your cheek and you don't even feel it! Weakling!
+You pinch $N on the cheek, leaving a bright red mark!
+$n pinches $N on the cheek, leaving a bright red mark!
+$n pinches you on the cheek, leaving a bright red mark!
+Uhhh... who?!
+You pinch yourself! Owch!
+$n pinches $mself on cheek! Strange!
+You pinch $N's $t! Owch!
+$n pinches $N's $t! Owch!
+$n pinches your $t! Owch!
+#
+#
+
+~piss piss 0 3 0 0
+Uhhh You sure you want to do that?
+$n just tried to piss on your foot.
+Ugh! You piss on $N.
+Ugh! $n just pissed on $N!
+Ugh! $n just pissed on you!
+Piss off!
+You piss all down your leg.
+$n just pissed down $m own leg.
+#
+#
+#
+#
+#
+
+~pkiller pkiller 0 8 8 0
+The Terror has beggun. PKILLIZE NOW MAN!
+The Terror has beggun. PKILLIZE NOW MAN!
+#
+#
+#
+The Terror has beggun. PKILLIZE NOW MAN!
+The Terror has beggun. PKILLIZE NOW MAN!
+The Terror has beggun. PKILLIZE NOW MAN!
+#
+#
+#
+#
+#
+
+~pkiller pkiller 0 8 8 0
+It's Show Time, &RPKILL &BROX!
+It's Show Time, &RPKILL &BROX!
+#
+#
+#
+It's Show Time, &RPKILL &BROX!
+It's Show Time, &RPKILL &BROX!
+It's Show Time, &RPKILL &BROX!
+#
+#
+#
+#
+#
+
+~plonk plonk 0 2 2 0
+PLONK! You plonk yourself down on the ground.
+PLONK! $n plonks $mself down on the  ground.
+PLONK! You plonk yourself down on $N.
+PLONK! $n plonks $mself down on $N. I think they would like to be alone.
+PLONK! $n plonks $mself down on you.  Would you two like to be alone?
+#
+#
+#
+#
+#
+#
+#
+#
+
+~point point 1 2 2 0
+Who do you want to point at?
+$n points in all directions, seemingly confused.
+You point at $M.
+$n points at $N.
+$n points at you.
+You must have a VERY long index-finger...
+You point at yourself.  Insinuating something?
+$n points at $mself, suggesting that the center of matters is $e.
+You point at $S $t.
+$n points at $N's $t.
+$n points at your $t.
+You point at $p.
+$n points at $p.
+
+~poke poke 0 2 2 0
+Poke who??
+#
+You poke $M in the ribs.
+$n pokes $N in the ribs.
+$n pokes you in the ribs.
+You can't poke someone who's not here!
+You poke yourself in the ribs, feeling very silly.
+$n pokes $mself in the ribs, looking very sheepish.
+You poke $M in $S $t.
+$n pokes $N in $S $t.
+$n pokes you in your $t.
+#
+#
+
+~ponder ponder 1 2 2 0
+You ponder over matters as they appear to you at this moment.
+$n sinks deeply into $s own thoughts.
+You ponder over $N.
+$n ponders the actions of $N.
+$n appears to be pondering you. Hmmm....
+You ponder that person (who's not here)
+You ponder why your pondering yourself.
+$n gets a strange look in $s eyes.
+#
+#
+#
+#
+#
+
+~pounce pounce 0 0 0 0
+POUNCE! You pounce around on the ground like a playful kitten!
+POUNCE! $n pounces around on the ground like a playful kitten!
+You pounce on $N pinning $M to the ground!
+$n pounces on $N, pinning $M to the ground!
+$n pounces on you, pinning you to the ground!
+Pounce on who?
+#
+#
+#
+#
+#
+#
+#
+
+~pout pout 0 2 2 0
+Ah, don't take it so hard.
+$n pouts.
+You look up at $N with big sad eyes, and pout!
+$n looks up at $N with big sad eyes, and pouts!
+$n looks up at you with big sad eyes, and pouts!
+#
+You pout at yourself, looking SO pitiful!
+$n pouts at $mself, doesn't $e look pitiful!?
+#
+#
+#
+#
+#
+
+~promise promise 0 2 2 0
+Promises Promises! Do you ever keep them?!
+$n promises you the world!
+You promise $N! Will you keep your promise?
+$n promises $N.  Will $e keep $s promise?
+$n promises you! Do you think they'll keep their promise?
+#
+#
+#
+#
+#
+#
+#
+#
+
+~protect protect 0 2 2 0
+#
+#
+You stand in front of $N protectively.
+$n stands protectively in front of $N.
+$n stands protectively in front of you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~proud proud 0 2 2 0
+BOAST! A little proud of ourselves are we?!
+$n tells you how proud $e is!
+You tell $N how very very proud you are of $M.
+$n tells $N how very proud $e is of $M.
+$n tells you how very proud $e is of you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~pucker pucker 0 2 2 0
+Who would you like to pucker with?!
+$n puckers up, expecting a kiss from you!
+You pucker your lips at $N, expecting a kiss!
+$n puckers up to $N, expecting a kiss!
+$n puckers their lips at you, expecting you to kiss them!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~puke puke 0 2 2 0
+YUCK! You upchuck your cookies all over the floor!
+YUCK! $n upchucks $s cookies all over the floor!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~pull pull 0 2 2 0
+You look for something to pull.
+$n looks for something to pull.
+You try and pull $N towards you.
+$n tries and pull $N's towards $s.
+$n tries to pull you closer to $s.
+#
+#
+#
+You pull on $N's $t.
+$n pulls on $N's $t.
+$n pulls on your $t.
+#
+#
+
+~purr purr 0 2 2 0
+Puuuurrrrrrrrrrrrrr.............
+$n purrs contentedly.
+You purr at $M with desire.
+$n purrs with desire at $N.
+$n purrs at you with desire.
+Nothing to purr about.
+You purr to yourself contently.
+$n purrs intently to $mself.
+#
+#
+#
+#
+#
+
+~quack quz 0 2 2 0
+QUACK! QUACK! QUACK!
+QUACK! QUACK! QUACK! $n shows you $s duck impersonation.
+QUACK! You are quacky.
+&YQUACK!&n $n shows you how quacky $s is.
+&YQUACK!&n $n shows you how quacky $s is.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~racingheart racingheart 0 3 3 0
+Your heart beats faster as the anxiety grows.
+$n's heart beats faster as the anxiety grows.
+Your heart beats faster as you stare at $N...
+$n looks somewhat anxious as $E stares at $N...
+$n's heart starts beating faster as $E stares at you...
+#
+#
+#
+#
+#
+#
+#
+#
+
+~raise raise 0 2 2 0
+You raise your hand.
+$n raises $s hand.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~rattle rattle 0 3 3 0
+You shake your hips violently from side to side.
+Duh!?
+You shake your hips side to side, trying to impress $N with your skill!
+$n looks wierd shaking $s hips side to side!
+You tremble with lust as $n shakes $s hips side to side.
+Duh! You can't rattle them, they aren't here!
+You shake your hips side to side.. Just like Elvis!
+$n shakes $s hips side violently.. Just like Elvis! (only worse)
+#
+#
+#
+#
+#
+
+~ready ready 0 3 3 0
+You let everyone know you're ready to go!
+$n is ready to go!
+You let $N know you're ready for action!
+$n lets $N know $e's ready for action!
+$n wants you to know $e's ready for action!
+That person doesn't care if you're ready or not.
+You ready yourself.
+$n readies $mself.
+#
+#
+#
+#
+#
+
+~relax relax 0 2 2 0
+You kick back on the couch for some serious relaxation!
+$n kicks back on the couch and gets down to some serious relaxation!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~roar roar 0 2 2 0
+ROAR!!! You roar loudly.
+$n roars loudly, ROOOOAAARRR!!!
+You roar loudly at $N.
+ROAR! $n roars loudly at $N.
+ROARRRRR!!! $n roars loudly at you!
+They must have snuck off while you were posturing.
+#
+#
+#
+#
+#
+#
+#
+
+~rofl rofl 0 2 2 0
+You roll on the floor laughing.
+$n rolls on the floor laughing.
+You roll around the floor laughing at $N.
+$n rolls around the floor laughing at $N.
+$n rolls on the floor laughing at you.
+#
+You roll around laughing at yourself.
+$n rolls on the floor laughing, tears streaming down $s cheeks...
+#
+#
+#
+#
+#
+
+~roll roll 1 2 2 0
+You roll your eyes in disgust.
+$n rolls $s eyes in disgust.
+You look at $M and roll your eyes in disgust.
+$n looks at $N in contempt and rolls $s eyes with disgust.
+$n stares at you and rolls $s eyes in digust.
+Um... who?
+You roll your eyes, disgusted with your own incompetence.
+$n rolls $s eyes, disgusted with $mself.
+#
+#
+#
+#
+#
+
+~rose rose 1 2 2 0
+&wYou gives a &M@&G>&g--&G`&g--&G,&g--&w to yourself.&n
+&w$n gives a &M@&G>&g--&G`&g--&G,&g--&w to $s.&n
+&wYou sends a &M@&G>&g--&G`&g--&G,&g--&w to $S.&n
+&w$n sends a &M@&G>&g--&G`&g--&G,&g--&w to $N.&n
+&w$n sends a &M@&G>&g--&G`&g--&G,&g--&w to you.&n
+Sorry good buddy, but that person doesn't seem to be here.
+&wYou sends a &M@&G>&g--&G`&g--&G,&g--&w to yourself.&n
+&w$n sends a &M@&G>&g--&G`&g--&G,&g--&w to himself.&n
+#
+#
+#
+#
+#
+
+~rub rub 0 0 0 4
+RUB RUB RUB.. rub a dub dub, who do you wish to rub?
+$n rubs $s hands around, trying to find someone, someone tooooo rub!
+You rub $N's back, trying to make them feel better.
+$n rubs $N's back, trying to make them feel better.
+$n rubs your back, trying to make you feel better.
+#
+#
+#
+You rub $N's $t! Should you be touching them there?
+$n rubs $N's $t. Should they be touching them there?
+$n rubs your $t.  Should they be touching you there?
+#
+#
+
+~ruffle ruffle 0 2 2 0
+You've got to ruffle SOMEONE.
+#
+You ruffle $N's hair playfully.
+$n ruffles $N's hair playfully.
+$n ruffles your hair playfully.
+Might be a bit difficult.
+You ruffle your hair, wondering how far you can go before the rest think you're crazy.
+$n ruffles $s hair -- weirdo!
+#
+#
+#
+#
+#
+
+~samba samba 0 4 4 0
+Em quem voce deseja dar um samba?
+#
+Voce da um tapao na nuca de $N e grita: Samba Teves!!!
+$n da um tapao na nuca de $N e grita: Samba Teves!!!
+$n da um tapao na sua nuca e grita: Samba Teves!!!
+Em quem? Nao sabe? Entao Saambaaa!
+Voce eh estupido? Eh impossivel fazer isso...
+$n eh tao estupido que tenta se dar um pedala...
+#
+#
+#
+#
+#
+
+~scare scare 0 2 2 0
+BOO!! You scare everyone in the room!
+BOO!! $n scares everyone in the room!
+BOO!! You scare $N, making $S hair stand on end!
+BOO!! $n scares $N, making $S hair stand on end!
+BOO!! $n scares you, making your hair stand on end!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~scold scold 0 2 2 0
+SHAME! You scold everyone!
+SHAME! $n scolds everyone!
+SHAME! You scold $N!
+SHAME! $n scolds $N!
+SHAME! $n scolds you!
+#
+SHAME! You scold yourself.
+SHAME! $n scolds $mself.
+#
+#
+#
+#
+#
+
+~scratch scratch 1 2 2 0
+You scratch your head in thought...
+$n scratches $s head in thought.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~scream scream 0 2 2 0
+ARRRRRRRRRRGH!!!!!
+$n screams loudly!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~seduce seduce 0 2 2 0
+Seduce WHOM?!
+#
+You try everything in your power to seduce $N! You devil you!
+$n whispers sweet words of love in $N's ear in an attempt to seduce $M!
+$n whispers sweet words of love in your ear in an attempt to seduce you!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~shake shake 0 2 2 0
+You shake your head.
+$n shakes $s head.
+You shake $S hand.
+$n shakes $N's hand.
+$n shakes your hand.
+Sorry good buddy, but that person doesn't seem to be here.
+You are shaken by yourself.
+$n shakes and quivers like a bowlful of jelly.
+#
+#
+#
+#
+#
+
+~shiver shiver 0 2 2 0
+Brrrrrrrrr.
+$n shivers uncomfortably.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~shrug shrug 0 2 2 0
+You shrug.
+$n shrugs helplessly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~shudder shud 0 2 2 0
+You shudder.
+$n shudders.
+You shudder at the very thought of $N.
+$n shudders at the very thought of $N.
+$n shudders at the very thought of you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~shush shush 0 5 1 0
+SHUSH! You tell everyone in the room to be quiet!
+SHUSH! $n tells everyone in the room to be quiet!
+SHUSH! You tell $N to be quiet!
+SHUSH! $n tells $N to be quiet!
+SHUSH! $n tells you to be quiet!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~sigh sigh 0 2 2 0
+You sigh.
+$n sighs loudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~sing sing 0 2 2 0
+You raise your clear (?) voice towards the sky.
+SEEK SHELTER AT ONCE!  $n has begun to sing.
+You serenade $N with a lovely love song.
+$n serenades $N with a lovely love song.
+$n serenades you with a lovely love song.
+Your voice must have scared them off!
+Bet you talk to yourself as well, don't you?!
+$n serenades $mself with a love song. Uhhhh... help $m!
+#
+#
+#
+#
+#
+
+~sith sith 0 8 8 0
+&RATTENTION!&n &WSilence... I guess the &RS&wi&Rt&wh&n &Wis arriving... &rNO&W, &rNOOOOO... &RAAAAHHHHHHHH!!&n
+&RATTENTION!&n &WSilence... I guess the &RS&wi&Rt&wh&n &Wis arriving... &rNO&W, &rNOOOOO... &RAAAAHHHHHHHH!!&n
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~skip skip 0 2 2 0
+You skip around the room merrily!
+$n skips around the room like a little kid!
+You skip around $N in circles, driving $M nuts!
+$n skips circles around $N, driving $M nuts!
+$n skips circles around you, driving you nuts!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~slap slap 0 2 2 0
+Normally you slap SOMEBODY.
+#
+You slap $N.
+$n slaps $N.
+You are slapped by $n.
+How about slapping someone in the same room as you??
+You slap yourself, silly you.
+$n slaps $mself, really strange...
+SLAP! You slap $N's $t! Owch!
+SLAP! $n slaps $N on the $t! Owch!
+SLAP! $n slaps you on your $t! Owch!
+#
+#
+
+~slobber slobber 0 2 2 0
+A puddle forms at your feet as you slobber.
+$n slobbers, and a puddle slowly forms at $s feet.
+You slobber all over $N, drenching $M in saliva.
+$n slobbers all over $N, drenching $M in saliva.
+$n slobbers all over you, drenching you with $s saliva.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~smell smell 0 2 2 0
+Ahhhhhh! You smell the clean fresh air.
+Ahhhhhh! $n takes a big wiff of the clean fresh air.
+You sniff $N and nearly pass out from the odour.
+$n sniffs $N and nearly passes out from the odour.
+$n sniffs you and nearly passes out!
+#
+You bend over and give youself a good whiff! Ugh!
+$n bends over and gives $mself a good whiff! Ugh!
+You sniff $N's $t and nearly pass out.
+$n sniffs $N's $t and nearly passes out!
+$n sniffs your $t and nearly passes out!
+#
+#
+
+~smile smil 1 2 2 0
+You smile happily.
+$n smiles happily.
+You smile at $M.
+$n beams a smile at $N.
+$n smiles at you.
+There's no one by that name around.
+You smile at yourself.
+$n smiles at $mself.
+#
+#
+#
+#
+#
+
+~smirk smirk 0 2 2 0
+You smirk.
+$n smirks.
+You smirk at $M.
+$n smirks at $N.
+$n smirks at you.
+Try it again when their here.
+#
+#
+#
+#
+#
+#
+#
+
+~smoke smoke 0 2 2 0
+You light up a cancer stick and start puffing.
+$n lights up $s cancer stick and starts sucking on it.
+You blow some smoke in $N's face.
+$n rudely blows some smoke in $N's face.
+$n blows smoke in your face! Hack Ugh Cough!
+#
+#
+#
+#
+#
+#
+You light up $p and start smoking it.
+$n lights up $p and starts smoking it.
+
+~smooch smooch 0 3 3 0
+**MwaH!**
+#
+You grasp $N tightly and smooch with $M!
+$n grasps $N tightly and starts smooching with $M!
+$n grasps you and starts smooching with you!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~snap snap 0 2 2 0
+PRONTO!  You snap your fingers.
+$n snaps $s fingers.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~snarl snarl 0 2 2 0
+You snarl like a viscious animal.
+$n snarls like a cornered, viscious animal.
+You snarl at $M angrily.  Control yourself!
+$n snarls angrily at $N.  $e seems incapable of controlling $mself.
+$n snarls viciously at you.  $s self-control seems to have gone bananas.
+Eh?  Who?  Not here, my friend.
+You snarl at yourself, obviously suffering from schizophrenia.
+$n snarls at $mself, and suddenly looks very frightened.
+#
+#
+#
+#
+#
+
+~sneer snee 0 3 3 0
+You sneer in contempt of all.
+$n sneers in contempt of all in the room.
+You sneer at $N.
+$n sneers at $N.
+$n sneers at you.
+No one to sneer at.
+You sneer in contempt of yourself.
+$n sneers in contempt of $mself.
+#
+#
+#
+#
+#
+
+~sneeze sneeze 0 2 2 0
+Gesundheit!
+$n sneezes.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~snicker snick 0 2 2 0
+You snicker softly.
+$n snickers softly.
+You snicker at $N.
+$n snickers at $N.
+$n snickers at you.
+No one here by that name.
+You snicker at your own evil thoughts.
+$n snickers at $s own evil thoughts.
+#
+#
+#
+#
+#
+
+~sniff snif 0 2 2 0
+You sniff sadly.  *SNIFF*
+$n sniffs sadly.
+You sniff sadly at $M.  *SNIFF*
+$n sniffs sadly at $N.  Awww.
+$n sniffs sadly at you!! *SNIFF*
+Sniff away..
+You sniff sadly to yourself.
+$n sniffs sadly to $mself.
+#
+#
+#
+#
+#
+
+~snore snore 0 2 2 0
+Zzzzzzzzzzzzzzzzz.
+$n snores loudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~snort snort 0 2 2 0
+You snort distainfully at everyone.
+$n snorts distainfully at everyone in the room.
+You snort distainfully at $N.
+$n snorts distainfully at $N.
+$n snorts distainfully at you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~snuggle snug 1 2 2 0
+Who?
+#
+you snuggle $M.
+$n snuggles up to $N.
+$n snuggles up to you.
+They aren't here.
+Hmmm...
+#
+#
+#
+#
+#
+#
+
+~soco soco 0 2 2 0
+Punch the air?  Sure, go ahead, fine by me...
+$n starts shadow-boxing.
+You punch $M right in the face!  Yuck, the BLOOD!
+$n punches weakly at $N, missing by miles.
+$n tries a punch at you but misses by a good quarter-mile...
+Punch who?
+You punch yourself in the face resulting in your own nose being bloodied.
+$n punches $mself in the face, looking kind of stupid.
+You punch $M in the $t!
+$n punches $N in the $t!
+$n punches you in the $t!
+#
+#
+
+~spank spank 0 2 2 0
+You spank WHO?  Eh?  How?  Naaah, you'd never.
+$n spanks the thin air with a flat hand.
+You spank $M vigorously, long and hard.  Your hand hurts.
+$n spanks $N over $s knee.  It hurts to even watch.
+$n spanks you, $s seems to be enjoying this too much.
+Are you sure about this?  I mean, that person isn't even here!
+Hmm, not likely.
+#
+You spank $N long and hard on $S $t!
+k
+$n spanks you long and hard on your $t!
+#
+#
+
+~spit spit 0 2 2 0
+You spit on the ground.
+$n spits on the ground.
+You spit on $M.
+$n spits in $N's face.
+$n spits in your face.
+Can you spit that far?
+You drool down your front.
+$n drools down $s front.
+You spit on $N's $t.
+$n spits on $N's $t.
+$n spits on your $t.
+#
+#
+
+~squeal squeal 0 2 2 0
+You squeal with delight!
+$n squeals with delight!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~squeeze squeeze 0 2 2 0
+Where, what, how, WHO???
+#
+You squeeze $M fondly.
+$n squeezes $N fondly.
+$n squeezes you fondly.
+Where, what, how, WHO???
+You squeeze yourself -- try to relax a little!
+$n squeezes $mself.
+#
+#
+#
+#
+#
+
+~squirm squirm 0 2 2 0
+You squirm your body around to find a comfy position.
+$n squirms $s body around trying to get comfortable.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~sstroke sstroke 0 5 0 0
+Whose thigh would you like to stroke?
+#
+You gently stroke $S inner thigh.
+$n gently strokes $N's inner thigh... hrmm...
+$n gently strokes your inner thigh...
+That person is not within reach.
+You are about to do something you would rather not be caught doing.
+$n starts to do something disgusting and then stops.
+You gently stroke $S $t.
+$n gently strokes $N's $t... hrmm...
+$n gently strokes your $t...
+You gently stroke $p...
+$n gently strokes $p...
+
+~stare stare 0 2 2 0
+You stare at the sky.
+$n stares at the sky.
+You stare dreamily at $N, completely lost in $S eyes..
+$n stares dreamily at $N.
+$n stares dreamily at you, completely lost in your eyes.
+You stare and stare but can't see that person anywhere...
+You stare dreamily at yourself - enough narcissism for now.
+$n stares dreamily at $mself - NARCISSIST!
+You stare at $S $t.
+$n stares at $N's $t.
+$n stares at your $t.
+#
+#
+
+~steam steam 0 5 0 0
+You let out some steam, much to the others' relief (and your own!)
+$n lets out a lot of steam, much to your relief.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~stomp stomp 0 2 2 0
+You stomp around the room! Grrrr!
+$n stomps around the room! Grrrrr!
+You stomp on $N's toes! Meanie!
+$n stomps on $N's toes! Ouch!
+$n stomps on your toes!  OUCH!
+No one here to stomp on.
+You stomp on your own toes! Ouch!
+$n stomps on $s own toes.
+#
+#
+#
+#
+#
+
+~strangle strangle 0 2 2 0
+What's the name again?!
+#
+You clasp your tiny hands firmly around $N's neck, making $S eyes bulge!
+$n clasps $s hands around $N's neck, making $S eyes bulge!
+$n wraps $s hands firmly around your neck till your eyes start to bulge!
+It would be handy if they were in the same room as you...
+You wrap your hands around your neck and try to strangle yourself?!
+$n wraps $s hands around $s neck, strangling $mself! Uh..they need help!
+#
+#
+#
+#
+#
+
+~stretch stretch 0 5 5 0
+You give yourself a nice long stretch. Mmmm.
+$n stretches, relaxing $s tired bones.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~strip strip 0 8 8 0
+WhooWee! You start stripping all your clothing off.
+WhooWee! $n starts stripping all $s clothing off!
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~strut strut 0 8 0 0
+Strut your stuff.
+$n struts proudly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~suck suck 0 2 2 0
+You suck.
+$n looks for something to suck on.
+You suck on $N's earlobe.
+$n starts sucking on $N's earlobe.
+$n starts sucking on your earlobe.
+#
+Suck on what? Your thumb? HOW Romantic!
+$n starts sucking on $s thumb.
+You suck on $N's $t.
+$n sucks on $N's $t.
+$n sucks on your $t.
+#
+#
+
+~sulk sulk 1 5 0 0
+You sulk.
+$n goes to sulk in the corner. Doesn't $e look pitiful?
+You look at $M and sulk.
+$n looks at $N and goes and sulks in a corner.
+$N looks at you and goes and sulks in a corner.
+No worries, they're not here.
+You look at your pitiful equipment and sulk.
+$n looks at $s pitiful equipment and sulks in a corner.
+You look at $S $t and sulk.
+$n looks at $N's $t and goes and sulks in a corner.
+$n looks at your $t and goes and sulks in a corner.  Guess $e's jealous...
+#
+#
+
+~swat swat 0 2 2 0
+You swat at the air frantically!
+$n swats at them darn invisible flies! Swat! Swat!
+You swat at $N, barely missing them!
+$n swats at $N, barely missing them!
+$n swats at you, barely missing!
+#
+#
+#
+You swat at $N's $t! Hey!
+$n swats at $N's $t! Hey!
+$n swats at your $t! Hey!
+#
+#
+
+~sweat sweat 0 2 2 0
+YIKES! You start sweating buckets!
+YIKES! $n starts to sweat and look extremely nervous.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~sweep sweep 0 2 2 0
+You pick up a broom and start sweeping.
+$n picks up a broom and starts sweeping.
+You sweep $N off $M feet!
+$n sweeps $N off of $M feet!
+$n sweeps you off your feet!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~swing swing 0 2 2 0
+You throw your hips around in circles, almost knocking everyone over!
+$n throws $m hips around in wild circles, almost knocking you over!
+WEEE! You swing $N around in your arms.
+WEEE! $n swings $N around in $m arms.
+WEEE! $n swings you around in $s arms.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~swoon swoon 0 2 2 0
+You swoon.
+$n swoons.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~tango tango 0 3 3 0
+Tango with whom?!
+#
+You place a rose between your teeth and dance seductively with $N.
+$n places a rose between $s teeth and seductively dances with $N.
+$n places a rose between $s teeth and seductively dances with you.
+That person thinks your too dangerous to tango with!
+You trip over your two left feet.
+$n tries to tango with $mself, but elequently falls flat on $s face.
+#
+#
+#
+#
+#
+
+~tap tap 0 2 2 0
+You tap your foot impatiently.
+$n taps $s foot impatiently.
+You tap $N on the shoulder. Excuse me?
+$n taps $N on the shoulder. Excuse me?
+$n taps you on the shoulder, Excuse Me?
+#
+#
+#
+#
+#
+#
+#
+#
+
+~taunt taunt 0 2 2 0
+You taunt the nothing in front of you. 
+$n taunts something that seems to be right in front of $m.
+You taunt $M, to your own delight.
+$n taunts $N rather insultingly.  $n seems to enjoy it tremendously.
+$n taunts you.  It really hurts your feelings.
+Hmmmmmmm.....nope, no one by that name here.
+You taunt yourself, almost making you cry...:(
+$n taunts $mself to tears.
+#
+#
+#
+#
+#
+
+~tease tease 0 3 3 0
+Nah Nah!!
+$n tries to taunt everyone in the room! Nah Nah!
+Nah Nah! You tease $N, trying to provoke some emotion.
+Nah Nah!! $n teases $N.
+Nah Nah! $n teases you.
+Nah Nah! They aren't HERE!
+Geeze, get some help dude!
+$n tries to tease $mself. Nah Nah! They need help!
+#
+#
+#
+#
+#
+
+~thank thank 0 2 2 0
+Thank you too.
+#
+You thank $N heartily.
+$n thanks $N heartily.
+$n thanks you heartily.
+No one answers to that name here.
+You thank yourself since nobody else wants to!
+$n thanks $mself since you won't.
+#
+#
+#
+#
+#
+
+~think think 1 2 8 0
+You put on an unused thinking cap and begin to think.
+$n slips into a thinking cap and begins to dwell on a subject.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~tickle tickle 0 5 0 0
+Who do you want to tickle??
+#
+You tickle $N.
+$n tickles $N.
+$n tickles you - hee hee hee.
+Who is that??
+You tickle yourself, how funny!
+$n tickles $mself.
+You tickle $S $t.
+$n tickles $N's $t.
+$n tickles your $t.
+#
+#
+
+~tip tip 0 5 5 0
+You tip your hat at everyone! 
+$n tips $s hat! Top of the day to you!
+You tip your hat at $N!
+$n tips $s hat at $N.
+$n tips $s hat at you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~toke toke 0 3 3 0
+You toke your joint long and hard.  Weeeeeeew!!!!!!  That's harsh stuff.
+$n tokes $s joint long and hard, coughing up a lung afterwards.
+You roll a big fattie and offer it to $N.
+$n rolls up a big fattie and offers it to $N.
+$n rolls up a nice big fattie and offers it to you.
+#
+You amaze the crowd by rolling a joint with just one hand!
+$n amazes you by rolling a joint with one hand!
+#
+#
+#
+#
+#
+
+~tongue tongue 0 2 2 0
+You stick your tongue out at everyone.
+$n sticks $s tongue out at everyone.
+You stick your tongue out at $N.
+$n sticks $s tongue out at $N.
+$n sticks $s tongue out at you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~touch touch 0 2 2 0
+Touching something....
+This action is part of a top-secret operation. Do not watch.
+You touch $N.
+$n touches $N.
+$n touches you.
+No-one by that name here.
+You touch yourself.
+$n touches $mself.. MmmmmMmm.
+You touch $N's $t.
+$n touches $N's $t.
+$n touches your $t.
+#
+#
+
+~trip trip 0 1 3 0
+Trip who?
+#
+You trip $N, and $E falls flat on $S face.
+$n trips $N, and $E stumbles and falls to the ground.
+You stumble and fall as $n trips you.
+No one here by that name.
+You trip over your own two feet.
+$n trips over $s own two feet.  What a clutz!
+#
+#
+#
+#
+#
+
+~tug tug 0 2 2 0
+Tug on who?
+#
+You tug on $N's sleeve.
+$n tugs on $N's shirt sleeve
+$n tugs on your shirt sleeve.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~tweak tweak 0 2 2 0
+Tweek who? and What?
+#
+You tweak $N's nose.
+$n tweaks $N's nose.
+$n tweaks your nose.
+Your victim has been tweaked enough for today.
+You tweak yourself. Weirdo.
+$n tweaks $mself. What a freak.
+#
+#
+#
+#
+#
+
+~twibble twib 0 2 2 0
+You twibble around aimlessly.
+$n twibbles around aimlessly.
+You twibble aimlessly around $N.
+$n twibbles aimlessly around $N.
+$n twibbles aimlessly around you. How annoying!
+No one here by that name.
+You twibble around yourself aimlessly, getting nowhere.
+$n twibbles about $mself aimlessly, getting nowhere.
+#
+#
+#
+#
+#
+
+~twiddle twiddle 0 2 2 0
+You patiently twiddle your thumbs.
+$n patiently twiddles $s thumbs.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~twirl twirl 0 2 2 0
+You twirl around in circles till you feel nauseous!
+$n twirls around in circles making you dizzy!
+You pick $N up in the air and twirl $M around!
+$n picks $N up in the air and twirls them around in circles!
+$n picks you up in the air, twirling you around till you feel nauseous!
+Try twirling someone in the same room!
+#
+$n twirls around in circles, making you dizzy!
+#
+#
+#
+#
+#
+
+~twist twist 0 3 3 0
+You twist around.
+$n twists $s body.
+You take $N by the scruff of the neck and twist $s up like a ragdoll.
+$n takes $N by the scruff of the neck and twists $s up like a ragdoll.
+$n grabs you by the scruff of your neck and twists you like a ragdoll. Owch!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~undress undress 0 3 3 0
+You slowly start to undress in front of everyone! ACK! Please stop!
+$n slowly starts to undress in front of everyone! Tell $m to stop!
+You start to undress $N with your eyes... MMmmmMMM!
+$n starts undressing $N with $s eyes! ACK!
+$n starts undressing you with $s eyes! ACK! Hide quick!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~veto veto 0 2 2 0
+#
+#
+No Way! You veto $N.
+No Way! $n vetos $N.
+No Way! $n vetos you.
+#
+#
+#
+#
+#
+#
+#
+#
+
+~vex vex 0 3 3 0
+You are vexed.
+$n is vexed. Better watch out.
+You can't believe $N is so stupid. Boy does $e vex you.
+Steam blows out of $n's ears. Boy is $e vexed at $N.
+Oh oh! $n is majorly vexed with you.
+You look around for the cause of your vexation.
+You are vexed with yourself.
+$n is vexed with $mself.
+#
+#
+#
+#
+#
+
+~warlords warlords 0 8 8 0
+Raise the black banner and ready shields, to victory or to death.
+Raise the black banner and ready shields, to victory or to death.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~wave wave 0 5 0 0
+You wave.
+$n waves happily.
+You wave to $N.
+$n waves to $N.
+$n waves to you.
+Wave to who?
+Hmmm... No.
+#
+#
+#
+#
+#
+#
+
+~wd wd 0 8 8 0
+WarDome R0X!! EnJoY ThE WaR!!
+WarDome R0X!! EnJoY ThE WaR!!
+#
+#
+#
+WarDome R0X!! EnJoY ThE WaR!!
+WarDome R0X!! EnJoY ThE WaR!!
+WarDome R0X!! EnJoY ThE WaR!!
+#
+#
+#
+#
+#
+
+~wd1 wd1 0 8 8 0
+Ha Ha Ha! WarDome rlz!
+Ha Ha Ha! WarDome rlz!
+Ha Ha Ha! WarDome rlz!
+#
+#
+Ha Ha Ha! WarDome rlz!
+Ha Ha Ha! WarDome rlz!
+Ha Ha Ha! WarDome rlz!
+#
+#
+#
+#
+#
+
+~wedgie wedgie 0 3 3 0
+And just WHO do you want to wedgie?!
+#
+You give $N a big WEDGIE! Owch!
+$n gives $N a big WEDGIE! Owch, that has GOT to hurt!
+$n reaches around your backside and gives you a big WEDGIE! Owch! Owch!
+That person did not want a wedgie.
+Uhhh.. sure.. umm... ok.
+$n reaches around to $s backside and tries to give $mself a wedgie. Hrmmmm.
+#
+#
+#
+#
+#
+
+~wet wet 0 5 5 0
+You feel something wet and warm running down your legs.
+$n wets $s pants in fear, and a puddle forms at $s feet.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~whack whack 0 2 2 0
+Whack who?
+#
+WHACK! You whack $N upside the head!
+WHACK! $n whacks $N upside the head!
+WHACK! $n whacks you upside the head!
+#
+You whack yourself in the head, rendering yourself unconscious.
+$n knocks $mself on the head, rendering $m unconscious.
+#
+#
+#
+#
+#
+
+~whap whap 0 2 2 0
+Whap who?!
+#
+WHAP! You whap $N on the side of the head! Smarten up!
+WHAP! $n whaps $N on the side of the head, telling $S to smarten up!
+WHAP! $n whaps you on the side of your head, telling you to smarten up!
+#
+WHAP! Owch!
+WHAP! $n whaps $mself upside the head! How strange!
+#
+#
+#
+#
+#
+
+~whew whew 0 2 2 0
+Whew! You wipe your brow and give a sigh of relief.
+Whew! $n wipes $s brow and gives a sigh of relief.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~whimper whimper 0 2 2 0
+You whimper softly.
+$n whimpers softly.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~whine whine 0 2 2 0
+You whine pitifully.
+$n whines pitifully about the whole situation.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+~whip whip 0 2 2 0
+You crack your whip and grin.
+$n cracks $s whip!
+You crack your whip at $N.
+$n cracks $s whip at $N.
+$n cracks $s whip at you!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~whistle whistle 0 0 0 0
+You whistle innocently.
+$n whistles innocently.
+You whistle at $N! Nice!
+$n whistles at $N! $e must think $E is sexy!
+$n whistles at you! Oh they must think you are soooo sexy!
+#
+#
+#
+#
+#
+#
+#
+#
+
+~wiggle wiggle 0 2 2 0
+You wiggle your bottom.
+$n wiggles $s bottom.
+You wiggle your bottom at $N.
+$n wiggles $s bottom at $N.
+$n wiggles $m bottom at you.
+#
+Wow! That is impressive!
+$n tries to wiggle $m bottom in $s own face...DUH!
+You wiggle your $t.
+$n wiggles $s $t.
+#
+#
+#
+
+~wince wince 0 2 2 0
+You wince.
+$n winces.
+You wince at $N.
+$n winces at $N.  Oh the pain...
+$n winces at you.  Did you just play rho-sham-bo with him?
+Wince at who?
+You can't wince at yourself!
+#
+#
+#
+#
+#
+#
+
+~wink wink 0 2 2 0
+Have you got something in your eye?
+$n winks suggestively.
+You wink suggestively at $N.
+$n winks at $N.
+$n winks suggestively at you.
+No one with that name is present.
+You wink at yourself?? -- what are you up to?
+$n winks at $mself -- something strange is going on...
+#
+#
+#
+#
+#
+
+~yawn yawn 0 1 1 0
+Booooooooooring!
+$n yawns out of sheer boredom.
+You yawn, letting everyone know how utterly boring they are.
+$n yawns at $N, $e must find $M boring!
+$n yawns at you, letting you know how boring they find you!
+#
+#
+#
+#
+#
+#
+#
+#
+
+$

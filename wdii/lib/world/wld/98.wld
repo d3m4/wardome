@@ -1,0 +1,552 @@
+#9801
+Entrace of Shalyzaar temple.~
+Here is the entrance of the temple of Shalysaar.  There is a guardian standing
+in front of the gate.    
+~
+98 16777224 0
+D0
+~
+gate~
+2 9810 9802
+D2
+~
+~
+0 0 840
+S
+#9802
+Main Room~
+In this room, all the feasts in homage to the God Shalynom take place.  
+Shalynom is the god which is worshiped by the residents of the temple.    
+~
+98 1 0
+D0
+~
+~
+0 0 9809
+D1
+~
+~
+0 0 9803
+D2
+~
+gate~
+2 9810 9801
+D3
+~
+~
+0 0 9805
+S
+#9803
+Corridor~
+The corridor is silent and dark.  It extends to the east and to the west.    
+~
+98 65 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9804
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 9802
+S
+#9804
+Kitchen~
+Here lies the kitchen of the temple.  Many types of food and drinks can be seen
+on the table.    
+~
+98 193 0
+D0
+~
+~
+0 0 9811
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 9803
+S
+#9805
+Corridor~
+: The corridor is silent and dark.  It extends to the east and to the west.  
+
+~
+98 65 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9802
+D3
+~
+~
+0 0 9806
+S
+#9806
+Decoration Room~
+Many paintings with scenes of battles can be seen in this room.
+~
+98 192 0
+D0
+~
+~
+0 0 9807
+D1
+~
+~
+0 0 9805
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#9807
+Corridor ~
+The corridor is silent and dark. It extends to the south and  to the west.
+~
+98 65 0
+D1
+~
+~
+0 0 9808
+D2
+~
+~
+0 0 9806
+S
+#9808
+Corridor ~
+The corridor is silent and dark. It extends to the east and  to the west.
+~
+98 193 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9809
+D3
+~
+~
+0 0 9807
+S
+#9809
+Room of the sacrifices~
+This room reeks of sadness and solitude.  In this room, human and animal
+sacrifices were performed in homage of Shalynom.    
+~
+98 64 0
+D0
+~
+door~
+0 0 9816
+D1
+~
+~
+0 0 9810
+D2
+~
+~
+0 0 9802
+D3
+~
+~
+0 0 9808
+S
+#9810
+Corridor ~
+The corridor is silent and dark. It extends to the  east and  to the west.
+~
+98 1 0
+D1
+~
+~
+0 0 9811
+D3
+~
+~
+0 0 9809
+S
+#9811
+Intersection~
+This intersection leads to south, east or west.
+~
+98 65 0
+D1
+~
+~
+0 0 9812
+D2
+~
+~
+0 0 9804
+D3
+~
+~
+0 0 9810
+S
+#9812
+Soldiers' Dormitory~
+The noise of running waters can be heard in this room.  The noise comes from
+the ground.  Beneath one of the many beds in this room, there is a hole.    
+~
+98 1 0
+D3
+~
+~
+0 0 9811
+D5
+~
+~
+0 0 9813
+S
+#9813
+Stream~
+If you slide through the holego down for the hole and it falls in a stream and
+it is taken by the current, you don't get to breathe and little by little it is
+going losing the sense.    
+~
+98 6 0
+S
+#9814
+Corridor~
+The corridor is silent and dark. It extends to the  east and  to the north.
+~
+98 65 0
+D0
+~
+~
+0 0 9819
+D1
+~
+~
+0 0 9815
+S
+#9815
+Corridor ~
+The corridor is silent and dark. It extends to the  east and  to the west.
+~
+98 65 0
+D1
+~
+~
+0 0 9816
+D3
+~
+~
+0 0 9814
+S
+#9816
+Dinner Room~
+Its here where all are to eat your meals.
+~
+98 0 0
+D0
+~
+secret passage~
+0 0 9821
+D1
+~
+~
+0 0 9817
+D2
+~
+~
+0 0 9809
+D3
+~
+~
+0 0 9815
+S
+#9817
+Corridor ~
+The corridor is silent and dark, he continues and east and west.
+~
+98 65 0
+D1
+~
+~
+0 0 9818
+D3
+~
+~
+0 0 9816
+S
+#9818
+Corridor~
+The corridor is silent and dark. It extends to the  east and  to the west.
+~
+98 1 0
+D0
+~
+~
+0 0 9820
+D3
+~
+~
+0 0 9817
+S
+#9819
+Bathroom~
+Where all the residents make your needs.    
+~
+98 64 0
+D2
+~
+~
+0 0 9814
+S
+#9820
+The Altar~
+The altar of Shalynon lies here.  Unidentified patterns and shapes were carved
+on its surface.    
+~
+98 64 0
+D2
+~
+~
+0 0 9818
+S
+#9821
+Shalyzaar's Room~
+By the time you enter this room, you are marveled by its beauty; everything is
+well organized, and no disgusting odors are detected.  But wait!  An unknown
+presence is sensed...    
+~
+98 64 0
+D2
+~
+~
+0 0 9816
+D4
+~
+secret~
+2 9811 9822
+S
+#9822
+Confession Temple~
+This room stinks the rottenness, it is here where Shalyzaar makes your
+confessions to the God Shalynon, he sintting in your throne in the form of the
+Titan.    
+~
+98 196 0
+D4
+a small passage n the floor.
+~
+passage~
+2 9899 9823
+D5
+~
+~
+0 0 -1
+S
+#9823
+Choose your destination~
+This room is completely clean and very well illuminated, the lights came from
+everywhere and you soon perceive that was a magical power in this place.  You
+can see three doors, each one with a grooving skull and a inscription that you
+do not have difficulties to read:
+&n
+&W     "Three ways to choose:&n
+&n
+&W              One to come back without knowing&n
+&W              One to follow without knowing&n
+&W              One to die and never to know"&n
+
+~
+98 128 0
+D0
+~
+door1~
+1 0 9823
+D2
+~
+door2~
+1 0 9830
+D3
+~
+door3~
+1 0 9824
+S
+#9824
+Choose your destination~
+This room is completely clean and very well illuminated, the lights came from
+everywhere and you soon perceive that was a magical power in this place.  You
+can see three doors, each one with a grooving skull and a inscription that you
+do not have difficulties to read:
+&n
+&W     "Three ways to choose:&n
+&n
+&W              One to come back without knowing&n
+&W              One to follow without knowing&n
+&W              One to die and never to know"&n
+
+~
+98 128 0
+D0
+~
+door1~
+1 0 9823
+D2
+~
+door2~
+1 0 9825
+D3
+~
+door3~
+1 0 9830
+S
+#9825
+Choose your destination~
+This room is completely clean and very well illuminated, the lights came from
+everywhere and you soon perceive that was a magical power in this place.  You
+can see three doors, each one with a grooving skull and a inscription that you
+do not have difficulties to read:
+&n
+&W     "Three ways to choose:&n
+&n
+&W              One to come back without knowing&n
+&W              One to follow without knowing&n
+&W              One to die and never to know"&n
+
+~
+98 128 0
+D1
+~
+door1~
+1 0 9830
+D4
+~
+door2~
+1 0 9826
+D5
+~
+door3~
+1 0 9823
+S
+#9826
+Choose your destination~
+This room is completely clean and very well illuminated, the lights came from
+everywhere and you soon perceive that was a magical power in this place.  You
+can see three doors, each one with a grooving skull and a inscription that you
+do not have difficulties to read:
+&n
+&W     "Three ways to choose:&n
+&n
+&W              One to come back without knowing&n
+&W              One to follow without knowing&n
+&W              One to die and never to know"&n
+
+~
+98 128 0
+D0
+~
+door1~
+1 0 9830
+D1
+~
+door2~
+1 0 9827
+D2
+~
+door3~
+1 0 9823
+S
+#9827
+Escolha seu Destino~
+Voce venceu o segredo do Labirinto da camara mortuaria 'D'
+Sua demora acegurou a fuga dos lideres e sobreviventes.
+Parabens, mas nao ha tempo para comemorar.
+~
+98 128 0
+D0
+~
+~
+0 0 9601
+D3
+~
+~
+0 0 9826
+S
+#9828
+An unfinished room~
+You are in an unfinished room.
+~
+98 128 0
+S
+#9829
+An unfinished room~
+You are in an unfinished room.
+~
+98 128 0
+S
+#9830
+Escolha seu Destino~
+A armadilha da Morte do Maze da clan &G'D'&n:
+
+A queda....
+A dor...
+O FIM!
+~
+98 134 0
+S
+#9850
+Between Temples ~
+You are in the middle of the living room among the five temples.
+The ground is made of white and flat marble, this room is very illuminated.
+You dont feel any evil presence here.
+
+~
+98 8 0
+D0
+Temple I
+~
+Temple I~
+2 9811 31202
+D1
+Temple II
+~
+Temple_II~
+2 9830 31302
+D2
+Temple Door
+~
+Temple_Door~
+2 9829 31402
+D3
+Temple Door
+~
+Temple_Door~
+2 9828 31502
+D4
+Temple Door
+~
+Temple_Door~
+2 9811 9820
+D5
+Temple Doors
+~
+Temple_Doors~
+2 9828 31602
+S
+$~

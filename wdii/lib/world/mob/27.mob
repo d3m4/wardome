@@ -1,0 +1,612 @@
+#2700
+elf~
+Elf~
+The &gElf &ywith a &wblack cape&y is here.&n
+~
+&yThe &gElf &ywith a &wblack cape&n
+~
+3661834 554730652 1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 0 1 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 2713
+T 2712
+#2701
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+#2702
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+#2714
+a hobbit~
+a fat hobbit~
+A fat hobbit is here, gathering tobacco.
+~
+A short fat hobbit is here, gathering tobacco.  He seems to like his work.    
+~
+8 0 0 E
+70 -25 -8 1d1+4752 5d15+78
+1050 1381185 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2715
+hobbit~
+a hobbit~
+A hobbit is strolling around here.
+~
+A short, fat hobbit is strolling along here, talking to himself.
+~
+8 0 0 E
+70 -25 -8 1d1+4752 5d15+78
+1050 1381185 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2717
+Merry~
+Merry~
+Merry is standing here, looking almost as mean as his cousin Pippin.
+~
+Merry is standing here.  He's a tall and muscular hobbit and he DOES look mean.
+If you are going to fight a hobbit, don't fight this guy.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#2719
+sam~
+Sam~
+Sam, Frodo's gardener is here mowing the lawn.
+~
+Sam seems to be a kind hobbit.  He is short and fat and shouldn't be that hard
+to squash.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#2722
+bilbo~
+Bilbo~
+Bilbo Baggings is here, daydreaming.
+~
+Bilbo stands here, daydreaming about long gone adventures.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#2723
+frodo~
+Frodo~
+Frodo is standing here, smoking his pipe.
+~
+Frodo seems to be a nice hobbit with his big belly and hairy feet.    
+~
+65544 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2725
+rosa~
+Rosa~
+Rosa is here, looking for her beloved Sam.
+~
+Rosa, Sam's wife-to-be is standing here, wondering where Sam is.
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2735
+bogo~
+Bogo~
+Bogo is standing here with a bottle to his mouth as usual.
+~
+Bogo the hobbit drunk is here, drinking as usual.  He doesn't look too tough.
+Maybe you should put an end to his misery.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2737
+mayor~
+Mayor~
+The hobbit mayor is here, looking busy.
+~
+The mayor of the hobbits is here, trying hard to look busy. He is a tough built
+hobbit, although he seems to be kind. He controls the hobbit village with a
+firm but fair hand.
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 0 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2738
+karo~
+Karo~
+Karo, the mayor's loyal watchdog is here.
+~
+Karo, the hobbit mayor's loyal watchdog is here, looking confused.  This dog
+appears to have a problem with both his IQ and his weight.  However, he is big
+and you have the feeling that he bites hard.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2739
+pippin~
+Pippin~
+Pippin is standing here, looking almost as mean as his cousin Merry.
+~
+Pippin is a tall muscular hobbit who just LOVES to fight.  Challange him if
+youwant to but I wouldn't reccomend it.    
+~
+8 0 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 0 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#2743
+town guard~
+a town guard~
+A town guard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+2314 1032 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 3 0
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2744
+old town guard~
+a old town guard~
+A old town guard standing is here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+34826 1024 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 3 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2745
+chubby man~
+Chubby man~
+A wealthy looking chubby man is standing here.
+~
+You see nothing special about him.
+~
+10 0 0 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 10 -1
+BareHandAttack: 7
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2746
+small rat~
+a rat~
+A small rat shrieks and runs around.
+~
+This rat is about average size, with average size teeth and average size claws.
+  
+~
+409612 262184 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+BareHandAttack: 8
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2750
+laryn~
+Laryn, The Auctioneer~
+Laryn, the auctioneer standing here.
+~
+
+~
+409610 32808 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2752
+citizen bree hobbit~
+the Citizen of bree~
+You see a Bree's hobbit standing here.
+~
+undefined~
+8 0 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 4170576 5
+8 8 1 0 0
+E
+#2754
+kid small~
+a little thief~
+a small kid is hidden here.
+~
+In his eyes you see that he is a very dangerous thief.
+~
+499848 787496 -500 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 2 -1
+BareHandAttack: 11
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2755
+falcon~
+the falcon~
+A falcon is flying here.
+~
+It looks unfinished.
+~
+75786 100664320 -500 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2761
+jeffrey connoisseur ~
+Jeffrey the Smoking Connoisseur~
+Jeffrey the Smoking Connoisseur
+~
+
+~
+409610 32808 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2763
+cute little girl~
+a cute little girl~
+a cute little girl is playing here.
+~
+This small girl has a fine dress and precocious look that makes you feel she
+must be a wealthy citizen's daughter, perhaps a merchant or judge.    
+~
+409610 32808 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2764
+energetic little boy~
+a energetic little boy~
+a energetic little boy is playing here.
+~
+This small boy has fine clothes and a precocious look that makes them to think
+that it must be son of a rich citizen, perhaps a trader or a judge.    
+~
+409610 32808 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2765
+drunken sailor~
+a drunken sailor~
+A drunken sailor is standing here.
+~
+It looks unfinished.
+~
+409610 32808 0 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2767
+butterbur ~
+Mrs. Butterbur~
+Mrs. Butterbur is standing here.
+~
+It looks unfinished.
+~
+409610 32808 0 E
+105 -42 -13 1d1+7140 5d21+92
+1575 4358931 5
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2774
+old battle scarred warrior ~
+an old, battle-scarred warrior~
+An old, battle-scarred warrior
+~
+It looks unfinished.
+~
+409608 32936 0 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2776
+Benny gamemaster~
+Benny, The Gamemaster~
+Benny, Tthe Gamemaster is standing here 
+~
+
+~
+409610 32808 0 E
+95 -37 -11 1d1+6456 5d19+88
+1425 3275365 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2778
+strong horse~
+a strong horse~
+a strong horse it is resting here.
+~
+
+~
+106506 8192 0 E
+70 -25 -8 1d1+4752 5d15+78
+1050 1381185 5
+8 8 0 -1 -1
+BareHandAttack: 6
+Att2: 100
+Att3: 50
+Att4: 5
+E
+#2781
+aravir Ranger ~
+Aravir the Master Ranger~
+Aravir the Master Ranger is standing here.
+~
+It looks unfinished.
+~
+409610 32808 0 E
+115 -47 -14 1d1+7812 5d23+96
+1725 5657972 5
+8 8 0 7 -1
+Att2: 100
+Att3: 85
+Att4: 55
+E
+#2782
+keep justice~
+keep of justice~
+a keeps of justice standing here.
+~
+
+~
+409610 32808 500 E
+115 -47 -14 1d1+7812 5d23+96
+1725 5657972 5
+8 8 1 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2783
+Aragorn~
+Aragorn~
+Aragorn son of Arathorn, heir of Isildur standing here.
+~
+It looks unfinished.
+~
+3168264 1611956360 750 E
+150 -65 -20 1d1+10200 5d31+110
+2250 12183013 5
+8 8 1 3 -1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+#2784
+town guard~
+a town guard~
+A town guard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+67850 1032 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2786
+Bill Ferny~
+Bill Ferny~
+Bill Ferny stands here, eyeing you suspiciously
+~
+The brown Bill Ferny is spying about you.
+~
+409610 32808 0 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2788
+old town guard~
+a old town guard~
+A old town guard standing is here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+98314 1024 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2792
+nazgul~
+Nazgul~
+a &wDarkness &yknight is runnig towards you, in his spectral montary.&n
+~
+You see a kind of unique ghost, made of the power of the ancient evil lords.  
+
+~
+3663978 43025576 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 0 5 -1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+#2793
+nazgul~
+Nazgul~
+&ya &wDarkness &yknight is runnig towards you, in his spectral montary.&n
+~
+You see a kind of unique ghost, made of the power of the ancient evil lords.  
+~
+1566762 110134504 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 0 5 -1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+#2794
+nazgul~
+Nazgul~
+a &wDarkness &yknight is runnig towards you, in his spectral montary.&n
+~
+You see a kind of unique ghost, made of the power of the ancient evil lords.
+~
+1566762 110134504 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 0 5 -1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+#2795
+nazgul~
+Nazgul~
+a &wDarkness &yknight is runnig towards you, in his spectral montary.&n
+~
+You see a kind of unique ghost, made of the power of the ancient evil lords.
+~
+1564714 110134504 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 0 5 -1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+$

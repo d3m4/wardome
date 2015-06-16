@@ -1,0 +1,816 @@
+#0
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+24584 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 -1
+E
+#1
+Puff dragon fractal~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253963 33800 0 E
+1000 26 8 6d1+1 540d10+3
+10 390 72946
+0 8 8 2 -1
+BareHandAttack: 12
+Att2: 27
+E
+T 20
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 E
+0 1 20 10d1+1 18d10+1
+0 15 196
+0 8 8 0 -1
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+10 0 0 E
+0 1 20 10d1+1 18d10+1
+0 15 196
+0 8 8 0 -1
+BareHandAttack: 7
+E
+#15
+golem~
+the golem~
+A golem made with magic stands here.
+~
+It looks a magic creature.
+~
+10 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 -1
+E
+#16
+the illusion mob~
+the unfinished mob~
+An illusion
+~
+This is a illusion. Make sense for you? :)
+~
+516107 0 0 E
+0 1 20 10d1+1 18d10+1
+0 15 196
+0 8 8 0 -1
+E
+#17
+a black bear~
+a black bear~
+A black bear is standing here.
+~
+The bear seems to be huge and smells like death...
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 1 0
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 E
+0 1 20 10d1+1 18d10+1
+0 15 196
+0 8 8 0 -1
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 E
+0 1 20 10d1+1 18d10+1
+0 15 196
+0 8 8 0 -1
+E
+#29
+mob unfinished~
+the unfinished mob~
+An odd looking clone stands here.
+~
+It is a clone :)
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 -1
+E
+#43
+white bear~
+the sacred white bear~
+A sacred white bear stands here.
+~
+This white bear has sharp claws and powerful teeth. Beware....
+~
+8 160 0 E
+0 150 -54 -12d1+1 4200d10+16
+60 0 0
+0 8 8 0 -1
+Att2: 80
+Att3: 30
+Att4: 10
+E
+#50
+mob unfinished~
+&W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n~
+&W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+It looks unfinished.
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 0
+E
+#51
+drizzit d1~
+Drizzt II  The Legacy Soon [Clan "Do'Urden"]~
+Drizzt II &C The Legacy Soon &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 1 7
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#52
+vierna d2~
+Vierna The Rieper [Clan "Do'Urden"]~
+Vierna &rThe Rieper &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 1 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#53
+guenhwyvar d3~
+Guenhwyvar The Immortal [Clan "Do'Urden"]~
+Guenhwyvar &YThe Immortal &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 1 4
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#54
+belwar d4~
+Belwar "Dissengulp" [Clan "Do'Urden"]~
+Belwar &c"Dissengulp" &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4190218 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#55
+clacker d5~
+Clacker The Crazy [Clan "Do'Urden"]~
+Clacker &bThe Crazy &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4190218 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 7
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#56
+montolio d6~
+Montolio The Blind [Clan "Do'Urden"]~
+Montolio &mThe Blind &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4190218 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 70
+Att4: 50
+E
+#57
+lady alustriel d7~
+Lady Alustriel "Kiss of Death" [Clan "Do'Urden"]~
+Lady Alustriel &r"Kiss of Death" &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4190218 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 2 2
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#58
+undefined~
+undefined~
+hh
+~
+undefined~
+4192266 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 1 8
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#59
+bruenor battlehammer d9~
+Bruenor Battlehammer "The Large Thing" [Clan "Do'Urden"]~
+Bruenor Battlehammer &g"The Large Thing" &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33563708 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 1 10
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#60
+repturs d10~
+Repturs The Lizzard [Clan "Do'Urden"]~
+Repturs &mThe Lizzard &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33563708 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 1 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#61
+diagoras d11~
+Diagoras "My heart bleeds for you" [Clan "Do'Urden"]~
+Diagoras &w"My heart bleeds for you" &W[&GC&gla&Gn &G"&gD&Go'Urde&gn"&W]&n
+~
+You admire a strange figure who wears a green equipament with a D
+encrustred on it.
+ 
+                            &gDDDD
+                            DD   DD
+                            DD    DD
+                            DD     DD  
+                            DD     DD
+                            DD    DD
+                            DD   DD
+                            DDDD&n
+ 
+                      &W[&GC&gla&Gn &G"&gD"&Go'Urde&gn&W]&n 
+~
+4192266 33562684 0 E
+-500 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 1 5
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#69
+mob unfinished~
+&W[&WGuardioes &wde &WWardome&W]&n~
+&W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 0
+E
+#70
+telurian gw1~
+Telurian The Druid Guardian [Guardioes de Wardome]~
+Telurian &wThe Druid Guardian &W[Guardioes &wde &WWardome]&n
+~
+It looks unfinished.
+~
+188431 32956 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#71
+akalanata gw2~
+Akalanata The Avenger Guardian [Guardioes de Wardome]~
+Akalanata &wThe Avenger Guardian &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#72
+horus gw3~
+Horus The BirdMan Guardian Guardioes de Wardome~
+Horus &wThe BirdMan Guardian &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#73
+beowulf gw4~
+Beowulf The King Guardian Guardioes de Wardome~
+Beowulf &wThe King Guardian &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#74
+carnificina gw5~
+Carnificina The Killer Guardian Guardioes de Wardome~
+Carnificina &wThe Killer Guardian &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#75
+gradius hw6~
+Gradius The Supreme Guardioes de Wardome~
+Gradius &wThe Supreme &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#76
+maximus gw7~
+Maximus The Master Guardioes de Wardome~
+Maximus &wThe Master &W[&WGuardioes &wde &WWardome&W]&n
+~
+It looks unfinished.
+~
+188431 188 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#79
+mob unfinished~
+&W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n~
+&W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 0
+E
+#80
+vishnu gd1~
+Vishnu The Supreme Avatar Os Generais Divinos de Dehva~
+Vishnu &wThe Supreme Avatar &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 32768 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#81
+shurato gd2~
+Shurato The Ashura King Os Generais Divinos de Dehva~
+Shurato &rThe Ashura King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#82
+gai gd3~
+Gai The Yasha King Os Generais Divinos de Dehva~
+Gai &bThe Yasha King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#83
+leiga gd4~
+Leiga The Akurura King Os Generais Divinos de Dehva~
+Leiga &cThe Akurura King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#84
+hyouga gd5~
+Hyouga The Ten King Os Generais Divinos de Dehva~
+Hyouga &yThe Ten King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+Voce lha para um general divino.
+Seu Shakty lembra um Tigre
+Esse tipo de armadura te parece impenetravel
+Ele nao parece ameacador, mas nao duvide de seu poder.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#85
+ryuoma gd6~
+Ryuoma The Ryu King Os Generais Divinos de Dehva~
+Ryuoma &gThe Ryu King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#86
+kannya gd7~
+Kannya The Dappa King Os Generais Divinos de Dehva~
+Kannya &RThe Dappa King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#87
+lengue gd8~
+Lengue The Naara Queen Os Generais Divinos de Dehva~
+Lengue &BThe Naara Queen &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#88
+dan gd9~
+Dan The Hiba King Os Generais Divinos de Dehva~
+Dan &CThe Hiba King &W[&YOs &YGen&yer&Yais &CDi&cvin&Cos &Yde &CDe&ch&Cva&W]&n
+~
+It looks unfinished.
+~
+10 0 0 E
+0 200 -80 -20d1+1 5592d10+21
+80 3000 21657860
+0 8 8 0 5
+E
+#90
+hilda polaris odin cmob~
+&wPolaris &RH&rilda, &CT&che &bO&Bdin &WRencarnation&n~
+&wPolaris &RH&rilda, &CT&che &bO&Bdin &WRencarnation&n
+~
+ 
+&WNos somos um povo que mora em Asgard, no extremo norte do mundo.&n
+&rJ&Ramais vimos a cor do sol, nem os campos verdes e nem o azul do ceu.&n
+&cE&Csse castigo nos foi dado pela salvacao do povo de Wardome.&n
+&WEssa eh a vontade de Odin, e o nosso destino!&n
+&rP&Ror isso estamos satisfeitos por aceitar essa pena, e suporta-la tambem.&n
+&cP&Celo bem e pela salvacao da paz sobre Wardome.&n
+ 
+~
+3668234 51482798 0 E
+1000 200 -80 -20d1+1 5592d10+21
+80 3000 31709272
+0 8 8 2 1
+Att2: 100
+Att3: 80
+Att4: 50
+E
+#91
+mob unfinished~
+&W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]&n~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 0
+E
+#92
+sheeva gda1~
+Sheeva Generais Divinos de Asdra~
+Sheeva &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Sheeva &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#93
+a~
+Hyndra Generais Divinos de Asdra~
+Hyndra &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Hyndra &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#94
+fudomyo gda3~
+Fudomyo Generais Divinos de Asdra~
+Fudomyo &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Fudomyo &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#95
+kundaline gda4~
+Kundaline Generais Divinos de Asdra~
+Kundaline &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Kundaline &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#96
+Crizalida gda5~
+Crizalida Generais Divinos de Asdra~
+Crizalida &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Crizalida &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#97
+fulgor gda6~
+Fulgor Generais Divinos de Asdra~
+Fulgor &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Fulgor &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#98
+hukclor gda7~
+Hukclor Generais Divinos de Asdra~
+Hukclor &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+Hukclor &W[&YGen&yer&Yais &CDi&cvin&Cos &Yde &CAs&cd&Cra&W]
+~
+8 0 0 E
+0 0 20 10d1+1 0d10+1
+0 0 0
+0 8 8 0 5
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 33960 0 E
+0 210 -84 -21d1+1 5880d10+22
+84 3150 0
+0 8 8 0 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+Q 1
+$

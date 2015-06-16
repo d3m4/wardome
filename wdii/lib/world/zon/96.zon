@@ -1,0 +1,18 @@
+@Version: 2
+#96
+Wardome - Mysterious Cave~
+9699 30 2 1 -1
+M 0 9601 10 9613 	(the Giant Rat)
+M 0 9602 10 9607 	(a Giant Bat)
+M 0 9603 10 9606 	(the Skeleton)
+M 0 9603 10 9608 	(the Skeleton)
+M 0 9601 10 9611 	(the Giant Rat)
+M 0 9602 10 9602 	(a Giant Bat)
+O 0 9602 1 9616 	(Sacred chest)
+P 1 9605 1 9602 	(Sacred note)
+P 1 9604 1 9602 	(Mystical Opal Stone)
+M 0 9899 1 9615 	(Tarrasque)
+E 1 9603 1 5 	(the &Bpiece &Gof &Rgiant &Cscale &Yof &WTarrasque&n)
+G 1 9601 100 -1 	(Sacred key)
+S
+$

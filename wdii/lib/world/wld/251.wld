@@ -1,0 +1,160 @@
+#25101
+The entrance to Camelot~
+   You can see a lot of trees in front of you. You feel a peaceful atmosphere,
+like the evil don't exist here.
+~
+251 16777220 2
+D0
+~
+~
+0 0 25102
+D2
+~
+~
+0 0 6152
+S
+#25102
+The road to Camelot~
+   The road goes north. At its end you can see a huge wall. Now, you can hear
+noises from the people of the city.
+~
+251 0 2
+D0
+~
+~
+0 0 25105
+D2
+~
+~
+0 0 25101
+D3
+~
+tree~
+1 0 25103
+S
+#25103
+Before the tree~
+   You are before a large tree. A strange glow comes downwards.
+~
+251 1 3
+D1
+~
+tree~
+1 0 25102
+D5
+~
+~
+0 0 25104
+S
+#25104
+The treasure of the thief~
+   Wow!! A lot of treasures! But only one attracts your attention: It's the
+golden chest, in the corner of the room. But the chest isn't unguarded...
+~
+251 9 0
+D4
+~
+~
+0 0 25103
+S
+#25105
+The road to Camelot~
+   You continue walking in direction of the wall. You can see a small village
+to your east, and the wall is now closer to the north.
+~
+251 0 2
+D0
+~
+throne~
+1 -1 25111
+D1
+~
+~
+0 0 25106
+D2
+~
+~
+0 0 25102
+S
+#25106
+A path in the small village~
+   It seems to be a merchant village. All throught the path you can see shops
+and nomad sellers.
+~
+251 0 2
+D1
+~
+~
+0 0 25107
+D3
+~
+~
+0 0 25105
+S
+#25107
+The merchand village~
+   The path continues. Shops are all around, you hear noises from all the
+buildings - people buying and selling.
+~
+251 0 0
+D1
+~
+~
+0 0 25108
+D3
+~
+~
+0 0 25106
+S
+#25108
+The end of the village~
+   The village ends here. There is a cave down of here.
+~
+251 0 0
+D2
+~
+~
+0 0 25110
+D3
+~
+~
+0 0 25107
+D5
+~
+~
+0 0 25109
+S
+#25109
+The bottomless cave~
+   You fall in a bottomless cave!! You start falling, and falling, and falling,
+to finally *spash* yourself on the ground!
+   It seems that your adventure ends sooner.
+~
+251 2 0
+D4
+~
+~
+0 0 25108
+S
+#25110
+The weapon shop~
+   You surely will not found swords here. It's a specific shop, only for
+sneaky people. And sneaky people don't use swords, huh?
+~
+251 24 0
+D0
+~
+~
+0 0 25108
+S
+#25111
+The Throne of King Uther Pendragon.~
+Here is the King Uther. He seems to be very proud on seeing you goind to help him.
+~
+251 1048580 0
+D2
+~
+door~
+1 -1 25105
+S
+$~

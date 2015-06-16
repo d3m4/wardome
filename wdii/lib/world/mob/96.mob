@@ -1,0 +1,48 @@
+#9601
+giant rat~
+the Giant Rat~
+An enormous Rat is here crawling.
+~
+This is the biggest rat you ever see.
+~
+40 8388608 -900 E
+170 -75 -23 1d1+11556 5d35+118
+2550 17525720 5
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 70
+Att4: 40
+E
+#9602
+giant bat~
+a Giant Bat~
+A Giant &rBat&n is flying above your head.
+~
+Blood, much blood in it lips.
+~
+65576 8388608 -900 E
+160 -70 -21 1d1+10872 5d33+114
+2400 14693004 5
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 65
+Att4: 40
+E
+#9603
+skull skeleton~
+the Skeleton~
+An ugly skeleton is walking here.
+~
+Look at its skull, looks like there was a sword there.
+~
+40 8388608 -900 E
+180 -80 -24 1d1+12240 5d37+122
+2700 20700660 5
+8 8 0 3 -1
+Att2: 100
+Att3: 75
+Att4: 45
+E
+$

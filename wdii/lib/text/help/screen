@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Movement:                          | Communication:
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE SPEEDWALK   | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND          | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           | CHAT NOCHAT GEMOTE
+-------------------------------------------------------------------------------
+Objects:                           | Information: 
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS WIZHELP SUMMARY
+-------------------------------------------------------------------------------
+Combat:                            | Utility:
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+(KICK BASH RESCUE BACKSTAB CAST)   | TITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+-------------------------------------------------------------------------------
+Try to see the help of this topics:
+                                      SOCIAL SHOPS INNS SPELLS LINK
+-------------------------------------------------------------------------------

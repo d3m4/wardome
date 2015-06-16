@@ -1,0 +1,524 @@
+#6601
+The middle of the Mountain~
+  You are in front of the gate of an old Mansion.
+To the south you can see a trail that goes to the Top of the Mountain.
+And to the north you see a garden.
+There is a sign on the ground.
+~
+66 16777349 5
+D0
+~
+gate~
+1 6600 6602
+D2
+~
+~
+0 0 4076
+D4
+~
+trapdoor~
+1 0 6900
+E
+sign~
+The Dark Mansion was created by Sephiroth
+at May 3th 99.
+              Enjoy! And die.
+~
+S
+#6602
+A garden~
+  A big garden that continues for the east and north.
+To the west you can see a wall with a red cross in the center.
+~
+66 64 2
+D0
+~
+~
+0 0 6604
+D1
+~
+~
+0 0 6603
+D2
+~
+gate~
+1 6600 6601
+D3
+~
+wall~
+2 6601 6605
+S
+#6603
+A garden~
+  This part of the garden, seems to be a calmer place, but doesn't seem to have
+anything for here, the best to do is try to return to the west.
+~
+66 212 2
+D3
+~
+~
+0 0 6602
+S
+#6604
+A garden~
+  You continue in the garden, but it seems that to the north has a house, no,
+it is more than a house, it is a Mansion!
+To the east and west the garden continues...
+~
+66 64 2
+D0
+~
+~
+0 0 6607
+D1
+~
+~
+0 0 6606
+D2
+~
+~
+0 0 6602
+D3
+~
+~
+0 0 6611
+S
+#6605
+The sanctuary~
+Here is The Sanctuary...
+and have your die.
+~
+66 73 0
+D1
+~
+wall~
+1 6601 6602
+S
+#6606
+In turn of the Mansion~
+  You are turning the Mansion.
+What can be interesting here?
+~
+66 64 2
+D0
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6604
+S
+#6607
+In the entrance of the Mansion~
+  You are in front of the door of the Mansion, the fear begins to invade
+your body and your soul, you badly have idea than it can happen with you
+when crossing this door. You still has the chance to return to the south
+or to proceed to the north.
+~
+66 64 0
+D0
+~
+door~
+2 6607 6612
+D2
+~
+~
+0 0 6604
+S
+#6608
+On the right side of the Mansion~
+  You are in the top-right of the Mansion.
+Here is dark! But monotonous.
+Just get out of here.
+~
+66 64 2
+D2
+~
+~
+0 0 6606
+D3
+~
+~
+0 0 6609
+S
+#6609
+Behind the Mansion~
+What can be interesting here?
+your die? yes... 
+~
+66 64 2
+D0
+~
+~
+0 0 6614
+D1
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6610
+S
+#6610
+On the left side of the Mansion~
+  You are in the top-left of the Mansion.
+Here is dark! But monotonous.
+Just get out of here.
+~
+66 64 2
+D1
+~
+~
+0 0 6609
+D2
+~
+~
+0 0 6611
+S
+#6611
+In turn of the Mansion~
+  You are turning the Mansion.
+What can be interesting here?
+~
+66 64 2
+D0
+~
+~
+0 0 6610
+D1
+~
+~
+0 0 6604
+D2
+~
+~
+0 0 -1
+S
+#6612
+Inside the Mansion~
+  Finally! You are out of that terrifying garden. The nightmare seems to have  
+finish, but when you decide to look at in your turn...  
+The door that you could escape from within of the Mansion closes.  
+Noises begin to leave for the walls, people's sounds being in death agony...  
+Now, you are inside of the Mansion.
+~
+66 77 0
+D0
+~
+~
+0 0 6613
+D2
+~
+door~
+2 6607 6607
+E
+blood wall~
+       Dark Mansion
+       ============
+
+  Inside there we do not have mercy.
+  Stay here, and pray for yourself soul.
+                Mhuahahahaha!
+~
+S
+#6613
+In the hall of the Mansion~
+Yeahh..
+you are in the Mansion
+people's sounds being in death agony
+~
+66 136 0
+D0
+~
+~
+0 0 6617
+D1
+~
+~
+0 0 6615
+D2
+~
+~
+0 0 6612
+D3
+~
+~
+0 0 6616
+D4
+~
+~
+0 0 6622
+S
+#6614
+A Death Trap~
+O
+  O
+    H
+      H
+     
+         N
+           O
+             O
+               !
+                 !
+~
+66 6 8
+D2
+~
+~
+0 0 6609
+S
+#6615
+The office room~
+you are in the Office room..
+Just get out of here.
+&ROR YOUR DIE.&n
+~
+66 8 0
+D3
+~
+~
+0 0 6613
+S
+#6616
+The deposit of soul's~
+Here is the deposit room...
+the small demon goes to steal its soul now
+~
+66 8 0
+D0
+~
+~
+0 0 6618
+D1
+~
+~
+0 0 6613
+S
+#6617
+A corridor~
+you see &Rblood&n in the wall...
+~
+66 8 0
+D1
+~
+~
+0 0 6619
+D2
+~
+~
+0 0 6613
+D3
+~
+~
+0 0 -1
+S
+#6618
+The library~
+  A library full of books and scrolls.
+Chairs and tables decorates the room, but was messy. Trash
+around all the ground. No one cleans it for years.
+The wall to the west seems be diferent.
+~
+66 8 0
+D2
+~
+~
+0 0 6616
+D3
+~
+wall~
+1 0 6625
+S
+#6619
+In a corridor~
+you see &Rblood&n in the wall...
+~
+66 8 0
+D1
+~
+~
+0 0 6620
+D3
+~
+~
+0 0 6617
+S
+#6620
+A corridor~
+  A simple corridor, a glowing light comes from the
+north. To the west you can back to center of the Mansion.
+~
+66 8 0
+D0
+~
+~
+0 0 6621
+D3
+~
+~
+0 0 6619
+S
+#6621
+The music room~
+  You are in the music room.
+There is anything of interesting for here..  
+The room is big, but little used, doesn't have pieces of furniture, anything.  
+Just a great piano, but he doesn't seem to have a lot of importance. Better  
+to leave him there. But, if you try to play it?
+~
+66 41 0
+D2
+~
+~
+0 0 6620
+S
+#6622
+The upper floor~
+  You are in the second floor of the Mansion.
+Here it is everything destroyed, the ground is destroyed
+by the time, and the walls are dirty of blood.  
+There is also a corridor that takes for the east or west.
+~
+66 8 0
+D1
+~
+~
+0 0 6623
+D3
+~
+~
+0 0 6626
+D5
+~
+~
+0 0 6613
+S
+#6623
+The corridor~
+  You are in the corridor, here the walls is
+dirty of blood and the floor is broken.
+There is a door to the north, and a room in the east.
+~
+66 8 0
+D0
+~
+door~
+1 0 6627
+D1
+~
+door~
+0 0 6624
+D3
+~
+~
+0 0 6622
+S
+#6624
+A simple room~
+  A strange glowing light comes from the window.
+A scene that you don't see at a good time, the sun.
+~
+66 0 0
+D3
+~
+~
+0 0 6623
+S
+#6625
+A secret passage~
+  Rats! Only this you can hear in this dark passage.
+~
+66 265 0
+D1
+~
+wall~
+1 0 6618
+S
+#6626
+The corridor~
+This dark and dirty corridor continues weast and east.
+~
+66 9 0
+D1
+~
+~
+0 0 6622
+D3
+~
+~
+0 0 6629
+S
+#6627
+Torture Chamber~
+   You are on a terrifying room...  On the walls you can see alot of torture
+instruments, and constantly you can hear strange screams.    
+~
+66 1 0
+D0
+~
+~
+0 0 6628
+D2
+~
+door~
+1 0 6623
+S
+#6628
+Dark room~
+   Its a small and dark room, with a fireplace on the corner.  Probably you can
+try to enter there.  You can see the torture chamber to south.    
+~
+66 1 0
+D2
+~
+~
+0 0 6627
+S
+#6629
+The end of the corridor~
+   You are in the end of the corridor, there is no door near hear, only a
+strange paint near the west broken window.    
+  The corridor goes east.
+~
+66 1 0
+D1
+~
+~
+0 0 6626
+S
+#6630
+Ragon's room~
+   You are in a huge room, you can see a big throne in the center and some
+ghosts passing the walls.    
+~
+66 1 0
+D1
+~
+~
+0 0 6629
+S
+#6631
+Baltazar Secret Room~
+   You are in Baltazar secret room, it is very small and dark, only a undead
+like him could leave here.    
+~
+66 1 0
+D4
+~
+~
+0 0 6628
+S
+#6632
+Crossin the paint~
+You are crossing the paint. You cannot come back, watchout cause Ragon and his ghost are waiting for you...
+~
+66 1 0
+D3
+~
+~
+0 0 6630
+S
+$~

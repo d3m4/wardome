@@ -1,0 +1,166 @@
+#21500
+small Night claw~
+Nightclaw~
+a small creature with a spikes imbuied on the shoulders stands in front of you.
+~
+It looks unfinished.
+~
+43016 1064 0 E
+15 7 3 1d1+780 5d2+36
+225 25318 3
+8 8 0 0 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21501
+aberration Skincrawler~
+Skincrawler~
+a aberration worned a huge carapace is near you, ready to attack.
+~
+It looks unfinished.
+~
+43016 1064 0 E
+20 4 2 1d1+1032 5d3+38
+300 46736 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21502
+ugly Golgoth~
+Golgoth~
+a ugly one is here, eating some corpses...
+~
+It looks unfinished.
+~
+43016 1064 0 E
+25 2 1 1d1+1296 5d3+40
+375 82407 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21503
+huge abyssal Shadowreaver~
+Shadowreaver~
+a huge abyssal creature carrying a dark power inside.
+~
+It looks unfinished.
+~
+43016 1064 0 E
+30 -1 1 1d1+1560 5d4+42
+450 132376 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21504
+Zhul warrior~
+Zhul~
+a tall warrior doted with great magical power is here.
+~
+It looks unfinished.
+~
+43016 1064 0 E
+35 -3 0 1d1+1812 5d4+44
+525 198985 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21505
+Ter-soth warlock~
+Ter-soth~
+a powerfull abyssal warlock, casting some spells.
+~
+It looks unfinished.
+~
+43018 1192 0 E
+40 -6 0 1d1+2076 5d5+46
+600 284579 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21506
+Qor-Teth lord~
+Qor-Teth~
+The Lord of the Abyssal mutters: "svaraskd svi jadhjarek!"
+~
+It looks unfinished.
+~
+1091594 1192 0 E
+50 -11 -2 1d1+2592 5d6+50
+750 522094 3
+8 8 0 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#21507
+sacarian mad one~
+Sacarian Mad~
+a mad creature with long spikes hair is looking to you.
+~
+It looks unfinished.
+~
+1091592 1192 0 E
+60 -16 -3 1d1+3120 5d7+54
+900 863672 3
+8 8 0 -1 -1
+Att2: 60
+Att3: 20
+Att4: 10
+E
+#21508
+unclean spirit~
+Unclean Spirit~
+you see a ugly spirit wearing white robes
+~
+It looks unfinished.
+~
+1091592 1192 0 E
+65 -18 -4 1d1+3372 5d7+56
+975 1079344 3
+8 8 0 -1 -1
+Att2: 60
+Att3: 20
+Att4: 10
+E
+#21509
+brine fiend~
+Brine Fiend~
+a bog imp scared on the middle of the room.
+~
+It looks unfinished.
+~
+1091592 1192 0 E
+70 -21 -5 1d1+3636 5d8+58
+1050 1328062 3
+8 8 0 -1 -1
+Att2: 60
+Att3: 20
+Att4: 10
+E
+#21510
+Blackwind~
+&wBlack&Wwind&n~
+a huge abyssal dark knight mounted on a huge black horse is here
+~
+It looks unfinished.
+~
+1091594 1192 0 E
+80 -26 -6 1d1+4152 5d9+62
+1200 1934015 3
+8 8 0 -1 -1
+Att2: 80
+Att3: 40
+Att4: 20
+E
+$

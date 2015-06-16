@@ -1,0 +1,106 @@
+#20501
+termine guardian~
+Termine Guardian~
+A Termine Guardian is here protecting the anthill entrance.
+~
+It looks unfinished.
+~
+94 41943176 0 E
+100 -50 -20 1d1+10800 5d31+140
+1500 5133016 10
+8 8 0 0 0
+Att2: 100
+Att3: 70
+Att4: 50
+E
+#20502
+nymph~
+Nymph~
+A Nymph is here, trying to learn something.
+~
+It looks unfinished.
+~
+14 188 0 E
+40 -20 -11 1d1+4320 5d13+116
+600 400687 10
+8 8 0 0 0
+Att2: 60
+Att3: 40
+Att4: 30
+E
+#20503
+termine worker~
+Termine Worker~
+A Termine Worker is here, it looks very busy but happy.
+~
+It looks unfinished.
+~
+14 188 0 E
+60 -30 -14 1d1+6480 5d19+124
+900 1216050 10
+8 8 0 0 0
+Att2: 50
+Att3: 30
+Att4: 30
+E
+#20504
+termites king~
+Termites King~
+The Termites King is here walking arround, waiting the next act.
+~
+It looks unfinished.
+~
+2140 8388796 0 E
+100 -50 -20 1d1+10800 5d31+140
+1500 5133016 10
+8 8 0 0 0
+Att2: 100
+Att3: 70
+Att4: 60
+E
+#20505
+termine soldier~
+Termine Soldier~
+The Termine Soldier stands here ready to attack.
+~
+It looks unfinished.
+~
+12 188 0 E
+80 -40 -17 1d1+8640 5d25+132
+1200 2723094 10
+8 8 0 0 0
+Att2: 70
+Att3: 50
+Att4: 30
+E
+#20506
+egg~
+Egg~
+An white and palpitant egg lies here.
+~
+It looks unfinished.
+~
+2142 536871100 0 E
+75 -37 -16 1d1+8100 5d22+130
+1125 2269938 10
+8 8 0 0 0
+Att2: 65
+Att3: 45
+Att4: 35
+E
+#20507
+termites queen~
+Termites Queen~
+The Termites Queen sits here, giving birth.
+~
+It looks unfinished.
+~
+133214 8388796 0 E
+100 -50 -20 1d1+10800 5d31+140
+1500 5133016 10
+8 8 0 0 0
+Att2: 100
+Att3: 80
+Att4: 60
+E
+$

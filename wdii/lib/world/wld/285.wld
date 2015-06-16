@@ -1,0 +1,780 @@
+#28502
+The gates of the City of Atlantis~
+  Directly south you see a huge pair of gates. These gates appear to be 
+carved almost completely out of coral. A huge city appears to be on the 
+other side of these gates. There is also a possibility of going back north.
+~
+285 0 1
+D0
+North leads you to a raggedy pathway.
+~
+~
+0 0 28422
+D2
+To the south is a strong, sturdy gate.
+~
+gate~
+1 0 28503
+S
+#28503
+The city streets of Atlantis~
+  You walk among the various shops and homes. Most of the doors are closed 
+and only the light from the windows betrays the presence of inhabitants.
+  A cold wind blows through here.  Small streets lead south and east.
+~
+285 0 1
+D0
+~
+gate~
+1 0 28502
+D1
+~
+~
+0 0 28504
+D2
+~
+~
+0 0 28506
+S
+#28504
+Inside the gates of Atlantis~
+  You stand just inside the gates to the city of Atlantis. The city itself
+spreads out in front of you. The buildings are beaut, as they appear to be
+made from the very hard coral. Small city streets lead east and west, while 
+a main road appears to lead south.
+~
+285 0 1
+D0
+~
+gates gate huge~
+1 -1 28502
+D1
+~
+~
+0 -1 28505
+D2
+~
+~
+0 0 28507
+D3
+~
+~
+0 -1 28503
+S
+#28505
+The city streets of Atlantis~
+  You trudge among the streets of Atlantis. The streets themselves are made
+of coraltone and are quite treacherous. Small homes and businesses along
+the street are closed tight and light from their windows throws eerie 
+shadows across the dark street. Small streets lead west and south here.
+~
+285 0 1
+D2
+~
+~
+0 0 28508
+D3
+~
+~
+0 0 28504
+S
+#28506
+The city streets of Atlantis~
+  You trudge through the streets of the city. The street itself is made of
+coraltones and the footing is quite treacherous. To the south, you see 
+what appears to be a small tavern. Bright lights shine through the windows. 
+  Small streets also lead north and east.
+A small sign hangs outside the tavern.
+~
+285 0 1
+D0
+~
+~
+0 0 28503
+D1
+~
+~
+0 -1 28507
+D2
+~
+~
+0 -1 28509
+E
+sign small~
+[]=============[]
+ |   The Inn   |
+ |    of the   |
+ |  Andromeda  |
+ []=============[]
+~
+S
+#28507
+The Square of Atlantis~
+  This appears to be the main square of Atlantis.  Small streets lead east 
+and west. To the north, you see the gates to the city. You also notice a 
+small store to the south.
+  A small sign hangs outside the store.
+~
+285 0 1
+D0
+~
+~
+0 0 28504
+D1
+~
+~
+0 0 28508
+D2
+~
+~
+0 0 28510
+D3
+~
+~
+0 0 28506
+E
+sign~
+[]=========[]
+ |  Equip  |
+ |   Shop  |
+[]=========[]
+~
+S
+#28508
+The streets of Atlantis~
+  You walk among the small stores and homes of Atlantis. The wind blows 
+fiercely. Small streets lead in all directions.  There appears to be a 
+large building to the east, but the sun obscures your view.
+~
+285 0 1
+D0
+~
+~
+0 0 28505
+D1
+~
+~
+0 0 28515
+D2
+~
+~
+0 0 28511
+D3
+~
+~
+0 0 28507
+S
+#28509
+The Inn of the Andromeda~
+  You enter a warm tavern. The room is lit mainly by two huge fireplaces 
+at each end of the room. Small tables and a large bar furnish the room. 
+The inhabitants of the inn are all atlantis of varying size and 
+disposition. Most seem to regard you with suspicion. Few approach you. 
+A large door leads north, out of the bar and back out into the city.
+~
+285 8 0
+D0
+~
+~
+0 0 28506
+S
+#28510
+The Atlantis Equipment Shop~
+  You are in a crude equipment shop. The store is filled with racks of 
+various items that adventurers could use. Large fireplaces light and heat 
+the room.  A large desk occupies the back of the room. The door to the 
+shop lies to the north.
+~
+285 8 0
+D0
+~
+~
+0 0 28507
+S
+#28511
+The Atlantis General Store~
+  You enter a small store that is dark and cold. Old empty shelves line the
+walls and dust blows across the stoney floor. It is evident that this
+store was once used, but it is no more. A small doorway leads north out 
+into the streets of the city.
+~
+285 8 0
+D0
+~
+~
+0 0 28508
+S
+#28512
+Atlantis Master of Warrior's Training Room~
+  This room is full of all sorts of weapons and armours. Pieces of old 
+targets and practice dummies lie all around. The walls are chipped and
+scored from weapon blows. This is obviously the room of an avid warrior. 
+  A arena gate leads east.
+~
+285 8 0
+D1
+~
+arena~
+2 28502 28528
+E
+arena~
+It looks like it leads back to the hall.
+~
+S
+#28513
+Atlantis Master of Mages Study~
+  This room is oure mana. It reeks of evil. the manafield leads west.
+~
+285 9 0
+D1
+~
+manafield~
+2 28503 28529
+E
+manafield~
+It looks like it leads back to the hall.
+~
+S
+#28514
+Atlantis Master of Clerics Inner Sanctum~
+  Idols to Dirk fill the room. White furniture and decorations give
+the room a holy appearance. It is evident that some being of supreme 
+goodness lives here. A white door leads east.
+~
+285 8 0
+D1
+~
+white~
+2 28504 28532
+E
+white~
+It looks like it leads out to the hall.
+~
+S
+#28515
+The road to the Keep of Atlantis~
+  You walk up a steep rocky road. It leads up a steep grade to the east. 
+At the end of this steep road, you see a huge keep. Dust swirls all about 
+you and you feel your throat itch from breathing. Blurry lights to the 
+east and west are all you can see from here.
+~
+285 4 5
+D1
+~
+~
+0 0 28517
+D3
+~
+~
+0 0 28508
+S
+#28516
+A small guard house~
+  You enter a small guard house. A huge fireplace lights and warms the room.
+Looking around, you see that the room is fairly well furnished. Thick rugs
+and curtains help insulate the room and the beds themselves look quite warm.
+  A table in the center of the room has the remnants of a card game strewn
+across it. A small door leads south.
+~
+285 8 0
+D2
+~
+~
+0 0 28517
+S
+#28517
+Before the Keep of Atlantis~
+  You stand before a huge keep that has been carved into the side of the
+mountain. Huge coral gates before you provide entrance to the keep. It
+appears as though the storm here has convinced the guards to seek shelter 
+inside. You see the lights of the city to the west. You also notice small
+guard houses to the north and south.
+~
+285 0 1
+D0
+~
+~
+0 0 28516
+D1
+~
+gate~
+2 28501 28519
+D2
+~
+~
+0 0 28518
+D3
+~
+~
+0 0 28515
+S
+#28518
+A small guard house~
+  You enter a small, but warm, guard house. Deep rugs and thick curtains
+insulate the room. A huge fireplace lights and warms the room. Outside, 
+you hear the roar of the wind. A small door leads north out into the street.
+~
+285 8 0
+D0
+~
+~
+0 0 28517
+S
+#28519
+The entryway to the Keep of Atlantis~
+  You are at the entry hall to the huge keep. The high vaulted ceiling is 
+carved from solid stone. Huge stone pillars rise up from the floor to meet 
+the ceiling far above. The architecture appears to be dwarven. A huge pair 
+of gates stand to the west, protecting the keep from the harsh wind outside.
+A large hall leads east, deeper into the keep.
+~
+285 8 0
+D1
+~
+~
+0 0 28520
+D3
+~
+gate~
+2 28501 28517
+S
+#28520
+The Hall~
+  You are in a huge hall. Large tapestries line the walls and huge statues 
+of various make and appearance are spread about. The ceiling above supports 
+huge candelabras, which light the room. To the east, you see a bright light
+and hear sounds of inhabitation. Looking west, you see the entry gates to 
+the keep.
+~
+285 8 0
+D1
+~
+~
+0 0 28521
+D3
+~
+~
+0 0 28519
+S
+#28521
+The Hallway~
+  You are in the main hall of the Keep of Atlantis. This hall is huge.
+The wide floor of the hall is an expanse of marble. It shimmers in the light 
+thrown off by the torches that line the walls. To the east, you see what 
+appears to be a huge golden throne. The hall itself stretches south and 
+a smaller hall leads to the west.
+~
+285 8 0
+D1
+~
+~
+0 0 28523
+D2
+~
+~
+0 0 28522
+D3
+~
+~
+0 0 28520
+S
+#28522
+The Hallway~
+  You stand in the great hall of the keep. Huge pillars rise up to the 
+vaulted ceiling and torch light glimmers off the marble floor here. You 
+are amazed at the sheer size of the hall. The hall itself leads north and 
+east. You notice a smaller hall leading south, deeper into the keep.
+~
+285 8 0
+D0
+~
+~
+0 -1 28521
+D1
+~
+~
+0 0 28524
+D2
+~
+~
+0 -1 28527
+S
+#28523
+Atlantis throne~
+  You stand before the throne of the Master. This golden throne is so huge 
+that it takes up almost the entire wall, stretching far above the floor. 
+Sitting upon it, you feel small and feeble. It is evident that this throne 
+is more of a decoration than anything else. Only the largest of kings 
+could sit upon it.  The hall leads south and west into other parts of 
+the keep.
+~
+285 8 0
+D1
+~
+throne huge golden gold~
+1 0 28525
+D2
+~
+~
+0 0 28524
+D3
+~
+~
+0 0 28521
+E
+throne huge gold golden~
+The golden throne is huge. It takes up the whole wall.........
+~
+S
+#28524
+The Hallway~
+  You are in a great hall. Huge torches light the room and their light 
+shimmers off the marble floor below you. To the north, you see a huge 
+golden throne. Looking up, you grow dizzy at the height to which the 
+vaulted ceiling rises. The hall itself leads north and west.
+~
+285 8 0
+D0
+~
+~
+0 0 28523
+D3
+~
+~
+0 0 28522
+S
+#28525
+The secret hallway~
+  You are in a small, torch lit hall. It leads from east to west.
+A large gold door is to the west. To the east, you see a heavy stone door.
+~
+285 8 0
+D1
+~
+door huge stone~
+2 28510 28526
+D3
+~
+gold throne huge secret~
+1 0 28523
+E
+gold~
+Looks like the back of a secret door of sorts.
+~
+E
+huge stone~
+A very formidable looking door.
+~
+S
+#28526
+Entry to the Atlantis Chambers~
+  You are at the entrance to the royal chambers of the keep.
+A plush shag rug covers the stone floor. Large candelabras hang from the
+ceiling, lighting the room. A huge fireplace warms the room. Beaded doorways
+lead south and east. A huge stone door stands in the west wall.
+~
+285 8 0
+D1
+~
+~
+0 0 28535
+D2
+~
+~
+0 0 28533
+D3
+~
+door huge stone~
+2 28510 28525
+E
+door huge stone~
+A huge stone door.......
+~
+S
+#28527
+The Guard Post~
+  The hall here has been built into a guard post of sorts. It appears as 
+though it would be quite easy to defend in times of emergency. Obviously, 
+something important lies beyond. A small hall leads south, while the main 
+hall can be seen to the north.
+~
+285 8 0
+D0
+~
+~
+0 0 28522
+D2
+~
+~
+0 0 28528
+S
+#28528
+The guarded hall~
+  You walk down a torch lit hallway. It has been carved out of pure stone. 
+It is very quiet in this hall. You notice rows of colored doors on each 
+wall. To your east, you see a holy door. To your west, you see a red 
+door. The hall itself leads south and north.
+~
+285 8 0
+D0
+~
+~
+0 0 28527
+D1
+~
+holy~
+2 28506 28540
+D2
+~
+~
+0 0 28529
+D3
+~
+arena~
+2 28502 28512
+E
+arena~
+You see a arena  door.
+~
+E
+holy~
+  You see a holy door. It has the name "Avatar" written on it.
+~
+S
+#28529
+The guarded hall~
+  You walk down a small, quiet, torch lit hallway. Doors of different colors 
+are in each wall. To your east, you see a arena door. To your west, you 
+see a black door. The hall itself leads north and south.
+~
+285 8 0
+D0
+~
+~
+0 0 28528
+D1
+~
+DeathTrap~
+2 28507 28531
+D2
+~
+~
+0 0 28532
+D3
+~
+manafield~
+2 28503 28513
+E
+manafield~
+You see a blur door. It has the name "Mistery" inscribed on it.
+~
+S
+#28530
+Atlantis Avatar Sanctum~
+  You enter a temple of sorts. A small altar is here and relics of many
+religions lie around. It is evident that this is the room of a studying 
+cleric.  A holy door leads west.
+~
+285 8 0
+D3
+~
+holy~
+2 28506 28528
+E
+holy~
+It looks like it leads back to the hall.
+~
+S
+#28531
+You are dead, sorry~
+Somebody close the door! 
+&RPANIC! You have no way out!&n
+&WYou will probably die...&n
+~
+285 8 0
+D3
+~
+deathtrap~
+2 28507 28529
+E
+deathtrap~
+It looks like it leads back to the hall.
+~
+S
+#28532
+The guarded hall~
+  You walk down a quiet hall. The stone walls here are wet with moisture.
+Colored doors can be seen in the walls here. To your east, you see a green
+door. To your west, you see a white door. The hall itself leads north and
+south.
+~
+285 8 0
+D0
+~
+~
+0 0 28529
+D1
+~
+arena~
+2 28508 28534
+D2
+~
+~
+0 0 28537
+D3
+~
+white~
+2 28504 28514
+E
+white~
+You see a white door here. It has the name "Creon" inscribed on it.
+~
+E
+arena~
+You see a green door here. It has the name "Thesus" written on it.
+~
+S
+#28533
+The Simply Room~
+  This appears to be the harem room of the Keep. Huge piles of furs and beds
+fill the room. The lighting is dim, but the room is very warm. You can hear
+music playing quietly from somewhere. Beaded doorways lead north and east.
+~
+285 8 0
+D0
+~
+~
+0 0 28526
+D1
+~
+~
+0 0 28536
+S
+#28534
+Alantis General of War~
+  This room is filled with all types of natural items. Trees and plants have
+been lovingly cultivated and grown by hand, in large pots. The room is 
+like an indoor garden. A arena door leads west.
+~
+285 8 0
+D3
+~
+arena~
+2 28508 28532
+E
+arena~
+It looks like it leads back to the hall.
+~
+S
+#28535
+The main living room~
+  This room is decorated with sturdy stone furniture that is carved and 
+gilded. Large candles light the room. A thick rug covers the floor. Thick 
+furs and tapestries decorate the walls. Beaded doorways lead south and west.
+~
+285 8 0
+D2
+~
+~
+0 0 28536
+D3
+~
+~
+0 0 28526
+S
+#28536
+The Master of Masters room~
+  This appears to be the master bedroom. A huge bed fills the rooms.
+Piles of furs and other rich furnishings adorn the room. Candles are
+everywhere and they help a huge fireplace light the room. The lavishness of
+the room overwhelms you. Beaded doorways lead north and west.
+~
+285 136 0
+D0
+~
+~
+0 0 28535
+D3
+~
+~
+0 0 28533
+S
+#28537
+The end of the guarded hall~
+  You are at the end of the hall. Colored doors line the walls to the north. 
+To your west, you see a brown door. To you east, you see a grey door. The 
+hall itself leads north back along the rows of doors.
+~
+285 8 0
+D0
+~
+~
+0 0 28532
+D1
+~
+arena~
+2 28509 28538
+D3
+~
+arena~
+2 28505 28539
+E
+arena~
+You see a arena door here.
+~
+E
+arena~
+You see a arena door here.
+~
+S
+#28538
+Atlantis Master of Gladiator~
+  This room is dirty and unkempt. Odds and ends of different items lie all 
+over. It is apparent that some type of pack-rat lives here. It appears as 
+though nothing has ever entered this room and ever left again. A arena door 
+leads west.
+~
+285 8 0
+D3
+~
+arena~
+2 28509 28537
+E
+arena~
+It looks like it leads back to the hall.
+~
+S
+#28539
+Atlantis Master of Thieves~
+  This room is full of green. The furniture and all other items show the 
+color of nature. The room smells of pine and forest odors. From the items 
+here, it appears as though a coralsman of some sorts lives here. A arena 
+door leads east.
+~
+285 8 0
+D1
+~
+arena~
+2 28505 28537
+E
+arena~
+It looks like it leads to the hall.
+~
+S
+#28540
+Atlantis Avatar Sanctum~
+  You enter a temple of sorts. A small altar is here and relics of many
+religions lie around. It is evident that this is the room of a studying 
+cleric.  A holy door leads west.
+~
+285 8 0
+D3
+~
+holy~
+2 28506 28528
+E
+holy~
+It looks like it leads back to the hall.
+~
+S
+$~

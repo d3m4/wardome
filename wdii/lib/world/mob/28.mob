@@ -1,0 +1,30 @@
+#2800
+pit warrior~
+the pit warrior~
+A great warrior is walking here.
+~
+The best warrior.
+~
+8 0 0 E
+80 -20 -2 1d1+3000 12d11+32
+0 1 0
+8 8 0 0 0
+Att2: 80
+Att3: 30
+Att4: 5
+E
+#2801
+kazhisky test ashtaroth~
+The Tester~
+A tester is here.
+~
+It looks unfinished.
+Its a tester.
+
+~
+4194312 0 0 E
+200 20 10 1d1+500000 1d1+0
+0 121000000 12
+3 3 1 11 13
+E
+$

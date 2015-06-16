@@ -1,0 +1,258 @@
+#28401
+a Giant Shark~
+Giant Shark~
+Giant shark smells blood. 
+~
+This fish can sense blood in the water and comes to kill you.
+~
+8 0 0 E
+80 -20 -2 1d1+1442 1d82+40
+3390 1353811 0
+8 8 0 -1 9
+Att2: 90
+Att3: 30
+E
+#28402
+fossil~
+fossil fish~
+A fossil fish just above the waterline is moving straight at you!
+~
+You cannot see many details about this monster because he is inside a deep haze
+He has a black skin, covered with a dark grey mane in the torso.
+He seems to have a bestial smile upon his evil face.
+~
+8 0 0 E
+80 -20 -2 1d1+1442 1d82+40
+3390 1353811 0
+8 8 0 -1 9
+Att2: 90
+Att3: 30
+E
+#28403
+giant crab~
+giant crab~
+a Giant Crab point his two pinchers at you
+~
+The giant crab has a hard, brightly brown shell and two BIG pinchers.
+~
+8 0 0 E
+90 -25 -3 1d1+1712 1d92+45
+4040 1890196 0
+8 8 0 -1 -1
+Att2: 92
+Att3: 36
+E
+#28404
+crazed  orca~
+crazed Orca~
+CrAzEd OrCa grins at you evily as you enter this cave.
+~
+a CrAzEd OrCa grins at you evily as you enter this cave.
+~
+8 0 0 E
+90 -25 -3 1d1+1712 1d92+45
+4040 1890196 0
+8 8 0 -1 -1
+Att2: 92
+Att3: 36
+E
+#28405
+fish monster~
+fish monster~
+a Fish monster raises her eyes at you as you enter this cave.
+~
+The being before you looks like a huge fish of some. Its flat head holds
+water which it needs to breath. The only way you will defeat it is by   
+hitting it so much that the water spills from it's head.
+~
+8 0 0 E
+100 -30 -5 1d1+2000 1d102+50
+4735 2551926 0
+8 8 0 -1 9
+Att2: 96
+Att3: 40
+E
+#28406
+octopus~
+giant octopus~
+a Giant Octopus is comming to hold you. 
+~
+It has 8 tentacles that end in cruel suckers and vicius barbs.
+As you look at it you see that it has no other thoughts than just to kill
+you an eat you raw.
+~
+8 0 0 E
+100 -30 -5 1d1+2000 1d102+50
+4735 2551926 0
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+#28407
+Aquaman~
+Aquaman~
+Aquaman the holy guardian must defeat you.
+~
+the man who fight for his place against intruders.
+~
+8 0 0 E
+200 -80 -20 1d1+5550 1d202+99
+13450 18950627 0
+8 8 0 3 10
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#28408
+Nemo~
+Nemo~
+Nemo the holy guardian gonna stop you.
+~
+This man is a legend!
+~
+8 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 9889522 0
+8 8 0 9 10
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28409
+deep thing~
+deep thing~
+a deep thing raises when you enter his lair.
+~
+this creature is circling around your head some 5 meters above you.
+It looks really angry and screams at you in a highpitched voice.    
+~
+8 0 0 E
+105 -32 -5 1d1+2145 1d107+52
+5085 2933896 0
+8 8 0 -1 10
+Att2: 98
+Att3: 44
+E
+#28410
+Seamon~
+Seamon~
+SeaMon just find your dinner!
+~
+what a hell is it?.
+~
+8 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 11796157 0
+8 8 0 -1 10
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28411
+SeaGora~
+Seagora~
+SeaGora prepares to make you pay for your insolence ... with your lives!
+~
+what a hell is it?.
+~
+8 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 9889522 0
+8 8 0 3 10
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28412
+kraken~
+Kraken~
+Kraken arives in, no salvation.
+~
+A terrific monster...wait a minute! Can you read this?
+~
+256042 25166008 0 E
+199 -150 -30 1d1+8500 3d201+170
+15000 20000000 5
+8 8 0 3 10
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#28413
+child of Atlantis~
+a child of atlantis~
+child of Atlantis doesnt look happy to see you.  
+~
+a child of atlantis, the lost land is here.
+~
+8 0 0 E
+100 -30 -5 1d1+2000 1d102+50
+4735 2551926 0
+8 8 0 -1 10
+Att2: 96
+Att3: 40
+E
+#28414
+guardian~
+Guardian~
+Atlantis Guardian is swimming at you.
+~
+The Guardian is an amazingly beautiful man. Its swimming
+and diving please you.
+~
+8 0 0 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4303916 0
+8 8 0 3 10
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28415
+poseidon~
+Poseidon~
+Poseidon , the Sea God, makes you shiver.
+~
+Poseidon is the Master of 7 Seas.The Ultimate God.The Ultimate Legend
+~
+8 0 0 E
+199 -79 -19 1d1+5509 1d201+99
+13350 18675002 5
+8 8 0 4 -1
+Att2: 100
+Att3: 100
+Att4: 72
+E
+#28416
+neptune~
+Neptune~
+Neptune is here to show you Hela.
+~
+Neptune the Demi-God of 7 Seas. Its eyes are fixed coldly upon you.
+~
+8 0 0 E
+199 -79 -19 1d1+5509 1d201+99
+13350 18675002 2
+8 8 0 9 -1
+Att2: 100
+Att3: 100
+Att4: 72
+E
+#28417
+Man o War Man-o-War~
+Man-o-War~
++The tentacles of a Man-o-War lunge at you.
+~
+The Man-o-War is so ghastly looking that you feel the deepest fear: Big yellow 
+eyes and sharp teeth.  Its ears are very big, and it has small sharp horns.  
+This type of monster is one of the greatest haters of beauty (next after     
+Medusa).
+~
+8 0 0 E
+100 -30 -5 1d1+2000 1d102+50
+4735 2551926 0
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+$

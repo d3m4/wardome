@@ -1,0 +1,1765 @@
+#2700
+&RThe Lord of Ring&n~
+The Entrance of Lord of the Ring Zone
+Welcome...
+~
+27 16777280 3
+D0
+~
+~
+0 0 2701
+S
+#2701
+Entrance of The &gMaze &cof &rDeath&n~
+You have walked into a high ground and from here it's possible to see what
+awaits for you just ahead a maze...  Yes you will have to cross it...  Yes it
+will be difficult, but what kind of hero would be you if you couldn't cross a
+maze ? Enought talking, go now and face you destiny, face THE MAZE
+~
+27 73 3
+D0
+~
+~
+0 0 2701
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2700
+D3
+~
+~
+0 0 2703
+S
+#2702
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2703
+S
+#2703
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 1 3
+D0
+~
+~
+0 0 2702
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2701
+S
+#2704
+Plantation of Maize~
+You are in the middle of a huge corn plantation.  You can feel something
+strange?  But you have to go, keep walking...    
+~
+27 64 5
+D1
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2743
+S
+#2705
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2702
+S
+#2706
+Trail~
+You have to go, RUN!
+~
+27 4 3
+D1
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2704
+S
+#2707
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2707
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2707
+S
+#2708
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2703
+S
+#2709
+Trail~
+Run as fast as you can, the monsters are coming.. 
+~
+27 0 3
+D0
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2706
+S
+#2710
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2710
+D1
+~
+~
+0 0 2707
+D2
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2705
+S
+#2711
+Little Improvised Port~
+When you walk in here, you see a river, and a little shadow running to a boat,
+and you obviously follow him.    
+~
+27 4 3
+D2
+~
+~
+0 0 2709
+S
+#2712
+The &gMaze &cof &rDeath&n~
+Now you are lost...  The walls are huge and you feel like you will never get
+outta here.  You have the sensation of been in this place before...  It's like
+you are walkin in circles.  It don't seems strange, 'cause you think the walls
+are always moving.    
+~
+27 73 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2713
+D2
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2707
+S
+#2713
+&gThe Entrance to &YMiddle Earth's&g Fantasy World&n~
+&gAfter a long journey, you found what you've been looking for.  A new land,
+full of magic and powerful beings wait for you here.  Proceed, if you wish, but
+be warned...  &n
+~
+27 1048788 1
+D0
+~
+~
+0 0 2742
+D3
+~
+~
+0 0 2712
+S
+#2714
+The Entrance to Hobbit Village~
+You stand at the entrance to a small hobbit village.  You have heard about
+these little creatures but you had no idea they really existed.  You wonder how
+many people have seen this village before.  Now go on..  Explore.    
+~
+27 0 1
+D0
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2741
+S
+#2715
+Hobbit Road~
+A small narrow road is continuing through the village.  Hobbit Road continues
+to the north, west, and east.  There is still time to turn back and go south.
+  
+~
+27 0 1
+D0
+~
+~
+0 0 2720
+D1
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2716
+S
+#2716
+Hobbit Road~
+You are at a bend of Hobbit Road.  You can continue down the road to the east
+and north.  You can also visit a hobbit home to the south.    
+~
+27 0 1
+D0
+~
+~
+0 0 2718
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2717
+S
+#2717
+Merry's Hole~
+This home belongs to Merry.  A hobbit who has shared many adventures with
+Frodo.  He is a tough hobbit and if he can carry the sword that is nailed to
+the wall, he must be quite strong.  Better not make him angry with you.  
+Hobbit Road is back to the north.    
+~
+27 0 1
+D0
+~
+~
+0 0 2716
+S
+#2718
+Hobbit Road~
+You are on Hobbit Road.  A hobbit home is to the west.  Took's backyard is to
+the north but you can't go there.  Hobbit Road continues to the south and east.
+  
+~
+27 0 1
+D1
+~
+~
+0 0 2720
+D2
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2719
+S
+#2719
+Sam's Home~
+The home of Sam and Rosa.  The house is all clean and shiny.  Rosa and Sam must
+like to have things clean in case they have visitors.  Maybe you should stay a
+while.  This place is nice.  Hobbit Road to the east.    
+~
+27 0 1
+D1
+~
+~
+0 0 2718
+S
+#2720
+Hobbit Road~
+You continue to stroll down Hobbit Road.  Quite nice when you think of it.  
+Hobbit Road continues its path to the north, west, and south.  A small hobbit
+home lies to the east.    
+~
+27 0 1
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2723
+D2
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2718
+S
+#2721
+Hobbit Road~
+A corner of Hobbit Road is where you stand.  A high fence blocks passage to the
+east or south.  A hobbit home is to the north.  Hobbit Road goes back to the
+west.    
+~
+27 0 1
+D0
+~
+~
+0 0 2722
+D3
+~
+~
+0 0 2715
+S
+#2722
+Bilbo's Home~
+   This is the home of the famous Bilbo. You can see a desk all covered with
+books, but you can't understand a word of it. Maybe it is written in Hobbish.
+Hobbit Road is back to the south.
+~
+27 0 1
+D2
+~
+~
+0 0 2721
+S
+#2723
+Frodo's Home~
+This home looks nice and cosy.  A small sofa is standing in a corner and the
+room is all covered with papers and books.  Frodo must be a hobbit who likes to
+read.  Hobbit Road is back to the west.    
+~
+27 0 1
+D3
+~
+~
+0 0 2720
+S
+#2724
+Hobbit Road~
+You stroll along down Hobbit Road.  It continues north and south here.  To the
+west you can see a small hobbit home.    
+~
+27 0 1
+D0
+~
+~
+0 0 2728
+D1
+~
+~
+0 0 2726
+D2
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2725
+S
+#2725
+Rosa's Home~
+   This is Rosa's home still, since she and Sam aren't legally wedded yet.
+However if she is not here, she is most likely at Sam's. The only exit is to
+the east.
+~
+27 0 1
+D1
+~
+~
+0 0 2724
+S
+#2726
+The Tobacco Garden~
+The greatest tobacco in the world is growing here.  If only you were a
+smoker...  Hobbit Road is back to the west.  Another part of the garden is to
+the north.    
+~
+27 0 1
+D0
+~
+~
+0 0 2727
+D3
+~
+~
+0 0 2724
+S
+#2727
+The Tobacco Garden~
+Another part of the garden.  Small tobacco-leafs is growing here.  The smell is
+driving your nostrils crazy.  It almost makes you forget that you don't smoke.
+Hobbit Road is to the west, while the garden are to the north and south.    
+~
+27 0 1
+D0
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2726
+D3
+~
+~
+0 0 2728
+S
+#2728
+Hobbit Road~
+Hobbit Road continues here.  It leads to the south and comes to an end to the
+north.  A tobacco garden is to the east.  A stone path lies to the west.    
+~
+27 0 1
+D0
+~
+~
+0 0 2732
+D1
+~
+~
+0 0 2727
+D2
+~
+~
+0 0 2724
+D3
+~
+~
+0 0 2729
+S
+#2729
+Stone Path~
+You are walking along a cute little stone path.  To the south lies Tooks's
+house.  A small house is to the west.  Hobbit Road is to the east.  Everything
+is so peaceful here.  You could stay forever.    
+~
+27 0 1
+D1
+~
+~
+0 0 2728
+D2
+~
+door~
+2 2730 2730
+D3
+~
+~
+0 0 2739
+S
+#2730
+Took's House~
+Took's home.  The home of Took.  You have heard stories about this guy.  The
+other hobbits say he is big and strong and some people say he knows his way
+around magic.  You can see a desk here, all covered with papers.  There seems
+to be some magic words but you can't understand them.  A stone path lies to the
+north.    
+~
+27 0 1
+D0
+~
+door~
+2 2730 2729
+S
+#2731
+Tobacco Garden~
+The northern part of the tobacco garden.  It smells just as good as all the
+rest.  Hobbit Road is to the west.  The tobacco garden lies to the south.    
+~
+27 0 1
+D2
+~
+~
+0 0 2727
+D3
+~
+~
+0 0 2732
+S
+#2732
+Hobbit Road~
+A small well lies here in the middle of Hobbit Road.  A fence separates the
+hobbits from the rest of the world to the north.  A small garden is to the
+east.  Hobbit Road continues to to the south and west.    
+~
+27 0 1
+D1
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2728
+D3
+~
+~
+0 0 2733
+S
+#2733
+Hobbit Road~
+Yet another part of Hobbit Road.  To the west is the last section of Hobbit
+Road.  You can go back to the small well to the east.    
+~
+27 0 1
+D1
+~
+~
+0 0 2732
+D3
+~
+~
+0 0 2734
+S
+#2734
+Hobbit Road~
+The last part of Hobbit Road.  You can go back the Hobbit Road to the east.  A
+nice, beautiful, hobbit home is to the south.  In the distance to the north you
+can see the Hobbit mayor's office.    
+~
+27 0 1
+D0
+~
+~
+0 0 2736
+D1
+~
+~
+0 0 2733
+D2
+~
+~
+0 0 2735
+S
+#2735
+Bogo's Hole~
+Bogo, the laughing stock of the hobbit village lives here.  This place is all
+dirty and dusty.  Maybe Bogo is here somewhere, but you are not sure.  Anyway,
+you don't really like the smell of this place.  Hobbit Road is to the north.  
+
+~
+27 0 1
+D0
+~
+~
+0 0 2734
+S
+#2736
+Path to Hobbit Mayor's Office~
+You are walking along a path to the Mayor's office to the North.  Hobbit Road
+lies to the south.    
+~
+27 0 1
+D0
+~
+~
+0 0 2737
+D2
+~
+~
+0 0 2734
+S
+#2737
+Outside Hobbit Mayor's Office~
+You are standing outside the Mayor's office.  You can hear him screaming at his
+employees from inside.  His office is to the north, while Hobbit Road is to the
+south.    
+~
+27 0 1
+D0
+~
+door~
+1 0 2738
+D1
+~
+~
+0 0 2743
+D2
+~
+~
+0 0 2736
+S
+#2738
+The Hobbit Mayor's Office~
+This is the office of the Hobbit Mayor.  You can see a huge desk where he
+usually sits and look busy.  The office is quite large with nice paintings on
+the walls.  The desk is all covered with papers.    
+~
+27 0 1
+D2
+~
+door~
+1 0 2737
+S
+#2739
+Pippin's Home~
+The home of Pippin.  A tough hobbit who has been on many adventures.  You have
+heard rumours about this guy.  People say he is a mean and strong hobbit, just
+like his cousin Merry.  Maybe you should leave before he find you here.  
+Hobbit Road to the east may be your only salvation.    
+~
+27 0 1
+D1
+~
+~
+0 0 2729
+S
+#2740
+A Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  The noise is
+getting stronger to the north.  The road back to the forest lies to the south.
+  
+~
+27 4 1
+D0
+~
+~
+0 0 2714
+D1
+~
+~
+0 0 2740
+D2
+~
+~
+0 0 2741
+D3
+~
+~
+0 0 2740
+S
+#2741
+A Dimly Lit Path~
+This section of the road is badly worn and frequently traversed.  There is some
+noise coming from the north.  The road back to the forest lies to the south.  
+
+~
+27 4 1
+D0
+~
+~
+0 0 2740
+D1
+~
+~
+0 0 2741
+D2
+~
+~
+0 0 2742
+D3
+~
+~
+0 0 2741
+S
+#2742
+A Dimly Lit Path~
+This path is narrow.  REAL narrow.  You draw the conclusion that it wasn't
+man-made.  The path continues north to a village.    
+~
+27 4 1
+D0
+~
+~
+0 0 2741
+D1
+~
+~
+0 0 2713
+D2
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 30085
+S
+#2743
+Plantation of Maize~
+You are in the middle of a huge corn plantation.  You can hear the crows and
+the crickets sing in the middle of the crop.  There is a scarecrow in the
+middle of the corn crop!    
+~
+27 8256 5
+D0
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2737
+S
+#2744
+West Gate of Bree~
+The small town of Bree stands before you.  Many travellers pass through here
+going to and from the Shire.  The road heads to the east, towards the main
+street of Bree.
+You see the town of Bree to the east.
+~
+27 1 1
+D1
+~
+gate~
+1 2744 2745
+S
+#2745
+Inside the West Gate of Bree~
+You are on a short road that runs from the west gate to the main street of
+Bree. The gate is to the west, and the main street is to the east. You notice
+various shops within this small town that are set up to help equip the hardy
+adventurer, and those that aren't so hardy.
+~
+27 0 1
+D0
+~
+~
+0 0 2747
+D1
+~
+~
+0 0 2746
+D3
+~
+gate of bree~
+1 2744 2744
+S
+#2746
+West main street of Bree~
+You are on the small cobblestoned main street of Bree. To the north is the
+northern gate and the start of the Old North Road. The Great East Road turns
+south to go around Bree Hill and continues east into the Greenway. You can see
+that the Hobbits have built their Hobbit Holes into the side of Bree Hill and
+that the local human population has built its houses on the southern side of
+the hill.
+~
+27 0 1
+D0
+~
+~
+0 0 2748
+D1
+~
+~
+0 0 2756
+D2
+~
+~
+0 0 2780
+D3
+~
+~
+0 0 2745
+D4
+~
+~
+0 0 2755
+S
+#2747
+A meeting center~
+This is a meeting-place, set aside by the leaders of Bree for the many
+adventurers, explorers and others who pass through this crossroads town seeking
+long-lost friends or new acquaintances.  It is said that if you spend an hour
+or two here, you can not h or a new enemy.  There truly is nothing remarkable
+about this spot, but it has become the tradition for people to meet here.  
+There is a large sign planted in the ground here.    
+~
+27 0 1
+D2
+~
+~
+0 0 2745
+S
+#2748
+Northern Main Street of Bree~
+You are on the small cobblestoned main street of Bree. The street is
+relatively quiet. The shutters of the shops are partly closed, explainable by
+the recently chilly weather. To the north you can see the north gate and the
+Old Northern Road.
+~
+27 0 1
+D0
+~
+~
+0 0 2752
+D1
+~
+~
+0 0 2751
+D2
+~
+~
+0 0 2746
+D3
+~
+~
+0 0 2749
+S
+#2749
+Bree General Store~
+You are in the general store of Bree.  Basic equipment is sold here.  A
+traveler can find almost any basic piece of equipment that he needs in this
+shop.  The prices are reasonable and the storekeeper is nice, but don't try to
+steal anything or he might get mad.    
+~
+27 0 1
+D0
+~
+~
+0 0 2750
+D1
+~
+~
+0 0 2748
+S
+#2750
+Laryn's Auction House~
+This is a comfortable room that is crowded with people.  There are relaxing
+benches laid around the room which people may rest on as they view the items up
+for bid.  At the head of the room is a platform on which the auctioneer stands.
+There is a large table on which the item up for bidding is placed upon, and a
+lectern which the auctioneer stands behind.  Rules are posted on a huge sign
+hanging on the wall.    
+~
+27 0 1
+D2
+~
+~
+0 0 2749
+S
+#2751
+Post Office~
+This is the local Post Office of Bri. You can 'register' for a box so you can
+send and receive mail here. A heavyset, slightly balding man, sweating
+profusely sits on a chair behind a counter sorting mail.
+~
+27 0 1
+D3
+~
+~
+0 0 2748
+S
+#2752
+North Gate of Bree~
+You are standing at the North Gate of Bree.  The gate has been blocked with
+masonry and stone ever since trouble began brewing up north at Deadmans Dike.
+The citizens think the gate is too close to the Dike to let it be so open to
+attack.  Now the only directions you can take are to your south, back through
+town and eventually to the Great East Road, or east, to the Bree cemetery.
+~
+27 0 1
+D1
+~
+~
+0 0 2753
+D2
+~
+~
+0 0 2748
+S
+#2753
+The Bree Cemetery~
+There is an eerie quiet about this place that makes you feel uneasy.  Yes, the
+wilderness is scary, but it's not as bad as this.  Although, for some strange
+reason, a voice in your head echoes "Rest in peace".  In fact, the only ones
+who seem to rest here are the dead.    
+You stand before the cemetery of Bree.
+~
+27 0 1
+D1
+~
+~
+0 0 2754
+D3
+~
+~
+0 0 2752
+S
+#2754
+A quiet memorial site~
+This corner of the cemetery seems to be set aside for memorials to some of the
+more famous explorers who were born and raised in and around Bree.  It is not a
+site for graves - rather, a pleasant garden spotted with waist-high marble
+tablets.  Each tablet seems to bear the eulogy of one of the fallen.  The green
+grass and occasional tree make the site one of peace and reflection.    
+~
+27 0 1
+D3
+~
+~
+0 0 2753
+S
+#2755
+Arguindel's Trading Post~
+At first, this place appears to be nothing more than an old, run-down shack.  
+Once you take a moment to look around it becomes evident that it is much
+cleaner and newer than it seems.  Rusted pots on the wall and aged dark wood
+floors are used to give the place a rustic feel.  Looking around, everything
+seems spotless and well-taken care of.  There is a large wooden counter in
+front of the north wall with a small sign hanging in front of it.  Behind the
+counter are rows of shelves holding items for trade and sell.    
+~
+27 0 1
+D5
+~
+~
+0 0 2746
+S
+#2756
+East of main street~
+You are on the small cobblestoned main street of Bree.  To the north is the
+Hall of Guilds, an unimposing administrative building.  To the northwest is the
+northern gate of Bree.  The Great East Road turns south to go around Bree Hill
+and continues east into the Greenway.  You can see the entrance to the
+courthouse to the southwest, and the Prancing Pony to the east.    
+~
+27 0 1
+D0
+~
+~
+0 0 2757
+D1
+~
+~
+0 0 2762
+D2
+~
+~
+0 0 2761
+D3
+~
+~
+0 0 2746
+S
+#2757
+Hall of Guilds~
+You have stepped into a grand and open entryway of the Hall of Guilds.  The
+floors and walls are cobbled stone of superior workmanship than the surrounding
+buildings of Bree.  The ceiling is open and you can see the thick wooden beams
+supporting a simple roof.  There are two long tables along the eastern and
+western walls with some uncomfortable looking wooden chairs arranged around
+them for study.  Against the north wall stands a large bookshelf containing
+various books and ledgers about guilds.  To the left of the bookshelf is an
+arched doorway leading further into the hall.    
+The only obvious exits are south and north.
+~
+27 0 0
+D0
+~
+~
+0 0 2758
+D2
+~
+~
+0 0 2756
+S
+#2758
+A large room~
+The most dominant feature of this room is the large rectangular table in the
+middle of the room, surrounded by a dozen chairs.  This room was apparently
+decorated in expectance of a large number of guests.  There is a fireplace on
+the western wall, made with deep red bricks.  A few simple decorations sit on
+top of the mantle, but do little to distract any visitors.  There is a sign
+upon the northern wall, beside a doorway.  There are doors to both the west and
+east, set near the northern wall.    
+~
+27 0 0
+D1
+~
+door ~
+0 0 2760
+D2
+~
+~
+0 0 2757
+D3
+~
+door ~
+0 0 2759
+S
+#2759
+Normal Viewing Room~
+You have entered a smaller room. There are a few wooden chairs around by the
+walls. On the east wall to the far north side, you see a large framed opening.
+It is covered with thin pieces of material so you cannot see into that room,
+but you can hear ever There is a doorway on the east wall, to the far south
+side leading to the main room from which you entered here.
+~
+27 0 0
+D1
+~
+~
+0 0 2758
+S
+#2760
+Quiet Viewing Room~
+You have entered a smaller room.  There are a few wooden chairs around by the
+walls.  On the west wall to the far north side, you see a large framed opening.
+It is covered with thin pieces of material so you cannot see into that room,
+but you can hear ever There is a doorway on the west wall, to the far south
+side leading to the main room from which you entered here.  If you wish to talk
+to others you must go to the other viewing room.    
+~
+27 0 0
+D3
+~
+~
+0 0 2758
+S
+#2761
+The Port Royale Smokeshop~
+This shop is filled with the spicy aroma of pipe smoke and fresh tobacco.  
+Against one wall stands a large counter.  On the counter are two small,
+gilt-lettered signs, one of which lists the various pipes for sale, and the
+other listing the blends of tobacco.  Behind the counter stands Jeffrey the
+proprietor, observing you with a slight frown on his face.    
+~
+27 0 1
+D0
+~
+~
+0 0 2756
+S
+#2762
+East main street of Bree~
+You are standing outside of an Inn, which can be entered to the north.  The
+sign hanging over the door indicates it is The Prancing Pony.  Rumors abound
+throughout your travels about the hospitality and good times to be had here.  
+You have heard that it is the best in town.  An arrow on the wall points the
+way to where horses can be stabled.  You can see a children's playground to the
+south, and at times you can probably hear their laughter from here.    
+~
+27 0 1
+D0
+~
+~
+0 0 2765
+D1
+~
+~
+0 0 2777
+D2
+~
+~
+0 0 2763
+D3
+~
+~
+0 0 2756
+S
+#2763
+Bree Playground~
+You are in the playground of Bree.  This is where the children come to frolic
+and play.  The energy shown by these children makes you think about renting a
+room at the the Prancing Pony.  The playground is covered with grass and large
+trees provide more than adequate shade for a hot summer Bree day.    
+You see a sandbox where children can dig around and play.
+~
+27 0 1
+D0
+~
+~
+0 0 2762
+D5
+~
+~
+0 0 2764
+S
+#2764
+Bree Sandbox~
+This is the children's sandbox of Bree. Little ones can come here to dig in
+the sand and generally have a blast. The large trees provide shade for the
+youngsters and keep them from getting burned.   
+~
+27 0 1
+D4
+~
+~
+0 0 2763
+S
+#2765
+Prancing Pony Common Room~
+You have entered the bustling common room of the Prancing Pony, Bree's largest
+and best-known inn and tavern.  This is a meeting place for all manner of
+travelers along the Great East Road and Greenway.  Barliman Butterbur, the
+innkeeper, is serving ale to There are private rooms to the northeast of the
+common room.  A large clock ticks loudly on the mantel.  A menu is mounted on
+the wall.  Go ahead and order anything you like from the menu.
+~
+27 0 1
+D0
+~
+~
+0 0 2766
+D1
+~
+~
+0 0 2767
+D2
+~
+~
+0 0 2762
+S
+#2766
+Prancing Pony Inn~
+You have entered a hallway that heads back into Bree hill.  There is a parlour
+to the north and private sleeping rooms to the east.  Most patrons live
+upstairs because that is where the rooms are cheapest.  The rooms that you can
+rent to sleep in are upstairs as well.   
+~
+27 0 1
+D0
+~
+~
+0 0 2774
+D1
+~
+~
+0 0 2769
+D2
+~
+~
+0 0 2765
+D4
+~
+~
+0 0 2768
+S
+#2767
+Prancing Pony Kitchen~
+You are in the kitchen of the Prancing Pony.  This is where Mrs.  Butterbur
+cooks for the patrons in the common room.  There is a freshly baked loaf of
+bread on the counter, and another one still baking in the oven.  The aroma is
+mouth-watering.    
+~
+27 0 1
+D3
+~
+~
+0 0 2765
+S
+#2768
+Prancing Pony Private Renting Room~
+This is a private room at the Prancing Pony.  It feels relatively ordinary,
+with a simple bed and night stand upon the sturdy hardwood floor.  
+Nevertheless, it is neat, tidy, and most certainly comfortable.  A small flight
+of stairs goes back down to the in
+~
+27 0 1
+D5
+~
+~
+0 0 2766
+S
+#2769
+Prancing Pony Hallway~
+You are in the main hallway of the Prancing Pony.  The hallway heads into the
+side of the hill, back towards the private rooms.  You can hear the cheerful
+noise of the common room to the west.    
+~
+27 0 1
+D0
+~
+~
+0 0 2773
+D1
+~
+~
+0 0 2771
+D2
+~
+~
+0 0 2770
+D3
+~
+~
+0 0 2766
+S
+#2770
+Prancing Pony Private Dining Room~
+You are in a private dining room.  This is where the Butterburs entertain their
+guests.  There are a few chairs around a humble table.    
+~
+27 0 1
+D0
+~
+~
+0 0 2769
+S
+#2771
+Prancing Pony Hallway~
+You are in the main hallway of the Prancing Pony Inn.
+~
+27 0 1
+D0
+~
+~
+0 0 2772
+D3
+~
+~
+0 0 2769
+S
+#2772
+Prancing Pony Hobbit Room~
+You are in a room with small beds, and you guess that they are for hobbits.  
+The sheets and pillows are ripped apart, as if someone or something has hacked
+at it with a sword.  The room is a mess, with the window broken and broken bits
+of bed everywhere.  You pity the person that was sleeping here when this
+happened.    
+~
+27 0 1
+D2
+~
+~
+0 0 2771
+S
+#2773
+Prancing Pony Private sleeping Room~
+You are in the private sleeping chambers of Mr.  And Mrs.  Butterbur, the
+innkeepers of the Prancing Pony.  The room is sparsely decorated because the
+Butterburs spend most of their time in other parts of the Inn.  The bed,
+however, looks very comfortable and you feel drawn to rest on it.    
+~
+27 0 1
+D2
+~
+~
+0 0 2769
+S
+#2774
+Prancing Pony Parlour Room~
+You are in the parlor of the Prancing Pony Inn.  This is where guests come to
+be alone to smoke their pipes in peace or read a good book.  There is a small
+fire in the fireplace that keeps the room at a comfortable temperature.  To the
+west, you hear the hubbub of people playing Acro, a game that is popular with
+the folk in Bree-Land.
+~
+27 0 1
+D0
+~
+~
+0 0 2775
+D2
+~
+~
+0 0 2766
+D3
+~
+~
+0 0 2776
+S
+#2775
+Prancing Pony Council Room~
+You are in the Council room of the Prancing Pony Inn.  By decree of the High
+Council of Arda, this room has been fashioned to keep the people informed of
+the goings on in Minas Tirith.  The walls are painted white and the room is
+clean and fresh.  Here you can rest, relax, and update yourself with current
+events.  A sign is posted here.    
+~
+27 0 1
+D2
+~
+~
+0 0 2774
+S
+#2776
+The Acro parlour~
+You stand in a huge circular room.  Surrounding you are numerous wooden benches
+occupied by hobbits and strange-looking humans.  All of them seem to be paying
+attention to a really fat hobbit lad standing alone in the middle of the hall.
+On the walls are pictures of past Acro champions and a list of scheduled games.
+Welcome to the Acro hall!  A huge chalkboard is attached to the door you might
+be able to learn a thing or two by reading it.    
+~
+27 0 1
+D1
+~
+~
+0 0 2774
+S
+#2777
+Prancing Pony Inn Yard~
+You are standing in the Inn Yard of The Prancing Pony.  This is where local
+citizens and adventurers alike can have their horses and ponies fed, watered,
+brushed, and generally tended.  To the west is the entrance to the Prancing
+Pony, and to the south is the stable.  Off to the side is a small half door
+behind which a stout man is working furiously on repairing the leather tack.  
+~
+27 0 1
+D2
+~
+~
+0 0 2778
+D3
+~
+~
+0 0 2762
+S
+#2778
+Prancing Pony Stable~
+You are standing in the stables of the Prancing Pony Inn.  The smell of horse
+droppings is everywhere.  In the corner of the stable is a hatch that goes down
+into the stable cellar.    
+~
+27 0 1
+D0
+~
+~
+0 0 2777
+D5
+~
+~
+0 0 2779
+S
+#2779
+Prancing Pony Stable~
+This is the cellar of the Bri stables.  The smell of hay and horse droppings is
+overpowering.  There is very little of notice down here except an iron grate on
+the floor by the far wall.    
+~
+27 0 1
+D4
+~
+~
+0 0 2778
+S
+#2780
+South main street of Bree~
+You are on the small cobblestoned main street of Bree.  The street is lightly
+populated.  There are a few stores here where you can get basic supplies for
+your journeys.  To the east is the Bree Courthouse, where many a wrongdoer has
+been forced to pay for crimes committed.  The road continues to the south. 
+~
+27 0 1
+D0
+~
+~
+0 0 2746
+D1
+~
+~
+0 0 2782
+D2
+~
+~
+0 0 2783
+D3
+~
+~
+0 0 2781
+S
+#2781
+The Rangers Hall~
+You are in a large hall.  Various plaques and paintings of long dead heroes of
+nature adorn the walls.  There are long tables here piled with food fresh from
+the forest.  Rangers lounge here resting from their walks to who knows where.
+This is a good place for rangers-in-training to make contacts and learn more
+about their skills.    
+~
+27 0 1
+D1
+~
+~
+0 0 2780
+S
+#2782
+The Courthouse~
+You are in the local courthouse for Bree.  A wizened old man sits behind a huge
+worn bench.  You get the feeling that many a criminal has regretted coming here
+for you have no doubt that this Judge will give the maximum penalty available
+for any crime.  There is a plaque on the wall explaining the procedure of the
+courthouse, please read it.
+~
+27 0 1
+D3
+~
+~
+0 0 2780
+S
+#2783
+Outside Ferny's Place~
+You are on the small cobblestoned main street of Bree.  The street is barely
+populated here.  It is as if everyone in town avoids this place.  You see a
+ratty house to the south and a sign on the gate that says "Ferny".  You
+remember one of the guards saying something about a ratty old man named Ferny.
+To the east is the southern gate of Bree and the continuation of the Great East
+Road, now known as the Greenway.    
+~
+27 0 1
+D0
+~
+~
+0 0 2780
+D1
+~
+~
+0 0 2784
+D2
+~
+~
+0 0 2785
+S
+#2784
+South Gate of Bree~
+You are at the southern gate of Bree.  The Great East Road heads off east to
+Weathertop, a talked about hill that is used by travellers as a rest point when
+travelling in this region.  The road heads west into Bree where any adventurer
+can find good food, ale, and a nice comfortable bed.  The Greenway continues
+southwest.  The Great East Road continues east.  You see the town of Bree to the
+west.   
+~
+27 0 1
+D1
+~
+gate~
+1 2744 2788
+D3
+~
+~
+0 0 2783
+S
+#2785
+Ferny's Yard~
+You are in a small yard that has been overgrown by grass and weeds.  A gate
+leads north to the main street of Bree.  A small, neglected path leads south to
+the door of a house.  This Ferny character must be a real sloth!
+~
+27 0 1
+D0
+~
+~
+0 0 2783
+D2
+~
+door~
+1 0 2786
+S
+#2786
+Inside Ferny's Place~
+You have gained admittance to the house of Bill Ferny.  The house is quite dark
+on the inside, due to drawn curtains.  You stand in the foyer, and can see that
+the house is actually quite nice on the inside...  In contrast to the outer
+appearance.    
+~
+27 0 1
+D0
+~
+door~
+1 0 2785
+S
+#2787
+The Boat room~
+You are searching for someone or something, you dont know, its dark and cold.
+You can see plants and fruits but you cant eat them.  You can see your friends,
+but you have fear at you back.  You have to get out of here, to Bri and you
+JUMP!  In the boat.    
+~
+27 524296 7
+T
+2744 1 3 0
+S
+#2788
+&wA Dark &gForest&n~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 5 3
+D2
+~
+~
+0 0 2789
+D3
+~
+gate~
+1 2744 2784
+S
+#2789
+&wA Dark &gForest&n ~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 5 3
+D0
+~
+~
+0 0 2788
+D1
+~
+~
+0 0 2790
+S
+#2790
+&wA Dark &gForest&n ~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 5 3
+D3
+~
+~
+0 0 2789
+D4
+~
+~
+0 0 2791
+S
+#2791
+A Good Place To Rest.~
+It seems that someone just a few hours ago seted up a camp in here, the
+fireplace it's still warm.  You may take a rest here if you want, it seems to
+be safe enough.    
+~
+27 1048581 4
+D4
+~
+~
+0 0 2792
+D5
+~
+~
+0 0 2790
+S
+#2792
+Ermes Ruined Place~
+You are in the ruins of Ermes.  In the darkness, you can see Dark Knights.  
+They're known as Nazgul.    
+~
+27 65 5
+D1
+~
+~
+0 0 2793
+D5
+~
+~
+0 0 2791
+S
+#2793
+&wA Dark &gForest&n~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 69 3
+D1
+~
+~
+0 0 2794
+D3
+~
+~
+0 0 2792
+S
+#2794
+&wA Dark &gForest&n~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 69 3
+D2
+~
+~
+0 0 2795
+D3
+~
+~
+0 0 2793
+S
+#2795
+&wA Dark &gForest&n~
+When you enter into the florest, you see many retorced and ugly trees.  The
+leafs in the floor reaches your knees, and you breath catches up a smell of
+death and decadence.    
+~
+27 65 3
+D0
+~
+~
+0 0 2794
+D2
+~
+~
+0 0 2796
+S
+#2796
+&BRiver's Edge&n~
+You are in edge of river that is born in Valfenda.    
+~
+27 64 6
+D0
+~
+~
+0 0 2795
+D1
+~
+~
+0 0 2797
+S
+#2797
+&bMiddle of the River&n~
+&nYou are in &CHoly &BWaters&n, and feel a &yGreat &WAura of Peace&n and
+&wHarmony&n envolving you while you walk further into the river.    
+~
+27 64 6
+D1
+~
+~
+0 0 2798
+D3
+~
+~
+0 0 2796
+S
+#2798
+&BRiver's Edge&n~
+As you come closer of Valfenda, you feel some strange Aura arround you.  Your
+sixth sense must not be working today.  You have no idea if this feeling is
+good or bad.  Go ahead and find out if you have the guts to do it.    
+~
+27 68 6
+D1
+~
+~
+0 0 2799
+D3
+~
+~
+0 0 2797
+S
+#2799
+&WA Light &GForest&n~
+&nWhen you enter this room, you feel a &WPeacefull Aura &nsurrounding you.  
+You realize that whonever lives here is fullifed with &yJoy &nand &WPeace&n.  
+
+~
+27 68 3
+D1
+~
+~
+0 0 10100
+D3
+~
+~
+0 0 2798
+S
+$~

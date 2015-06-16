@@ -1,0 +1,148 @@
+This is METAFONT, Version 2.7182 (Web2C 7.3.1) (base=mf 2000.3.7)  17 NOV 2001 17:28
+**95.mob 95.new
+(95.mob
+! Enormous number has been reduced.
+l.1 #9500
+         
+? 
+>> #4095.99998GateGuard~Attlantis.Gateguard~The.Attlantis.Gateguard.is.here
+! Isolated expression.
+<to be read again> 
+                   ,
+l.4 The Attlantis Gateguard is here,
+                                     keeping the entrance of the city.
+? 
+! Extra tokens will be flushed.
+<to be read again> 
+                   ,
+l.4 The Attlantis Gateguard is here,
+                                     keeping the entrance of the city.
+? 
+! Enormous number has been reduced.
+l.8 147530
+           0 0 E
+? 
+! Enormous number has been reduced.
+l.10 790 92663
+               5
+? 
+! Enormous number has been reduced.
+l.15 #9501
+          
+? 
+! Enormous number has been reduced.
+l.24 385114
+            595624064 0 E
+? 
+! Enormous number has been reduced.
+l.24 385114 595624064
+                      0 E
+? 
+! Enormous number has been reduced.
+l.26 790 92663
+               1
+? 
+! Enormous number has been reduced.
+l.31 #9502
+          
+? 
+! Enormous number has been reduced.
+l.40 605 57685
+               6
+? 
+! Enormous number has been reduced.
+l.44 #9503
+          
+? 
+! Enormous number has been reduced.
+l.53 2780 929644
+                 0
+? 
+! Enormous number has been reduced.
+l.58 #9504
+          
+? 
+! Enormous number has been reduced.
+l.67 790 92663
+               5
+? 
+! Enormous number has been reduced.
+l.71 #9505
+          
+? 
+! Enormous number has been reduced.
+l.80 710 77366
+               5
+? 
+! Enormous number has been reduced.
+l.84 #9506
+          
+? 
+! Enormous number has been reduced.
+l.93 605 57685
+               6
+? 
+! Enormous number has been reduced.
+l.97 #9507
+          
+? q
+OK, entering batchmode...
+! Enormous number has been reduced.
+l.106 1210 199205
+                  4
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.111 #9508
+           
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.120 910 119136
+                 5
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.125 #9509
+           
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.134 1685 365466
+                  2
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.139 #9510
+           
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+! Enormous number has been reduced.
+l.148 1785 407039
+                  2
+I can't handle numbers bigger than about 4095.99998;
+so I've changed your constant to that maximum amount.
+
+)
+! File ended while scanning to the end of the statement.
+<inserted text> 
+                ;
+<*> 95.mob
+           95.new
+A previous error seems to have propagated,
+causing me to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> 95.mob 95.new
+                 
+*** (job aborted, no legal end found)
+
+

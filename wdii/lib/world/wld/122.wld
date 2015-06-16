@@ -1,0 +1,3192 @@
+#12200
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 5 1
+D0
+~
+~
+0 -1 12204
+D1
+~
+~
+0 -1 12200
+D2
+~
+~
+0 -1 12200
+D3
+~
+~
+0 -1 12200
+D4
+~
+door~
+1 0 20000
+D5
+~
+~
+0 0 13102
+S
+#12201
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12202
+D1
+~
+~
+0 -1 12201
+D2
+~
+~
+0 -1 12201
+D3
+~
+~
+0 -1 12205
+S
+#12202
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12202
+D1
+~
+~
+0 -1 12203
+D2
+~
+~
+0 -1 12201
+D3
+~
+~
+0 -1 12204
+S
+#12203
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12203
+D1
+~
+~
+0 -1 12203
+D2
+~
+~
+0 -1 12203
+D3
+~
+~
+0 -1 12202
+S
+#12204
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12204
+D1
+~
+~
+0 -1 12202
+D2
+~
+~
+0 -1 12200
+D3
+~
+~
+0 -1 12204
+S
+#12205
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12205
+D1
+~
+~
+0 -1 12201
+D2
+~
+~
+0 -1 12205
+D3
+~
+~
+0 -1 12207
+S
+#12206
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12371
+D1
+~
+~
+0 -1 12206
+D2
+~
+~
+0 -1 12207
+D3
+~
+~
+0 -1 12208
+S
+#12207
+The Icy Wastes~
+You wander blindly through the blizzard, your footsteps being completely
+covered in seconds behind you, making it impossible to judge exactly how
+far you have travelled. Anything dropped here is quickly buried under tons
+of fresh snow. A creature howls somewhere nearby; you doubt these barren
+wastes are home to anything benign...
+~
+122 1 1
+D0
+~
+~
+0 -1 12206
+D1
+~
+~
+0 -1 12205
+D2
+~
+~
+0 -1 12207
+D3
+~
+~
+0 -1 12207
+S
+#12208
+The Icy Wastes~
+The blizzard is less fierce at this point, and as you peer through the
+blinding snow you think you can make out a glittering bridge in the
+distance. But no matter how much you try to reach it, it always seems
+to be too far away. At a loss, you wander aimlessly, not knowing what
+to do.
+~
+122 4 1
+D0
+~
+~
+0 -1 12209
+D1
+~
+~
+0 -1 12206
+D2
+~
+~
+0 -1 12208
+D3
+~
+~
+0 -1 12208
+S
+#12209
+Before Bifrost~
+You arrive suddenly, at the eastern end of Bifrost, the mighty rainbow
+bridge that allows entrance into Asgard, realm of the Aesir. Standing
+upon this bridge is Heimdall, sworn guardian of the Rainbow Bridge,
+protecting Asgard from the giants of Jotunheim or other foes who might
+seek to cross it and enter the home of the gods.
+~
+122 16777216 1
+D2
+~
+~
+0 -1 12208
+D3
+~
+~
+0 -1 12210
+S
+#12210
+Bifrost~
+The rainbow bridge shimmers beneath your feet, sending shivers through
+your frame, and you pause more than once to stare in awe out over the
+starry expanse it spans. To the west lies a small collection of lodges,
+homes of the Aesir, gods of Midgaard. In the center of these houses arises
+a mighty tree- Yggdrasil, the tree of life, the one tree, the tree that
+joins all.
+~
+122 0 1
+D1
+~
+~
+0 -1 12209
+D3
+~
+~
+0 -1 12211
+S
+#12211
+Asgard~
+The bridge ends at a cobbled road that runs west towards a series of
+wooden lodges, arranged about the boughs of Yggdrasil. A narrow path
+runs up from here to the edge of a cliff; you think you can smell the
+sea. The streets of the realm of the Aesir are quiet; few footprints
+mark the light coating of snow that covers most of the region.
+~
+122 0 1
+D1
+~
+~
+0 -1 12210
+D3
+~
+~
+0 -1 12213
+D4
+~
+~
+0 -1 12212
+S
+#12212
+The Shores of the Sea~
+You are standing at the edge of a wind driven sea; choppy waves break
+over the rocky shoreline near your feet. A chill wind numbs your bones
+and you shiver as you try to peer across the foggy depths. An occasional
+roar, as of some behemoth uttering its own particular profanity, echoes
+across the sea, and you imagine you can see something- something large,
+very large- shifting about under the waters.
+~
+122 4 4
+D0
+~
+~
+0 -1 12352
+D5
+~
+~
+0 -1 12211
+S
+#12213
+Yggdrasil~
+You are standing at the middle branches of Yggdrasil, holy tree upon
+which all the planes converge. By ascending or descending the mighty
+boughs of this magnificent tree, you may reach various other sections of
+Asgard, including Valhalla, Vanaheim, Alfheim, Hel and Gladsheim.
+A cobbled path continues west into the main streets of the homes of the
+Aesir.
+~
+122 0 3
+D0
+~
+~
+0 -1 12226
+D1
+~
+~
+0 -1 12211
+D2
+~
+~
+0 -1 12320
+D3
+~
+~
+0 -1 12264
+D4
+~
+~
+0 -1 12214
+D5
+~
+~
+0 -1 12395
+S
+#12214
+Vanaheim~
+You find it remarkably easy to scale the mighty boughs of Yggrdrasil,
+achieving a considerable rate of ascent as you clamber ever upward into
+the top levels of the Tree of Life. At various points, branches run away
+from the tree, heading into various parts of the Realm of the Gods; one
+such branch extends into a leafy forest to the south.
+~
+122 4 3
+D2
+~
+~
+0 -1 12215
+D4
+~
+~
+0 -1 12284
+D5
+~
+~
+0 -1 12213
+S
+#12215
+Entering Alfheim~
+Towering trees, their branches heavy with snow, loom to either side of
+a narrow dirt track that bears the imprints of many pairs of booted
+feet and animal hooves. The air here is sharp, and fresh, and you inhale
+great gusts with pleasure. Small songbirds chirp loudly as they flutter
+about the massive oaks, pines and aspens of Alfheim, realm of the elves
+and their ruler, Frey.
+~
+122 0 3
+D0
+~
+~
+0 -1 12214
+D1
+~
+~
+0 -1 12216
+S
+#12216
+Alfheim~
+The path continues into the depths of this famous glade, widening
+considerably as it passes more stretches of forest, the trees extending
+as far as you can see. Laughter and song is carried in on the wind from
+the east, and you feel several pairs of eyes watching you from the safety
+of the trees at all times.
+~
+122 0 3
+D1
+~
+~
+0 -1 12217
+D3
+~
+~
+0 -1 12215
+S
+#12217
+Alfheim~
+At this point a clear bubbling stream cuts across the path, which
+diverts to the south accordingly to avoid the plesant obstruction.
+A variety of small fish swim in its clear flowing waters, oblivious
+to your presence. Occasionally a bird will flutter down to investigate
+the wake caused by a fish passing close to the surface, then return,
+disinterested, to the haven of its nest.
+~
+122 0 3
+D2
+~
+~
+0 -1 12218
+D3
+~
+~
+0 -1 12216
+S
+#12218
+Alfheim~
+The path bends again here, heading east once more, the stream having
+emptied into a large depression in the soft ground between some large
+trees to the north. This curious sinkhole descends to other parts of
+Valhalla, places not meant to be seen by mortal eyes. Nor is Alfheim
+really, actually.
+~
+122 0 3
+D0
+~
+~
+0 -1 12217
+D1
+~
+~
+0 -1 12219
+S
+#12219
+Alfheim~
+You cannot remember having ever been in a more peaceful forest than
+this one; strolling casually beneath the protective overhanging boughs
+of the mighty trees of Vanaheim you feel totally at ease. You know that
+no harm will come to you in this place, unless of course you provoke
+such an action from the realm's inhabitants, who will react with
+understandable zeal to protect their haven.
+~
+122 0 3
+D1
+~
+~
+0 -1 12221
+D3
+~
+~
+0 -1 12218
+S
+#12220
+The Heart of Alfheim~
+The path ends in a small clearing, from which several lodges lead,
+each housing a lord of Alfheim or one of their many allies and minions,
+though Frey and Freya would be loathe to label their friends as the
+latter. Music fills the air, the clear tenor of a superb skald raised
+in harmonious praise of this wondrous realm. Small animals such as
+squirrels, badgers and dogs rush about, scampering and frolicking in
+abandon, confident in the protection of their elven lord. Frey is indeed
+fortunate in his residence; what god could want for a more peaceful
+domicile?
+~
+122 0 2
+D0
+~
+~
+0 -1 12224
+D1
+~
+~
+0 -1 12223
+D2
+~
+~
+0 -1 12221
+D3
+~
+~
+0 -1 12222
+S
+#12221
+Approaching the Wooden Lodges~
+The ground becomes harder here, and the path much wider, as it approaches
+a small collection of wooden lodges to the north, undoubtedly the
+residences of the lords of this realm. Few mortals indeed have traversed
+this far into the home of Frey and Freya, and it is with not a small
+degree of trepidation that you advance upon those known to most as gods.
+~
+122 0 3
+D0
+~
+~
+0 -1 12220
+D3
+~
+~
+0 -1 12219
+S
+#12222
+Stables of Blodug-Hofi~
+Although these magnificent stables that you have entered appear to be
+capable of housing three score of mighty warhorses, there is evidence
+of but one steed being quartered here; the steed of Frey and thus considered
+worthy of such accommodations. Stout oak rafters support a thatched roof,
+while the whitewashed walls are filled with hooks that bear various tack
+and saddle care items, as well as several mammoth sacks of oats.
+~
+122 8 0
+D1
+~
+~
+0 -1 12220
+S
+#12223
+Stables of Gullin-Bursti~
+Equally magnificent as the counterpart to the west, these stables
+contain a single chariot, large enough to easily carry a dozen men,
+and a large pile of fresh straw, upon which Gullin-Bursti, boar of
+Frey, rests when weary, which is seldom indeed for the sturdy porcine
+pet. He draws Frey's chariot when the mood takes Frey to travel about
+in it, and is never far from his master's side.
+~
+122 8 0
+D3
+~
+~
+0 -1 12220
+S
+#12224
+The Lodge of Frey and Freya~
+The interior of this long wooden lodge is filled with all manner of
+trappings, from pelts taken from wild animals slain in the hunt to
+a range of trophies sequestered away from their giant and orcish owners,
+whom where all slain or driven away by Frey and his pets. A series of
+crossed spears topped by boarhide shields line a narrow ledge set three
+feet below the ceiling signifies this as the home of a norse god, who
+despite his peaceful demeanour and surrounds is quite capable of performing
+admirably alongside his peers when battling enemies of Asgard.
+~
+122 8 0
+D0
+~
+~
+0 -1 12225
+D2
+~
+~
+0 -1 12220
+S
+#12225
+The Lodge of Frey and Freya~
+This spacious room contains beds and furniture aplenty, more than you
+would think was normally required by two people, and also contains a
+massive mirror through which the Vanir may observe goings-on in other
+parts of the world. Freya spends much of her time here, attended by her
+Valkyries, watching over the world or weaving magical garments.
+~
+122 8 0
+D2
+~
+~
+0 -1 12224
+S
+#12226
+A Side Street~
+This narrow cobbled lane leads north towards a small shrine, where the
+Aesir may spend time in quiet contemplation, a rare occurence for the
+naturally boisterous gods.
+~
+122 0 1
+D0
+~
+~
+0 -1 12227
+D2
+~
+~
+0 -1 12213
+S
+#12227
+A Shrine~
+This small chamber is barely large enough for three adults to stand
+side by side, before the flickering torchlit mural that depicts
+ragnarok, the fate all Aesir cannot avoid, which will mean their dooms
+and the end of their reign. Such fatalism seems ignorant to you, but you
+have little understanding of the ways of gods.
+~
+122 8 0
+D2
+~
+~
+0 -1 12226
+S
+#12260
+Outside the Chambers~
+The stairs end before a solid wooden door, which speaks in volumes
+by its closed and locked state of those within's desire not to be
+disturbed. Especially by upstarts from Midgaard! Warmth radiates through
+the wooden portal, presumably from a blazing fire within. Shaking your
+head, you wonder if it might not be worth risking the wrath of the Aesir
+to share a little of that warmth.
+~
+122 8 0
+D3
+~
+gate~
+1 0 12297
+D5
+~
+~
+0 -1 12261
+S
+#12261
+The Western End of the Hall~
+At this point a broad stair ascends to the second level of the lodge,
+wherein the private council chambers of the Aesir and Odin himself are
+located. Barred at all times to non-aesir, those who do somehow manage
+to gain entrance can expect a rough reception if they are caught in the
+midst of their transgression. A few small chairs have been arranged here,
+for those Aesir who desire a bit of peace and quiet.
+~
+122 8 0
+D1
+~
+~
+0 -1 12262
+D4
+~
+~
+0 -1 12260
+S
+#12262
+The Halls of the Aesir~
+You pass into a low ceilinged lodge, the interior of which is heavily
+decorated with various trophies, mementoes and a profusion of animal
+hides. It is in this hall, bathed in firelight, that the Aesir gather
+to sing songs, listen to tales, and drink copious quantities of ale as
+the mood takes them.
+~
+122 8 0
+D1
+~
+~
+0 -1 12263
+D3
+~
+~
+0 -1 12261
+S
+#12263
+Before the Halls of the Aesir~
+To the west of here lies the impressive lodge that serves as the gathering
+place for the Aesir, in times of war as well as peace. It is an elaborate
+affair, decorated with ornate carvings of the gods at work and play,
+including events such as the coming of the Aesir, the defeat of the giants
+of Jotunheim, and the eventual coming of Ragnarak, which is the inevitable
+fate of the fate-obsessed Aesir.
+~
+122 0 1
+D1
+~
+~
+0 -1 12264
+D3
+~
+~
+0 -1 12262
+S
+#12264
+A Second Path~
+At this point the main road is joined by a second path that runs north
+towards a large lodge house, which is the residence of Thor, god of
+thunder and mightiest of the Aesir warriors. Southwards lies a grove
+of apple trees, tended by Idun, who protects the source of the Aesir's
+immortality with her life.
+~
+122 0 1
+D0
+~
+~
+0 -1 12265
+D1
+~
+~
+0 -1 12213
+D2
+~
+~
+0 -1 12301
+D3
+~
+~
+0 -1 12263
+S
+#12265
+Thor's Lodge~
+The cobbled path ends outside a small lodge, within which one of the
+greatest of the Aesir, Thor, resides with his wife Sif, goddess of
+ skill in battle. The thunder god is an open, friendly sort, and is
+always happy to have visitors, provided they do not threaten his home
+or his beloved family.
+~
+122 0 1
+D2
+~
+~
+0 -1 12264
+D3
+~
+~
+0 -1 12266
+S
+#12266
+Thor's Home~
+The interior of this small lodge is plain, but practical. A small fire
+burns in a stone fireplace, above which hang items such as a hunting
+spear, a skald's lyre, a boarhide shield, a horned helm, and many, many
+giant skulls, most of them bearing evidence of the sledgehammer blows that
+felled them. Large bearskin rugs cover the walls and floor, which is of
+dressed stone.
+~
+122 9 0
+D0
+~
+~
+0 -1 12267
+D1
+~
+~
+0 -1 12265
+D3
+~
+~
+0 -1 12268
+D4
+~
+~
+0 -1 12269
+S
+#12267
+A Stables~
+This small chamber houses Thor's magical goats, which bear his chariot
+when he is at war or journeying across the planes. They are rare, magical
+beasts that can never be slain; each morning they regenerate to their
+previous forms, and thus provide an endless source of nourishment for
+the thunder god and whoever dines with him.
+~
+122 8 0
+D2
+~
+~
+0 -1 12266
+S
+#12268
+A Bedroom~
+Thor and his wife Sif were recently blessed with a son, who lives in
+this sparsely furnished chamber. At first you think it rather cold of
+the child's parents not to provide him with toys or furniture, but you
+quickly realize that the child's strength is so great that he
+inadvertently breaks almost anything they give him.
+~
+122 8 0
+D1
+~
+~
+0 -1 12266
+S
+#12269
+A Bed Chamber~
+This is the room where Thor lies with his wife, the beautiful warrior
+goddess Sif, whose skill with the sword and spear is legendary. Few
+indeed will stand before her twin blades; even amongst the Aesir her
+skill is respected and acknowledged. Sif does not adventure as much as
+she used to these days, but she still keeps practicing her legendary
+battle skills.
+~
+122 8 0
+D5
+~
+~
+0 -1 12266
+S
+#12284
+Yggdrasil~
+Yggdrasil soars high into the heavens, reaching up as far as you can
+see, though your view is obscured by the many leafy branches, most of
+them as thick as an elephant. Climbing is remarkably easy, and you
+suspect that some enchantment may facilitate this. Up above lies the
+top branches of the tree, and the residence of Odin himself, the ruler
+of the Aesir.
+~
+122 0 3
+D4
+~
+~
+0 -1 12285
+D5
+~
+~
+0 -1 12214
+S
+#12285
+The Top of Yggdrasil~
+You have climbed as high as is humanly possible up Yggdrasil; to go
+any higher than this would take you into the airless void that surrounds
+the plane of Asgard. To the east, a massive wooden lodge looms. This must
+be the home of Odin and Frigga, and their servants and family. Undoubtedly
+they would not appreciate any intrustion into this, their most private
+place.
+~
+122 0 3
+D1
+~
+~
+0 -1 12286
+D5
+~
+~
+0 -1 12284
+S
+#12286
+Valaskialf~
+Looming before you to the north, across a broad snowfield, is the
+impressive abode of Odin, known to man and god alike as Valaskialf.
+In here, Odin keeps his most treasured possessions and closest allies,
+as well as his legendary throne. Who knows what treasures may be found
+within these mighty wooden walls?
+~
+122 0 2
+D0
+~
+~
+0 -1 12290
+D3
+~
+~
+0 -1 12285
+S
+#12287
+A Small Bedchamber~
+Odin's resting place, where he lies with Frigga when he is in need
+of rest, is a simple affair, consisting of a bed covered in thick
+animal furs, and a small fireplace which perpetually burns at various
+temperatures when commanded thusly by Frigga, who is a master of the
+elements.
+~
+122 8 0
+D1
+~
+~
+0 -1 12288
+S
+#12288
+The Private Quarters of Odin and Frigga~
+The stairs end in a small chamber, lit by a small fire blazing away
+in the hearth, and decorated with various trophies of Odin and Frigga.
+There is little here of real value; they do not seek to acquire loads
+of booty or treasure. Instead, the majority of the items take the form
+of trinkets and personal mementos, as well as gifts from their friends
+amongst the Aesir and Vanir, and the Modsogner and Durin dwarves.
+~
+122 8 0
+D3
+~
+~
+0 -1 12287
+D5
+~
+~
+0 -1 12289
+S
+#12289
+A Stairway to the Next Level~
+Located behind Hlidskialf is a small stair, heading up to the second
+level, where the private chambers of Odin and Frigga are located.
+No mortals are welcome here; you can expect resistance if you continue
+in this direction. An eerie whistling sound can be heard at irregular
+intervals; it is the icy winds gusting past the solid walls of the palace.
+~
+122 8 0
+D2
+~
+~
+0 -1 12299
+D4
+~
+~
+0 -1 12288
+S
+#12290
+Before the Gates of Valaskialf~
+The gates of Valaskialf are of wood bound with mithril, and glow
+oddly, the result of an enchantment that prevents them being forced
+open by strength, thus deterring any giants who feel brave enough to
+challenge the ruler of the Aesir. Runes carved into the rough hewn
+surface label the place as Valaskialf, and as the Home of Odin. They
+give off a brilliant glow, almost blinding in its intensity, and almost
+unbearable for your mortal eyes to behold. There is no sign of a lock
+or bar, yet the doors remain firm and refuse to yield when you push against
+them.
+~
+122 4 2
+D0
+~
+gate~
+1 0 12291
+D2
+~
+~
+0 -1 12286
+S
+#12291
+The Entrance Hall~
+The gates open onto a long hallway, lit by guttering torches that belch
+forth volumes of smoke from their metal sconces set in the wood support
+beams of the walls. Bearskins line the stone floor, and various weapons
+line the walls, interspersed by other trophies and ornaments; most notably
+various artifacts of the giants, taken in war by Odin or his legions.
+~
+122 8 0
+D0
+~
+~
+0 -1 12299
+D2
+~
+~
+1 -1 12290
+S
+#12292
+A Stables~
+This stable has but a single stall, but it is wide enough to house
+three war horses. The space is necessary, however, to quarter Odin's
+mighty steed Sleipner, a muscular eight legged beast that bears Odin
+upon its broad back in war and in peace. Capable of traversing great
+distances in seconds, Sleipner is Odin's most trusted pet.
+~
+122 8 0
+D0
+~
+~
+0 -1 12294
+S
+#12293
+A Kennels~
+This section of Odin's palace houses his great wolves, Freke and Gere,
+who serve Odin as companions, bodyguards, scouts and sometimes even
+as steeds, for they are ten feet in length and as strong as ten horses.
+Odin also sets them upon miscreant or blasphemous mortals, when the
+need arises for such punishment.
+~
+122 8 0
+D2
+~
+~
+0 -1 12294
+S
+#12294
+The Eastern Wing of the Palace~
+This half of the palace houses the various pets of Odin, whom he regards
+as close friends as well as servants, and quarters them accordingly, as
+would befit the friends of a god. Despite the presence of animals, there is
+no distinctive odor as one would normally associate with such places; further
+testimony to the magical nature of these creatures.
+~
+122 8 0
+D0
+~
+~
+0 -1 12293
+D2
+~
+~
+0 -1 12292
+D3
+~
+~
+0 -1 12299
+S
+#12295
+A Lofty Nest~
+Odin's ravens reside here, in a large nest which has been constructed
+to suit their simple needs. They are frequently send abroad by Odin
+to spy on Jotunheim, Midgaard or other parts of Gladsheim. Various
+shiny objects of the sort birds are attracted by are woven into the
+nest.
+
+Peering over the edge, you can see the snowy plains of Asgard far
+below, and the towering branches of Yggdrasil, the top of which is
+not far from here.
+~
+122 8 1
+D5
+~
+trapdoor~
+1 0 12296
+S
+#12296
+A Stairway to...~
+A small stair heads up to a trapdoor here, opening onto the roof of
+Valaskialf and whatever it quarters. Magical forces here prevent the
+trapdoor remaining open, and thus protect the interior from the elements.
+~
+122 8 0
+D1
+~
+~
+0 -1 12299
+D4
+~
+trapdoor~
+1 0 12295
+S
+#12297
+Odin's Private Council Chambers~
+It is here that Odin confers with his fellow Aesir on matters of
+grave import, seated about the oak table that rests before the hearth.
+Papers and maps are scattered all over the table along with the occasional
+sword or hammer scar, where an angry Aesir has vented his wrath more than
+once on the hapless furniture. Statues rest in each corner of the room
+depicting each of the four elements. Large bearskins have been nailed to
+the walls, and a white dragon hide dominates the high wooden ceiling.
+~
+122 12 0
+D1
+~
+gate~
+1 0 12260
+E
+white dragon hide~
+The hide was taken from the body of a large white dragon, slain by
+Thor and his sons, and was brought here as a gift to Odin and the other
+Aesir. Large patches of the skin are heavily abraded, evidence of the
+mighty blows struck it by Mjolnir.
+~
+E
+statue element~
+Each bear a small inscription-
+Fire, Earth, Wind and Water; take me to my sacred altar
+~
+S
+#12298
+Gladshelf~
+This is Odin's private place of reflection. You shouldn't be here...
+~
+122 276 1
+S
+#12299
+Before Hlidskialf~
+Few people indeed outside the Aesir have been inside Valaskialf, and
+Odin likes it that way. This is his private residence; he prefers to
+conduct official business in his council chambers, or, more rarely, at
+appointed places in Midgaard. The interior of the main hall is similar
+to most Aesir lodges, save that the main chamber bears a massive throne,
+placed before a roaring fireplace.
+~
+122 8 0
+D0
+~
+~
+0 -1 12289
+D1
+~
+~
+0 -1 12294
+D2
+~
+~
+0 -1 12291
+D3
+~
+~
+0 -1 12296
+S
+#12300
+The Durin Forge~
+This chamber is bathed in a reddish glow, its source the roaring blaze
+that provides the great heat necessary to forge the many weapons these
+ancient and proud dwarves produce. It was in these fires that Mjolnir
+itself was forged, for Thor, and other wondrous relics of the Aesir and
+Vanir alike. The heat is oppressive and unbearable for long periods of
+time.
+~
+122 8 0
+D1
+~
+~
+0 -1 12311
+S
+#12301
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D0
+~
+~
+0 -1 12264
+D1
+~
+~
+0 -1 12303
+D2
+~
+~
+0 -1 12302
+D3
+~
+~
+0 -1 12306
+S
+#12302
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D0
+~
+~
+0 -1 12301
+S
+#12303
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D2
+~
+~
+0 -1 12304
+D3
+~
+~
+0 -1 12301
+S
+#12304
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D0
+~
+~
+0 -1 12303
+D1
+~
+~
+0 -1 12305
+D3
+~
+~
+0 -1 12309
+S
+#12305
+A Clearing in the Grove~
+At this point there is a small clearing in the grove, a circular grassy
+area surrounded by a ring of the same magical apple trees found everywhere
+else in this unusual place. A magical aura so strong that even nonspellcasters
+can sense it pervades this entire area.
+~
+122 16 2
+D3
+~
+~
+0 -1 12304
+S
+#12306
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D1
+~
+~
+0 -1 12301
+D2
+~
+~
+0 -1 12307
+S
+#12307
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D0
+~
+~
+0 -1 12306
+D1
+~
+~
+0 -1 12309
+D3
+~
+~
+0 -1 12308
+S
+#12308
+A Clearing in the Grove~
+At this point there is a small clearing in the grove, a circular grassy
+area surrounded by a ring of the same magical apple trees found everywhere
+else in this unusual place. A magical aura so strong that even nonspellcasters
+can sense it pervades this entire area.
+~
+122 0 2
+D1
+~
+~
+0 -1 12307
+S
+#12309
+The Apple Orchard~
+Apple trees of all shapes and sizes, each surrounded by white auras of
+magical energies, surround you on all sides, each bearing a heavy load
+of the magical apples that sustain the immortality of the Aesir. Thus
+this grove is of significant importance to the Aesir; should their many
+enemies somehow sabotage the growth of these apples their very existences
+would be in dire jeopardy.
+~
+122 0 3
+D1
+~
+~
+0 -1 12304
+D3
+~
+~
+0 -1 12307
+S
+#12310
+The Chambers of Fjalar~
+This large stony hall houses Flajar, the greatest of the Durin and a
+fearsome warrior and giantslayer. Feared and respected by friend and
+foe alike, his power in combat is not to be scoffed at, despite his
+diminutive stature. His abode is simple, and spartan, as you'd expect
+of this sworn soldier of the Durin. Relics from previous victories are
+his only vanities- several giant skulls, and weapons, plus the hide of
+a polar bear and a white dragon.
+~
+122 8 0
+D3
+~
+~
+0 -1 12311
+S
+#12311
+The End of the Tunnel~
+The long tunnel ends here, at a junction, where two large chambers lie
+to the west and east. The gothic architecture of this place never
+ceases to amaze you; intricate stonework inlaid over the centuries
+with complex patterns and sculptings. Ancient banners hang from dark
+metal rods, while suits of armor and crossed axes line a ledge at head
+height (to a dwarf). Despite the fact that the inhabitants are rarely
+over five feet in height, the ceiling is a good twenty feet above you.
+~
+122 8 0
+D1
+~
+~
+0 -1 12310
+D2
+~
+~
+0 -1 12312
+D3
+~
+~
+0 -1 12300
+S
+#12312
+A Junction~
+Several tunnels meet here, branching off into the gloom of the Durin
+cave complex. Inhabitants are few; war and time have ravaged their
+numbers, and they know that one day their race will die out, as all
+things eventually do. These halls are a testament, however, to this
+race's long and glorious history, of war and of excellence in the art
+of smithing and stonemasonry.
+~
+122 8 0
+D0
+~
+~
+0 -1 12311
+D1
+~
+~
+0 -1 12317
+D3
+~
+~
+0 -1 12313
+S
+#12313
+A Bend in the Tunnel~
+The tunnel bends here, heading east towards a junction. Smoldering
+brands thrust into iron cressets mounted on the finished walls cast
+a little light through the pervasive subterranean gloom, while a dim
+glow, from light reflecting off uncut gemstones piled near the walls,
+is also visible. The dwarves live where they work, here in the mines
+of their ancestors.
+~
+122 8 0
+D1
+~
+~
+0 -1 12312
+D2
+~
+~
+0 -1 12314
+S
+#12314
+The Tunnels of the Durin~
+The Durin live in vast subterranean complexes, like their sworn enemy
+the giants, though it is there that the similarity ends. For while
+giant lairs are dark, grim places with little to recommend them, the
+tunnels of the Durin are of finished stone, inlaid with intricately
+carved murals that are indicative of the superb skill of the artisans.
+Statues of their ancestors line the walls, seeming to support the roof
+of the tunnels that serve as their income and their residences.
+~
+122 8 0
+D0
+~
+~
+0 -1 12313
+D4
+~
+~
+0 -1 12315
+S
+#12315
+Descending into the Darkness~
+The tunnel descends steeply, the walls showing signs of working with
+tools, though only in parts, where a vein of minerals has been found
+by these expert miners and stonemasons. Few dwarves can be found in
+here; their numbers are small, and dwindling by the decade. One day
+these halls will be the sole reminder that this proud and ancient
+race ever existed.
+~
+122 8 0
+D4
+~
+~
+0 -1 12316
+D5
+~
+~
+0 -1 12314
+S
+#12316
+A Guard Cave~
+A small cave, of unworked stone, contains but a single visible exit-
+a tunnel that descends sharply into the darkness below and whatever
+it contains. There is a small campfire here, doubtless used by the
+alert sentry posted here by the doughty Durin, to stand guard here.
+Raids by the giants are undoubtedly frequent, and thus the need for
+tight security.
+~
+122 8 0
+D4
+~
+~
+0 -1 12361
+D5
+~
+~
+0 -1 12315
+S
+#12317
+The Mines~
+Rich veins of copper, silver and mithril are visible even to the novice
+miner's eye in the rough walls of this section of tunnel. The Durin are
+in the process of mining this section, thus the rough surfaces, and are
+hoping to extract the wealth from here before the giants drive them out
+yet again, forcing them to seek another new lair. It is hoped that the
+wealth accumulated here will enable them to fund their seemingly futile
+effort to defeat all giantkind.
+~
+122 8 0
+D1
+~
+~
+0 -1 12318
+D3
+~
+~
+0 -1 12312
+S
+#12318
+The Mines~
+This rough hewn tunnel is dimly lit, and thus you stumble more than
+once on a pick or pile of ore, or bang into a mine cart as you make
+your way through the mine. Workers ignore you, intent on salvaging
+what they may from the natural reserves of precious metals before it
+is too late.
+~
+122 0 1
+D2
+~
+~
+0 -1 12319
+D3
+~
+~
+0 -1 12317
+S
+#12319
+The Mines~
+This point marks the limit of Durin excavation; the wall to the south
+shows signs of having been dug at, though not extensively as there is
+sufficient to keep the miners occupied in the veins already unearthed.
+Piles of metal awaiting refinement lie next to several carts, ready to
+be taken to the smith.
+~
+122 0 1
+D0
+~
+~
+0 -1 12318
+S
+#12320
+The Hall of Forseti~
+You stride into the protective shelter of a hall that appears to be
+composed entirely of gold and other precious metals; the effect is quite
+dazzling and you blink in disbelief. All this gold! So little time to
+try and steal it... Shaking yourself free of such delusions, you peer about
+and note the many representations of Law and Order, and realize that the
+owner of this mighty hall is undoubtedly of honorable mein and equally
+undoubtedly quite capable of preventing vandalism or theft of his wealth.
+~
+122 8 0
+D0
+~
+~
+0 -1 12213
+D2
+~
+~
+0 -1 12321
+S
+#12321
+Glitner~
+The hall that serves as home to Balder's son certainly lives up to its
+name. Every surface gleams in your light, and you cannot help but be
+impressed by the casual display of such an abundance of precious metals.
+No wonder that mortals speak in awestruck tones of Forseti's golden,
+glittering hall. The god himself sits in a simple wooden chair, from
+which he dispenses justice or advice as requested by his companions and
+family.
+~
+122 8 0
+D0
+~
+~
+0 -1 12320
+D1
+~
+~
+0 -1 12322
+D3
+~
+~
+0 -1 12323
+S
+#12322
+A Wing of the Hall~
+Forseti stores a variety of items here, of value ranging from mundane
+to fantastic. The majority of the items are quite large and bulky, and
+would be impossible to move without pack animals. Some of the items,
+however, appear to be more portable...
+~
+122 8 0
+D3
+~
+~
+0 -1 12321
+S
+#12323
+A Wing of the Hall~
+Forseti stores a variety of items here, of value ranging from mundane
+to fantastic. The majority of the items are quite large and bulky, and
+would be impossible to move without pack animals. Some of the items,
+however, appear to be more portable...
+~
+122 8 0
+D1
+~
+~
+0 -1 12321
+S
+#12324
+Valhalla~
+Gazing eastward, your eyes widen as you see a broad plain littered
+with corpses, their blood staining the snow a deep crimson. You suddenly
+realize that you are gazing upon the fields of Valhalla, where the fabled
+Einheriar do battle daily, in preparation for Ragnarok. Long wooden lodges
+encircle the plain, where the Einheriar rest between their neverending
+series of battles.
+~
+122 4 2
+D1
+~
+~
+0 -1 12325
+D3
+~
+~
+0 -1 12395
+S
+#12325
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12326
+D1
+~
+~
+0 -1 12329
+D2
+~
+~
+0 -1 12327
+D3
+~
+~
+0 -1 12324
+S
+#12326
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D1
+~
+~
+0 -1 12328
+D2
+~
+~
+0 -1 12325
+S
+#12327
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12325
+D1
+~
+~
+0 -1 12330
+S
+#12328
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D1
+~
+~
+0 -1 12331
+D2
+~
+~
+0 -1 12329
+D3
+~
+~
+0 -1 12326
+S
+#12329
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12328
+D1
+~
+~
+0 -1 12332
+D2
+~
+~
+0 -1 12330
+D3
+~
+~
+0 -1 12325
+S
+#12330
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12329
+D1
+~
+~
+0 -1 12333
+D3
+~
+~
+0 -1 12327
+S
+#12331
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D2
+~
+~
+0 -1 12332
+D3
+~
+~
+0 -1 12328
+S
+#12332
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12331
+D2
+~
+~
+0 -1 12333
+D3
+~
+~
+0 -1 12329
+S
+#12333
+The Fields of Valhalla~
+The bloodsoaked snowfields echo with the clash of sword on shield and the
+cries of men in the midst of bloodlust rages, intent on slaughtering each
+other, preparing for Ragnarok, when they will be led in final battle against
+the giants. Every day, at dawn, their spirits arise from the halls of
+Valhalla, where they are brought by the Valkyries, and they do battle with
+each other till the sun sets, when they rest and engage in revelry.
+~
+122 0 2
+D0
+~
+~
+0 -1 12332
+D3
+~
+~
+0 -1 12330
+S
+#12334
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D1
+~
+~
+0 -1 12359
+D2
+~
+~
+0 -1 12335
+S
+#12335
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D0
+~
+~
+0 -1 12334
+D1
+~
+~
+0 -1 12358
+D2
+~
+~
+0 -1 12336
+S
+#12336
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D0
+~
+~
+0 -1 12335
+D1
+~
+~
+0 -1 12357
+S
+#12337
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D2
+~
+~
+0 -1 12338
+D3
+~
+~
+0 -1 12359
+S
+#12338
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D0
+~
+~
+0 -1 12337
+D2
+~
+~
+0 -1 12339
+D3
+~
+~
+0 -1 12358
+S
+#12339
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 4 1
+D0
+~
+~
+0 -1 12338
+D3
+~
+~
+0 -1 12357
+S
+#12340
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12341
+D1
+~
+~
+0 -1 12343
+D2
+~
+~
+0 -1 12347
+D3
+~
+~
+0 -1 12355
+S
+#12341
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12342
+D1
+~
+~
+0 -1 12344
+D2
+~
+~
+0 -1 12340
+D3
+~
+~
+0 -1 12354
+S
+#12342
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12347
+D1
+~
+~
+0 -1 12345
+D2
+~
+~
+0 -1 12341
+D3
+~
+~
+0 -1 12353
+S
+#12343
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12344
+D1
+~
+~
+0 -1 12352
+D2
+~
+~
+0 -1 12346
+D3
+~
+~
+0 -1 12340
+S
+#12344
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 4 7
+D0
+~
+~
+0 -1 12345
+D1
+~
+~
+0 -1 12351
+D2
+~
+~
+0 -1 12343
+D3
+~
+~
+0 -1 12341
+S
+#12345
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12346
+D1
+~
+~
+0 -1 12350
+D2
+~
+~
+0 -1 12344
+D3
+~
+~
+0 -1 12342
+S
+#12346
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12343
+D1
+~
+~
+0 -1 12349
+D2
+~
+~
+0 -1 12345
+D3
+~
+~
+0 -1 12347
+S
+#12347
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12340
+D1
+~
+~
+0 -1 12346
+D2
+~
+~
+0 -1 12342
+D3
+~
+~
+0 -1 12348
+S
+#12348
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12355
+D1
+~
+~
+0 -1 12347
+D2
+~
+~
+0 -1 12353
+D3
+~
+~
+0 -1 12349
+S
+#12349
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12352
+D1
+~
+~
+0 -1 12348
+D2
+~
+~
+0 -1 12350
+D3
+~
+~
+0 -1 12346
+S
+#12350
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 4 7
+D0
+~
+~
+0 -1 12349
+D1
+~
+~
+0 -1 12353
+D2
+~
+~
+0 -1 12351
+D3
+~
+~
+0 -1 12345
+S
+#12351
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12350
+D1
+~
+~
+0 -1 12354
+D2
+~
+~
+0 -1 12352
+D3
+~
+~
+0 -1 12344
+S
+#12352
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12351
+D1
+~
+~
+0 -1 12355
+D2
+~
+~
+0 -1 12349
+D3
+~
+~
+0 -1 12343
+S
+#12353
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam. A truly foolhardy salt
+could dive overboard and swim into the depths.
+~
+122 0 7
+D0
+~
+~
+0 -1 12348
+D1
+~
+~
+0 -1 12342
+D2
+~
+~
+0 -1 12354
+D3
+~
+~
+0 -1 12350
+D5
+~
+~
+0 0 12356
+S
+#12354
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12353
+D1
+~
+~
+0 -1 12341
+D2
+~
+~
+0 -1 12355
+D3
+~
+~
+0 -1 12351
+S
+#12355
+The Storm-Tossed Sea~
+Adrift on the churning, frigid waters, you cannot see land anywhere
+you look. The icy spray freezes on your face, and your hands turn
+blue as you grip onto whatever is keeping you afloat. Only a fool
+would attempt to negotiate these waters; and it is a fool you must
+be, to be out here. Long, dark shapes move silently beneath the
+salty brine, barely visible through the foam.
+~
+122 0 7
+D0
+~
+~
+0 -1 12354
+D1
+~
+~
+0 -1 12340
+D2
+~
+~
+0 -1 12348
+D3
+~
+~
+0 -1 12352
+S
+#12356
+Plunging into the Depths~
+You sink like a stone as you hit the water, quickly swept under by the
+raging sea, which quickly becomes apparent is a blessing; if you can
+survive here, it is much more pleasant than the surface. Schools of
+fish swim past while larger predators dart here and there, snapping at
+them as they flee into the deep blue waters. The water is cold, but is
+kept from freezing you by a warm current that rises from far below the
+surface. This haven from the tempest atop is welcome indeed!
+~
+122 9 2
+D4
+~
+~
+0 -1 12353
+D5
+~
+~
+0 -1 12357
+S
+#12357
+The Marine Court~
+You reach the bottom of the sea, sooner than you expected, and look around.
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 9 2
+D0
+~
+~
+0 -1 12358
+D1
+~
+~
+0 -1 12339
+D3
+~
+~
+0 -1 12336
+D4
+~
+~
+0 -1 12356
+S
+#12358
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 9 2
+D0
+~
+~
+0 -1 12359
+D1
+~
+~
+0 -1 12338
+D2
+~
+~
+0 -1 12357
+D3
+~
+~
+0 -1 12335
+S
+#12359
+The Marine Court~
+A stone courtyard, encrusted with barnacles that tear at your clothing as
+you pass, stretches before you, teeming with all manner of marine life. A
+sense of peace, after escaping the storm, is soon supplanted by a growing
+unease as you regard some of the dark horrors of the depths, never meant
+to be seen by surface dwellers. The master of this domain appears to be
+well guarded.
+~
+122 9 2
+D0
+~
+trapgate~
+2 0 12360
+D1
+~
+~
+0 -1 12337
+D2
+~
+~
+0 -1 12358
+D3
+~
+~
+0 -1 12334
+S
+#12360
+The Throne of the Sea God~
+A rather ominous cave is revealed by shoving the pillar away, and it
+is suddenly difficult to move forwards; a strong current, its source
+magical, pushes at you, and warming you; evidently this is the source
+of the warmth you felt earlier. The cave boasts little of interest,
+save for a large throne of barnacles, that have covered the original
+stone one. To sit on it would invite agony, though its owner appears
+to be able to do so without discomfort.
+~
+122 13 2
+S
+#12361
+A Massive Cavern Complex~
+You pass into a huge cavern, from which numerous passages branch off,
+into the subterranean lairs of the many races that battle over the
+bloody fields of Jotunheim. An uncharacteristically warm breeze wafts
+in from the passages on this level, while the upper and lower exits
+lead to icy dark passages. Skulls and broken weapons litter the floor
+here, the site of many battles between giant and dwarf.
+~
+122 12 0
+D1
+~
+~
+0 -1 12362
+D3
+~
+~
+0 -1 12363
+D4
+~
+~
+0 -1 12372
+D5
+~
+~
+0 -1 12316
+S
+#12362
+The Realm of Fire~
+A narrow twisting tunnel lit by flaming gases winds into the bowels of
+the earth, the heat causing you to sweat profusely, it is entirely
+unexpected after the freezing cold of the rest of Asgard. Long shadows
+cast by the tall inhabitants of this lair loom menacingly up ahead.
+~
+122 8 0
+D0
+~
+~
+0 -1 12364
+D3
+~
+~
+0 -1 12361
+S
+#12363
+The Realm of Fire~
+You wander into a twisting tunnel, of yellowed stone, lit by flaming
+gases, their source tiny holes in the wall through which they escape
+from some hidden source. Skulls covered in bronze line the walls, and
+grin evilly at those who pass by, heading further into this grim lair.
+~
+122 8 0
+D0
+~
+~
+0 -1 12364
+D1
+~
+~
+0 -1 12361
+D4
+~
+~
+0 0 12380
+S
+#12364
+The Realm of Fire~
+A larger section of the tunnels widens into a cavern, lit by torches
+set in iron cressets, while braziers stacked with coals warm the whole
+room to an uncomfortable temperature. Long, giantish weapons hang on
+the walls, ready to be taken up against the many enemies of the giants
+in times of strife, most commonly when Thor arrives for his regular
+sortie against his mortal enemies.
+~
+122 8 0
+D2
+~
+~
+0 -1 12362
+D3
+~
+~
+0 -1 12363
+D5
+~
+~
+0 -1 12365
+S
+#12365
+The Realm of Fire~
+Downwards the tunnels twist, further into the depths of the mountain,
+heading towards its molten core, which is paradise to the cold hating
+fire giants. Footsteps echo all around you, as giants make their way
+through their subterranean lair, on business of their own. There are
+little decorations in this abode; the giants possess less skill than
+the dwarves in stonemasonry, and less interest.
+~
+122 8 0
+D0
+~
+~
+0 -1 12367
+D3
+~
+~
+0 -1 12366
+D4
+~
+~
+0 -1 12364
+S
+#12366
+The Realm of Fire~
+The tunnel ends in a dead end here, in a cavern used to store various
+supplies taken by the giants when they emerge from their lair to make
+war on Asgard or the Durin. Occasionally a giant force will travel as
+far as Midgaard, to aid their cousins there, though if truth be known
+the giants of your realm are more advanced than these barbaric tribes
+men.
+~
+122 8 0
+D1
+~
+~
+0 -1 12365
+S
+#12367
+The Realm of Fire~
+The tunnel slopes down sharply again; the walls here are smooth and
+featureless, as if they had been worn smooth by water... or lava. It
+would make sense for the fire giants to lair in or near the greatest
+source of heat they could find, and what better source than a rocky
+cave system atop (or within) a volcano? Giants of your own realm are
+similarly inclined.
+~
+122 8 0
+D2
+~
+~
+0 -1 12365
+D5
+~
+~
+0 -1 12368
+S
+#12368
+The Realm of Fire~
+The lava tube continues downwards, before at last levelling out to
+head northeast towards a large cavern, which is so brightly lit as
+to be visible from here, the reddish glow bathing this whole tunnel
+in light. Giants mill about, semi-alert for intruders, but mostly
+impatiently awaiting the next raid.
+~
+122 8 0
+D0
+~
+~
+0 -1 12369
+D4
+~
+~
+0 -1 12367
+S
+#12369
+The Realm of Fire~
+As the tunnel approaches the bright cave it widens, to a point where
+six giants could walk abreast. It is frightening to consider the sheer
+volume of lava it would take to fashion this tunnel, as it melted its
+way through the softer rock, before erupting onto the surface, there
+to add a new layer to the mountain. The master of this realm cannot be
+far from here now.
+~
+122 0 1
+D0
+~
+~
+0 -1 12370
+D2
+~
+~
+0 -1 12368
+S
+#12370
+The Infernal Throne of Surtur~
+Here lies the throne of Surtur, lord of the fire giants. It is a towering
+chair of iron, ablaze with magical flame of brilliant hues of red and blue,
+which cast a blinding light throughout the cavernous halls. Large stone statues
+of fire giants wielding massive swords flank the throne, and line the hall,
+which is a deep red, and is shot through with rivulets of molten lava, the heat
+from which is almost unbearable. The ceiling is of dark stone, and appears to
+have once been the mouth of an active volcano or cinder cone.
+~
+122 8 0
+D2
+~
+~
+0 -1 12369
+S
+#12371
+Jotunheim!~
+You stagger out of the blizzard into a large cave, set in the side
+of a massive mountain that was nearly invisible in the raging blizzard.
+Bones are scattered across the floor, some of them twice the size of you.
+A dreadful, keening wail echoes about the cave, from some unknown source.
+Presumably you have stumbled inadvertently upon the realm of the giants;
+Jotunheim. But how to proceed...?
+~
+122 8 0
+D2
+~
+~
+0 -1 12200
+S
+#12372
+Ascending the Mountain~
+This tunnel rises sharply, heading away from the hot interior back up
+to the chilly upper tunnels of the mountain you are within. You must
+be approaching the lair of the frost giants, who prefer the cold and
+ice more than any native of Asgard and its neighboring realms. It is
+with some reluctance you continue; frost giants of Jotunheim are far
+more powerful than those of Midgaard.
+~
+122 8 0
+D4
+~
+~
+0 -1 12373
+D5
+~
+~
+0 -1 12361
+S
+#12373
+The Icy Caverns~
+The tunnel evens out on an icy ledge, which is not dissimilar to those
+of the legendary realm of the frost giants of Midgaard, known as the
+Glacial Rift. Here, the ice is all that is beneath your feet; it has
+been carved from the frozen water that filled the open spaces in the
+mountain to create tunnels to allow the inhabitants to move through.
+~
+122 8 0
+D0
+~
+~
+0 -1 12374
+D5
+~
+~
+0 -1 12372
+S
+#12374
+The Icy Caverns~
+The ice tunnel continues, winding through the top of the mountain,
+heading presumably towards the master of this icy realm, the mighty
+frost giant known as Thrym, sworn enemy of Aesir and Vanir, and he
+also who it is predicted will with his armies one day slay Thor in
+battle at Ragnarok. Actually, this is Thrym's skewed version of the
+prophecy; the Aesir believe Thor will fall at the hands of the world
+serpent, Jormungand.
+~
+122 8 0
+D2
+~
+~
+0 -1 12373
+D3
+~
+~
+0 -1 12376
+S
+#12375
+The Center of the Blizzard~
+You clamber up the sink hole, and emerge back into the icy wastes,
+though at this point there is a curious lull in the continual storms.
+A massive icy clearing is here, atop a mountain, bearing a massive iron
+spike driven deep into the mountain, to which something of immense size
+is presumably meant to be tethered.
+~
+122 5 2
+S
+#12376
+The Icy Caverns~
+At this point an icy chute ascends sharply, heading up to a ledge on
+top of this massive peak. Snow drifts are piled here, where snow has
+entered the lair from above. Footprints of giants and wolves mark it,
+though few head upwards into the shaft itself, which is accessible
+via a series of hand- and footholds.
+~
+122 8 0
+D0
+~
+~
+0 -1 12378
+D1
+~
+~
+0 -1 12374
+D4
+~
+~
+0 -1 12377
+S
+#12377
+The Icy Chute~
+Onwards and upwards the chute ascends; progress is hampered by frostbite
+in your aching hands, and a constant chill breeze that assaults you,
+blowing ice and snow into your reddened face. When you emerge, snowblind
+and dazed, you hope you can muster enough energy to do battle with what
+awaits.
+~
+122 8 0
+D4
+~
+~
+0 -1 12375
+D5
+~
+~
+0 -1 12376
+S
+#12378
+The Icy Throne of Thrym~
+The chambers of the Frost Giant King, Thrym, lie before you, where the giant
+rests in between battles against the Aesir and the Vanir, with or without his
+sometime ally Surtur. Thrym is a strong giant, nowhere near as strong as
+Surtur, but what he lacks in comparison to the fire giant he more than makes
+up for with his cunning and guile. While Surtur is quite happy to mindlessly
+assault Asgardians in direct combat, Thrym tries to plan and make much more
+intelligent tactical decisions. However, he is still but a giant, and often
+fails in his efforts to outsmart the Aesir, though Loki has been known to aid
+him from time to time.
+~
+122 8 0
+D2
+~
+~
+0 -1 12376
+S
+#12379
+Niflheim~
+The second you step down onto this blackened branch you instinctively
+know you have reached the underworld, where Hel and her minions receive
+the souls of the dishonorable dead, to torment them for eternity. Flame
+has scorched the surrounding foilage here, creating a canopy of ash and
+cinder, which frames a gaping cave entrance to the east, within which you
+will encounter the most malevolent residents of the Tree.
+~
+122 0 3
+D1
+~
+~
+0 -1 12380
+D4
+~
+~
+0 -1 12396
+D5
+~
+~
+0 -1 12397
+S
+#12380
+The Gates of Niflheim~
+Blackened, mangled metal gates rise here, out of a dark field of
+enveloping gloom. A chill runs up and down your spine, despite the
+heat that emanates from blazing fires that fill braziers to either side
+of the gate. Thick smoke chokes your lungs and clouds your vision, and
+the stench of brimstone is strong. Were that you were anywhere but here
+in this fell domain! You can see no way of opening the gate, which is too
+hot to touch and bears no handle or lock besides. Perhaps it is better
+that you do not continue, for to do so could well mean your end.
+~
+122 9 1
+D1
+~
+~
+0 0 12381
+D3
+~
+~
+0 -1 12379
+D5
+~
+~
+0 0 12363
+S
+#12381
+Niflheim~
+Blasted, twisted trees sprout haphazardly from broken, uneven ground
+littered with decaying corpses and burnt skulls. Impaled humans howl
+and scream in pain as they dangle from the horrid implements thrust
+through their bellies. Blood drips from the blackened walls, flowing
+into large pools at your feet. The smell is as diabolical as one would
+expect in such a dire place.
+~
+122 9 0
+D1
+~
+~
+0 -1 12382
+S
+#12382
+Niflheim~
+Fell shapes and shadows hurl themselves at you out of the bloody gloom,
+eager to feast on your body and soul. No mortal would sanely venture
+here unless they were one of the fallen who were deemed unworthy of
+Valhalla. But undaunted you press on, mostly because the edit that you
+passed through to enter this infernal realm has disappeared...
+~
+122 9 0
+D2
+~
+~
+0 -1 12384
+D3
+~
+~
+0 -1 12381
+S
+#12383
+Niflheim~
+Your every sense is assaulted and offended by this realm of the dead;
+it is more than that even, it is a realm of the damned, those totally
+devoid of any hope of redemption. No one would willingly reside in
+such a place, except as its dark master, which Hel is. She is aware
+of all who pass through her realm, and most likely lies in wait not
+far away, eager to teach you a well-deserved lesson.
+~
+122 9 0
+D1
+~
+~
+0 -1 12381
+D3
+~
+~
+0 -1 12384
+S
+#12384
+Niflheim~
+Onwards the corpse-strewn path of bone contines, past blasted trees
+which support the weight of mutilated souls in their branches, who
+cry out for an end to this torment as you pass, an end that no one
+save Hel herself can grant, and there is little hope of her doing so.
+The flayed, limbless trunks of the damned flail about at your feet,
+driven insane by the pain inflicted on their crippled forms.
+~
+122 9 0
+D0
+~
+~
+0 -1 12382
+D1
+~
+~
+0 -1 12383
+D2
+~
+~
+0 -1 12387
+S
+#12385
+A Fiery Death~
+You stumble and topple forwards into the fiery pit, screaming as the
+flesh is blasted from your bones by an immense wave of heat, reducing
+your idiotic mortal form to ash in milliseconds. And while the death
+may have been mercifully quick, the repurcussions of the destruction
+of your mortal form will haunt you for some time...
+~
+122 5 0
+S
+#12386
+Niflheim~
+The path ends abruptly here, before the bottomless pit, from which red
+flames lick at the edge. To proceed in this direction would mean you
+have to plunge into the middle of this fiery pit; an unpalatable choice
+at best. Perhaps you'd prefer the safer course to suicide, which lies
+back to the east, where you may proceed down the bone bridge.
+~
+122 9 0
+D1
+~
+~
+0 -1 12388
+D5
+~
+~
+0 -1 12385
+S
+#12387
+Niflheim~
+The path here skirts a bottomless gorge that looms to the left, filled
+partially by searing flame, into which a multitude of sinners are thrust
+by tiny, grinning imps with pitchforks. The stench of burning flesh is
+overpowering, and threatens to induce nausea, though the sickening odor
+is overshadowed by the sight of bags of naked, screaming children, the
+offspring of the damned, being flung into pits of fire and trampled by
+grinning fiery giants, who take a disturbing pride in their work.
+~
+122 9 0
+D0
+~
+~
+0 -1 12384
+D3
+~
+~
+0 -1 12388
+S
+#12388
+Niflheim~
+At this point a narrow path winds downwards to the southeast, a thin
+frame of bones covered with stretched skin, that descends into the
+gorge, towards whatever may lie at the bottom. The path continues to
+the west along the gorge, but appears to end abruptly at a sheer drop
+into the fiery pit.
+~
+122 9 0
+D1
+~
+~
+0 -1 12387
+D2
+~
+~
+0 -1 12389
+D3
+~
+~
+0 -1 12386
+S
+#12389
+The Bridge of Bone~
+The bone path you are following stretches across the gorge, the flames
+failing to reach the bridge itself, though the immense heat is still
+almost overwhelming. On the far side, it reaches a dark hole which
+plunges down into the gloomy depths, towards whatever may lie there in
+wait for you. Shrieking, flaming bats circle the bridge, soaring far
+above and below, not coming too close.
+~
+122 9 0
+D0
+~
+~
+0 -1 12388
+D5
+~
+~
+0 -1 12390
+S
+#12390
+The Dark Pit~
+You plunge downwards into the pit, striking the soft earth at the very
+bottom, sinking in to your knees in the bloodsoaked dirt. Peering up,
+you see that the top of the pit is some distance away, and a magical
+enchantment would be required to head back that way. Footprints in the
+dirt show that you are not the first to have ventured this far.
+~
+122 9 2
+D3
+~
+~
+0 -1 12391
+D4
+~
+~
+0 -1 12389
+S
+#12391
+Niflheim~
+The earth hardens here, forcing you out as it compresses into a hard,
+stony substance that yields little underfoot. A dank, dusty odor fills
+the air, though the area is devoid of corpses; only blank stone walls
+are visible, stretching far to the south. The odor from the pit to the
+east makes you keen to press on. More bodies can be seen to the south;
+the respite was only brief.
+~
+122 9 0
+D1
+~
+~
+0 -1 12390
+D2
+~
+~
+0 -1 12394
+S
+#12392
+A Lonely Death~
+As you step into the cave, the entrance mysteriously disappears, leaving
+you trapped in the darkness, with no means of escape. You try every spell
+and trick you know, but all is in vain. Eventually malnutrition gets the
+better of you and you slowly perish in this; one of Hel's favorite death
+traps, your body never to be seen again.
+~
+122 13 1
+D3
+~
+~
+0 0 12393
+S
+#12393
+A Dead End~
+The tunnel ends here, before the entrance to more caves, a couple of
+them to the east large enough for you to crawl into, if you don't mind
+having to slither amongst the foul pale humanoids that reside within,
+exuding a thick grey mucous from their pores that renders them slick
+and lubricated. The stench is, not surprisingly, quite unbearable, and
+you find yourself desperately wishing to be away from here, away from
+Niflheim, away from Asgard, away from all things not of Midgaard.
+~
+122 9 0
+D0
+~
+~
+0 -1 12394
+D1
+It would be INADVISABLE to continue.
+~
+~
+0 -1 12392
+S
+#12394
+An Infernal Junction~
+Several dark tunnels meet here, heading into the dark, dismal depths of
+Niflheim. Bursts of flame explode from small holes in the floor at
+random intervals, of too brief duration to injure you, but sufficient to
+cause you to start in surprise and fear. Dark cave entrances abound
+everywhere, most of them crawling with the pale bodies of the damned,
+writhing like maggots over and around each other, doomed to spend milennia
+in this form, as partial attrition for their sins.
+~
+122 9 0
+D0
+~
+~
+0 -1 12391
+D2
+~
+~
+0 -1 12393
+D3
+~
+~
+0 -1 12398
+S
+#12395
+Yggdrasil~
+At this point, cries of pain and anger combined with the sounds of
+combat echo across the boughs of the trees, coming from a snowfield to
+the east. You can barely make out many warriors, battling fiercely
+with each other, and wonder if it would be safe to enter this place,
+seeing as the comforting surrounds of Yggdrasil feel so safe and secure.
+~
+122 4 3
+D1
+~
+~
+0 -1 12324
+D4
+~
+~
+0 -1 12213
+D5
+~
+~
+0 -1 12396
+S
+#12396
+Yggdrasil~
+The tree continues, the myriad of branches twisting and weaving their
+way through the fabric of time and space, allowing access to various
+planes, including the homes of the Aesir, the Vanir and other lesser
+races. A foul stench arises from the branches below you, which are all
+twisted and blackened, and soaked with blood.
+~
+122 0 3
+D4
+~
+~
+0 -1 12395
+D5
+~
+~
+0 -1 12379
+S
+#12397
+Yggdrasil~
+You are nearing the base of this mighty tree; just below you a field
+of shimmering magical energy obfuscates whatever may lurk there. The
+bark of the tree here is blackened and charred, as it was above, though
+not as badly. A musty smell fills the air.
+~
+122 0 3
+D4
+~
+~
+0 -1 12379
+D5
+~
+~
+0 -1 12400
+S
+#12398
+The River of Blood~
+A river of the blood of the damned flows through Niflheim, and many
+of the foul inhabitants of this realm draw strength from its waters.
+Beyond this river lies the twisted metal throne of Hel herself, ruler
+of Niflheim and impartial observer over the dead. She will be angered
+by your intrusion into her realm; you can expect a rather violent
+reception.
+~
+122 13 7
+D0
+~
+~
+0 -1 12399
+D1
+~
+~
+0 -1 12394
+S
+#12399
+Before the Goddess of Hel~
+Here Hel sits in judgement over those who have been damned to spend all of
+eternity in the infernal region that bears her name. A vile, malicious and
+utterly evil god, she delights in the torment and suffering of others,
+especially mortals from Midgaard who wander into her domain inadvertently!
+Tall columns of flame flicker to either side of a throne of bone, upon which
+the unholy god sits, and a multitude of small demons and imps scurry here and
+there, dragging in fresh corpses, piles of intestines, and other pleasant
+accoutrements to add to her hellish demesne.
+~
+122 9 0
+D2
+~
+~
+0 -1 12398
+S
+#12400
+The Base of Yggdrasil~
+You have finally reached the roots of the Tree of Life, the base from
+which all knowledge and wisdom sprouts. Here the Norns- Urd, Verdandi
+and Skuld- tend the tree, and prophesise the future. It was here that
+Odin gained his ability of prophesy, and paid the terrible price for the
+gift. The Norns remain absolutely impartial in all affairs of mortal and
+god, and favor neither side in any conflict. Their abode is encased in
+a shimmering sphere of grey energy, which obscures the rest of the tree.
+A large scrying device- a pool of glistening water that looks strangely
+attuned to magical energies- covers the floor, through which the Norn
+may observe the goings-on of Midgaard.
+~
+122 8 0
+D4
+~
+~
+0 -1 12397
+S
+$~

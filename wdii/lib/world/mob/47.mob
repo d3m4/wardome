@@ -1,0 +1,172 @@
+#4700
+dwarf~
+the small dwarf~
+A small dwarf is here mining at the tunnel walls.
+~
+The small dwarf is dirty and dressed only in a small tunic and leggings.  His
+beard is encrusted with cracked rock and dust from the tunnel walls.
+~
+12 0 500 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 0 1 3 2
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#4701
+dwarf~
+the small dwarf~
+A small dwarf is here, on the watch for Duergar.
+~
+The small dwarf is dressed in colorful clothing and has a full and long
+beard.  His eyes are keen and sharp, well suited for sight in the dark tunnels
+of the mines.
+~
+12 0 500 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 0 1 3 2
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#4702
+dwarf guard~
+the dwarf guard~
+A small dwarf is here, dressed in a makeshift suit of armor.
+~
+This small dwarf is the militia of the Dwarven Kingdom it watches over.  The
+small body is strong which makes him a match for any foe.  The armor of the
+dwarf is of no use to anyone but him, but provides adequate defense.
+~
+10 0 700 E
+75 -25 -7 1d1+4500 5d8+70
+1125 1641484 4
+8 0 1 3 2
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#4703
+dwarf yentle~
+Yentle the dwarf~
+A small dwarf sits here trying to grow a new rock.
+~
+The insane little dwarf who thinks he can grow a rock.  He is dressed in many
+yellows and oranges, and seems to have a happy look about him despite his years
+of failure at growing rocks.
+~
+12 8 1000 E
+80 -28 -8 1d1+4800 5d9+72
+1200 1969179 4
+6 0 1 10 2
+Att2: 100
+Att3: 82
+Att4: 36
+E
+T 22240
+T 22244
+T 22245
+#4704
+juargan dwarf king~
+Juargan the Dwarven King~
+Juargan the Dwarven King sits upon his throne, looking out over his gardens.
+~
+The small king is bulging at the seems with muscle.  He is dressed in nothing
+but a noble robe made of a grey silk.  His face has a visage of stone like his
+surroundings, as if his burden has become to much for him.
+~
+10 8 1000 E
+85 -30 -8 1d1+5100 5d9+74
+1275 2337681 4
+6 0 1 3 2
+Att2: 100
+Att3: 86
+Att4: 48
+E
+T 22241
+T 22242
+T 22243
+#4705
+duergar dwarf~
+the duergar dwarf~
+A repulsive Duergar is here, biting at its own arm.
+~
+The Duergar are the outcast dark dwarves.  They have grown insane through
+their isolation from the rest of the dwarven population and have become bitter
+enemies with them.
+~
+44 8 -1000 E
+65 -20 -5 1d1+3900 5d7+66
+975 1098968 4
+8 0 1 3 2
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#4706
+grimdale king dwarf~
+Grimdale the ancient king~
+A ancient and partially decayed dwarf lies here ever so silent.
+~
+The ancient king of the dwarves lies here.  Forgotten over the past decades
+his once cherished body has fallen into utter decay.  His once cheery face has
+turned into a crude scowl as you can feel that his soul is not at ease.
+~
+10 40 -999 E
+70 -23 -6 1d1+4200 5d8+68
+1050 1352209 4
+8 0 1 3 2
+Att2: 100
+Att3: 84
+Att4: 42
+E
+#4707
+rock worm dreaded~
+the dreaded rock worm~
+The dreaded rock worm has blasted through the rock wall, its jaws open wide!
+~
+The jaws of this strange beast are large enough to fit at lease two dwarves
+into.  Judging by the size you can see that is has been eating quite a few too
+many dwarves as it's body is at least five feet in diameter.
+~
+42 8 0 E
+65 -20 -5 1d1+3900 5d7+66
+975 1098968 4
+8 0 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#4708
+spirit dwarf~
+a dwarven spirit~
+A small dwarven spirit is at unrest here.
+~
+The small spirit screams in agony as it is bound to this wretched existence.
+The soul of some unfortunate dwarf now has to fly aimlessly through this chamber
+of eternal pain.
+~
+10 168 -999 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 0 0 -1 2
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#4730
+alma grimdale~
+Alma de Grimdale~
+A nova Alma de Grimdale esta aqui.
+~
+Muito mais sadio que antes, a alma de Grimdale esta se preparando para partir.
+~
+8 0 0 E
+200 -88 -26 1d1+12000 5d21+120
+3000 30321003 4
+8 8 1 0 2
+E
+T 22262
+$

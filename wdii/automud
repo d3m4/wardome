@@ -1,0 +1,107 @@
+#!/bin/bash
+#
+# CircleMUD 3.0 autorun script
+# Contributions by Fred Merkel, Stuart Lamble, and Jeremy Elson
+# Copyright (c) 1996 The Trustees of The Johns Hopkins University
+# All Rights Reserved
+# See license.doc for more information
+#
+#############################################################################
+#
+# This script can be used to run CircleMUD over and over again (i.e., have it
+# automatically reboot if it crashes).  It will run the game, and copy some
+# of the more useful information from the system logs to the 'log' directory
+# for safe keeping.
+#
+# You can control the operation of this script by creating and deleting files
+# in Circle's root directory, either manually or by using the 'shutdown'
+# command from within the MUD.
+#
+# Creating a file called .fastboot makes the script wait only 5 seconds
+# between reboot attempts instead of the usual 60.  If you want a quick
+# reboot, use the "shutdown reboot" command from within the MUD.
+#
+# Creating a file called .killscript makes the script terminate (i.e., stop
+# rebooting the MUD).  If you want to shut down the MUD and make it stay
+# shut down, use the "shutdown die" command from within the MUD.
+#
+# Finally, if a file called pause exists, the script will not reboot the MUD
+# again until pause is removed.  This is useful if you want to turn the MUD
+# off for a couple of minutes and then bring it back up without killing the
+# script.  Type "shutdown pause" from within the MUD to activate this feature.
+#
+
+dir_wdII=/home/wardome/wdII
+
+# The port on which to run the MUD
+PORT=2022
+
+# Default flags to pass to the MUD server (see admin.txt for a description
+# of all flags).
+FLAGS='-q'
+
+#############################################################################
+
+while ( : ) do
+
+  DATE=`date`
+  echo "autorun starting game $DATE" >> $dir_wdII/syslog
+  echo "running bin/circle $FLAGS $PORT" >> $dir_wdII/syslog
+  
+  $dir_wdII/bin/circle $FLAGS $PORT >> $dir_wdII/syslog 2>&1
+
+  tail -30 $dir_wdII/syslog > $dir_wdII/syslog.CRASH
+
+  fgrep "self-delete" $dir_wdII/syslog >> $dir_wdII/log/delete
+  fgrep "death trap" $dir_wdII/syslog >> $dir_wdII/log/dts
+  fgrep "killed by" $dir_wdII/syslog >> $dir_wdII/log/rip
+  fgrep "attacked" $dir_wdII/syslog >> $dir_wdII/log/pkilling
+  fgrep "assassinated" $dir_wdII/syslog >> $dir_wdII/log/pkilling
+  fgrep "Running" $dir_wdII/syslog >> $dir_wdII/log/restarts
+  fgrep "advanced" $dir_wdII/syslog >> $dir_wdII/log/levels
+  fgrep "equipment lost" $dir_wdII/syslog >> $dir_wdII/log/rentgone
+  fgrep "new player" $dir_wdII/syslog >> $dir_wdII/log/newplayers
+  fgrep "SYSERR" $dir_wdII/syslog >> $dir_wdII/log/errors
+  fgrep "(GC)" $dir_wdII/syslog >> $dir_wdII/log/godcmds
+  fgrep "Bad PW" $dir_wdII/syslog >> $dir_wdII/log/badpws
+  fgrep "(set)" $dir_wdII/syslog >> $dir_wdII/log/sets
+  fgrep "(REMORT)" $dir_wdII/syslog >> $dir_wdII/log/remort 
+  fgrep "OLC" $dir_wdII/syslog >> $dir_wdII/log/olc 
+  fgrep "HELP" $dir_wdII/syslog >> $dir_wdII/log/help
+  fgrep "(REVIVE)" $dir_wdII/syslog >> $dir_wdII/log/revive
+  fgrep "(QUEST)" $dir_wdII/syslog >> $dir_wdII/log/quest
+    
+  rm $dir_wdII/log/syslog.1
+  mv $dir_wdII/log/syslog.2 $dir_wdII/log/syslog.1
+  mv $dir_wdII/log/syslog.3 $dir_wdII/log/syslog.2
+  mv $dir_wdII/log/syslog.4 $dir_wdII/log/syslog.3
+  mv $dir_wdII/log/syslog.5 $dir_wdII/log/syslog.4
+  mv $dir_wdII/log/syslog.6 $dir_wdII/log/syslog.5
+  mv $dir_wdII/syslog       $dir_wdII/log/syslog.6
+  touch syslog
+
+  if [ ! -r .fastboot ]; then
+    sleep 10
+  else
+    rm .fastboot
+    sleep 5
+  fi
+
+  if [ -r .killscript ]; then
+    DATE=`date`;
+    echo "autoscript killed $DATE"  >> syslog
+    rm .killscript
+    exit
+  fi
+
+  while [ -r pause ]; do
+    sleep 60
+  done
+  
+  #mail -s Wardome celento@cpqd.com.br <$dir_wdII/log/.lastcomman
+  #mail -s Wardome pem@terra.com.br <$dir_wdII/log/.lastcommand
+  #mail -s Wardome hortins@bol.com.br <$dir_wdII/log/.lastcommand
+  #mail -s Wardome luizpalma@netsite.com.br <$dir_wdII/log/.lastcommand
+  #mail -s Wardome lpalma@comp.ufscar.br <$dir_wdII/log/.lastcommand
+
+done

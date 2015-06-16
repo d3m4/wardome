@@ -1,0 +1,116 @@
+#9100
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+25 8 6 1d1+522 5d3+10
+375 65926 0
+8 8 0 -1 -1
+Att2: 24
+E
+#9101
+oldstyle harpy~
+the screaming, filthy harpy~
+The screaming, filthy harpy claws madly at your face!
+~
+The harpy looks at you with blood in her eyes.  Her entire body is
+caked in filth and grime and she stinks to high heaven.  Her razor-
+sharp talons flex as she considers you for her dinner.
+~
+44 262184 -500 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+#9102
+oldstyle harpy leader~
+the screaming harpy leader~
+The screaming harpy leader tries to scratch your eyes out!
+~
+The harpy leader looks at you and grins menacingly.  She stretches
+her wings and you see insects crawling around them.  Her hair is
+matted and greasy and you are sickened by the stench that pervades
+her presence.
+~
+46 262184 -750 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+#9103
+oldstyle air elemental~
+the ghostly air elemental~
+The ghostly air elemental.
+~
+The air elemental is hard to see.  You know that it is there
+because objects behind it seem to waver and are slightly blurred.
+~
+44 786472 0 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#9104
+oldstyle mysterious efreeti~
+the mysterious efreeti~
+The mysterious efreeti grins in delight at its new prey.
+~
+The efreeti towers menacingly over you.  It is dressed in the
+finest ghostly silks and a headdress with an elaborate brooch.
+~
+12 262280 -100 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#9105
+oldstyle roc~
+the gigantic roc~
+The gigantic roc.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.
+~
+72 0 50 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+#9106
+oldstyle roc~
+the gigantic roc~
+The gigantic roc stares menacingly at you.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.
+~
+72 0 50 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 1 -1 -1
+Att2: 9
+E
+#9107
+oldstyle wicked witch~
+the ugly, wicked witch~
+The ugly, wicked witch cackles maniacally.
+~
+The witch has jet black hair and sickly green skin.  She is covered
+with warts and boils.  Her nails are long and sharp and look like
+they would be quite painful.  Her eyes pierce your very soul.
+~
+46 136 -600 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+$

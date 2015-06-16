@@ -1,0 +1,155 @@
+&n -= &BW&cardome &BM&cud &BN&cews &n =-
+
+&CSetemtro/2004&n
+
+&w-= &C01/09/2004 &w=- 
+  &cArea New Sparta linkada e Ancalador/Necromancers' Guild liberada para uso.(&CHeimdall&c) 
+&w-= &C29/09/2004 &w=- 
+  &cHelp Area atualizado - as areas mais novas ou modificadas a menos tempo estao em branco. (&CHeimdall&c)&n 
+&w-= &C30/09/2004 &w=- 
+  &cAreas Modificadas: Chapel Catacombs (R6), Kingdom of Juargan (R4), The Three of Swords (R3),
+  &cThe Straight Path (R6), The Chessboard of Wardome (R7) e Old Camelot (R2).
+(&CHeimdall, Patrick, Strahd && Hans&c)&n&COutubro/2004&n
+&w-= &C05/10/2004 &w=-
+  &cComando clan membros desativado. (&CHeimdall && Zhantar&c)
+&w-= &C06/10/2004 &w=-
+  &cCha (carisma) e Wis (wisdom) corrigidos, agora vao ate 100 novamente. (&CHeimdall&c)&n
+&w-= &C06/10/2004 &w=-
+  &cArea Old Thalos alterada (r2). (&CHeimdall&c)&n
+&w-= &C16/10/2004 &w=-
+  &cArea Realm of Lord Ankou alterada (r6). (&CHeimdall && Strahd&c)&n
+&w-= &C18/10/2004 &w=-
+  &cClan membros reativado. (&CHeimdall&c)&n
+&w-= &C21/10/2004 &w=-
+  &cArea Wyvern Tower liberada e area Rands Tower modificada(r5). (&CStrahd&c)&n
+&w-= &C24/10/2004 &w=-
+  &cMagia Charm Person alterada, agora somente mobs de nivel e remort menores ou igual podem
+  ser charmeados. (&CLoiro&c)&n
+&w-= &C29/10/2004 &w=-
+  &cSelecao de linguagem adicionada ao prompt de criacao de personagens. (&CIpslore&c)&n
+&w-= &C30/10/2004 &w=-
+  &cTres habilidades adicionadas para ranger: Forest Walk, Forest Agility e Forest Wilderness. (&CIpslore&c)&n
+&w-= &C31/10/2004 &w=-
+  &cMagia Grow Roots adicionada a Ranger. Habilidades Drown e Throw reformuladas. (&CIpslore&c)&n
+
+&CNovembro/2004&n
+&w-= &C01/04/04 &w=-      
+  &cNova habilidade para Barbaros: Howl, Nova magia para Shamans: Ancient Spirit. (&CIpslore&c)&n
+&w-= &C02/04/04 &w=-
+  &cNova magia para Sorcerer: Extend Spell, Spells de Conjuracao alteradas, agora o remort tambem influencia. (&CIpslore&c)&n
+&w-= &C11/11/04 &w=-
+   &cArea Lizard Lair Safari alterada para Remort 6, mesmo level. (&CHeimdall&c)
+
+&w-= &C12/11/04 &w=-
+   &cModificacoes feitas em skills/spells ja' existentes:
+&C*&w &cSabre &n-> &cmais ataques&n; 
+&C*&w &cBash &n-> &cagora quando erra nao cai, mas leva dano. Forca influencia.&n; 
+&C*&w &cCircle/Backstab &n-> &cdano maior conforme remort e level&n; 
+&C*&w &cHeadBash/Knockout &n-> &cmaior chance de acerto&n; 
+&C*&w &cStroke &n-> &cmaior dano&n; 
+&C*&w &cKickflip &n-> &cleve reducao no dano&n; 
+&C*&w &cWhirlwind &n-> &cmenos tempo de wait e menos move gasto&n; 
+&C*&w &mBlood Thirst &n-> &mreformulada (melhor)&n; 
+&C*&w &mEnergy Drain &n-> &mcorrigida (nopk)&n; 
+&C*&w &mMana Shield &n-> &mmelhorada&n;&mperde menos mana e menos hp, agora&n; 
+
+   &cSpells&n/&cSkills Novas&n:
+&C*&w &cWheel of Fortune&n: da atributos aleatorios; Shaman;
+&C*&w &cExhaustion&n: gasta movement e oxigenio; Warlock;
+&C*&w &cAsphyxiate&n: impede recuperacao de oxigenio; Warlock;
+&C*&w &cIron Body&n: impede perda de oxigenio e da AC; Warlock;
+&C*&w &cLiquid Air&n: faz pessoas na sala perderem oxigenio; Warlock;
+&C*&w &cMana Burn&n: gasta mana e da dano baseado na mana restante; Warlock;
+&C*&w &cSilence&n: impede spellcasters sem Silent Spell de lancarem magia; Sorcerer;
+&C*&w &cDispel Magic&n: remove affects do alvo; Sorcerer;
+&C*&w &cGreater Refresh&n: recupera movement e oxigenio; Cleric;
+
+&W(&CIpslore&W/&CStrahd&W)&n
+
+&C* &cDicionario de palavroes adicionado, player mal educado leva mute automatico; &n(&CLoiro&n)
+&C* &cSkill Craft modificada, agora o item nao se quebra mais. &n(&CHeimdall&n)
+&C* &cHabilidade Kick sofre influencia do remort agora. &n(&CIpslore&n/&CStrahd&n)
+&C* &cNova magia para necromantes: Raise Aberration. &n(&CIpslore&n)
+&C* &cArea River Island of Minos alterada para Remort 7. (Heimdall)
+&C* &cComando OOC adicionado para conversas sobre assuntos nao mudianos. &n(&CLoiro&n)
+&C* &cCode para nao poder criar player com nome de MOB adicionado. &n(&CLoiro&n)
+&C* &cComando para backups de player file e player obj de dentro do mud adicionado. &n(&CLoiro&n)
+&C* &cO mud pode ser compilado internamente agora. &n(&CLoiro&n)
+
+&n-= 08/12/04 =-
+
+   &cSpells Novas&n:
+&C*&w &mForest Sanctuary&n (deixa a sala good-regen e peaceful);
+&C*&w &mIllusion Forest&n (Transforma sala em FOREST);
+&C*&w &mCall Night&n (Faz anoitecer temporariamente);
+&C*&w &mCall Daylight&n (Faz ficar dia temporariamente);
+&C*&w &mStorm Sky&n (Cria uma tempestade temporariamente);
+&C*&w &mUndead Horde&n (Conjura varios zumbis agressivos (FRACOS!));
+&C*&w &mProtection from Evil&n (Reduz dano contra criaturas evil);
+
+   &cSkills Novas&n:
+&C*&w &cSnake Fight:&n (Chance de nao cair em Bash, Headbash, Kickflip e Stroke);
+&C*&w &cTipos de Armas:&n (Armas dividias em 3 tipos: Slash, Pierce e Bludgeon);
+&C*&w &c(TIPO) Especialization:&n (Aumenta dano de armas do TIPO);
+&C*&w &cFocus(TIPO):&n (Aumenta acerto de armas do TIPO);
+&C*&w &RObs: Especialization e Focus, se combinadas, ficam mais fortes&n;
+&C*&w &cCritical Attack:&n Chance de causar maior dano nos ataques;
+&C*&w &cPeek:&n Ver o inventario alheio;
+
+   &cSpells Melhoradas&n:
+
+&RObs: As magias abaixo listadas foram consideradas praticamente
+inuteis ou com pouco uso, e devido a isto foram modificadas
+ou melhoradas. Algumas foram alteradas radicalmente, outras nao&n.
+
+&mChill touch&n, &mDeath finger&n,&m Ghastly touch&n,&m Vampiric touch&n,
+&mBravery&n,&m Aura sight&n,&m Antimagic shell&n,&m Blindness (saving throw)&n,
+&mDeath scyth&n, &mEngulfing darkness&n, &mSleep&n, &mMajor globe&n, &mBlood Thirsty&n,
+&mCell adjustment &n(&R!&n)&n, &mParadise Chrysalis&n, &mEmpathy&n,&m Abutilon&n,
+&mFriends&n, &mAdrenaline control&n, &mIntel fortress&n, &mDumbness&n, Pain&n,
+&mDisplacement&n, &mSacrifice&n, &mMartial trance&n, &mHoly Mace&n/&mShout&n/&mWord&n/&mBolt&n,
+&mGod Pact&n.
+
+   &cSkills Melhoradas&n:
+
+&cVitalize health e Vitalize mana&n: Nao perde mais move;
+&cDual wield&n: Dano normal;
+
+   &n[&CNOVO&n] &cMagias influenciadas pelo tempo&n:
+
+ &mSkull trap&n: (Melhor a noite, pior de dia)
+ &mEletricstorm&n: (Melhor durante tempestades (Digite 'Weather' pra ver o tempo))
+ &mLightning bolt&n: (Melhor durante tempestades)
+ &mCall lightning e area lightning&n: (Melhor durante tempestades)
+ &mBanshee aura&n: (Melhor a noite)
+ &mBlood thirst&n: (Melhor a noite)
+ &mEngulfing darkness&n: (Melhor a noite, pior de dia)
+ &mBlood ritual&n: (Melhor a noite)
+ &mHoly Mace/shout/word/bolt&n: (Pior a noite)
+ &mGod pact&n: (Pior a noite)
+
+   &cMagias Pioradas&n:
+ &mFeel light&n: (Menos tempo)
+
+&W(&CIpslore&W/&CStrahd&W)&n, a dupla dinamica (ou nao)
+
+
+&CJaneiro/2005&n
+&C* &cPK e WANTED arrumados, se morrer em pk voce perde holypoint, questpoint e gold pra quem te matou.&n
+&C* &cWar Info adicionado ao finger.&n
+&C* &cHabilidade 2-effect magic de High Elf corrigida.&n
+&C* &cDano do Backstab Reduzido.&n
+&C* &cRacas Reborn Modificadas: Hill Ogre: dano 25% maior, Naugrin: toma 25% menos dano,
+Archons: magias de cura recuperam 50% mais, Lich:dano 25% maior, Dunedain: 5% dano maior 
+e toma 5% menos dano, Draconian: engloba todas as modificacoes, Cave Troll: 50% mais 
+recuperacao Hp, Tinker: 50% mais recuperacao de mana, BugBear: 50% mais recuperacao de move.&n
+&C* &yQuest Eqs Liberados no Hazaard.&n
+&C* &YHelp Torneio para maiores informacoes sobre o torneio passado.
+&C* &yHabilidade de High Sea Elf, reborn de Sea Elf, melhorada, pode sumonar qualquer mob, desde que nao seja agressivo.&n
+&C* &yMeta check mostra os atributos reais agora.&n
+&C* &yExtend Spell nao influencia mais os poderes dos deuses.&n
+&C* &yHabilidade de High Elf, reborn de Elf, corrigida, todas as magias que dao affect ficam com o dobro do tempo.&n
+&C* &ySteal nao pega mais em salas com Forest Sanctuary.&n
+&C* &yReborn nao eh mais cuspido da preparation quando passa pro level 201.&n
+&C* &yHelp das classes corrigidos (By Myth).&n
+&C* &yAreas Village of Hochenyana, Egypt e The Abandoned Cathedral liberadas (help area).&n

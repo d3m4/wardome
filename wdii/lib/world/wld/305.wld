@@ -1,0 +1,533 @@
+#30500
+Uma escura caverna~
+   Voce esta andando em um completo silencio e escuridao, o unico barulho que
+voce pode ouvir sao pingos de agua que caem das rochas do teto.  A caverna
+continua ao norte, e voce pode sair dela ao sul.    
+~
+305 429 0
+D0
+~
+~
+0 0 30501
+S
+#30501
+Uma escura caverna~
+   Voce esta andando em um completo silencio e escuridao, o unico barulho que
+voce pode ouvir sao pingos de agua que caem das rochas do teto.  A caverna
+continua ao norte e ao sul.    
+~
+305 365 0
+D0
+~
+~
+0 0 30502
+D2
+~
+~
+0 0 30500
+S
+#30502
+Uma escura caverna~
+   Voce continua desbravando essa caverna, e nesse momento voce ve uma pequena
+filete de luz vindo do norte, mas nao ha nenhum sinal de vida, apenas um senso
+de perigo e morte.  O caminho continua ao norte e sul.    
+~
+305 365 0
+D0
+~
+~
+0 0 30503
+D2
+~
+~
+0 0 30501
+S
+#30503
+Uma escura caverna~
+   Este e' o fim da caverna que apareceu no meio do nada, as paredes e o teto
+continuam da mesma forma.  A saida e' ao sul.    
+~
+305 492 0
+D2
+~
+~
+0 0 30502
+S
+#30504
+Passando pelo portal~
+   Voce esta passando por um brilhante caminho que o faz sentir-se louco.  
+Algumas cenas da sua vida vem ate' a sua mente, voce se sente uma estranha
+sensacao de estar voltando ao tempo.    
+~
+305 1048748 0
+S
+#30505
+Alguns dias atras - Estrada dos Templos~
+   Voce tem certeza que voltou no tempo, aparentemente voce esta na cidade de
+Wardome na ultima primavera.  A mesma rua dos Templos que voce passa todos os
+dias esta' a sua frente, e voce ve um portal nas suas costas, o qual fara'
+provavelmente voce voltar ao futuro.    
+~
+305 0 0
+D0
+~
+~
+0 0 30512
+D1
+~
+~
+0 0 30508
+D2
+~
+~
+0 0 30513
+D3
+~
+~
+0 0 30506
+S
+#30506
+Estrada dos Templos~
+   Voce esta no meio da parte oeste da Estrada dos Templos.  Ao norte, voce ve
+um pouco do Templo dos Elfos Aquaticos, enquanto ao sul, voce ve o Templo dos
+Anoes.  A rota continua a leste e oeste.    
+~
+305 0 0
+D0
+~
+~
+0 0 30514
+D1
+~
+~
+0 0 30505
+D2
+~
+~
+0 0 30515
+D3
+~
+~
+0 0 30507
+S
+#30507
+Final oeste da Estrada dos Templos~
+   Voce chegou ao fim da Estrada dos Templos.  Aqui voce pode ver os dois
+ultimos templos da parte oeste desta rota: O Templo dos Goraks ao norte, e o
+Templo dos Drows ao sul.    
+~
+305 0 0
+D0
+~
+~
+0 0 30516
+D1
+~
+~
+0 0 30506
+D2
+~
+~
+0 0 30517
+S
+#30508
+O Centro da Estrada dos Templos~
+   Voce esta no Centro da Estrada dos Templos, aqui voce pode ver quase toda
+cidade de Wardome.  E' um lugar comum para ver pessoas duelando.  Mas a cidade
+esta' muito estranha, cade todas aqueles cidadoes que passavam constantemente
+por aqui?  Voce apenas ve alguns herois (que provavelmente voce ja' tinha
+avistado eles em algum outro lugar) descansando ou conversando.    
+  O caminho para a Estrada do Mercado esta' fechado por um grande portao, mas ha' alguma coisa muito estranha... um grande buraco esta escondido com alguns gravetos mais ao norte da sala, o que e' aquilo? Sera' que voce pode entrar la'?
+~
+305 0 0
+D0
+~
+~
+0 0 30525
+D1
+~
+~
+0 0 30509
+D3
+~
+~
+0 0 30505
+E
+hole~
+A strange hole is here, probably you can enter there.
+~
+S
+T 22206
+#30509
+A Estrada dos Templos~
+   Voce esta no comeco da parte leste da Estrada dos Templos.  Aqui dois
+templos foram construidos: O templo dos Orcs ao norte, e o Templo dos Ogros ao
+sul.    
+~
+305 0 0
+D0
+~
+~
+0 0 30519
+D1
+~
+~
+0 0 30510
+D2
+~
+~
+0 0 30518
+D3
+~
+~
+0 0 30508
+S
+#30510
+Estrada dos Templos~
+   Voce esta no meio da parte leste da Estrada dos Templos, voce nota mais dois
+templos aqui, o templo dos trolls ao norte, e o Templo dos Giths ao sul.    
+~
+305 0 0
+D0
+~
+~
+0 0 30521
+D1
+~
+~
+0 0 30511
+D2
+~
+~
+0 0 30520
+D3
+~
+~
+0 0 30509
+S
+#30511
+East end of Temple Street~
+   You've reached the east end of the Temple Street.  To the north, you see The
+Temple of the Humans, while to the south is The Temple of the Gnomes, and at
+last but not least, to the east is The Temple if the Advanced Races.    
+~
+305 0 0
+D0
+~
+~
+0 0 30522
+D1
+~
+~
+0 0 30524
+D2
+~
+~
+0 0 30523
+D3
+~
+~
+0 0 30510
+S
+#30512
+&BTemplo dos Elfos&n~
+   Voce esta no Templo dos Elfos, um natural paraiso da pregacao.  E' um lugar
+muito bonito, com muitas flores que dao um lindo aspecto ao lugar.  Nas paredes
+voce ve ilustracoes de arvores e alguns legendarios elfos.  Passaros e
+borboletas constantemente entr A Estrada dos Templos fica ao sul.    
+~
+305 0 0
+D2
+~
+~
+0 0 30505
+S
+#30513
+&BO Templo dos Homens-Lagarto&n~
+   Voce esta' na terra dos Homens-Lagarto, um lugar nem um pouco encantador,
+voce sente um terrivel odor que provavelmente vem das paredes, suas botas estao
+submersas em uma densa lama que cobre o templo inteiro.  Com certeza apenas os
+Homens-Lagarto sao cap A saida a Estrada dos Templos e' ao norte.    
+~
+305 0 0
+D0
+~
+~
+0 0 30505
+S
+#30514
+&BO templo dos Elfos Aquatico&n~
+   Voce esta no Templo dos Elfos Aquaticos, um bonito lugar com corais, recifes
+e peixes por toda a parte.  Nao e' dificil descobrir qual deus eles seguem pois
+ha' imagens dele por toda a parte.  Seu nome e' Taerom, o filho de Poseidon.  
+A saida a estrada dos Templos e' ao sul.    
+~
+305 0 0
+D2
+~
+~
+0 0 30506
+S
+#30515
+&BThe Temple of the Dwarves&n~
+   Apos passar por algumas montanhas voce chegou ao Templo dos Anoes, nao ha'
+nada de muito especial aqui, apenas o tipico ar frio das montanhas.  Com total
+certeza aqui nao e' o lugar aonde os anoes guardam seu dinheiro.  A saida a
+Estrada dos Templos e' ao norte.    
+~
+305 0 0
+D0
+~
+~
+0 0 30506
+S
+#30516
+&BO Templo dos Goraks&n~
+   Essa e' uma escura e gosmenta sala...  Quase nao entra luz nesse lugar
+tenebroso.  Um forte fedor consome toda a sala...  Os reflexos das sombras, as
+quais completam a sala, refletem em uma forte e silenciosa armadura, posta no
+centro do templo.  A saida a estrada dos templos e' ao sul.    
+~
+305 0 0
+D2
+~
+~
+0 0 30507
+S
+#30517
+&BO Templo dos Drows&n~
+   &nVoce esta no templo da escuridao de Wardome.  Pouco iluminado por tochas.
+Nas paredes ha' estranhas figuras, tracando historias de grandes batalhas entre
+Elfos e Drows, as quais comecaram muitos seculos atras, e ainda acontecem
+hoje...  A razao de tanta
+  A saida a estrada dos templos e' ao norte.
+~
+305 0 0
+D0
+~
+~
+0 0 30507
+S
+#30518
+&BO Templo dos Ogros~
+   Certamente esse e' o melhor lugar para um Ogro viver, uma grande caverna.  
+O humido ar enche o local, e' um lugar sombrio aonde estranhos ruidos ecoam do
+meio do nada de pouco em pouco tempo.  Essa raca aparentemente nao cre em
+nenhum deus.  A Estrada dos Templos fica ao norte.    
+~
+305 0 0
+D0
+~
+~
+0 0 30509
+S
+#30519
+&BO Templo dos Orcs~
+   E' muito dificil acreditar que no submundo, que mesmo para os insetos e'
+dificil viver, a vida existe.  Voce esta' no Templo dos Orcs, a mais horrivel
+raca de Wardome.  Ha muitas pinturas nas paredes, voce nao consegue imaginar
+quem sao os seus deuses, ou
+  A Estrada dos Templos fica ao sul.
+~
+305 0 0
+D2
+~
+~
+0 0 30509
+S
+#30520
+&BO Templo dos Giths~
+   Voce esta em cima de um chao coberto por cranios e desgastados ossos, isso
+nao e' muito estranho pois voce esta em um lugar de criaturas morto-vivas
+feitas por magia e ossos.  Voce pode ver um altar de ossos aonde os Giths rogam
+ao seus deuses malignos.  A saida desse horrivel templo e' ao norte.    
+~
+305 0 0
+D0
+~
+~
+0 0 30510
+S
+#30521
+&BO Templo dos Trolls~
+   Voce esta no Templo dos trolls, as paredes sao feitas de imensas pedras
+postas uma sobre a outra.  No chao ha' rusticamente gravado o desenho de seus
+deuses.  Um altar coberto por ouro e preciosas pedras esta no canto da sala.  
+A Estrada dos Templos e' ao sul.    
+~
+305 0 0
+D2
+~
+~
+0 0 30510
+S
+#30522
+&BThe Temple of the Humans&n~
+   You are in a small temple, appearing to be a house.  Here you can rest,
+sleep or even wait until yor next battle.  The strongests human gladiators have
+already walked upon this ground.  The exit to the Temple Street is to the
+South.    
+~
+305 0 0
+D2
+~
+~
+0 0 30511
+S
+#30523
+&BThe Temple of the Gnomes&n~
+   You are in the Temple of the Gnomes, there are several equipments over the
+walls.  There is something on the left side of the temple, it seems to be a
+laboratory.  You see paintings of the God of Gnomes called by them as Slinky.
+The room is illuminated by torches.  The exit to the Temple Street is to the
+North.    
+~
+305 0 0
+D0
+~
+~
+0 0 30511
+S
+#30524
+&BThe Temple of the Advanced Races&n~
+   Here is the temple for the people who have achieved a greater race level,
+also known as reborn.  If you are one of these people, congrats!  And please,
+make yourself at home.    
+~
+305 0 0
+D3
+~
+~
+0 0 30511
+S
+#30525
+A Praca da Fonte~
+   Esse lugar esta' diferente, as portas que levaria voce ao mural nao estao
+mais aqui, ha' apenas uma grande parede ao seu lado esquerdo, a saida ao sul e
+a comum porta ao leste.    
+~
+305 0 0
+D1
+~
+~
+0 0 30526
+D2
+~
+~
+0 0 30508
+S
+#30526
+Sala de Doacoes~
+   Voce esta na tao famosa Sala de Doacoes, aonde os itens doados normalmente
+acabam.  E' muito comum achar muitos deles, mais hoje voce esta' com azar, a
+sala esta' totalmente vazia.  A unica coisa que voce pode encontrar e' um ou
+outro aventureiro entrando
+  A praca da fonte fica ao oeste.
+~
+305 0 0
+D3
+~
+~
+0 0 30525
+S
+#30527
+The Sewer~
+   You are walking in this dirty sewer, what are you trying to find here?  Go
+kill some mobs!!!    
+  The sewer continues west and east.
+~
+305 1 0
+D1
+~
+~
+0 0 30538
+D3
+~
+~
+0 0 30528
+S
+#30528
+The Sewer~
+   You are walking through this sewer, now you are sure this isnt the normal
+Wardome Sewer, it is different.  Where are those rats and bats that you could
+kill easily?    
+  The Sewer continues south and east.
+~
+305 1 0
+D1
+~
+~
+0 0 30527
+D2
+~
+~
+0 0 30529
+S
+#30529
+The Sewer~
+   This dark and dirty sewer continues south and north.  Here you can find some
+famous heroes to murder.    
+~
+305 1 0
+D0
+~
+~
+0 0 30528
+D2
+~
+~
+0 0 30530
+S
+#30530
+The Sewer~
+   You are in an unfinished room.  This dark and dirty sewer continues south
+and north.  Here you can find some famous heroes to murder.    
+~
+305 1 0
+D0
+~
+~
+0 0 30529
+S
+#30531
+The Sewer~
+   Those rats continues playing on the ground, a extremely fetid brown thing is
+near your foot, the path goes east and north.    
+~
+305 1 0
+D0
+~
+~
+0 0 30530
+S
+#30537
+In a Strange Hole~
+   You have entered a very small place, you cant move here very good, and there
+is nothing important in this room, only a small light that you can see IN the
+ground..  You can try to dig to see if something happens.    
+~
+305 701 0
+D4
+~
+~
+0 0 30508
+S
+#30538
+The Sewer~
+   You are in a dark dirty sewer, some rats are running from the east exit, and
+some kind of a dark water with brown strange floating objects are moving west.
+There is nothing very usefull, the only thing you can find here is some heroes
+trying to find some adventure.    
+  The sewer continues east and west.
+~
+305 0 0
+D3
+~
+~
+0 0 30527
+D4
+~
+~
+0 0 30537
+S
+$~

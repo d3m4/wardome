@@ -1,0 +1,183 @@
+#30301
+Blue Corner~
+undefined
+~
+303 1048644 0
+S
+#30302
+Red Corner~
+undefined
+~
+303 1048656 0
+S
+#30303
+Red Team Castle Entrance~
+undefined
+~
+303 68 0
+D0
+~
+~
+0 0 30304
+S
+#30304
+Red Team Entrance Hall~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 30305
+D2
+~
+~
+0 0 30303
+D3
+~
+~
+0 0 30311
+S
+#30305
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 30308
+D1
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30304
+S
+#30306
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 30307
+D3
+~
+~
+0 0 30305
+S
+#30307
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30308
+S
+#30308
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 30307
+D2
+~
+~
+0 0 30305
+D3
+~
+~
+0 0 30309
+S
+#30309
+Red Team Center Room~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 30308
+D3
+~
+~
+0 0 30310
+S
+#30310
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 30309
+D2
+~
+~
+0 0 30311
+D3
+~
+~
+0 0 30312
+S
+#30311
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 30310
+D1
+~
+~
+0 0 30304
+D3
+~
+~
+0 0 30313
+S
+#30312
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 30310
+D2
+~
+~
+0 0 30313
+S
+#30313
+Red Team Common Room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 30312
+D1
+~
+~
+0 0 30311
+S
+$~

@@ -1,0 +1,188 @@
+#29800
+Black Orc~
+the Black Orc~
+A large Black Orc screams some strange words and charges you.
+~
+The Black Orc looks rather mean and agressive.
+He waves his scimitar in a very threatening manner.
+~
+616 1073742880 -750 E
+125 -56 -19 1d1+10500 5d25+120
+1875 7606911 7
+8 8 1 3 5
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#29801
+Black Orc Leader~
+Black Orc Leader~
+A huge Black Orc screams some commands to his followers and charges you.
+~
+This Black Orc looks very very mean and muscular.
+He is dressed in an ill-fitting black plate and thrusts his
+spear at you.
+~
+4714 1073742880 -750 E
+125 -56 -19 1d1+10500 5d25+120
+1875 7606911 7
+8 8 1 -1 5
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#29802
+Black Orc Chief~
+Black Orc Chief~
+A Enormous Black Orc screams some commands to his followers and charges you.
+~
+This Black Orc looks very very mean and  muscular.
+He is dressed in an well-fitting huge evil black plate
+and tries to pierce you with his spear.
+~
+1049194 1073742880 -1000 E
+125 -56 -19 1d1+10500 5d25+120
+1875 7606911 7
+8 8 1 3 5
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#29803
+Balrog~
+&RBa&rlr&Rog&n~
+&rAn &Reno&rrmous hum&Ranoi&rd &Rform &rof &RFi&rre an&Rd &RDar&Rkne&rss is standing here looking cruel.&n
+~
+He is surrounded by sparkling and lethal fire.  He is holding a mighty whip in
+his left hand and a flaming sword in his right hand.    
+~
+7862826 1620149416 0 E
+200 -94 -30 1d1+16800 5d41+150
+3000 29779557 7
+8 8 0 3 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29804
+Gollum~
+Gollum~
+Gollum sniffs loud and looks at you with his big fish eyes.
+~
+This guy really looks like he need something to eat.
+He is small and tiny and his skin is almost transparent.
+~
+206 525352 0 E
+100 -44 -15 1d1+8400 5d21+110
+1500 4010169 7
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 70
+E
+T 29854
+T 29855
+#29805
+skeleton dwarven guard~
+Skeleton of Dwarven Guard~
+a skeleton of dwarven guard is standing here.
+~
+
+~
+172360 33960 750 E
+100 -44 -15 1d1+8400 5d21+110
+1500 4010169 7
+8 8 0 3 2
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#29806
+skeleton dwarven emissary~
+Skeleton of Dwarven Emissary~
+a skeleton of dwarven emissary is resting here.
+~
+
+~
+172360 33960 750 E
+100 -44 -15 1d1+8400 5d21+110
+1500 4010169 7
+8 8 0 -1 2
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#29807
+Gimli~
+Gimli~
+Gimli, Dwarf of Erebor is here.
+~
+
+~
+3662152 1627432104 750 E
+150 -69 -23 1d1+12600 5d31+130
+2250 12885879 7
+8 8 1 10 2
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29808
+Skeleton Balin~
+the Balin Skeleton~
+You see the &wSkeleton&y of the &gLord of Moria&y resting here.&n
+~
+
+~
+3662090 1610646696 750 E
+150 -69 -23 1d1+12600 5d31+130
+2250 12885879 7
+8 8 0 3 2
+Att2: 100
+Att3: 100
+Att4: 90
+E
+#29854
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 6 0 1d1+0 5d1+70
+0 0 7
+8 8 0 0 0
+E
+#29865
+young elf~
+Young Elf~
+A young elf wielding a little bow is here.
+~
+
+~
+131400 5288 750 E
+120 -54 -18 1d1+10080 5d25+118
+1800 6763297 7
+8 8 2 3 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29869
+traveller~
+Traveller~
+A weary traveller resting before you.
+~
+
+~
+131338 4264 750 E
+120 -54 -18 1d1+10080 5d25+118
+1800 6763297 7
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+$

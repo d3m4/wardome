@@ -1,0 +1,30 @@
+#17000
+male xvart~
+a male xvart~
+A male xvart is here, ready to defend his territory.
+~
+This is a mystic creature. With his blue skin and his short height is one  
+of the ugliest creatures of the world. Always wielding his small sword
+and holding the first thing he finds on the ground, he doesn't like
+to be perturbed, and is ready to fight anyone who crosses his way.
+~
+8 0 0 E
+30 6 5 1d1+630 10d4+12
+450 116491 0
+8 8 1 0 0
+Att2: 30
+E
+#17034
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0 0
+E
+T 22201
+$

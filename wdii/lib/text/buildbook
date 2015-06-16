@@ -1,0 +1,723 @@
+-------------------------------------------------------------------------
+                          OasisOLC Handbook
+-------------------------------------------------------------------------
+
+	Building a great zone takes many things, one is time and patience,
+good grammer/spelling, knowing how to balance your zone, and a lot of
+work.  Now this all may sound like a lot to do, but I can assure you
+that with this document, others help, and you not pressuring yourself
+to much, you can do this with out any problems.  
+
+	Building was once explained as writing a story for the mortals of 
+the mud.  As you go through the zone, it unfolds into different twist in
+the plot.   Try imagining writing a small book when writing the descriptions
+for your zone.  If this doesn't work, drop the idea, everyone has their own
+style of writing zones.
+
+	Here are a few things that should be done when creating a zone.
+
+1: Keep balance with your equipment and the toughness of your mobs.
+2: All mobs' Hit Points are determined by hit point bonus field in Medit
+	NOT Hit Point "Dice" <You will see when reading the Medit section.
+3: All Shopkeepers Should be !Charm
+4: Remember, if you mess up, and the building port does crash, it happens
+	to everyone once and a while, just find an *Imp and tell or mudmail
+	him.
+5: Please refrain from Cutting and Pasting from one window, to OLC, strange
+	Characters have been known to slip in and crash the building port.
+6: Also, please refrain from using the ~ character, because this will crash
+	the building port.
+7: Please indent the first sentence of your descriptions
+8: Please keep the room descriptions over 3 lines.
+9: REQUIREMENTS: must have a program other than zMUD to connect with
+------------------------------------------------------------------------
+
+	The next thing that should be brought to attention is the usage of 
+proper grammer.  Please check for the proper punctuation, and 
+capitalization.  
+
+		Hints on making a better zone:
+
+1:	Do not include specific monsters into the room descriptions. 
+
+		For Example Of What Not To Do: 
+
+You walk into a large room.  You see a black shadowy figure who attacks!
+
+	This is bad because, sometimes the mob will not load, and you are 
+telling the mort that something is going to happen, when it really is
+not going to.  It could be that someone has already killed him, or he
+was taken out in some form.  
+
+	It is acceptable to place what will be known as filler mobs, such
+as townspeople or animals.  It may be good to have several mobs that you
+describe load in the room for effect.
+
+		For Example:
+
+You walk into a crowded market place where people hurry around to get
+the best deals.
+
+		Or:
+
+You are walking through a dark forest.  You see birds flying over head.
+
+
+
+2:	When making your mobiles, be careful how you word what they are
+wearing.   
+
+		For Example Of What Not To Say:
+
+The werewolf is huge.  He is wielding a Mace of Oblivion.
+
+	Reason being, if he doesn't load the Mace, this would not make any
+sense.  
+
+
+
+3:	Some people's monitors do not have word wrap.  Try to keep
+your lines between 65-75 characters
+
+
+
+4:	Phrases such as "behind you" and "in front of you" and "on your
+right" are not very good things to say, because you never know which
+direction a player is coming from.  This means make things generic enough
+that it makes sense to them coming OR going.
+
+
+
+5:	Don't us Numeric values in the zone descriptions.  This means type
+fifty instead of 50. (but be realistic about it, if you have a number like
+1,323,534,542,234,234,929.902, just type it out, but make sure you can't 
+replace that number with a smaller or larger word number for example, cut
+that down to 1 billion instead of that large number.)
+
+
+
+6:	Adding penalties to eq is recommended.  This allows players to 
+compromise.  Perhaps a braclet is +10 Strength, but -150 Hit Points.
+The +str is pretty inticing, but the player would have to decide
+how important to him/her those 150 Hit Points are.
+
+--------------------------------------------------------------------------
+
+	Now for Circle Mud there are five files which make up a zone. The 
+first is the world file. This contains all info about a room, including 
+what it looks like, where the exits lead, whether there are doors on the 
+exits, and many other facts. The rooms are each numbered individually so 
+that no two rooms have the same number. Room 3014 is the Market Square 
+found in zone 30. Room 5250 is in zone 52, and room 19001 is in zone 190.
+
+        The second file is the mobile file.  this contains all
+information about the monsters that are to be in your zone.  The mobile 
+file controls how each mobiles behave, and how the look.  Like the room 
+numbers, mobiles each have a specific number which also contains the zone
+number.  For example mobile 3000 is the wizard located in zone 30.  Mobile
+5804 is in zone 58, and mobile 901 comes from zone 9.
+
+        The third file is the object file.  This file contains
+information about objects and how they affect players in the game.  Objects
+are all things in the game that players can handle or manipulate.  This 
+includes fountains, weapons, food, armor, even corpeses.  In the object 
+file you can define exactly what an object does.
+
+        The fourth file is the zone file.  The zone file contains the
+most important information of all, for it controls how the zone operates. 
+The zone file close and locks doors.  It loads mobiles, it equips mobiles
+with objects.  It fills fountains.It can even remove an object from a room
+if you desire.
+
+        The fifth file is the shop file.  This is a rather complicated
+file which alows you to set up a shop where objects are sold.  With the 
+shop file you can designate which mobiles will be the shopkeepers, what 
+items will be sold, and what time the shop is open for business.
+
+-------------------------------------------------------------------------
+				REDIT (Room EDIT)
+-------------------------------------------------------------------------
+
+
+	Redit is a command that is used to build a room online.  To edit
+a room which already exists, all you need to do is enter the room and type
+redit.  This is usefull for correcting mistakes.  If you redit a room
+which is already in existance, you will see all the information about
+the room.  How ever if you are building a new zone, you will not want
+to edit existing rooms.  Here's how you do it.
+
+	I want to build a brand new room in the new zone 58.  I would simply
+type redit 5800.  I would then see a display of an unfinished room.  The 
+default messages always indicate that nothing has been insterted into the
+field.
+
+	For Example:
+
+--Room Number   : [5800]
+1)	Name		: An unfinshed room
+2)	Description :
+You are in an unfinished room.
+3)	Room flags	: NOBITS
+4)	Sector type	: Inside
+5)	Exit North	: -1
+6)	Exit East	: -1
+7)	Exit South	: -1
+8)	Exit West	: -1
+9)	Exit Up	: -1
+A)	Exit Down	: -1
+B)	Extra Descriptions Menus
+Q)	Quit
+Enter Choice	:
+
+I would begin by naming the room.  I would hit 1.  It would ask me for
+a room name.  I would type in, A Red Room.  When I hit enter after I
+type A Red Room, the computer will insert that information where it 
+previously said, An unfinished room.  I would then enter my description
+of the room by hitting 2.  i would type in the description, which would 
+include the obvious exits of the room.  When I am done, I would start a 
+new line, and enter @ to end the descrition.  This @ will now show up 
+in the room description.
+
+	Option 3 in olc is room flags.  Room flags is how we include 
+information about the room whic affects players.
+
+	The Flags are
+
+1    DARK           Room is dark.
+2    DEATH          Room is a death trap; char 'dies' (no xp lost).
+3    NOMOB          MOBs (monsters) cannot enter room.
+4    INDOORS        Room is indoors.
+5    PEACEFUL       Room is peaceful (violence not allowed).
+6    SOUNDPROOF     Shouts, gossips, etc. will not be heard in room.
+7    NOTRACK        "track" will never find a path through this room.
+8    NOMAGIC        All magic attempted in this room will fail.
+9    TUNNEL         Only one person allowed in room at a time.
+10   PRIVATE        Cannot teleport in or GOTO if two people here.
+11   GODROOM        LVL_GOD and above only allowed.
+12   HOUSE          Reserved for internal use.  Do not set. 
+13   HOUSE_CRASH    Reserved for internal use.  Do not set. 
+14   ATRIUM         Reserved for internal use.  Do not set.      
+15   OLC            Reserved for internal use.  Do not set. 
+16   BFS_MARK       Reserved for internal use.  Do not set. 
+
+
+	These flags are numbered accordingly to 1-16.  Do NOT use the
+flags 11-16.  You can have as many flags you wish for the room to 
+have.  Upon completion of entering room flags, enter 0 to exit the
+room flags menu.  This will take you back to the OLC menu.  You will 
+then see all the flags you chose next to the room flags option.  If
+you wish to remove a bitvector flag from a room, all you need to do is 
+go back to the room flags, and enter the number for the flag that you
+wish to remove.  In other words, entering a flag tice in a room will
+remove it.
+
+	Sector type is option 4.  Sector type only affects travel, whether
+it involves movement points, or prohibits movement into the room unless
+you are ha boat.  As of now, we do not have underwater or flying rooms.
+Do NOT use these fields.  YOu can only ahve one sector type per room. 
+This is not a bitvector.
+
+	Here are the sector types:
+
+0    INSIDE         Indoors - typically small number of move points needed.
+1    CITY           The streets of a city.
+2    FIELD          An open field.
+3    FOREST         A dense forest.
+4    HILLS          Low foothills.
+5    MOUNTAIN       Steep mountain regions.
+6    WATER_SWIM     Water (swimmable).
+7    WATER_NOSWIM   Unswimmable water - boat required for passage.
+8    UNDERWATER     Underwater.
+9    FLYING         Wheee!
+
+	Options 5-A are exits.  If you want the room you are building to 
+have a north exit to a room, you simply use option 5.  This will bring
+up another menu in which you can enter information about where the exit
+goes to, what description will be seen if the player looks in that 
+irection, what the name of the door (if any) is called, what object
+number actually unlocks the door (if any), and whether the exit is a 
+door and/or pickproof.  If you make a mistake and have a room with an
+exit that isn't suppost to be there, simply hit 6 (purge exit) under
+the exits menu, and all info about that exit will be wiped, including 
+extra descripts.
+
+	You can NOT set an exit to a room that does not exist.  You must
+first build the adjoining room before you connect to it.  Also, just
+because room 5801 might lead north to 5802, 5802 doesn't necessarily
+have to have an exit south back to 5801.  This is usefull if you want 
+to confuse players, or trap them from excape.
+
+	The last option on the olc menu is B) Extra description menu.  
+This is useful if you have a window in your room, and you want to 
+have a view to accompany with it.  To enter this info, simply it B.  
+A new menu will be presentedto you.  Option one is keywords.  This 
+is where what the players would look to see something.  In this
+case it is a window, but theoretically, it could be anything.  hit
+1 to enter the keyword.  Then type window.  When you hit enter, you
+will go back to the extra descriptions menu.  It is possible to have
+more than one word per extra description.  For example, you could
+also use glass outside window to display the same description.  If 
+a player types look glass, or look outside, or look window, the 
+player will all see teh same description, which you would enter
+into the room, by chosing option 2 at the extra descriptions menu.
+You would write out the message and terminate the description just
+like you would a room description, by starting a new line, and 
+hitting @.
+
+	For now, OLC will not allow quotation marks to start out
+an extra description.
+
+	When you are done with the room, hit Q for quit.  It will
+ask you if you want to save the room internally.  If you are 
+happy with the room, enter yes.  If you don't really want to 
+include the changes into the room, for example, it may be 
+a pre-existing room that someone might not want changed, enter 
+no.  However the room has not been saved to the actual computer
+that runs the gaem.  To save the room, you would type
+Redit save 58, if you are dealing with zone 58.  If you are 
+building zone 90, you would enter redit save 90.
+
+------------------------------------------------------------------------
+					MEDIT (Mobile EDIT)
+------------------------------------------------------------------------
+
+	Medit is the online means of creating a monster.  Similar to
+REDIT, MEDIT uses menu options to enter in fields of information.
+
+	If you are building zone 58, you would simply type medit 5800
+to create a mobile numbered 5800.  If this number is already used 
+by a mobile, you will be shown all the stats on the mobile.  Otherwise,
+like REDIT, it will put in some default information about the unfinished
+mob.  All that you need to do is eter the field in which you wish to
+edit, and fill in the information.
+
+	The D-Desc is what the mobile looks like when it is looked at,
+simply type in what the mobile looks like.  To terminate the description
+start a new line and enter @.
+
+	it is recommended that you put some sort of vulnerability on a 
+mobile, for instance, if it hits very hard, and hits consistantly, put
+low hitpoints on it.
+
+	The experience that a player gets for killing a mobile is NOT 
+the number that you enter into the Experience points field.  That number
+tells you what someone of hte same level as the mobile will get.
+
+	If a player is level 15, and kills a level 15 mobile, then the player
+will get the experience points you prescribe.  However, if a level 30 kills
+the same mob, that player won't be rewarded with as much.
+
+	It is VERY IMPORTANT that you always give mobiles aliases.  If you
+not the game will be very disturbed.  Aliases are the name that you 
+type to kill the mob, look at the mob, or steal from the mob.
+
+	There are a number of bitvectors available that should not be used.
+Most of these are internal flags, such as group.  Please do not use
+any of these flags that don't actually affect the mobile.  Also be aware
+that just like rooms, if you wish to remove a flag from a mob, simply
+repeat the flag.
+
+Action Bitvector
+
+SPEC           This flag must be set on mobiles which have
+               special procedures written in C.  In addition to
+               setting this bit, the specproc must be assigned in
+               spec_assign.c, and the specproc itself must (of
+               course) must be written.  Talk to an *Imp for more
+		   information.
+
+SENTINEL       Mobiles wander around randomly by default; this
+               bit should be set for mobiles which are to remain
+               stationary.
+
+SCAVENGER      The mob should pick up valuables it finds on the
+               ground.  More expensive items will be taken first.
+
+ISNPC          Reserved for internal use.  Do not set.
+
+AWARE          Set for mobs which cannot be backstabbed. 
+               Replaces the ACT_NICE_THIEF bit from Diku Gamma.
+
+AGGRESSIVE     Mob will hit all players in the room it can see. 
+               See also the WIMPY bit.
+
+STAY_ZONE      Mob will not wander out of its own zone -- good
+               for keeping your mobs as only part of your own
+               area.
+
+WIMPY          Mob will flee when being attacked if it has less
+               than 20% of its hit points.  If the WIMPY bit is
+               set in conjunction with any of the forms of the
+               AGGRESSIVE bit, the mob will only attack mobs that
+               are unconscious (sleeping or incapacitated).
+
+AGGR_EVIL      Mob will attack players that are evil-aligned.
+
+AGGR_GOOD      Mob will attack players that are good-aligned.
+
+AGGR_NEUTRAL   Mob will attack players that are neutrally aligned.
+
+MEMORY         Mob will remember the players that initiate
+               attacks on it, and initiate an attack on that
+               player if it ever runs into him again.
+
+HELPER         The mob will attack any player it sees in the room
+               that is fighting with a mobile in the room. 
+               Useful for groups of mobiles that travel together;
+               i.e. three snakes in a pit, to force players to
+               fight all three simultaneously instead of picking
+               off one at a time.
+
+NOCHARM        Mob cannot be charmed.
+
+NOSUMMON       Mob cannot be summoned.
+
+NOSLEEP        Sleep spell cannot be cast on mob.
+
+NOBASH         Large mobs such as trees that cannot be bashed.
+
+NOBLIND        Mob cannot be blinded.
+
+Affection Bitvector
+
+BLIND          Mob is blind.
+INVISIBLE      Mob is invisible.
+DETECT_ALIGN   Mob is sensitive to the alignment of others.
+DETECT_INVIS   Mob can see invisible characters and objects.
+DETECT_MAGIC   Mob is sensitive to magical presence.
+SENSE_LIFE     Mob can sense hidden life.
+WATERWALK      Mob can traverse unswimmable water sectors.
+SANCTUARY      Mob is protected by sanctuary (takes half damage).
+GROUP          Reserved for internal use.  Do not set.
+CURSE          Mob is cursed.
+INFRAVISION    Mob can see in dark.
+POISON         Reserved for internal use.  Do not set.
+PROTECT_EVIL   Mob is protected from evil characters.
+PROTECT_GOOD   Mob is protected from good characters.
+SLEEP          Reserved for internal use.  Do not set.
+NOTRACK        Mob cannot be tracked.
+UNUSED16       Unused (room for future expansion).
+UNUSED17       Unused (room for future expansion).
+SNEAK          Mob can move quietly without room being informed.
+HIDE           Mob is hidden; can only be seen with sense life.
+UNUSED20       Unused (room for future expansion).
+CHARM          Reserved for internal use.  Do not set.
+
+Alignment
+     A number from -1000 to 1000 representing the mob's initial alignment.
+
+     -1000...-350   Evil
+      -349...349    Neutral
+       350...1000   Good
+
+------------------------------------------------------------------------
+				OEDIT (Object EDIT)
+------------------------------------------------------------------------
+
+	OEDIT enables you to create new objects for your zone.  Just like
+rooms and mobiles, the zone number will in the number of hte object.
+Therefore object 19020 will be part of zone 190.  If you were building
+zone 58, you would type medit 5800 to build object 5800.  
+
+	Extra descriptions on an object are always encouraged.  These 
+descriptions tell what the object looks like when someone looks at it.
+This gives the players a more realistic world to be part of.  Extra
+descriptions on objects are similar to extra descriptions on rooms.
+You can even put different keywords on an extra descrtipion so there
+is more to look at.  Take, for example, a knife.  You could first put 
+an extra description on the knife itself:
+
+The knife is rusting.  It appears as though something is written on the 
+handle.
+
+	Then you can put an extra description on the knife using the keyword
+"handle" and put the writing on there.  This makes players very excited
+because they feel though they are in a more cohessive world.
+
+	All keys must be flagged !RENT.  They must also have the TAKE
+and HOLD flag on them.  ll items are set to automaticly be taken.  If
+you don't wish for a particular object, perhaps a fountain, to be taken
+simply remove the take flag from the object.
+
+		Here are what some of the flags mean:
+
+Type Flag
+
+LIGHT          Item is a light source.
+SCROLL         Item is a magical scroll.
+WAND           Item is a magical wand.
+STAFF          Item is a magical staff.
+WEAPON         Item is a weapon.
+TREASURE       Item is treasure other than gold coins (i.e. gems)
+ARMOR          Item is armor.
+POTION         Item is a magical potion.
+WORN           Currently not implemented.  Do not use.
+OTHER          Miscellaneous object with no special properties.
+TRASH          Trash -- junked by cleaners, not bought by shopkeepers.
+CONTAINER      Item is a container.
+NOTE           Item is a note (can be written on).
+DRINKCON       Item is a drink container.
+KEY            Item is a key.
+FOOD           Item is food.
+MONEY          Item is money (gold coins).
+PEN            Item is a pen.
+BOAT           Item is a boat; allows you to traverse SECT_WATER_NOSWIM
+FOUNTAIN       Item is a fountain.
+
+Extra (Effects) Bitvector
+
+GLOW           Item is glowing (cosmetic).
+HUM            Item is humming (cosmetic).
+NORENT         Item cannot be rented.
+NODONATE       Item cannot be donated.
+NOINVIS        Item cannot be made invisible.
+INVISIBLE      Item is invisible.
+MAGIC          Item has a magical aura and cannot be enchanted.
+NODROP         Item is cursed and cannot be dropped.
+BLESS          Item is blessed (cosmetic).
+!GOOD          Item cannot be used by good-aligned characters.
+!EVIL          Item cannot be used by evil-aligned characters.
+!NEUTRAL       Item cannot be used by neutral align characters.
+!MAGIC USER    Item cannot be used by the Mage class.
+!CLERIC        Item cannot be used by the Cleric class.
+!THIEF         Item cannot be used by the Thief class.
+!WARRIOR       Item cannot be used by the Warrior class.
+NOSELL         Shopkeepers will not buy or sell the item.
+
+Wear Bitvector
+
+TAKE      Item can be taken (picked up off the ground).
+FINGER    Item can be worn on the fingers.
+NECK      Item can be worn around the neck.
+BODY      Item can be worn on the body.
+HEAD      Item can be worn on the head.
+LEGS      Item can be worn on the legs.
+FEET      Item can be worn on the feet.
+HANDS     Item can be worn on the hands.
+ARMS      Item can be worn on the arms.
+SHIELD    Item can be used as a shield.
+ABOUT     Item can be worn about the body.
+WAIST     Item can be worn around the waist.
+WRIST     Item can be worn around the wrist.
+WIELD     Item can be wielded; e.g. weapons.
+HOLD      Item can be held (the "hold" command).
+
+Weight
+     The weight of the object.  The weight controls how many strength points
+a character must have to take the object, and is used to calculate when bags
+and other containers become full.
+
+Cost
+     The value of the object in gold coins; used by shopkeepers.
+
+Rent Per Day
+     The cost per day to rent the object in the Reception.
+
+LIGHT (Type Flag 1)
+     value 0: unused
+     value 1: unused
+     value 2: Capacity of light in hours.
+                0: Burned out light.
+               -1: Eternal light source.
+     value 3: unused
+
+SCROLL (Type Flag 2)
+     value 0: Level at which scroll's spells are cast.
+     value 1: Spell number 1
+     value 2: Spell number 2
+     value 3: Spell number 3
+          If less than 3 spells are desired, set unused values to -1.
+
+WAND (Type Flag 3)
+     value 0: Level at which wand's spell is cast.
+     value 1: Charge capacity of wand (>= 1)
+     value 2: Current number of charges remaining
+     value 3: Spell number
+
+STAFF (Type Flag 4)
+     value 0: Level at which staff's spell is cast.
+     value 1: Charge capacity of staff
+     value 2: Current number of charges remaining
+     value 3: Spell number
+
+WEAPON (Type Flag 5)
+     value 0: unused
+     value 1: Number of damage dice
+     value 2: Size of damage dice
+     value 3: Weapon type for damage messages, one of:
+               0    hit/hits
+               1    sting/stings
+               2    whip/whips
+               3    slash/slashes
+               4    bite/bites
+               5    bludgeon/bludgeons
+               6    crush/crushes
+               7    pound/pounds
+               8    claw/claws
+               9    maul/mauls
+               10   thrash/thrashes
+               11   pierce/pierces
+               12   blast/blasts
+               13   punch/punches
+               14   stab/stabs
+
+ARMOR (Type Flag 9)
+     value 0: AC-apply of the armor.  Note that the effective change to AC
+               is this value times a multiplier based on where the armor is
+               worn.  Values >0 enhance the armor class; values <0 damage
+               the armor class (cursed armor, for example).
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+POTION (Type Flag 10)
+     value 0: Level at which the potion's spells are cast.
+     value 1: Spell number 1
+     value 2: Spell number 2
+     value 3: Spell number 3
+          If less than 3 spells are desired, set unused values to -1.
+
+OTHER (Type Flag 12)
+     value 0: unused
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+TRASH (Type Flag 13)
+     value 0: unused
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+
+CONTAINER (Type Flag 15)
+     value 0: Capacity (max containable weight) of container
+     value 1: Container flag bitvector (MUST be a numeric bitvector)
+          1    CLOSEABLE      Container can be closed and locked.
+          2    PICKPROOF      Lock on container cannot be picked.
+          4    CLOSED         Container is closed when created.
+          8    LOCKED         Container is locked when created.
+     value 2: The vnum of the key object that opens this container.
+               -1 if it has no key.
+     value 3: Reserved for internal use -- always set as 0.
+
+NOTE (Type Flag 16)
+     value 0: Language of writing (unimplemented).
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+DRINKCON (Type Flag 17)
+
+KEY (Type Flag 18)
+     value 0: unused
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+FOOD (Type Flag 19)
+     value 0: The number of hours of hunger satisfied by this food.
+     value 1: unused
+     value 2: unused
+     value 3: Non-zero if the food is poisoned, 0 otherwise.
+
+MONEY (Type Flag 20)
+     value 0: The number of gold coins in the pile.
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+PEN (Type Flag 21)
+     value 0: unused
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+BOAT (Type Flag 22)
+     value 0: unused
+     value 1: unused
+     value 2: unused
+     value 3: unused
+
+FOUNTAIN (Type Flag 23)
+
+-----------------------------------------------------------------------
+				ZEDIT (Zone EDIT)
+-----------------------------------------------------------------------
+
+	Zedit is how we can use OLC to tell the zone how to behave.  This
+is designated in a room by room manner.  Therefore each zone command that
+you edit only takes place in one room, until you move.
+
+	To edit or add zone commands you simply go into the room in which
+you wish for the zone commands to affect.  If you wanted to add zone 
+commands for room 5850, you would simply go into that room and type zedit.
+This brings up a menu similar to the other OLC commands.  Suppose you wanted
+to load a high priest (5801) into room 5850.  You would go into 5850 and
+type zedit.  Then you would choose N for new command.  It will ask you 
+what number in the commands for that room, you enter 0.
+
+	Then it will ask you what command are you going to use.  You will
+see a menu of commands.  In this case, you would enter M to load a mobile
+into a room.  It will ask you what mobile number, you would then
+enter in 5801 for the high priest.  Then it will ask you how many
+mobiles can exist.  If it is a one of a kind mobile, then you enter 1.
+This prevents the mobile from loading anywhere else in the game, and also
+it prevents it from loading again untill it is dead.  Then you would
+enter Q to quit the command option menu.  You will then be sent back
+to the main ZEDIT menu.
+
+	If you wanted to load an object onto a mob, you must first tell the
+zone file that the mobile will be loading into that room. Then you would
+enter N for New command.  You will be asked where in the command line
+he new command will be located.  To load an object onto a mobile, you must
+enter in the number which immediatly follows the command which loads the 
+mobile.  The computer will then ask you if the command will be dependant
+on the success of the last command.  You MUST enter yes.  This means
+that if the mobile is already loaded, and maxxed, the game will not 
+loadthe mobile, therefore  it will not try to load the object onto the 
+mobile.
+
+	You may wish to have an item load on the ground.  This is fine.  Not
+all equipment has to load onto mobiles.  However, you may want there
+to be several of these items.  It may be a rose in a garden. You would
+simply go to the command options menu and tell teh zone file to load
+an object into a room.  However, the object will continue to load into
+the room, until it is maxed.  To prevent 50 roses from loading
+into the room, simply hit N for new command.  It will ask you where
+the command should be placed.  Use the SAME number as the command
+which loads the rose.  This will bump the command which loads the
+rose down.  Then you will be at a command option's menu.  Enter R
+for remove an object from a room.  If no one comes along and gets the 
+rose, the game will remove it and load another one.  This will
+prevent build up.  ALso use the remove option to remove fountains
+before they reload so it will be full after every reset.
+
+	It is possible to load objects on any location of a mobile.  Even
+if the item is flagged for hands, you can use the zone commands to load
+it on the mobiles feet.
+
+	It is also possible to use the zone commands to load objects into
+containers.  You put as many objects into a container regardless of the
+containers maximum containable weight.
+
+	You must use the ZEDIT command to shut or lock all doors.  The D
+command under the command options menu controls all doors.  Don't forget
+to actually MAKE a door in the REDIT exit menu.  You must enter it
+shut/lock commands on BOTH sides of the door for the command to
+function properly.
+
+	It may become necessary that you delete a command from the command
+line.  There for hit D for Delete.  It will ask you what command to delete,
+simply enter then number of the unwanted command.
+
+	If you wish to change a command, perhaps to lower the maximum existing
+objects, simply hit E under the ZEDIT main menu.  You will be asked which
+command to edit.  Enter in the command that is not of your liking.  Using 
+the edit command to change a command line simply start the command
+over, so you could essentially change a command from load a mobile to close
+and lock a door, if you so choose to.
+
+----------------------------------------------------------------------------
+				End Of Handbook
+----------------------------------------------------------------------------

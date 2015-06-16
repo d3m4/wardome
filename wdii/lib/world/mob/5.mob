@@ -1,0 +1,528 @@
+#500
+spirit wardome war dome~
+the Spirit of WarDome~
+The Spirit of Wardome is glowing here, be careful with your soul.
+~
+Looks a great spirit with all of the Wardome powers.
+~
+254031 12344 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 5592
+5 23 88 -28 -13
+Att2: 100
+Att3: 100
+Att4: 75
+E
+T 55
+#501
+Chaos Guardian~
+the Chaos Guardian~
+The Chaos Guardian is standing here.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+6232 8 0 E
+0 0 0 0d0+0 135d-47+-10
+1 1 3780
+5 15 59 -77 -99
+BareHandAttack: 10
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#502
+archer guard~
+the Archer ~
+The WarDome Archer is here, keeping the Gate.
+~
+It looks unfinished.
+~
+2127 0 0 E
+0 0 0 0d0+90 45d-2+3
+1 1 945
+5 5 19 -26 112
+Att2: 48
+Att3: 9
+E
+#503
+mayor~
+the mayor~
+The Mayor is sitting in his huge chair, snoring loudly.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+26634 0 0 E
+0 0 0 0d0+1000 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#504
+sherif~
+Wardome Sheriff~
+The Wardome Sheriff is here protecting the city.
+~
+A big man, the best man to protect the city.
+~
+8 16777216 0 E
+0 0 0 0d0+1000 120d-40+-8
+1 1 3360
+5 14 52 -68 -23
+BareHandAttack: 5
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#505
+ashlandar questmaster quest master ash~
+The Questmaster Ashlandar~
+Ashlandar, the Questmaster of WarDome, is here.
+~
+To be a questmaster you need lots of experience. :)
+~
+510027 0 0 E
+0 0 0 0d0+0 200d0+0
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 36
+Q 1
+#506
+hazaard adventurer man~
+Hazaard~
+The Wardome Adventurer, Hazaard.
+~
+He looks like an old but very experienced adventurer.
+~
+8 1661998252 0 E
+0 0 0 0d0+500 30d1000+0
+1 1 0
+50 1 114 -28 4
+BareHandAttack: 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 50
+#507
+hazaard adventurer man~
+Hazaard~
+The WarDome Adventurer, Hazaard.
+~
+He looks like an old adventurer.
+~
+2615386 595603644 0 E
+0 0 0 0d0+1000 200d-80+-20
+1 1 5592
+5 23 88 -28 -13
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 50
+#508
+general powerful~
+the Powerful General~
+&yThe &BPowerful General&y is standing here.&n
+~
+The General is the leader of the Wardome Guards.
+He looks as tough as hell... better avoiding fights with him...
+This is the guy to look for if you are looking for an &Rarena challenge&n!
+Just type &Ywardome <min_remort> <max_remort>&n at his presence.
+~
+518217 84979880 0 E
+0 0 0 0d0+1000 200d0+10
+1 1 6151
+5 10 88 -28 4
+BareHandAttack: 13
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#509
+Wardome House Maker.~
+Wardome House Maker.~
+Wardome House Maker it's here waiting to create your house
+~
+Need a good place to live? Type LIST and buy your house.
+~
+516107 0 0 E
+0 0 0 0d0+1000 200d-80+-20
+1 1 5592
+5 23 88 -72 -13
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#510
+alley cat~
+the alley cat~
+a small harmless feline searches for food.
+~
+You see a small starved cat.
+~
+138 0 0 E
+0 0 0 0d0+-10 12d14+8
+1 1 252
+5 2 4 -58 87
+Att2: 12
+E
+#511
+A prostitute~
+the female prostitute~
+A prostitute stands right over here, oh my god.
+~
+Thats a woman, and what bit tits... What a temptation man!
+Your libido is bigger than your mind, why don't you go chat with her?
+~
+6344 0 0 E
+0 0 0 0d0+-500 10d15+8
+1 1 207
+5 2 4 -106 -42
+E
+#512
+cyber~
+the Cyber Man~
+The Cyber Man is stading here.
+~
+undefined~
+24586 0 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 5592
+5 23 88 -28 -13
+E
+#513
+oracle~
+oracle~
+&gA huge, golden statue is here... so, this is the Wardome &YOracle&g!
+~
+Standing tall and fair at your front, you see a large golden statue, at the
+momment you see it, you recognize a Big Eye the might Oracle of the Gods of
+Wardome.
+~
+1237083 12328 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 5592
+5 23 88 -28 -13
+BareHandAttack: 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#514
+The woman cassino master~
+the cassino master~
+A woman is here behinds a roulette.
+~
+You see a very pretty and well dressed woman,
+why not try a cassino game?
+~
+1564890 1032 0 E
+0 0 0 0d0+0 0d20+10
+1 1 0
+5 1 0 0 0
+E
+#559
+keeper peacekeeper~
+the Peacekeeper~
+A Wardome Peacekeeper is standing here, ready to solve any problem
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+6233 8 0 E
+0 0 0 0d0+1000 45d-2+3
+1 1 945
+5 5 19 -26 112
+BareHandAttack: 10
+Att2: 48
+Att3: 9
+E
+#560
+wardome guard~
+the Wardome Guard~
+A Wardome Guard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+2062 8 0 E
+0 0 0 0d0+1000 25d8+6
+1 1 522
+5 3 11 -100 -122
+Att2: 24
+E
+T 51
+#561
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+What a tough job he has.
+~
+2121 0 0 E
+0 0 0 0d0+800 18d11+7
+1 1 378
+5 2 6 41 84
+Att2: 18
+E
+#562
+fido dog~
+the beastly fido~
+A beastly fido is mucking through the garbage looking for food here.
+~
+The fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
+~
+65768 32768 0 E
+0 0 0 0d0+-200 6d17+9
+1 1 126
+5 1 2 99 67
+BareHandAttack: 4
+Att2: 6
+E
+#563
+mercenary~
+the mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+2058 0 0 E
+0 0 0 0d0+-330 45d-2+3
+1 1 945
+5 5 19 -26 112
+Att2: 48
+Att3: 9
+E
+#564
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 0 E
+0 0 0 0d0+400 12d14+8
+1 1 252
+5 2 4 -58 87
+Att2: 12
+E
+#565
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 0 E
+0 0 0 0d0+400 12d14+8
+1 1 252
+5 2 4 -76 87
+Att2: 12
+E
+#566
+cyber~
+the Cyber Man~
+The Cyber Man is standing here.
+~
+It looks like the owner of the Cyber Cafe...
+~
+57418 0 0 E
+0 0 0 0d0+0 0d20+10
+1 1 0
+5 1 0 0 0
+E
+#567
+wardome gateguard gate guard~
+the Wardome Gateguard~
+The Wardome Gateguard is standing here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+3661902 1091568808 0 E
+0 0 0 0d0+19 200d1+1
+1 1 6151
+5 23 1 0 4
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#568
+undefined~
+undefined~
+undefined~
+undefined~
+3661918 1091568808 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#569
+wardome gateguard 2~
+the wardome gateguard~
+The wardome gateguard is standing here.
+~
+It looks fine.
+~
+516190 1090520232 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 100
+E
+T 65
+T 66
+T 67
+#575
+Training Master~
+Training Master~
+The Training Master is here to help and train you.
+~
+You see a strong man, he has the  knowledge in the art of fight.
+And he acquired from the Gods the Power to add several types of attributes to you.
+~
+24591 0 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#576
+The Scientist~
+the Scientist~
+The Scientist is here, maybe he has anything to your life.
+~
+He is a thin and tall man, wearing a white robe and a big eyeglass.
+His hair is black, or white, or green, oops... it's a rainbow...
+~
+16399 0 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#577
+Wardome Head-Hunter~
+a Head-Hunter mercenary~
+A Head-Hunter mercenary is standing here looking for a job.
+~
+It looks crazy, but who knows...
+~
+24606 32828 0 E
+0 0 0 0d0+-500 150d-55+-12
+1 1 4200
+5 17 66 -85 -100
+Att2: 100
+Att3: 77
+Att4: 24
+E
+T 90
+T 91
+T 92
+T 94
+#578
+The Barman~
+the barman of the tavern~
+A ugly and fuckin'g fat man is here.
+~
+He smells like a pig, yeca...
+~
+254159 32808 0 E
+0 0 0 0d0+0 150d-55+-12
+1 1 4200
+5 17 66 -85 -100
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#579
+janitor~
+a janitor~
+A nice-looking janitor is walking around here, cleaning everything.
+~
+She's a bit dirty, but still looks pretty...
+~
+188620 33554432 0 E
+0 0 0 0d0+0 15d13+7
+1 1 315
+5 2 6 -31 -19
+Att2: 15
+E
+#580
+faceless mob~
+a faceless mob~
+A faceless mob stands here.
+~
+How odd, it is faceless.
+~
+11 128 0 E
+0 0 0 0d0+0 0d20+10
+1 1 0
+5 1 0 0 0
+E
+#581
+gandalf mage~
+Gandalf the Grey~
+Gandalf the Grey
+~
+   Gandalf is here to teach you how to learn spells or skills as fast as
+possible!!!    
+~
+90207 190 0 E
+0 0 0 0d0+1000 200d-80+-20
+1 1 5592
+5 23 88 -28 -13
+E
+#590
+shopkeeper jaele~
+the thief jaele~
+Jaele, a beautiful woman dressed in black, is here.
+~
+You can barely see her face.
+~
+3661914 578814088 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -72 4
+E
+#598
+another faceless mob~
+a faceless mob~
+Another Faceless mob stands here.
+~
+It is faceless :)
+~
+11 128 0 E
+0 0 0 0d0+0 1d20+10
+1 1 18
+5 1 0 16 3
+E
+#599
+gith~
+God of the Giths~
+The God of Giths is here, he gives you the passport to another world
+~
+He's just a Shadow
+~
+8 0 0 E
+0 0 0 0d0+0 200d-80+-20
+1 1 6151
+5 23 88 -28 4
+Att2: 100
+Att3: 100
+Att4: 75
+E
+$

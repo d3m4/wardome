@@ -1,0 +1,116 @@
+#55
+The Graye Area~
+5599 30 0 
+
+* The doors..
+
+D 0 5543 5 2             Close tomb entrance
+D 0 5559 4 2  
+D 0 5544 5 2             Close trapdoor
+D 0 5546 4 2 
+D 0 5549 5 2             Other end of trapdoor
+D 0 5548 4 2
+D 0 5555 0 2             Close ebony door
+D 0 5556 2 2 
+D 0 5556 1 2             Close ivory door
+D 0 5557 3 2       
+
+* The mobs..
+
+M 0 5501 5 5505          Load a brownie
+E 1 5507 50 17           Give him a wand
+M 0 5501 5 5508
+E 1 5507 50 17
+M 0 5501 5 5516
+E 1 5507 50 17
+M 0 5501 5 5517
+E 1 5507 50 17
+M 0 5501 5 5514
+E 1 5507 50 17
+*
+M 0 5502 10 5509         Load a wolf
+M 0 5502 10 5510
+M 0 5502 10 5511
+M 0 5502 10 5514
+M 0 5502 10 5517
+*
+M 0 5503 5 5519          Load a rabbit
+M 0 5503 5 5516
+M 0 5503 5 5513
+*
+M 0 5504 1 5515          Load Tomal the woodsman
+E 1 5508 20 12           Cloak
+E 1 5509 20 13           Belt
+E 1 5510 20 8            Boots
+*
+M 0 5505 4 5533          Load demon guard
+M 0 5505 4 5534
+M 0 5505 4 5535
+M 0 5505 4 5536
+*
+M 0 5506 5 5537          Load Graye Guardsman
+E 1 5511 20 6            Helmet
+E 1 5512 20 3            Cape
+E 1 5513 20 16           Sword
+M 0 5506 5 5537
+E 1 5511 20 6
+E 1 5512 20 3
+E 1 5513 20 16
+M 0 5506 5 5537
+E 1 5511 20 6
+E 1 5512 20 3
+E 1 5513 20 16
+M 0 5506 5 5538
+M 0 5506 5 5539
+*
+M 0 5507 3 5550          Load an Imp
+M 0 5507 3 5551
+*
+M 0 5508 3 5550          Minor Demon
+M 0 5508 3 5551
+*
+M 0 5509 4 5538          Citizens
+M 0 5510 4 5538
+M 0 5509 4 5539
+M 0 5510 4 5539
+*
+M 0 5511 1 5550          Major demon
+E 1 5514 20 17           Claw
+*
+M 0 5512 1 5552          Rift guardian
+E 1 5515 10 10           Armband
+*
+M 0 5513 2 5554          Jail Guard
+E 1 5516 20 16           Whip
+M 0 5513 2 5555   
+E 1 5516 20 16
+*
+M 0 5514 1 5545          Rymat
+*
+M 0 5515 1 5555          Irgon
+E 1 5517 10 0            Candle
+E 1 5503 5 17            Ebony Key
+*
+M 0 5516 1 5556          Scrytin
+E 1 5518 10 11           Shield
+E 1 5504 5 17            Ivory Key
+
+* load up misc stuff..
+
+O 0 5505 1 5543          Cronicles 
+O 0 5522 1 5557          Scrawled Note
+O 0 5521 1 5543          Journal
+O 0 5523 1 5557          Key to tomb
+O 0 5502 1 5543          Trap key
+*
+O 0 5520 1 5561          Graye's Plate
+O 0 5519 1 5561          Graye's Visor 
+*
+O 0 5506 1 5543          Desk
+P 0 5501 1 5506          Key in desk
+*
+S
+#99999
+$~
+
+

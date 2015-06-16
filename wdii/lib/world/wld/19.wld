@@ -1,0 +1,90 @@
+#1900
+Um discreto esconderijo~
+   Voce encontra uma porta escondida nas sombras, muito empoeirada, e de
+dificil notabilidade, um ar de misterio e silencio passa por voce, o lugar eh
+aparentemente muito calmo e tranquilo, como se fosse uma velha taverna de um
+senhor qualquer.  Um sutil homem encapuzado de bracos cruzados esta parado logo
+ali.
+~
+19 196 0
+D0
+~
+door~
+0 1903 1901
+D2
+~
+~
+0 0 4030
+S
+#1901
+O pequeno bar ~
+   Sente-se e acomode-se, sirva-se de uma bebida, aqui vc encontrara umas
+bebidas, comidas estragadas, e eh claro agua!  Seja amigavel e cuidado com sua
+bolsa de moedas.    
+~
+19 8260 0
+D0
+~
+~
+0 0 1902
+D1
+~
+~
+0 0 1903
+D2
+~
+door~
+0 1903 1900
+S
+#1902
+Mesa das discurcoes~
+   Nesse lugar voce pode discutir e espor suas ideias no quadro negro, apenas
+pegue um pedaco de giz e se dirija ao quadro, exponha suas ideias, expresse-se
+libertadamente, somos uma sociedade, iremos entrar em um acordo antes de toda
+escolha.  O quadro dos Adagas Negras esta pendurado no final da sala.    
+~
+19 1048788 0
+D2
+~
+~
+0 0 1901
+S
+#1903
+Achados, perdidos ou roubados.~
+   Aqui nessa sala voce encontrara todos os objetos pegos, saqueados, ou
+furtados por nossos membros, sinta-se a vontade, pegue o que quiser, mas
+contribua sempre com seus dotes ladinos.    
+~
+19 2564 0
+D3
+~
+~
+0 0 1901
+S
+#1904
+The Knowledge Room~
+This is the reception room of the clan, where most of &gDr&yag&con's&n set
+meetings here to think about new plans.  This room is most decorated than all
+of them.  There are Statues of knights, armors made of mithril and a large
+variety of good weapons.  Here you can know about the &gDr&yag&con's
+&gAll&yian&cce&n news just checking the &gDr&yag&con's &gAll&yian&cce&n Board.
+  
+~
+19 131284 0
+D5
+~
+~
+0 0 1902
+S
+#1905
+&rWeapon's Room&n~
+   In the corner west you see several axes, small, medium, large, all height,
+with handle made by wood, gold, silver, etc.  In the corner north there is a
+lonely glass dagger, this dagger shine when orcs are nearly, and its is used by
+mansour in wars.  In corner south lances, very rust, but very large too and if
+it is well care, its will be useful in case of wars.  On the floor of earth
+there is nothing, only feets.  Above you can see the sky.    
+~
+19 4 0
+S
+$~

@@ -1,0 +1,471 @@
+#25000
+undefined~
+Nothing.
+~
+250 0 0
+S
+#25001
+A Mountain Path~
+   You are on a mountain path which ascends a steep mountainside.  The trail
+curves around the mountain so that you cannot really see what lies ahead.  You
+do sense great power though coming from the area behind the mountain.    
+~
+250 0 5
+D4
+~
+~
+0 0 25002
+S
+#25002
+A Mountain Path ~
+   You are on a rocky mountain path leading up and around a steep mountainside.
+You sense a glow from the area beyond the mountain, which you cannot see yet.
+  
+~
+250 0 5
+D4
+~
+~
+0 0 25003
+D5
+~
+~
+0 0 25001
+S
+#25003
+Mountainside Tombs~
+   There are a few stone heaps here and there, the tombs of those who did not
+last the arduous journey up the mountain.  Curiously you notice a few uncovered
+bodies which don't seem to have died of exhaustion.  The path curves east
+around the mountain.    
+~
+250 0 5
+D4
+~
+~
+0 0 25004
+D5
+~
+~
+0 0 25002
+S
+#25004
+A Blind Curve on the Mountain Path~
+   This looks like a normal mountain path, but it is NOT!  This section of the
+path is habitated by a huge (and of course, man-eating) Cyclops.  The path
+makes its final ascent to an overlook.    
+~
+250 0 5
+D4
+~
+~
+0 0 25005
+D5
+~
+~
+0 0 25003
+S
+#25005
+Vista~
+This is a stunning vista overlooking a canyon.  There is a sign here that says:
+
+                       BEHOLD -- ELEMENTAL CANYON
+
+Fire leaps up from firepits in the western part of the canyon.  The sky looks
+funny, and the air seems hazy to the northwest.  Electricity sparks
+intermittently in the northeast.  To the east you see a strong, magic-looking
+river flowing through the canyon.  Also to the east you spy a cave entrance
+leading into the canyon wall.  The path descends to the north to another
+~
+250 0 5
+D0
+Nothing.
+~
+~
+0 0 25006
+D5
+~
+~
+0 0 25004
+S
+#25006
+The Overlook~
+   You see various elemental servants wandering around the canyon.  The noise
+of humming coming from the canyon gets louder.  The path makes a steep descent
+into the canyon here.    
+~
+250 0 0
+D2
+~
+~
+0 0 25005
+D5
+~
+~
+0 0 25007
+S
+#25007
+Entrance to Elemental Canyon~
+   You are awed by the sounds and sights of great powers at works here.  
+Elemental servants bustle back and forth doing the biddings of the elemental
+rulers.  You see a sort of cross roads to the north, and you can climb up to
+the overlook here.    
+~
+250 0 0
+D0
+~
+~
+0 0 25009
+D4
+~
+~
+0 0 25006
+S
+#25008
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always a incessant buzz of things going on
+about.  The canyon continues north and east.    
+~
+250 0 0
+D0
+~
+~
+0 0 25011
+D1
+~
+~
+0 0 25009
+S
+#25009
+Elemental Gateway~
+   To the west a path dips and winds among some flowing firepits.  To the
+northeast a path goes toward the river.  Beyond toward the northeast and
+northwest are outcrops which rise up from the canyon floor.  To the east there
+is a cave mouth which leads into the canyon wall.  And to the south the path
+leads up, away, and out of the canyon.  Various pure and cross-breeds of
+elemental forms wander the canyon floor, which extends in a wide swath
+northwards.    
+~
+250 0 0
+D0
+~
+~
+0 0 25012
+D1
+~
+~
+0 0 25010
+D2
+~
+~
+0 0 25007
+D3
+~
+~
+0 0 25008
+S
+#25010
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always a incessant buzz of things going on
+about.  The canyon floor extends north and west.  There is a cave mouth set
+into the canyon wall to the east.    
+~
+250 0 0
+D0
+~
+~
+0 0 25013
+D1
+~
+~
+0 0 25020
+D3
+~
+~
+0 0 25009
+S
+#25011
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends off to the north, east, and south.    
+~
+250 0 0
+D0
+~
+~
+0 0 25014
+D1
+~
+~
+0 0 25012
+D2
+~
+~
+0 0 25008
+S
+#25012
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends in all directions.    
+~
+250 0 0
+D0
+~
+~
+0 0 25015
+D1
+~
+~
+0 0 25013
+D2
+~
+~
+0 0 25009
+D3
+~
+~
+0 0 25011
+S
+#25013
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends north, south, and west.  A path follows a
+stream to the east.    
+~
+250 0 0
+D0
+~
+~
+0 0 25016
+D2
+~
+~
+0 0 25010
+D3
+~
+~
+0 0 25012
+S
+#25014
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends north, east, and south.  To the west a garden
+is on fire.    
+~
+250 0 0
+D0
+~
+~
+0 0 25017
+D1
+~
+~
+0 0 25015
+D2
+~
+~
+0 0 25011
+S
+#25015
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends in all directions.    
+~
+250 0 0
+D0
+~
+~
+0 0 25018
+D1
+~
+~
+0 0 25016
+D2
+~
+~
+0 0 25012
+D3
+~
+~
+0 0 25014
+S
+#25016
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The Canyon floor extends north, south and west.    
+~
+250 0 0
+D0
+~
+~
+0 0 25019
+D2
+~
+~
+0 0 25013
+D3
+~
+~
+0 0 25015
+S
+#25017
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends east and south.  You can climb a rise in the
+canyon floor to the north.    
+~
+250 0 0
+D1
+~
+~
+0 0 25018
+D2
+~
+~
+0 0 25014
+S
+#25018
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends east, south, and west.    
+~
+250 0 0
+D1
+~
+~
+0 0 25019
+D2
+~
+~
+0 0 25015
+D3
+~
+~
+0 0 25017
+S
+#25019
+The Floor of the Canyon~
+   Various elemental forms wander the floor of the canyon.  Some seem to be
+going about their business, while others seem to have no business at all.  In
+general, it is calm, yet there is always an incessant buzz of things going on
+about.  The canyon floor extends south and west.  You can climb a rise in the
+canyon floor to the north.    
+~
+250 0 0
+D2
+~
+~
+0 0 25016
+D3
+~
+~
+0 0 25018
+S
+#25020
+Dark Cave~
+   You notice a path winding east among some huge boulders.  You feel a
+powerful source of energy from that direction.    
+~
+250 9 0
+D1
+~
+~
+0 0 25021
+D3
+~
+~
+0 0 25010
+S
+#25021
+Darker Caves ~
+   You can barely see your way even with a light source.  The rocks of the cave
+are even darker than the darkness.  You hear a powerful humming all around you.
+Cave paths go south and east roughly, its hard to tell exactly when you can't
+see where you are going.    
+~
+250 9 0
+D1
+~
+~
+0 0 25022
+D2
+~
+~
+0 0 25023
+D3
+~
+~
+0 0 25020
+S
+#25022
+Darker Caves~
+   You are in an unfinished room.  You can barely see your way even with a
+light source.  The rocks of the cave are even darker than the darkness.  You
+hear a powerful humming all around you.  Cave paths go south and west roughly;
+it's hard to tell exactly when you can't see where you are going.    
+~
+0 9 0
+D2
+~
+~
+0 0 25024
+D3
+~
+~
+0 0 25021
+S
+#25023
+Darker Caves~
+   You can barely see your way even with a light source.  The rocks of the cave
+are even darker than the darkness.  You hear a powerful humming all around you.
+Cave paths go north, south and west roughly, it's hard to tell exactly when
+you|can't see where you are going.    
+~
+0 9 0
+D0
+~
+~
+0 0 25021
+D1
+~
+~
+0 0 25024
+S
+#25024
+Darker Caves~
+   You can barely see your way even with a light source.  The rocks of the cave
+are even darker than the darkness.  You hear a powerful humming all around you.
+Cave paths go north, south and west roughly, it's hard to tell exactly when you
+can't see where you are going.    
+~
+0 9 0
+D0
+~
+~
+0 0 25022
+D3
+~
+~
+0 0 25023
+S
+$~

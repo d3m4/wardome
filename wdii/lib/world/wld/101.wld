@@ -1,0 +1,1620 @@
+#10100
+&WA Light &GForest&n~
+&nWhen you enter this room, you feel a &WPeacefull Aura&n surrounding you.  
+You realize that whonever lives here is fullifed with &yJoy&n and &WPeace&n.  
+
+~
+101 68 3
+D1
+~
+~
+0 0 10101
+D3
+~
+~
+0 0 2799
+S
+#10101
+The Door into the Last Homely House~
+You are standing before a giant house with a large porch, that wraps around the
+front.  This is the home of Elrond and the many elves who live in the valley of 
+Rivendell.  It is surrounded by beautiful gardens, and you can smell the scent
+of flowers around you.
+~
+101 64 1
+D1
+~
+Door~
+1 0 10102
+D3
+~
+~
+0 0 10100
+S
+#10102
+Elrond's western porch~
+This is a large, open, wooden porch which leads up to the Last Homely House.  
+It faces the west, overlooking the valley of Valfenda.  You can hear water
+falling and running, and the faint scent of flowers and trees hangs in the air.
+Black clouds torment the sky, as a drizzle begins.    
+~
+101 64 1
+D1
+~
+~
+0 0 10103
+D3
+~
+Door~
+1 0 10101
+S
+#10103
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+door~
+1 0 10104
+D1
+~
+~
+0 0 10112
+D2
+~
+door~
+1 0 10105
+D3
+~
+~
+0 0 10102
+S
+#10104
+The &RF&rir&Re&c Hall&n~
+Before you lies a large hall, devoid of tables.  At the far end of the hall, a
+large marble fireplace has been set into the very foundation of the house.  
+Two large pillars flank the fireplace, reaching from the high ceiling to the
+wooden floor.  A portrait on the east wall catches your eye.    
+~
+101 0 1
+D2
+~
+door~
+1 0 10103
+S
+#10105
+The Feast Hall~
+A long table fills the room, stretching from one end of the hall to the other.
+Ornately carved chairs have been placed at regular intervals about the table.
+Tapestries have been hung on the walls, woven with bright colors and motifs.  
+To the west, two large windows look out over the valley of Valfenda.    
+~
+101 0 1
+D0
+~
+door~
+1 0 10103
+D1
+~
+door~
+1 0 10106
+S
+#10106
+Elrond's kitchen~
+You have entered Elrond's kitchen.  It's a large, wooden room, with a wood
+floor.  A large fireplace dwarfs one end of the room.  Over the fire is hanging
+a large pot of stew, which is bubbling merrily.  The room is filled with
+wonderful aromas, making your mouth water in anticipation.    
+~
+101 0 1
+D1
+~
+door~
+1 0 10107
+D3
+~
+door~
+1 0 10105
+S
+#10107
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.  There is dirt scattered about the hallway.    
+~
+101 0 1
+D0
+~
+~
+0 0 10109
+D1
+~
+~
+0 0 10108
+D3
+~
+door~
+1 0 10106
+S
+#10108
+Bilbo's room~
+Pens and papers litter this small room at the edge of Elrond's House.  It is
+the room that Bilbo Baggins has come to call home, and it is just about the
+right size for such a well-travelled hobbit.  A window looks out upon the world
+to the south, and to the north a large fireplace has been set into the wall to
+provide heat.  A small hobbit-sized bed lies against the east wall.    
+~
+101 76 1
+D3
+~
+~
+0 0 10107
+S
+#10109
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+~
+0 0 10112
+D1
+~
+~
+0 0 10111
+D2
+~
+~
+0 0 10107
+D3
+~
+~
+0 0 10110
+S
+#10110
+The library of Elrond~
+You are in a small library devoted to study and lore.  The walls are lined with
+bookshelves, filled with books on various topics.  On the west wall of the room
+there is a large board, filled with helpful hints and topics of interest.    
+~
+101 0 1
+D1
+~
+~
+0 0 10109
+S
+#10111
+A supply shop~
+Supplies are crammed together on the shelves of this small shop inside the Last
+Homely House.  Being one of the last stops between here and East Arda, the
+Homely House Shop is designed to carry supplies for both the local elvish
+community and the travellers heading over High Pass.  The scent of leather and
+hide wafts past your nose.  There is a sign on one wall.    
+~
+101 208 1
+D3
+~
+~
+0 0 10109
+S
+#10112
+The stairwell of the Last Homely House~
+You are standing in the very center of the Last Homely House, in the middle of
+a large stairwell that spirals up towards the bell tower.  The staircase curves
+about the wooden walls, running on each wall in turn before vanishing up into
+the bell tower above.  An elaborately carved banister encloses the staircase,
+delicately carved with images of flowers and ivy.    
+~
+101 0 1
+D0
+~
+~
+0 0 10113
+D1
+~
+door~
+0 0 10116
+D2
+~
+~
+0 0 10109
+D3
+~
+~
+0 0 10103
+D4
+~
+~
+0 0 10119
+S
+#10113
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D1
+~
+door~
+1 0 10115
+D2
+~
+~
+0 0 10112
+D3
+~
+~
+0 0 10114
+S
+#10114
+A musical room in the Last Homely House~
+Your nose wrinkles as you enter the dusty workroom, and you try to refrain from
+sneezing.  Dust coats the room, covering the instruments which fill the place.
+Tiny motes have landed upon the varnish of the lutes and violins, and upon the
+goatskin heads of the drums.  The only items which seem to have escaped the
+dust are the woodwinds, which are packed away in small felt bags.  A wooden
+sign hangs upon a counter at the back of the room.    
+~
+101 0 1
+D1
+~
+~
+0 0 10113
+S
+#10115
+The Healing Chambers~
+These are the elven healing chambers of Elrond, known for their miraculous
+powers of healing.  The room is full of beds, and the walls about you are
+covered in shelves.  Upon the shelves are delightful bottles of herbs, which
+have released a fragrant odor into the air.  A small window on the east wall
+looks out on the world.    
+~
+101 1048596 1
+D2
+~
+door~
+1 0 10116
+D3
+~
+door~
+1 0 10113
+S
+#10116
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+door~
+1 0 10115
+D1
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10112
+S
+#10117
+Elrond's eastern porch~
+This is a large, open, wooden porch which leads up to the Last Homely House.  
+It faces the east, overlooking the valley of Rivendell.  You can hear water
+falling and running, and the faint scent of flowers and trees hangs in the air.
+Black clouds torment the sky, as a drizzle begins.    
+~
+101 0 1
+D1
+~
+Door~
+1 0 10118
+D3
+~
+door~
+0 0 10116
+S
+#10118
+The Door into the Last Homely House~
+You are standing before a giant house with a large porch, that wraps around the
+front.  This is the home of Elrond and the many elves who live in the valley of
+Rivendell.  It is surrounded by beautiful gardens, and you can smell the scent
+of flowers around you.    
+~
+101 0 1
+D1
+~
+~
+0 0 10136
+D3
+~
+Door~
+1 0 10117
+S
+#10119
+The stairwell of the Last Homely House~
+You are standing in the very center of the Last Homely House, in the middle of
+a large stairwell that spirals up towards the bell tower.  The staircase curves
+about the wooden walls, running on each wall in turn before vanishing up into
+the bell tower above.  An elaborately carved banister encloses the staircase,
+delicately carved with images of flowers and ivy.    
+~
+101 0 1
+D0
+~
+~
+0 0 10126
+D1
+~
+~
+0 0 10121
+D2
+~
+~
+0 0 10129
+D3
+~
+~
+0 0 10123
+D4
+~
+~
+0 0 10135
+D5
+~
+~
+0 0 10112
+S
+#10120
+A craftman's shop in the House of Elrond~
+You have entered one of the queerest workshops you have ever seen.  Situated in
+the middle of the room is a large table, filled with rags, wood, metal lantern
+housings, wax and wicks.  A large sign rests on the table, painted black with
+red letters.    
+~
+101 0 1
+D0
+~
+~
+0 0 10121
+S
+#10121
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+~
+0 0 10122
+D2
+~
+~
+0 0 10120
+D3
+~
+~
+0 0 10119
+S
+#10122
+Eshna's Quarters~
+You step into a musty room, filled with the scent of age and decay.  Whomever
+lives in these quarters must have been living here for some time, guessing by
+the layers of dust in the corners.  There is a small bed to the northeast, and
+a circular table placed in the center of the room, with two chairs.  
+Apparently whoever lives here also expects guests to come and visit.    
+~
+101 0 1
+D2
+~
+~
+0 0 10121
+S
+#10123
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  There is also, just outside the door
+to Elrond's quarters, a small glass-walled case mounted on the wall.  Beneath
+your feet, your footsteps echo on the wooden floor.    
+~
+101 0 1
+D0
+~
+~
+0 0 10124
+D1
+~
+~
+0 0 10119
+D2
+~
+~
+0 0 10125
+S
+#10124
+Arwen's Quarters~
+You have entered a large, yet simple room.  A large window overlooks the
+forest, and the flowing curtains ripple in the light breeze.  A luxurious bed
+has been pushed against the northern wall, and a finely crafted blanket has
+been arrayed across it.  An elegant rug covers the wooden floor, and
+intricately etched dark beams support the flat ceiling above you.  The scent of
+flowers and beauty fills the air.    
+~
+101 0 1
+D2
+~
+~
+0 0 10123
+S
+#10125
+Elrond's Personal Quarters~
+A large room stretches before you, elegantly but spartanly furnished.  A large
+bed leans against the east wall, covered with delicate pillows and blankets.  
+To the west, a large window overlooks the valley, bordered by flowing curtains
+which billow in the breeze.  A small, but elegant rug lies in the center of the
+room.    
+~
+101 0 1
+D0
+~
+~
+0 0 10123
+S
+#10126
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D1
+~
+door~
+1 0 10127
+D2
+~
+~
+0 0 10119
+D3
+~
+door~
+1 0 10128
+S
+#10127
+Sleeping Quarters~
+You have entered one of the many sleeping quarters of Valfenda.  Guessing from
+the elegant, but sparse furnishings, these quarters are most likely reserved
+for guests of Elrond.  There is a large bed in the center of the room, and a
+window to the north which looks out upon the valley of Valfenda.    
+~
+101 1048576 1
+D3
+~
+door~
+1 0 10126
+S
+#10128
+Sleeping Quarters~
+You have entered one of the many sleeping quarters of Valfenda.  There is a
+large bed in the center of the room, and a window to the north which looks out
+upon the valley of Valfenda.  It appears someone is still living here, guessing
+from the unmade bed and the lingering scent of the road in the air.    
+~
+101 1048576 1
+D1
+~
+door~
+1 0 10126
+S
+#10129
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+~
+0 0 10119
+D1
+~
+~
+0 0 10131
+D2
+~
+~
+0 0 10132
+D3
+~
+~
+0 0 10130
+S
+#10130
+The scribes' room~
+You have wandered into a large room, filled with assorted papers.  Elven
+scribes wander to and fro, carefully writing out messages to be sent to their
+cousins in Lothlorien, Grey Havens, and other places in Arda via hawk,
+horseback, or by foot.  There is a small sign on one wall, printed with a neat
+hand.    
+~
+101 0 1
+D1
+~
+~
+0 0 10129
+S
+#10131
+Sleeping Quarters~
+You have entered one of the many sleeping quarters of Valfenda.  Guessing from
+the elegant, but sparse furnishings, these quarters are mostlikely reserved for
+guests of Elrond.  There is a large bed in the center of the room, and a window
+to the north which looks out upon the valley of Valfenda.    
+~
+101 1048576 0
+D3
+~
+~
+0 0 10129
+S
+#10132
+A hallway in the Last Homely House~
+The ornate hallway guides you through the Last Homely House.  There are large
+pictures hanging from the walls, painted in vibrant colors with superb
+craftmanship.  Nature scenes, elvish maidens from ages past, and wild animals
+come to life upon the canvas coverings.  Beneath your feet, your footsteps echo
+softly on the wooden floor.    
+~
+101 0 1
+D0
+~
+~
+0 0 10129
+D1
+~
+~
+0 0 10134
+D3
+~
+~
+0 0 10133
+S
+#10133
+The Magister's quarters~
+You have entered the Magister's quarters in Valfendas.  Here, the Elven
+Magister hears the complaints of the local populace, and reports them back to
+Elrond for judgment.  A small sign has been posted on the wall, giving
+instructions on how to proceed.    
+~
+101 0 1
+D1
+~
+~
+0 0 10132
+S
+#10134
+Sleeping Quarters~
+This peaceful room is another of Elrond's guest rooms, used by favored
+travellers or wayfarers for a night.  A low bed rests against the wall to the
+east, and the southern wall holds a large mirror.  There is a large window to
+the west of the mirror, through which the singing and sounds of Valfenda can be
+heard.  The flat ceiling of the room is supported by dark beams, intricately
+carved.  Although the room itself is not large, you have the feeling that
+someone great once stayed here.    
+~
+101 1048576 1
+D3
+~
+~
+0 0 10132
+S
+#10135
+The Bell Tower~
+You stand in the highest point of the Last Homely House, in a large airy room
+with four open windows.  In the center of the room is a large bell, suspended
+on an axis.  A large rope reaches up from the bell and over a pulley, before
+returning to the ground near your feet.  The cold spring wind from the valley
+blows against your skin, making you shiver.    
+~
+101 0 1
+D4
+~
+~
+0 0 29975
+D5
+~
+~
+0 0 10119
+S
+#10136
+&WA Light &GForest&n~
+&nWhen you across this place, you no longer feel that &WPeacefull Aura &nthat
+used to surround you.    
+~
+101 4 3
+D3
+~
+~
+0 0 10118
+D4
+~
+~
+0 0 10137
+S
+#10137
+&wthe Great &CI&cc&Ce &cM&Co&cu&Cn&ct&Ca&ci&Cn &wCaradhras&n~
+You feel a &CFr&coz&Cen &WAir &wChain&n.    
+~
+101 4 5
+D1
+~
+~
+0 0 10138
+D5
+~
+~
+0 0 10136
+S
+#10138
+&wthe Great &CI&cc&Ce &cM&Co&cu&Cn&ct&Ca&ci&Cn &wCaradhras&n~
+You feel a &CFr&coz&Cen &WAir &wChain&n.    
+~
+101 4 5
+D3
+~
+~
+0 0 10137
+D5
+~
+~
+0 0 10139
+S
+#10139
+&BRiver Edge&n~
+You see a great depth in this enormous river with dark waters.    
+~
+101 0 4
+D1
+~
+~
+0 0 10140
+D4
+~
+~
+0 0 10138
+S
+#10140
+The Hills~
+You are on a path leading north, small hills surrounds you.  You feel the
+forces of evil approach you from the north.    
+~
+101 4 4
+D0
+~
+~
+0 0 10141
+D3
+~
+~
+0 0 10139
+S
+#10141
+The &wMoria &yGate&n~
+You see a huge handmade rock door, wich reads: Speak friend, and enter.    
+~
+101 4 4
+D2
+~
+~
+0 0 10140
+S
+T 10141
+#10142
+Cave Entrance~
+The path stops here, to the north is a single mountain and around you are some
+threatening hills.  There may be some way to climb this mountain.  There is a
+dark cave to the north.  You see a large sign on the mountain.    
+~
+101 4 4
+D0
+~
+~
+0 0 10143
+S
+#10143
+The Cave~
+You are in a cave, to the south you sense fresh air.  To the north a small
+tunnel continues into the mountain.    
+~
+101 13 2
+D0
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 10142
+S
+#10144
+The Tunnel~
+You force your way through a small tunnel, to you south you sense a little
+fresh air, and to the north the tunnel continues.    
+~
+101 13 3
+D0
+~
+~
+0 0 10145
+D2
+~
+~
+0 0 10143
+S
+#10145
+The Tunnel~
+You are in a tunnel, the tunnel continues to the south and to the west, to the
+north there is a cave.    
+~
+101 9 3
+D0
+~
+~
+0 0 10146
+D2
+~
+~
+0 0 10144
+D3
+~
+~
+0 0 10151
+S
+#10146
+The cave~
+You are in the south end of a cave, to the south you see a tunnel.  You notice
+a large pile of bones in the corner.    
+~
+101 9 2
+D0
+~
+~
+0 0 10147
+D2
+~
+~
+0 0 10145
+S
+#10147
+The cave~
+You are in the north end of a cave.  To the east you see some tunnels which
+leads in many directions.    
+~
+101 9 2
+D1
+~
+~
+0 0 10148
+D2
+~
+~
+0 0 10146
+S
+#10148
+The many tunnels~
+You are in a tunnel, that leads of in all directions.  But you have bad news,
+you can sense a person, but you cant see him..    
+~
+101 9 2
+D0
+~
+rock~
+1 0 10159
+D1
+~
+rock~
+1 0 10161
+D2
+~
+rock~
+1 0 10149
+D3
+~
+~
+0 0 10147
+S
+#10149
+The tunnel~
+You are in a north-south leading tunnel.    
+~
+101 9 2
+D0
+~
+rock~
+1 0 10148
+D2
+~
+~
+0 0 10150
+S
+#10150
+The tunnel~
+You are in a small tunnel, the tunnel continues west.    
+~
+101 9 2
+D0
+~
+~
+0 0 10149
+D3
+~
+~
+0 0 10145
+S
+#10151
+The tunnel~
+You are in a small tunnel leading east-west.  The floor is covered by dust.  
+
+~
+101 9 2
+D1
+~
+~
+0 0 10145
+D3
+~
+~
+0 0 10152
+S
+#10152
+The tunnel~
+You are in a small tunnel, to the north there is a cave.  The tunnel continues
+to the east.    
+~
+101 9 2
+D0
+~
+~
+0 0 10153
+D1
+~
+~
+0 0 10151
+S
+#10153
+The large cave~
+You are in a large cave, the cave continues east and west, to the south you
+notice a small tunnel.    
+~
+101 9 2
+D1
+~
+~
+0 0 10154
+D2
+~
+~
+0 0 10152
+D3
+~
+~
+0 0 10155
+S
+#10154
+The large cave~
+You are in the east end of the large cave.    
+~
+101 0 0
+D3
+~
+~
+0 0 10153
+S
+#10155
+The large cave~
+You are in the western part of the large cave, to the west you see a damp
+tunnel.    
+~
+101 9 2
+D1
+~
+~
+0 0 10153
+D3
+~
+~
+0 0 10156
+S
+#10156
+The damp tunnel~
+You are in a damp tunnel, your clothes feel wet.  The tunnel continues to the
+north, to the west you see a hole in the floor and to the east there is a large
+cave.    
+~
+101 9 2
+D0
+~
+~
+0 0 10158
+D1
+~
+~
+0 0 10155
+D3
+~
+~
+0 0 10157
+S
+#10157
+The hole~
+You are by a hole in the floor, exits are down or east.    
+~
+101 9 2
+D1
+~
+~
+0 0 10156
+D5
+~
+~
+0 0 10194
+S
+#10158
+The damp tunnel~
+You are in a damp tunnel, that leads west.    
+~
+101 9 2
+D2
+~
+~
+0 0 10156
+D3
+~
+~
+0 0 29882
+S
+#10159
+The smelly tunnel~
+You are in a north-south leading tunnel, you see a small light to the north.  
+You notice a strange smell from the north.    
+~
+101 9 2
+D0
+~
+~
+0 0 10160
+D2
+~
+rock~
+1 0 10148
+S
+#10160
+The light cave~
+You are in a light cave, through a hole large above you, you see the sky.  A
+small tunnel to the south is the only way out.  You notice the source of the
+strange smell, all around you there is corpses from several monsters.    
+~
+101 8 2
+D2
+~
+~
+0 0 10159
+S
+#10161
+The tunnel~
+You are in a north-south leading tunnel, you also notice a tunnel to the west.
+From the north you sense the fresh air!    
+~
+101 9 2
+D0
+~
+~
+0 0 10163
+D2
+~
+~
+0 0 10162
+D3
+~
+rock~
+1 0 10148
+S
+#10162
+The hole~
+You are by a hole in the floor, you can leave down, or north.    
+~
+101 9 2
+D0
+~
+~
+0 0 10161
+D5
+~
+~
+0 0 10178
+S
+#10163
+The cave~
+You are in a cave that is filled with fresh air, you sense the wind blowing
+from the north.  To the south you see a small tunnel continue into the
+mountain.    
+~
+101 9 2
+D0
+~
+~
+0 0 10164
+D2
+~
+~
+0 0 10161
+S
+#10164
+The valley~
+You are in a small valley, surrounded by hills and a mountain to the south.  
+In the mountain there is a cave.  To the north you enter the hills.    
+~
+101 9 2
+D0
+~
+~
+0 0 10165
+D2
+~
+~
+0 0 10163
+S
+#10165
+The foothills~
+You are on a winding path that leads through the foothills on the other side of
+the mountain.  The path continues north.    
+~
+101 9 2
+D0
+~
+~
+0 0 10166
+D2
+~
+~
+0 0 10164
+S
+#10166
+The intersection in the foothills~
+The small path you are following splits here.  The path continues north and
+south or you can follow a trail east into the mountains.    
+~
+101 9 2
+D0
+~
+~
+0 0 10167
+D1
+~
+~
+0 0 10173
+D2
+~
+~
+0 0 10165
+S
+#10167
+The grassy area of the foothills~
+The grass here is unusually high.  You notice several areas where someone or
+something large has crush spots of the down.  Several very large rocks litter
+this area.  You can go north, west or south.    
+~
+101 9 2
+D0
+~
+~
+0 0 10168
+D2
+~
+~
+0 0 10166
+D3
+~
+~
+0 0 10170
+S
+#10168
+The foothills end~
+At this point you are leaving the foothills.  You see a plains area to the
+north of here.  You can spot a small city in the distance from here.    
+~
+101 0 0
+D0
+~
+~
+0 0 10169
+D2
+~
+~
+0 0 10167
+S
+#10169
+The plains~
+The plains.  The only exit is south.    
+~
+101 8 2
+D2
+~
+~
+0 0 10168
+S
+#10170
+The level foothills~
+Exits are east and west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10167
+D3
+~
+~
+0 0 10171
+S
+#10171
+The cave entrance~
+Exits are east and west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10170
+D3
+~
+~
+0 0 10172
+S
+#10172
+The hill giant cave~
+Exits are east.    
+~
+101 9 2
+D1
+~
+~
+0 0 10171
+S
+#10173
+The foothills path~
+Exits are east and west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10174
+D3
+~
+~
+0 0 10166
+S
+#10174
+Base of the mountain~
+Exits are east and west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10175
+D3
+~
+~
+0 0 10173
+S
+#10175
+A trail up the mountain~
+Exits are east and west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10176
+D3
+~
+~
+0 0 10174
+S
+#10176
+The mountain top~
+Exits are north, east, west.    
+~
+101 9 2
+D0
+~
+~
+0 0 10177
+D1
+~
+~
+0 0 10145
+D3
+~
+~
+0 0 10175
+S
+#10177
+The lion's den~
+Exits are south.    
+~
+101 9 2
+D2
+~
+~
+0 0 10176
+S
+#10178
+The tunnel~
+You are in a tunnel, only exit is west - Only exit, well there is also a hole
+in the ceiling.    
+~
+101 9 2
+D3
+~
+~
+0 0 10179
+D4
+~
+~
+0 0 10162
+S
+#10179
+The maze~
+You are in a maze of small damp tunnels.  Exits leads north and east.    
+~
+101 9 2
+D0
+~
+~
+0 0 10180
+D1
+~
+~
+0 0 10178
+S
+#10180
+The light cave~
+You are in a cave, to south from you there is a large fire that lights the
+entire cave, to the east and west tunnels leads off.    
+~
+101 73 2
+D1
+~
+~
+0 0 10181
+D2
+~
+~
+0 0 29885
+D3
+~
+~
+0 0 10182
+S
+#10181
+The maze~
+You are in a maze of small damp tunnels.  Only exit is west to a light cave.  
+
+~
+101 9 2
+D3
+~
+~
+0 0 10180
+S
+#10182
+The tunnel~
+You are at a turn, the tunnel continues north and east.    
+~
+101 9 2
+D0
+~
+~
+0 0 10183
+D1
+~
+~
+0 0 10180
+S
+#10183
+The tunnel~
+You are in a tunnel, which turns here.  The tunnel continues to the east and
+the south.    
+~
+101 9 2
+D1
+~
+~
+0 0 10184
+D2
+~
+~
+0 0 10182
+S
+#10184
+The tunnel~
+You are in an east-west leading tunnel.  The tunnel is very narrow here.    
+~
+101 9 2
+D1
+~
+~
+0 0 10185
+D3
+~
+~
+0 0 10183
+S
+#10185
+The tunnel~
+You are in an east-west leading tunnel.    
+~
+101 9 2
+D1
+~
+~
+0 0 10186
+D3
+~
+~
+0 0 10184
+S
+#10186
+The tunnel~
+Suddenly you feel that the tunnel leads slightly down..  The only exit is to
+the west, and it leads down.    
+~
+101 9 2
+D3
+~
+~
+0 0 10187
+S
+#10187
+The long tunnel~
+You are in a long east-west leading tunnel.  The tunnel is quite wide at this
+point.    
+~
+101 9 2
+D1
+~
+~
+0 0 10186
+D3
+~
+~
+0 0 10188
+S
+#10188
+The long tunnel~
+You are in a long east-west leading tunnel.  The tunnel becomes narrow to the
+west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10187
+D3
+~
+~
+0 0 10189
+S
+#10189
+The long tunnel~
+You are in a long east-west leading tunnel.  The tunnel is quite narrow at this
+point.  You notice a small hole leading south.    
+~
+101 9 2
+D1
+~
+~
+0 0 10188
+D2
+~
+~
+0 0 10191
+D3
+~
+~
+0 0 10190
+S
+#10190
+The long tunnel~
+You are in a long east-west leading tunnel.  The tunnel starts sloping down
+towards the west.    
+~
+101 9 2
+D1
+~
+~
+0 0 10189
+S
+#10191
+The golden cave~
+You are in a giant cave, all the walls are shining with a soft golden light.  
+The cave continues to the south and east, to the north is a narrow tunnel.    
+~
+101 9 2
+D0
+~
+~
+0 0 10189
+D1
+~
+~
+0 0 10195
+D2
+~
+~
+0 0 10192
+S
+#10192
+The golden cave~
+You are in a giant cave, all the walls are shining with a soft golden light.  
+The cave continues to the south, east and north.    
+~
+101 9 2
+D0
+~
+~
+0 0 10191
+D1
+~
+~
+0 0 10196
+D2
+~
+~
+0 0 10193
+S
+#10193
+The golden cave~
+You are in a giant cave, all the walls are shining with a soft golden light.  
+The cave continues to the north, to the west you see a dark passage.    
+~
+101 9 2
+D0
+~
+~
+0 0 10192
+D3
+~
+~
+0 0 10194
+S
+#10194
+The &wDark &cPassage&n~
+You are in a dark passage, that leads east.  In the ceiling you notice a small
+hole, just big enough to pass through.    
+~
+101 0 0
+D1
+~
+~
+0 0 10193
+D4
+~
+~
+0 0 10157
+S
+#10195
+The golden cave~
+You are in a giant cave, all the walls are shining with a soft golden light.  
+The cave continues to the south and west.    
+~
+101 9 2
+D2
+~
+~
+0 0 10196
+D3
+~
+~
+0 0 10191
+S
+#10196
+The golden cave~
+You are in a giant cave, all the walls are shining with a soft golden light.  
+The cave continues to the north and west, east from you there is a small
+passage.    
+~
+101 9 2
+D0
+~
+~
+0 0 10195
+D1
+~
+~
+0 0 10197
+D3
+~
+~
+0 0 10192
+S
+#10197
+The passage~
+You are in a small passage, it leads south, to the west is a golden cave.    
+~
+101 9 2
+D2
+~
+~
+0 0 10198
+D3
+~
+~
+0 0 10196
+S
+#10198
+The passage~
+You are in a passage that leads towards the south.  To the east you see a
+tunnel.    
+~
+101 9 2
+D0
+~
+~
+0 0 10197
+D1
+~
+~
+0 0 10199
+D2
+~
+~
+0 0 29872
+S
+#10199
+The tunnel~
+You are in a larger tunnel, it leads from west to east.    
+~
+101 9 2
+D1
+~
+~
+0 0 29870
+D3
+~
+~
+0 0 10198
+S
+$~

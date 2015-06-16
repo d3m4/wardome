@@ -1,0 +1,159 @@
+#32600
+Fcobain~
+the Fcobain~
+A pretty girl stands here.
+~
+   This is a really bealtiful girl. She must have 14 years old. The Gods use to call her by Fcobain. Fcobain smiles at you. 
+~
+253978 0 0 E
+30 6 5 1d1+630 10d4+12
+450 105901 0
+8 8 2 -1 -1
+Att2: 30
+E
+#32601
+snake~
+the Snake~
+She is here!!! Run before it's too late
+~
+ You can see the living devil in front of you. It has green eyes, big teeth, and a hairy nose... Ok, ok... I confess... I'm afraid... Aren't you?
+~
+10266 0 -400 E
+5 18 9 1d1+99 10d1+2
+75 1651 0
+6 6 2 -1 -1
+Att2: 6
+E
+#32602
+Cacador~
+cacador~
+hunter
+~
+
+~
+8 0 0 E
+99 -28 -4 1d1+2772 10d10+38
+1485 2833987 0
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+#32603
+Warrior~
+Warrior~
+A Great Warrior stands here.
+~
+Here is he, the Topten level in Wardome.
+~
+10 40 4 E
+200 20 10 1d1+500000 10d21+0
+3000 21657860 0
+8 8 0 3 14
+BareHandAttack: 10
+E
+T 32602
+#32604
+sexton~
+Sexton~
+Sexton is sitting here, drinking hot tea.
+~
+The Sexton looks like he is relaxing after another gravedigging job.
+~
+1048586 32776 0 E
+160 -60 -14 1d1+4476 10d17+64
+2400 11302310 0
+8 8 2 3 0
+BareHandAttack: 10
+Att2: 100
+Att3: 50
+Att4: 15
+E
+#32605
+coelhinho pascoa~
+O Coelhinho da Pascoa mal~
+A pascoa chegou! O Coelhinho da Pascoa esta aqui!
+~
+Esse coelho parece ser diferente dos demais, ele deve ser aquele coelho que voce nunca sonha encontrar.
+&YTem Amarelo
+&R    Laranja
+    &rVermelho Tambem&n!
+~
+84110 562037800 -1000 E
+15 10 6 10d2+2 5d7+100
+1 2 0
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 80
+Att3: 20
+E
+#32607
+Grinch~
+O &GGrinch~
+O malvado &GGrinch&n esta aqui tramando contra o &WNatal&n das criancas.
+~
+Esse monstro mal sempre tramou contra o bom velhinho. Ele e verde e tem os olhos vermelhos cor de raiva. Tome cuidado ele pode lhe iludir e te roubar o presente de &WNatal&n.
+~
+1230650 1083998376 -999 E
+200 -20 10 1d1+1 1d1+50
+10000 15000000 4
+8 8 0 -1 16
+BareHandAttack: 14
+Att2: 100
+Att3: 75
+Att4: 25
+E
+#32608
+papai noel~
+&RPapai &WNoel&n~
+&RPapai &WNoel&n esta aqui distribuindo balinhas para as criancinhas.
+~
+O bom velhinho, com sua barba enorme parecendo algodao, esta triste por terem lhe roubado o saco de presentes.
+~
+3661834 1728086184 1000 E
+200 -180 -80 30d30+100000 1d1+200
+50000 55000000 10
+8 8 0 0 0
+BareHandAttack: 13
+Att2: 100
+Att3: 100
+Att4: 20
+E
+#32610
+Motoko, Azuka~
+An aprenticce of the Archmage Miriel~
+A slender and beauty elf stands here.
+~
+One of the prettyest creatures all over the world stands here, for your delight. She don't seem to notice you.
+~
+6170 8389676 -10 E
+200 -86 -79 30d21+500 90d27+152
+2000000 905849000 9
+8 8 2 0 15
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#32699
+Babbling,~
+Asmodeus The Lord of Ninth~
+You see a large blue BLOB mooving very slow
+~
+It looks unfinished.
+when you approaches in the room, your blood boils
+you feel, a deep cold in yout veins
+and a fire burn you inside
+when you look at this huge demon
+of the ninth order!
+~
+3662153 11698625 1000 E
+200 -80 -20 1d1+5592 10d21+80
+3000 34880199 0
+5 5 1 9 14
+BareHandAttack: 2
+Att2: 100
+Att3: 80
+Att4: 60
+E
+T 1
+$

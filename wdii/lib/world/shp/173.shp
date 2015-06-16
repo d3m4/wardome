@@ -1,0 +1,52 @@
+CircleMUD v3.0 Shop File~
+#17300~
+17301
+17302
+17303
+-1
+1.15
+0.05
+5 
+9 
+18
+-1
+%s I haven't got that kind of a weapon!~
+%s You don't carry that weapon!~
+%s I can't afford such a great weapon!~
+%s sorry, but NO CREDIT!~
+%s I only buy weapons.~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+0
+0
+17338
+0
+17348
+-1
+0
+23
+0
+0
+#17301~
+-1
+1.000000
+1.000000
+-1
+%s Text 1~
+%s Text 2~
+%s Text 3~
+%s Text 4~
+%s Text 5~
+%s Text 6~
+%s Text 7~
+0
+0
+17339
+0
+17398
+-1
+0
+23
+0
+0
+$~

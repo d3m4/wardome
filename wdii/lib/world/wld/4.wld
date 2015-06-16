@@ -1,0 +1,355 @@
+#400
+&YT&yhe &YL&yegendary &YC&yastle of &YT&yhe &YG&yods&n~
+&n   You stand at the entrance of an awesome castle... then, you realize that it
+must be the &YLegendary Castle of the &BMighty Gods of &RWardome&n! It sure is the most
+wonderful building you've ever saw...
+&n   You may enter the castle by going north of here, or you may return to the
+&RNew Market Square&n by going down.
+~
+4 240 0
+D0
+~
+0~
+0 0 401
+D5
+This exit will take you to New Market Square.
+~
+~
+0 0 525
+S
+#401
+Upstairs~
+Inside the castle dont have much exits,you walk a lot for him but no find anything, you see a upstairs to up.
+~
+4 244 0
+D2
+~
+~
+0 0 400
+D4
+~
+~
+0 0 402
+S
+#402
+Corridor~
+The castle corridor are big confortable and luxuous, the corridor continue to north
+~
+4 116 0
+D0
+~
+~
+0 0 403
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 401
+S
+#403
+Corridor~
+The caslte corridor are big confortable and luxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 404
+D1
+~
+~
+0 0 420
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 421
+D5
+~
+~
+0 0 -1
+S
+#404
+Corridor~
+The caslte corridor are big confortable and luxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 405
+D1
+You see nothing special.
+~
+~
+0 -1 419
+D2
+~
+~
+0 0 403
+D3
+You see a cool-looking house...
+Wow.. that may be.. &GShi&g's house!!&n
+~
+~
+0 0 418
+S
+#405
+Corridor~
+The caslte corridor are big confortable and duxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 404
+D3
+~
+~
+0 0 417
+S
+#406
+Corridor~
+The caslte corridor are big confortable and luxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 414
+S
+#407
+Corridor~
+The caslte corridor are big confortable and luxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 412
+S
+#408
+Corridor~
+The caslte corridor are big confortable and luxuous, the  corridor continue to
+north and south, have doors in the walls.
+~
+4 116 0
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 410
+S
+#409
+Gods Temple~
+Here is very much symbols in wall and the top, pray to Gods maybe their listen you.
+~
+4 1048828 0
+D2
+~
+~
+0 0 408
+S
+#410
+Zaaroth~
+You are in an unfinished room.
+~
+4 1052412 0
+D1
+~
+~
+0 0 408
+S
+#411
+Seker~
+You are in an unfinished room.
+~
+4 28288 0
+D3
+~
+~
+0 0 408
+S
+#412
+The Office of &BM&binister &cTaerom&n~
+   You can only see infinite darkness. 
+You all right, here it's the Taerom's Temple. Pray and he help's you.
+~
+4 30932 0
+D1
+~
+door~
+2 28510 407
+S
+#413
+Arkhon's Temple~
+TEste
+~
+4 1048640 2
+D3
+~
+~
+0 0 407
+S
+#414
+Locky's Place~
+You are in a indescribable place, but you know, if you are here...
+Locky likes you.
+~
+4 2560 0
+D1
+~
+~
+0 0 406
+S
+#415
+Kelemvor~
+You are in an unfinished room.
+~
+4 0 0
+D3
+~
+~
+0 0 406
+S
+#416
+The end of time.~
+Your are in the room of great Luigi, the Guru of Reason and master of
+the three magi Gasper, Melchior and Balthasar. If you are in this room,
+you must be honest and gentle to the person whose you are talking. Be
+sure to be respectful too, for this room is a sacred place. 
+~
+4 0 0
+D3
+You see nothing special.
+~
+~
+0 -1 405
+S
+#417
+Temple of youth~
+When you enter this temple, your body start to shake, without you know why.  
+The temple is full of pictures of great battles, e in the middle of the room
+you see an golden altar, it erradiates a green light...  BE CAREFUL!  It don't
+seem such a good idea to touch It.    
+~
+4 31248 0
+D1
+~
+~
+0 0 405
+S
+#418
+&GCasa do Shi&n~
+&g   Bem vindo(a) a casa do Shi, a casa mais massa de todo o Wardome!&n
+&gFique a vontade ae... sinta-se em casa!&n
+&g   Aqui, voce pode ver alguns objetos pessoais do Shi, e a leste, voce
+ve a porta que leva ao corredor do castelo.&n
+~
+4 1079304 0
+D1
+&gDeste lado, voce ve a porta que leva de volta ao corredor do castelo.&n
+~
+door~
+1 0 404
+S
+#419
+&BThor's Sanctum.&n~
+You are transportedto the great Netherland, in a huge temple.
+It's the Sanctum of &YThor&n, the great warrior God.
+~
+4 1069132 0
+D3
+You see nothing special.
+~
+~
+0 -1 404
+D4
+You see a great portal, and beyond that, you can see lot's of god's...
+~
+Portal To The Heavens.~
+1 0 -1
+S
+#420
+Karl~
+You are in an unfinished room.
+~
+4 0 0
+D3
+~
+~
+0 0 403
+S
+#421
+Entity~
+Entity's house.
+~
+4 1079296 0
+D1
+~
+~
+0 0 403
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+$~

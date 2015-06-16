@@ -1,0 +1,718 @@
+#24500
+locust~
+the giant locust~
+A giant locust is here, devouring sinners.
+~
+The locust is man sized, with the face of man and
+the hair of a woman. It bears its lion teeth and beats
+his breastplate of iron with its wings. Its long body
+ends in a scorpion stinger.
+~
+72 1064 0 E
+110 -39 -9 1d1+4836 5d12+64
+1650 4715076 2
+8 8 1 -1 -1
+Att2: 98
+Att3: 46
+E
+#24501
+abaddon king angel~
+Abaddon~
+The angel of the bottomless pit is here, bound in a chain.
+~
+Abaddon pleads with you to release him from his binding.
+He claims the chain is the source of all his suffering.
+He promises you great power and position in the world to
+come. His appearance is to your liking, whatever that may be,
+and you find his voice pleasant and reasonable.
+~
+74 9384 -1000 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24502
+babylon whore woman harlot~
+Babylon~
+A woman arrayed in purple and scarlet beckons to you!
+~
+The woman is decked in gold, precious stones, and pearls.
+Upon her forehead is written:
+MYSTERY BABYLON THE GREAT. THE MOTHER
+OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+~
+74 1192 -400 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24503
+angel water waters~
+the angel of the waters~
+An angel is here, holding down the watery corner of the world.
+~
+The angel looks you over and tells you that you are too late.
+He has already cast the second vial of wrath into the sea.
+~
+74 8364 1000 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+E
+#24504
+angel earth~
+the angel of the earth~
+An angel is here, shaking the earthen corner of the world!
+~
+The angel looks you over and tells you that you are too late.
+The 6th seal already has been broken.
+~
+74 8364 1000 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+E
+#24505
+angel air~
+the angel of the air~
+An angel is here, holding down the airy corner of the world.
+~
+The angel looks you over and tells you that you are too late.
+He has already scattered the seventh vial of wrath on the wind.
+~
+74 8364 1000 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+E
+#24506
+angel fire~
+the angel with the fiery censer~
+An angel is here, containing the fiery corner of the world.
+~
+The angel looks you over and tells you that you are too late.
+He has already poured the fourth vial of wrath upon the sun.
+~
+74 8364 1000 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+E
+#24507
+angel harvesting~
+the harvesting angel~
+An angel is here, harvesting sinners with his sickle.
+~
+The angel has no mercy for those without seals.
+~
+74 1192 1000 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24508
+army heaven~
+an army of heaven~
+An army of heaven is here, laying waste to sinners.
+~
+The army of heaven is approximately 50 troops, lightly
+armed with simple spears and shields.
+~
+106 1024 1000 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24509
+horseman white~
+the white horseman~
+A rider mounted on a white horse conquers all in sight!
+~
+The rider is mounted on a lion headed horse, which breathes
+fire, smoke and brimstone as it rears.
+~
+74 9384 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24510
+horseman red~
+the red horseman~
+A rider mounted on a red horse wages war here.
+~
+The rider is mounted on a lion headed horse, which breathes
+fire, smoke and brimstone as it rears.
+~
+74 50 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24511
+horseman black~
+the black horseman~
+A rider mounted on a black horse rampages here!
+~
+The rider is mounted on a lion headed horse, which breathes
+fire, smoke and brimstone as it rears.
+~
+74 40 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24512
+horseman pale~
+the pale horseman~
+A rider mounted on a pale horse leaves death in his wake.
+~
+The rider is mounted on a lion headed horse, which breathes
+fire, smoke and brimstone as it rears.
+~
+74 1192 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24513
+michael archangel~
+the archangel Michael~
+Michael, Archangel of war is here, fighting the dragon.
+~
+Michael towers some 18', and is dressed in the blinding
+white of heaven. His voice booms in a deep bass laugh.
+~
+74 536895660 1000 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6659246 2
+8 8 1 4 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24514
+dragon~
+the dragon~
+A great, 7 headed dragon is here, fighting Michael.
+~
+The dragon has seven heads and ten horns. Upon the
+ten horns are ten crowns, and upon the 7 heads are
+blasphemy.
+~
+4170 168 -1000 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 96
+Att3: 40
+E
+#24515
+jezebel woman~
+Jezebel the prophetess~
+A woman is here encouraging everyone to fornicate!
+~
+Jezebel the prophetess is a firm believier in fornication
+and the eating of food sacrificed to idols. She will
+gladly try to sway you to her point of view.
+~
+74 0 -400 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24516
+Balaam teacher man~
+Balaam the teacher of Balac~
+A man is here teaching all to eat idol sacrifices!
+~
+Balaam, teacher of Balac is engrossed in his discourse
+on the merits of eating food sacrificed to idols. His
+rapt audience pays you no heed.
+~
+74 40 -400 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24517
+balac disciple man~
+Balac, disciple of Balaam~
+A man casts a stumbling block to the children of Isreal!
+~
+Balac, disciple of Balaam looks at you then begins a
+fanatical speech on how life has no meaning unless you
+fornicate freely and eat sacrificed food.
+~
+74 1064 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24518
+spirit unclean frog~
+the unclean spirit~
+A spirit like a frog howls here.
+~
+The unclean spirit came from the mouth of
+the dragon, and is really a devil. It
+performs a series of miracles to impress you
+with its power and sway you to fight on the
+side of the dragon.
+~
+74 40 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24519
+prophet false~
+the false prophet~
+A smoke-breathing man with rams horns shouts here!
+~
+The false prophet is the spokesman for the beast.
+He does great wonders, such as summoning fire from
+heaven to gather worshippers for the beast. He seems
+set on getting those around him to make an image to
+the beast, which he promises to give life to and
+order it to kill all those who do not worship the image.
+If you will worship as he says, step forward and
+receive the mark.
+~
+74 40 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24520
+woman sun~
+the woman clothed with the sun~
+A woman clothed with the sun flys here.
+~
+The woman is clothed with the sun, has
+the moon under her feet. She is beautiful
+to behold. She tells you to run, for a
+great dragon is hunting her.
+~
+74 8360 400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24521
+word gods~
+the word of The Gods~
+The word of The Gods is here uniting all nations.
+~
+The word of The Gods rides upon a white horse. His
+eyes are flames of fire, and on his head is
+a white crown. He is clothed in a vesture dipped
+in blood, and he treadeth the winepress and
+fierceness and wrath of The Almighty Gods. On his
+thigh is written King of Kings and Lord of Lords.
+~
+74 16786600 1000 E
+150 -59 -15 1d1+6600 5d16+80
+2250 11534213 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#24522
+one sealed~
+the sealed one~
+A sealed one is here, singing a hymn of praise.
+~
+The sealed one is one of the 12 tribes of Isreal.
+All of the tribes were marked with a seal so as
+to spare them from the wrath of The Gods.
+~
+74 9384 400 E
+105 -36 -8 1d1+4620 5d11+62
+1575 4126799 2
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#24523
+one marked~
+the marked one~
+A marked one is here, preparing for the final battle.
+~
+The marked one has chosen the side of evil for
+the final conflict. He seems to be suffering from a pox.
+~
+74 40 400 E
+105 -36 -8 1d1+4620 5d11+62
+1575 4126799 2
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#24524
+beast~
+the beast~
+The seven headed, ten horned beast is here.
+~
+The beast has seven heads, ten horns. Upon the ten
+horns are ten crowns. It is like a leopard with
+feet like a bear and the mouth of a lion. A huge
+scar runs across one head, where it was mortally
+wounded and healed.
+~
+74 40 -400 E
+110 -39 -9 1d1+4836 5d12+64
+1650 4715076 2
+8 8 1 -1 -1
+Att2: 98
+Att3: 46
+E
+#24525
+idolator man~
+the idolator~
+A man is here worshipping an idol.
+~
+The idolator is engrossed in his worship, and
+does not see you.
+~
+74 40 -400 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24526
+whoremonger man~
+the whoremonger~
+A man is here, buying the services of a prostitute.
+~
+The whoremonger has chosen a paticularly sleezy
+woman, who probably is infected.
+~
+74 1024 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24527
+murderer~
+the murderer~
+A murderer is here to slit your throat.
+~
+You have evaded the murder's notice. He
+is dressed in rags and carries a bloody
+knife.
+~
+106 1024 -800 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24528
+harlot woman~
+the harlot~
+A woman is here, peddling her body.
+~
+The harlot winks at you from her pasty
+animal greased complexion. She wiggles
+her hips suggestively. She smells nice,
+having bathed in the last week.
+~
+74 1024 -400 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24529
+thief~
+the thief~
+A thief is here, robbing you blind.
+~
+The thief bumps into you. You drop
+your purse. He picks it up and returns
+it to you.
+~
+74 786472 -400 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#24530
+man rich~
+the rich man~
+A rich man is here, fleeing divine wrath.
+~
+The rich man is moving slowly, as he is
+carrying a lot of gawdy babbles. He blames
+his sins on the greedy poor.
+~
+74 0 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24531
+man mighty~
+the mighty man~
+A mighty man is here, fleeing divine wrath.
+~
+The man you vaguely recall as being involved
+in politics somehow. He is in rags now, and
+has a harried look. He blames his sins on
+his rivals.
+~
+74 1024 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24532
+king~
+the former king~
+A former king is here, fleeing divine wrath.
+~
+The former king is dressed in rags. He clutches
+fiercly to his crown, the last symbol of his
+authority. You notice most of the stones in the
+crown are missing. He blames his sins on his
+corrupt ministers who ruined the kingdom.
+~
+74 0 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24533
+bondsman~
+the bondsman~
+A bondsman is here, fleeing divine wrath.
+~
+The bondsman has somehow escaped his master.
+He blames all his sins on his master.
+~
+74 0 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24534
+freeman~
+the freeman~
+A freeman is here, fleeing divine wrath.
+~
+The freeman is empoverished. He blames
+all of his sins on the guild.
+~
+74 1024 -400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24535
+captain chief~
+the chief captain~
+A former captain is here, fleeing divine wrath.
+~
+The chief captain is in rags. He blames his sins
+on the king, who ordered him to commit atrocities.
+~
+74 0 -400 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24536
+he sits~
+He who sits at the throne~
+He who sits says "I am the alpha and the omega".
+~
+He is like jasper and carnelian. You better do as
+he says.
+~
+516186 1729135848 1000 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 0 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#24537
+lamb~
+the lamb~
+A Lamb as it had been slain stands here.
+~
+The lamb has seven horns and seven eyes.
+~
+74 0 400 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24538
+elder four twenty~
+One of Four and Twenty Elders~
+One of the Four and Twenty Elders is seated in his throne.
+~
+The elders are in white robes with golden crowns. They
+play harps, and swing golden bowls filled with incense.
+~
+74 188 1000 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24539
+lion creature~
+the lion creature~
+A lion creature sings, "Holy, Holy, Holy, The Lord..."
+~
+The lion creature is full of eyes in front and behind.
+It has 6 wings, and even eyes inside.
+~
+74 0 400 E
+130 -49 -12 1d1+5712 5d14+72
+1950 7624337 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#24540
+ox creature~
+the ox creature~
+An ox creature sings, "Holy, Holy, Holy, The Lord..."
+~
+The ox creature is full of eyes in front and behind.
+It has 6 wings, and eleven eyes inside.
+~
+74 0 400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24541
+human face faced creature~
+the creature with a human face~
+A human faced creature sings, "Holy, Holy, Holy, The Lord..."
+~
+The human faced creature is full of eyes in front and behind.
+It has 6 wings, and even eyes inside.
+~
+74 0 400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#24542
+eagle creature~
+the eagle creature~
+An eagle creature sings, "Holy, Holy, Holy, The Lord..."
+~
+The eagle creature is full of eyes in front and behind.
+It has 6 wings, and even eyes inside.
+~
+74 9344 400 E
+125 -46 -11 1d1+5496 5d13+70
+1875 6808983 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+$

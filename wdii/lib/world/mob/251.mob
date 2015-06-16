@@ -1,0 +1,64 @@
+#25101
+thief guardian~
+the thief~
+The thief don't like intruders...
+~
+It looks unfinished.
+~
+26686 25724066 -666 E
+199 -83 -25 1d1+8748 5d20+98
+2985 26268135 2
+8 8 1 2 3
+BareHandAttack: 6
+Att2: 100
+Att3: 100
+Att4: 72
+E
+#25102
+guardian camelot~
+the Guardian of Camelot~
+a powerfull guard is here... protecting camelot
+~
+It looks unfinished.
+~
+436232 33599656 0 E
+199 -83 -25 1d1+8748 5d20+98
+2985 26268135 2
+8 8 1 3 -1
+BareHandAttack: 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#25110
+weaponsmith village~
+the weaponsmith of the village~
+The weaponsmith of the village stands on the counter, waiting for you.
+~
+It looks unfinished.
+~
+253978 1024 100 E
+200 -84 -26 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 3 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#25199
+King Uther~
+King Uther~
+The greatest king Uther Pendragon is standing here.
+~
+   There are no words to describe him.  Great knight, Honorable Man, and some
+others qualities.  Just talk with him.    
+~
+1273864 16842908 1000 E
+200 -84 -26 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 3 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

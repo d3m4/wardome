@@ -1,0 +1,1493 @@
+#30000
+Grey Havens entrance~
+You have entered the Grey Havens, one of the last elven realms in Middle Earth.
+There is a guardpost here.  City walls stretch away southwest and northwest.  
+Such measures are seldom needed nowadays, although who knows what the future
+may hold.  A cemetery lies to the south.    
+~
+300 1048584 1
+D1
+~
+~
+0 0 30084
+D2
+~
+~
+0 0 30001
+D3
+~
+~
+0 0 30003
+S
+#30001
+The cemetery~
+To this place are brought the lifeless bodies of those elves unlucky enough to
+be slain by the evil of Middle Earth.  It is a place of loss and grief, but
+grief that is offset for the elves by their knowledge that the spirits of their
+lost loved ones return to the Halls of Mandos.    
+~
+300 9 1
+D0
+~
+~
+0 0 30000
+D2
+~
+~
+0 0 30002
+S
+#30002
+A quiet memorial site~
+This enchanting garden has been set aside for memorials to some of the more
+famous sindar adventurers to hail originally from the Grey Havens.  The lawn is
+closely cropped and brilliantly, almost magically, green.  There are numerous
+trees and flowering bushes here each seems to be dedicated to one of the fallen
+explorers.  A sindar minstrel walks about the site, telling all who ask the
+tales of those who are remembered at this memorial garden.    
+~
+300 8 1
+D0
+~
+~
+0 0 30001
+S
+#30003
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D1
+~
+~
+0 0 30000
+D2
+~
+~
+0 0 30004
+D3
+~
+~
+0 0 30005
+S
+#30004
+The stables~
+Wooden stables.  All around are stalls where the horses are kept.  Troughs of
+water and sacks of feed provide nourishment for the horses.  You can tell that
+the elves are very kind to their beasts.  A wooden sign is near the entrance.
+  
+~
+300 72 1
+D0
+~
+~
+0 0 30003
+S
+#30005
+A square with a statue~
+In the middle of the street is a tremendous statue.  Standing about 15 feet
+tall is a perfect stone rendition of Gil-Galad (an elven lord of ancient days).
+At the foot of the statue is a brass plaque with writing in a flowing script
+upon it.    
+~
+300 8 1
+D0
+~
+~
+0 0 30010
+D1
+~
+~
+0 0 30003
+D3
+~
+~
+0 0 30006
+D5
+~
+~
+0 0 30076
+S
+#30006
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D0
+~
+~
+0 0 30009
+D1
+~
+~
+0 0 30005
+D2
+~
+~
+0 0 30079
+D3
+~
+~
+0 0 30007
+S
+#30007
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D0
+~
+~
+0 0 30019
+D1
+~
+~
+0 0 30006
+D3
+~
+~
+0 0 30008
+D5
+~
+~
+0 0 30058
+S
+#30008
+Grey Havens courthouse~
+Law and order is upheld within the confines of these walls.  Generally the
+Havens are crime-free, but occasionally the court is required to bring
+criminals to justice and punish them torturously for their cruel deeds.  
+Looking about, you are impressed by the masonry of this building with its
+monolith columns and superb sculptures.    
+~
+300 8 1
+D1
+~
+~
+0 0 30007
+S
+#30009
+Grey Haven's shop~
+This very room is the center of trade throughout the whole region.  The shelves
+and storeroom are normally packed with all manner of items which may come in
+useful for the hardy adventurer.    
+~
+300 12 1
+D2
+~
+~
+0 0 30006
+S
+#30010
+A peaceful grove~
+In the middle of the street is a tremendous statue.  Standing about 15 feet
+tall is a perfect stone rendition of Gil-Galad (an elven lord of ancient days).
+At the foot of the statue is a brass plaque with writing in a flowing script
+upon it.    
+~
+300 8 1
+D2
+~
+~
+0 0 30005
+D4
+~
+~
+0 0 30011
+S
+#30011
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D0
+~
+~
+0 0 30012
+D3
+~
+~
+0 0 30014
+D5
+~
+~
+0 0 30010
+S
+#30012
+An elven home~
+You stand within a small elven home.  It is not the most richly decorated house
+in all the Havens but the elves who live here do quite well for themselves.  
+Upon the painted walls are paintings of ships, coasts and crashing waves.  You
+suspect that the owner has a deep affection for the sea and for sailing.    
+~
+300 8 1
+D0
+~
+~
+0 0 30013
+D2
+~
+~
+0 0 30011
+S
+#30013
+An elven bedroom~
+A spacious but plain bedroom.  A great bed lies right in the middle of the room
+but there is not much else to be seen in here.  Perhaps the owners have yet to
+start decorating this room.    
+~
+300 8 1
+D2
+~
+~
+0 0 30012
+S
+#30014
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D0
+~
+~
+0 0 30015
+D1
+~
+~
+0 0 30011
+D3
+~
+~
+0 0 30017
+S
+#30015
+A wooded area~
+Not exactly a forest but still a fairly vast wooded area.  Tall trees surround
+you.  It is obvious that these trees have been hand planted and tended since
+they are aligned in rows and are perfectly spaced.    
+~
+300 8 1
+D0
+~
+~
+0 0 30016
+D2
+~
+~
+0 0 30014
+S
+#30016
+A lumber mill~
+You are near to the mouth of the rapidly flowing Lune River.  Upon the bank is
+a lumber mill.  It is a product of ingenious engineering which harnesses the
+energy of the swift waters, allowing logs to be cut down into usable planks of
+lumber.    
+~
+300 8 1
+D2
+~
+~
+0 0 30015
+S
+#30017
+A paved street~
+A paved street of interlocking stone slabs.  Hundreds of seagulls patrol the
+streets of the Havens, squawking incessantly.  Besides the cries of the gulls
+you can hear the crashing of waves, telling you that the sea is not far away at
+all.    
+~
+300 8 1
+D0
+~
+~
+0 0 30018
+D1
+~
+~
+0 0 30014
+D5
+~
+~
+0 0 30019
+S
+#30018
+A musty winery~
+Wine is distilled and prepared in this musty workshop.  Locally grown
+grapes--green ones because red will not grow here--are used to make refreshing,
+sparkling white wines.  Locked away in a cellar, the wines are left to mature.
+Being immortal the elves have time and patience to wait.  A tub full of grapes
+is here ready to be stomped.    
+~
+300 8 1
+D2
+~
+~
+0 0 30017
+S
+#30019
+Street circle with fountain~
+Within the middle of the street is a spectacular spouting fountain.  The
+granite structure dominates this area which is actually a large street circle.
+To the west rises a tall, stone tower that stands as a pinnacle in the town.  
+To the south the road runs through an ancient shrine.  Further still, you can
+see a lighthouse or beacon.    
+~
+300 8 1
+D0
+~
+~
+0 0 30021
+D1
+~
+~
+0 0 30020
+D2
+~
+~
+0 0 30007
+D3
+~
+~
+0 0 30032
+D4
+~
+~
+0 0 30017
+D5
+~
+~
+0 0 30051
+S
+#30020
+A steamy bathhouse~
+This is the public bathhouse of the Grey Havens.  It is impossible to make
+anything out through all the steam.  All you can tell is that the walls are
+made predominantly of smooth marble.    
+~
+300 8 1
+D3
+~
+~
+0 0 30019
+S
+#30021
+Street end~
+This is the end of the street.  At this point, and all around the city, are
+huge stone walls separating the city from the sea.  They were erected in an
+effort to protect the Havens from the wrath of the ocean.  The walls are very
+smooth but you can see one lower section which you think you could climb over.
+  
+~
+300 12 1
+D2
+~
+~
+0 0 30019
+D5
+~
+~
+0 0 30022
+S
+#30022
+The grey shores~
+These are the cold grey shores where the ocean meets the land.  Waves crash
+endlessly upon the beach leaving a film of foam upon the sand.  To the south
+you can see a tremendous pier reaching way out into the ocean.  Just to your
+east are huge stone walls.    
+~
+300 8 1
+D0
+~
+~
+0 0 30023
+D2
+~
+~
+0 0 30024
+D4
+~
+~
+0 0 30021
+S
+#30023
+The grey shores~
+These are the cold grey shores where the ocean meets the land.  Waves crash
+endlessly upon the beach leaving a film of foam upon the sand.  To the south
+you can see a tremendous pier reaching way out into the ocean.  Just to your
+east are huge stone walls.    
+~
+300 8 1
+D2
+~
+~
+0 0 30022
+S
+#30024
+The grey shores~
+These are the cold grey shores where the ocean meets the land.  Waves crash
+endlessly upon the beach leaving a film of foam upon the sand.  To the south
+you can see a tremendous pier reaching way out into the ocean.  Just to your
+east are huge stone walls.    
+~
+300 8 1
+D0
+~
+~
+0 0 30022
+D2
+~
+~
+0 0 30025
+S
+#30025
+The grey shores~
+These are the cold grey shores where the ocean meets the land.  Waves crash
+endlessly upon the beach leaving a film of foam upon the sand.  To the south
+you can see a tremendous pier reaching way out into the ocean.  Just to your
+east are huge stone walls.    
+~
+300 8 1
+D0
+~
+~
+0 0 30024
+D2
+~
+~
+0 0 30026
+S
+#30026
+The grey shores~
+These are the cold grey shores where the ocean meets the land.  Waves crash
+endlessly upon the beach leaving a film of foam upon the sand.  To the south
+you can see a tremendous pier reaching way out into the ocean.  Just to your
+east are huge stone walls.    
+~
+300 8 1
+D0
+~
+~
+0 0 30025
+D2
+~
+~
+0 0 30027
+S
+#30027
+A network of rock pools~
+You are hopping about a vast network of rock pools.  It is like you would
+imagine the land around Mount Doom.  The sea has shaped the base red rock and
+formed a cratered, bumpy landscape full of surprises.  Countless creatures and
+other sea life inhabit these rock pools.    
+~
+300 8 1
+D0
+~
+~
+0 0 30026
+D2
+~
+~
+0 0 30028
+D4
+~
+~
+0 0 30031
+S
+#30028
+A network of rock pools~
+You are hopping about a vast network of rock pools.  It is like you would
+imagine the land around Mount Doom.  The sea has shaped the base red rock and
+formed a cratered, bumpy landscape full of surprises.  Countless creatures and
+other sea life inhabit these rock pools.    
+~
+300 8 1
+D0
+~
+~
+0 0 30027
+D2
+~
+~
+0 0 30029
+S
+#30029
+A network of rock pools~
+You are hopping about a vast network of rock pools.  It is like you would
+imagine the land around Mount Doom.  The sea has shaped the base red rock and
+formed a cratered, bumpy landscape full of surprises.  Countless creatures and
+other sea life inhabit these rock pools.    
+~
+300 8 1
+D0
+~
+~
+0 0 30028
+D2
+~
+~
+0 0 30030
+S
+#30030
+A network of rock pools~
+You are hopping about a vast network of rock pools.  It is like you would
+imagine the land around Mount Doom.  The sea has shaped the base red rock and
+formed a cratered, bumpy landscape full of surprises.  Countless creatures and
+other sea life inhabit these rock pools.    
+~
+300 8 1
+D0
+~
+~
+0 0 30029
+S
+#30031
+Street end~
+Great walls have been constructed at this place to keep back the powerful
+forces of the sea.  Upon the city side, the wall is fairly low so that you can
+look over it.  Upon the other side, far below, is the beach.  Handholds in the
+rock could allow you to scale the wall.  There is even a steep ramp upon the
+other side.  Otherwise you are at an intersection and can travel north or
+northeast or you could enter the lighthouse to the south.    
+~
+300 12 1
+D0
+~
+~
+0 0 30054
+D1
+~
+~
+0 0 30058
+D2
+~
+door~
+1 0 30055
+D5
+~
+~
+0 0 30027
+S
+#30032
+A vibrant garden~
+You enter upon a circus of colour.  All around you are exotic plants: soft
+ferns, leafy bushes and fragrant flowers.  There is a bench where one can sit
+and enjoy the scenery.  A pond full of silvery fish is also here.  The air is
+pleasantly cool and somewhat moist making this an altogether restful place.  
+
+~
+300 8 1
+D1
+~
+~
+0 0 30019
+D3
+~
+~
+0 0 30033
+S
+#30033
+The tower entrance~
+Guards are generally posted here at the entrance to the tower.  Guests are
+welcome but there is the occasional intruder.  It is a lavish room with a plush
+red carpet and some golden ornaments.  An archway to the north leads to a hall
+and the rest of the tower.    
+~
+300 8 1
+D0
+~
+~
+0 0 30034
+D1
+~
+~
+0 0 30032
+S
+#30034
+A long hallway~
+A lengthy hallway in the tower.  At the eastern end is a flight of stairs
+allowing you to pass to other levels.  Nothing of any real interest is to be
+found in these bare hallways.    
+~
+300 8 1
+D2
+~
+~
+0 0 30033
+D3
+~
+~
+0 0 30035
+D4
+~
+~
+0 0 30037
+S
+#30035
+A feasting hall~
+This is a massive feasting hall.  Dozens of long tables and chairs occupy the
+hall.  A stage is in one corner, providing a place for entertainers to perform.
+Aforetime this hall was often packed with many merry-making elves but the
+festivities have dwindled with the population of the Grey Havens.  It seems the
+elves believe they will find greater bliss on the other side of the sea.  
+There is a counter here with a menu.    
+~
+300 8 1
+D0
+~
+~
+0 0 30036
+D1
+~
+~
+0 0 30034
+S
+#30036
+The tower kitchen~
+A sparkling white kitchen where most of the meals eaten in the tower are
+prepared.  Whoever cleans this establishment does a thoroughly good job: the
+benches are spot free, the cupboards are white and the floor is gleaming.    
+~
+300 8 1
+D2
+~
+~
+0 0 30035
+S
+#30037
+A long hallway~
+This lengthy hallway runs through the tower.  At the eastern end is a flight of
+stairs to the other levels.  Nothing of any real interest can be found in these
+bare hallways.  However, you can rent an inn room here for five gold pieces.  
+
+~
+300 8 1
+D0
+~
+~
+0 0 30038
+D2
+~
+~
+0 0 30039
+D4
+~
+~
+0 0 30040
+D5
+~
+~
+0 0 30034
+S
+#30038
+An elven leisure area~
+A lavish and spacious area providing a place for elves in the tower to come and
+spend some leisure time.  Underfoot is a soft crimson carpet which complements
+the soft pink walls.  Many games are generally played here on the green felt
+tables.  You notice one with a spinning wheel in it and a sign explaining the
+rules of play.    
+~
+300 8 1
+D2
+~
+~
+0 0 30037
+S
+#30039
+The guest quarters~
+These are the guests quarters for visitors to the tower.  The beds are very
+comfortable and look like they could provide you with a very good night's
+(perhaps day's) sleep.  These rooms have a warm feeling about them which puts
+you right at ease.    
+~
+300 8 1
+D0
+~
+~
+0 0 30037
+S
+#30040
+A long hallway~
+A lengthy hallway in the tower.  At the eastern end is a flight of stairs
+allowing you to pass to other levels.  Nothing of any real interest is to be
+found in these bare hallways.    
+~
+300 8 1
+D0
+~
+~
+0 0 30041
+D2
+~
+~
+0 0 30042
+D4
+~
+~
+0 0 30043
+D5
+~
+~
+0 0 30037
+S
+#30041
+Servants' quarters~
+Being the servants' quarters, these rooms are obviously not the most lavishly
+decorated but they are still fairly comfortable.  A few tidy beds, some
+dressers and some personal items are all that these quarters contain.    
+~
+300 8 1
+D2
+~
+~
+0 0 30040
+S
+#30042
+A gallery~
+A gallery full of exquisite treasures.  The soft pastel walls are lined with
+paintings and tapestries.  Busts, models and stunning sculptures take up the
+majority of the floor space.  Despite the immense value some of these pieces
+must be worth, you dare not take anything.    
+~
+300 8 1
+D0
+~
+~
+0 0 30040
+S
+#30043
+A long hallway~
+A lengthy hallway in the tower.  At the eastern end is a flight of stairs
+allowing you to pass to other levels.  Nothing of any real interest is to be
+found in these bare hallways.    
+~
+300 8 1
+D0
+~
+~
+0 0 30044
+D2
+~
+~
+0 0 30045
+D4
+~
+~
+0 0 30046
+D5
+~
+~
+0 0 30040
+S
+#30044
+An extensive library~
+This is a cozy library in the Grey Havens, perfect for those who wish to read
+about--and perhaps learn something of--the history of the world.  Great oak
+bookshelves line the walls.  There is a soft couch to sit upon.  It is
+generally very quiet in here so all can read in peace.    
+~
+300 8 1
+D2
+~
+~
+0 0 30043
+S
+#30045
+Cirdan's chamber~
+This is Cirdan's personal chamber.  It is not what you had imagined an elven
+lord's quarters to be like: extravagant, richly decorated and closely guarded.
+Instead it is a sumptuous but otherwise plain bedroom.    
+~
+300 8 1
+D0
+~
+~
+0 0 30043
+S
+#30046
+A long hallway~
+A lengthy hallway in the tower.  At the eastern end is a flight of stairs
+allowing you to pass to other levels.  Nothing of any real interest is to be
+found in these bare hallways.    
+~
+300 8 1
+D0
+~
+~
+0 0 30047
+D2
+~
+~
+0 0 30048
+D3
+~
+~
+0 0 30049
+D5
+~
+~
+0 0 30043
+S
+#30047
+An observatory~
+One of the loftiest rooms of the tower, this is an observatory of the heavens.
+Taking up the centre of the observatory is a powerful looking glass.  It can be
+rotated 360 degrees as well as shifted up and down.  Upon the walls are charts
+of the night skies and stellar constellations.    
+~
+300 8 1
+D2
+~
+~
+0 0 30046
+S
+#30048
+A council chamber~
+A pleasant but simple council chamber.  There are no paintings, ornaments or
+other distractions: just clean walls, a plush carpet and a long table with
+matching chairs.  It is said that the White Council, the group of the Wise
+formed to resist Sauron, often met here to discuss policies and measures to
+combat the Dark Lord.    
+~
+300 8 1
+D0
+~
+~
+0 0 30046
+S
+#30049
+Cirdan's throne room~
+A majestic throne room.  Somehow you can tell this room is indeed ancient and
+has not been changed for centuries.  The striking feature of the room is
+obviously the throne, which has been created from shining silver and is
+encrusted with sparkling jewels.    
+~
+300 8 1
+D1
+~
+~
+0 0 30046
+D3
+~
+~
+0 0 30050
+S
+#30050
+A lofty balcony~
+This is really high up, making you feel a little giddy.  Fortunately you have
+an all-powerful view of your surroundings, north, south and west.  Looking out
+you see foremost the great ocean which separates Middle Earth from the blessed
+realm: the land of Valinor where the Valar reside.    
+~
+300 8 1
+D1
+~
+~
+0 0 30049
+S
+#30051
+The docks~
+The ancient docks of the Grey Havens.  You feel a fresh sea breeze upon your
+face and breathe in the salty tang.  It is usually a hive of activity with ship
+repairs taking place and elves preparing to disembark.  Currently there is no
+real action at all.    
+~
+300 8 1
+D1
+~
+~
+0 0 30052
+D2
+~
+~
+0 0 30054
+D3
+~
+~
+0 0 30059
+D4
+~
+~
+0 0 30019
+S
+#30052
+The shipyards~
+The shipyards of the Grey Havens.  Magnificent seacraft are constructed here by
+the skilled tradesmen of the region.  Only one major ship is being built here
+at the moment and it is only in the early stages of production.  Piles of ship
+building materials line the docks including rope, canvas and a single great
+anchor.    
+~
+300 8 1
+D1
+~
+~
+0 0 30053
+D3
+~
+~
+0 0 30051
+S
+#30053
+The Shipwright's Guild~
+The guild room of the Shipwrights of the Grey Havens, the most highly regarded
+craftsmen in all the land.  Here members gather to discuss their plans, design
+ships, learn ship building techniques or just to take a break from their
+efforts.  The head of the guild is in fact Cirdan, but he seldom participates
+in its everyday activities.    
+~
+300 8 1
+D3
+~
+~
+0 0 30052
+S
+#30054
+An archway through a shrine~
+A massive stone archway through which the street passes.  It is part of a great
+and ancient shrine.  The building proper is above and to the east.  You can
+enter by going up nearby stairs.  The archway is decorated with motifs that
+have been cut right into the wall.    
+~
+300 8 1
+D0
+~
+~
+0 0 30051
+D2
+~
+~
+0 0 30031
+S
+#30055
+Lighthouse bottom~
+The lower level and entrance of the lighthouse.  The concrete floor and dull
+metal walls hardly make the lighthouse look exciting.  A spiral staircase of
+metal steps leads up..  And up..  And up.    
+~
+300 8 1
+D0
+~
+door~
+1 0 30031
+D4
+~
+~
+0 0 30056
+S
+#30056
+A lighthouse room~
+You are right near the top of a tall lighthouse.  It seems like these are the
+quarters of the lighthouse keeper.  A light blue bed and a white dresser are
+the only items up here except for the ladder that leads to the upper level.  
+
+~
+300 8 1
+D4
+~
+~
+0 0 30057
+D5
+~
+~
+0 0 30055
+S
+#30057
+Lighthouse top~
+Right at the top of the lighthouse is a massive beacon.  It consists of a great
+silver dish in which a fire of oil and wood can be maintained.  The east wall
+is a polished convex mirror aimed out towards the sea.  A great window allows
+the light to shine out onto the ocean warning ships about the rock reefs below.
+  
+~
+300 8 1
+D5
+~
+~
+0 0 30056
+S
+#30058
+A pleasant grove~
+A peaceful spot amongst the soft green trees.  Leaf litter covers the ground.
+A cool westerly breeze causes the leaves to swirl and scatter about the place.
+To the northeast you can see the main street of the Grey Havens while to the
+southeast is a grass avenue lined with trees.  It seems to be the residential
+area.    
+~
+300 12 1
+D3
+~
+~
+0 0 30031
+D4
+~
+~
+0 0 30007
+D5
+~
+~
+0 0 30064
+S
+#30059
+A long pier~
+You stand atop a colossal wooden pier.  It juts out into the Gulf of Lune like
+a tremendous bridge over the sea.  Toward the end of the pier you can see two
+majestic ships, with sails flapping gently in the breeze.  Below you are the
+waters of the Gulf of Lune.  Waves crash on the cold grey shore.    
+~
+300 8 1
+D1
+~
+~
+0 0 30051
+D3
+~
+~
+0 0 30060
+S
+#30060
+End of the pier~
+You stand at the end of a great pier.  To the west lies the Gulf of Lune.  Two
+ships are docked here.  To the northwest a ship sits quiet and motionless.  
+The ship to the southwest is currently being boarded by many fair elves.  The
+captain stands atop the gangplank, preparing to set sail.    
+~
+300 8 1
+D1
+~
+~
+0 0 30059
+D3
+~
+~
+0 0 30061
+S
+#30061
+Aboard a ship at the stern~
+You are aboard a mighty ship at the stern.  A gangplank leads southeast, back
+to the pier.  In the timbers of the deck you notice a small hatch which leads
+down into the interior of the ship.  Above you is a huge mainsail and mast.  
+Gazing upwards you see the crow's nest.    
+~
+300 8 1
+D1
+~
+~
+0 0 30060
+D3
+~
+~
+0 0 30062
+S
+#30062
+Aboard a ship at the bow~
+An ocean breeze whips up all around causing the sails to flap and the ship to
+bounce disturbingly.  You are at the bow out front of the ship.  Just ahead you
+can see the prow, jutting out like a stiletto.  On the deck of the ship is a
+trapdoor.    
+~
+300 8 1
+D1
+~
+~
+0 0 30061
+D5
+~
+door~
+1 0 30063
+S
+#30063
+The captain's cabin~
+Entering the captain's cabin you are impressed with his quarters.  He prefers
+to sleep in a long hammock which stretches from one wall to another.  There are
+many round portholes in here and the walls are covered in charts.  The up door
+is open.    
+~
+300 8 1
+D4
+~
+door~
+1 0 30062
+S
+#30064
+A leafy avenue~
+This is a leafy avenue.  The path is made of well-tended moss so your footing
+is very soft.  Upon either side are many trees, creating a canopy above you.  
+Paths between gaps in the trees lead to the houses of the elves.  You can hear
+the sound of the ocean and the wind whistling in the leaves.    
+~
+300 8 1
+D0
+~
+~
+0 0 30065
+D1
+~
+~
+0 0 30067
+D2
+~
+~
+0 0 30070
+D3
+~
+~
+0 0 30080
+D4
+~
+door~
+1 0 30058
+S
+#30065
+An elven home~
+This is the main room of a Grey Havens home.  It is a large open area
+containing a dining table with chairs as well as a place where the householders
+can sit down and relax.  The walls have been painted sky blue and a soft sea
+breeze filters through the open window.  It almost feels like you are standing
+outside.    
+~
+300 8 1
+D0
+~
+~
+0 0 30066
+D2
+~
+~
+0 0 30064
+S
+#30066
+An elven home~
+There are two beds to be found in this large bedroom.  You guess that the
+larger bed is for the parents whilst the other is for a "youngish" elf.  The
+only other furniture in here are the two antique dressers.    
+~
+300 8 1
+D2
+~
+~
+0 0 30065
+S
+#30067
+A leafy avenue~
+This is a leafy avenue.  The path is made of well-tended moss so your footing
+is very soft.  Upon either side are many trees, creating a canopy above you.  
+Paths between gaps in the trees lead to the houses of the elves.  You can hear
+the sound of the ocean and the wind whistling in the leaves.    
+~
+300 8 1
+D0
+~
+~
+0 0 30068
+D1
+~
+~
+0 0 30074
+D2
+~
+~
+0 0 30072
+D3
+~
+~
+0 0 30064
+S
+#30068
+An elven home~
+This is a pleasant room in a cozy house.  Upon the wooden floor is a large
+round rug with a colourful patchwork design.  Leafy plants dangle from pots in
+the ceiling.  Also, inset into the roof is a window allowing the light to pour
+in.    
+~
+300 8 1
+D0
+~
+~
+0 0 30069
+D2
+~
+~
+0 0 30067
+S
+#30069
+An elven home~
+Entering this spacious bedroom, you notice the great window in the roof.  
+Directly below this is a double bed.  You know the elves love the stars and can
+see that the couple who lives here is no exception.  The bed looks very
+inviting but you doubt you could sleep here: lights would be shining in your
+eyes.    
+~
+300 8 1
+D2
+~
+~
+0 0 30068
+S
+#30070
+An elven home~
+This is an ordinary living room in an elven house.  It is nice enough and you
+are sure the residents are quite comfortable here.  The main items of furniture
+are the low coffee table and the padded arm chairs.    
+~
+300 8 1
+D0
+~
+~
+0 0 30064
+D2
+~
+~
+0 0 30071
+S
+#30071
+An elven bedroom~
+The bedroom of the house contains a queen-sized bed.  It looks extremely soft
+and snug with many soft pillows and a slinky patchwork quilt.  Not much else is
+to be found in this room, not even a wardrobe or set of dressers.    
+~
+300 8 1
+D0
+~
+~
+0 0 30070
+S
+#30072
+An elven home~
+This is a small cottage house built in a quaint architectural style.  It has
+been constructed mostly from wood and has been painted in shades of green,
+brown and white.  Lattice grates have been attached to the window panels and
+the walls are lined with a few canvas works.    
+~
+300 8 1
+D0
+~
+~
+0 0 30067
+D2
+~
+~
+0 0 30073
+S
+#30073
+An elven bedroom~
+The bedroom of the house contains a queen-sized bed.  It looks extremely soft
+and snug with many soft pillows and a slinky patchwork quilt.  Not much else is
+to be found in this room, not even a wardrobe or set of dressers.    
+~
+300 8 1
+D0
+~
+~
+0 0 30072
+S
+#30074
+A leafy avenue~
+This is a leafy avenue.  The path is made of well-tended moss so your footing
+is very soft.  Upon either side are many trees, creating a canopy above you.  
+Paths between gaps in the trees lead to the houses of the elves.  You can hear
+the sound of the ocean and the wind whistling in the leaves.    
+~
+300 8 1
+D0
+~
+~
+0 0 30077
+D2
+~
+~
+0 0 30075
+D3
+~
+~
+0 0 30067
+S
+#30075
+An old ranger home~
+An experienced ranger resides at this house.  He is renowned around the region
+as someone enthusiastic about teaching his skills to others.  People flock to
+this very courtyard hoping to learn from him and then seek adventure in the
+wide world.    
+~
+300 8 1
+D0
+~
+~
+0 0 30074
+S
+#30076
+A leafy avenue~
+This is a leafy avenue.  The path is made of well-tended moss so your footing
+is very soft.  Upon either side are many trees, creating a canopy above you.  
+Paths between gaps in the trees lead to the houses of the elves.  You can hear
+the sound of the ocean and the wind whistling in the leaves.    
+~
+300 12 1
+D3
+~
+~
+0 0 30077
+D4
+~
+~
+0 0 30005
+S
+#30077
+An elven home~
+Many plants grow in this room, which is more like an indoor garden than a
+living room.  The greenery is everywhere: growing in a trough along one wall,
+hanging from the ceiling or placed upon the floor in pots.  Amongst all the
+plant life can be found a few chairs and a wooden table.    
+~
+300 8 1
+D1
+~
+~
+0 0 30076
+D2
+~
+~
+0 0 30074
+D3
+~
+~
+0 0 30078
+S
+#30078
+A kitchen~
+A typical kitchen in the elven home.  All of the benchtops, the sink and the
+oven have been kept thoroughly clean.  There are many cupboards here but you
+can't imagine anything of great significance being in them.  You could have a
+quick rummage through them though, if you so wished.    
+~
+300 8 1
+D1
+~
+~
+0 0 30077
+S
+#30079
+Grey Havens Mailroom~
+The mailroom of the Grey Havens.  Amazingly you can send to and receive mail
+from many other distant locations throughout Middle Earth.    
+~
+300 28 1
+D0
+~
+~
+0 0 30006
+S
+#30080
+A leafy avenue~
+This is a leafy avenue.  The path is made of well-tended moss so your footing
+is very soft.  Upon either side are many trees, creating a canopy above you.  
+Paths between gaps in the trees lead to the houses of the elves.  You can hear
+the sound of the ocean and the wind whistling in the leaves.    
+~
+300 8 1
+D1
+~
+~
+0 0 30064
+D2
+~
+~
+0 0 30081
+D3
+~
+~
+0 0 30083
+S
+#30081
+An elven home~
+A standard living room in a Grey Havens house.  A furry carpet covers the
+floor, upon which is a leather couch, some wooden chairs and a large table.  
+It is an extremely uninteresting home.    
+~
+300 8 1
+D0
+~
+~
+0 0 30080
+D2
+~
+~
+0 0 30082
+S
+#30082
+An elven bedroom~
+The bedroom of the house contains a queen-sized bed.  It looks extremely soft
+and snug with many soft pillows and a slinky patchwork quilt.  Not much else is
+to be found in this room, not even a wardrobe or set of dressers.    
+~
+300 8 1
+D0
+~
+~
+0 0 30081
+S
+#30083
+A green garden~
+There is a sweet fragrance in the air.  You are in a scenic garden with many
+flowers, a trimmed green lawn and a single sturdy apple tree.  Unfortunately,
+it seems that what's left of the fruit lies rotting upon the ground.    
+~
+300 8 1
+D1
+~
+~
+0 0 30080
+S
+#30084
+A Dimly Lit Path~
+To enter in Gray Heavens, you have to walk inside this small florest.
+Be Careful
+~
+300 5 0
+D1
+~
+~
+0 0 2742
+D2
+~
+~
+0 0 30085
+D3
+~
+~
+0 0 30000
+S
+#30085
+A Dimly Lit Path~
+To enter in Gray Heavens, you have to walk inside this small florest.
+Be Careful
+~
+300 5 3
+D0
+~
+~
+0 0 30084
+D1
+~
+~
+0 0 2742
+D3
+~
+~
+0 0 2741
+S
+$~

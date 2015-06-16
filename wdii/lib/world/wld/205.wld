@@ -1,0 +1,919 @@
+#20500
+The Beginning~
+Not much here.
+~
+205 0 0
+S
+#20501
+Base of the Termite Hill~
+You stands at the base of the giant mount of termites, you feels very
+strange looking it. A path leading up shows the way to follow.
+~
+205 16777216 0
+D0
+~
+door~
+1 0 6133
+D4
+~
+~
+0 0 20502
+S
+#20502
+Ascension~
+The sun burns your skin and you feel the soil shiver by the activities
+of the creatures inside. The long path continues upside.
+~
+205 0 0
+D4
+~
+~
+0 0 20503
+D5
+~
+~
+0 0 20501
+S
+#20503
+Ascension~
+The sun burns your skin and you feel the soil shiver by the activities
+of the creatures inside. The long path continues upside.
+~
+205 0 0
+D4
+~
+~
+0 0 20504
+D5
+~
+~
+0 0 20502
+S
+#20504
+Ascension~
+The sun burns your skin and you feel the soil shiver by the activities
+of the creatures inside. The long path continues upside.
+~
+205 0 0
+D4
+~
+~
+0 0 20505
+D5
+~
+~
+0 0 20503
+S
+#20505
+Hill Top~
+This isn't the final of the ascension but, if you are here you can move
+more ... Hurry, before you fry ... GO GO GO!!!
+~
+205 0 0
+D4
+~
+~
+0 0 20506
+D5
+~
+~
+0 0 20504
+S
+#20506
+Hill Extreme Top~
+Wow, the top ... Someone tells you that isn't a good idea ... Well,
+a descent path marks the anthill entrance ... Beware, maybe you not
+will be welcome.
+~
+205 0 0
+D0
+~
+~
+0 0 20507
+D5
+~
+~
+0 0 20505
+S
+#20507
+Slippery Hole~
+Hieiiiiiiii, look out ... Climbing Down the outside lights fade. The
+entrance of the hill ways down ...
+~
+205 0 0
+D2
+~
+~
+0 0 20506
+D5
+~
+~
+0 0 20508
+S
+#20508
+Entrance~
+Three enormous creatures are here guarding the entrance ... It looks
+stronger... 
+~
+205 0 0
+D4
+~
+~
+0 0 20507
+D5
+~
+ground~
+1 0 20509
+S
+#20509
+The Intersection~
+You cant see many ways to follow, dark and cold caves, full of termites
+walking arround.
+~
+205 0 0
+D0
+~
+~
+0 0 20510
+D1
+~
+~
+0 0 20513
+D2
+~
+~
+0 0 20512
+D3
+~
+~
+0 0 20511
+D4
+~
+door~
+2 0 20508
+D5
+~
+~
+0 0 20514
+S
+#20510
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D2
+~
+~
+0 0 20509
+S
+#20511
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D1
+~
+~
+0 0 20509
+S
+#20512
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D0
+~
+~
+0 0 20509
+S
+#20513
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D3
+~
+~
+0 0 20509
+S
+#20514
+The Intersection~
+You cant see many ways to follow, dark and cold caves, full of termites
+walking arround.
+~
+205 0 0
+D0
+~
+~
+0 0 20515
+D1
+~
+~
+0 0 20518
+D2
+~
+~
+0 0 20517
+D3
+~
+~
+0 0 20516
+D4
+~
+~
+0 0 20509
+D5
+~
+~
+0 0 20527
+S
+#20515
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20523
+D1
+~
+~
+0 0 20522
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20519
+S
+#20516
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20519
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20524
+S
+#20517
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20514
+D1
+~
+~
+0 0 20521
+D2
+~
+~
+0 0 20525
+D3
+~
+~
+0 0 20520
+S
+#20518
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20522
+D1
+~
+~
+0 0 20526
+D2
+~
+~
+0 0 20521
+D3
+~
+~
+0 0 20514
+S
+#20519
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D1
+~
+~
+0 0 20515
+D2
+~
+~
+0 0 20516
+S
+#20520
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20516
+D1
+~
+~
+0 0 20517
+S
+#20521
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20518
+D3
+~
+~
+0 0 20517
+S
+#20522
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D2
+~
+~
+0 0 20518
+D3
+~
+~
+0 0 20515
+S
+#20523
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D2
+~
+~
+0 0 20515
+S
+#20524
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D1
+~
+~
+0 0 20516
+S
+#20525
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D0
+~
+~
+0 0 20517
+S
+#20526
+Cave End~
+The termine caves ends here ... Shape of a room, stand here few soldiers
+waiting an attack to act, they looks apprehensives ...
+~
+205 0 0
+D3
+~
+~
+0 0 20518
+S
+#20527
+The Intersection~
+You cant see many ways to follow, dark and cold caves, full of termites
+walking arround.
+~
+205 0 0
+D0
+~
+~
+0 0 20528
+D1
+~
+~
+0 0 20531
+D2
+~
+~
+0 0 20530
+D3
+~
+~
+0 0 20529
+D4
+~
+~
+0 0 20514
+D5
+~
+rocks~
+2 20501 20548
+S
+#20528
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20536
+D1
+~
+~
+0 0 20535
+D2
+~
+~
+0 0 20527
+D3
+~
+~
+0 0 20532
+S
+#20529
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20532
+D1
+~
+~
+0 0 20527
+D2
+~
+~
+0 0 20533
+D3
+~
+~
+0 0 20537
+S
+#20530
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20527
+D1
+~
+~
+0 0 20534
+D2
+~
+~
+0 0 20538
+D3
+~
+~
+0 0 20533
+S
+#20531
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20535
+D1
+~
+~
+0 0 20539
+D2
+~
+~
+0 0 20534
+D3
+~
+~
+0 0 20527
+S
+#20532
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20540
+D1
+~
+~
+0 0 20528
+D2
+~
+~
+0 0 20529
+D3
+~
+~
+0 0 20541
+S
+#20533
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20529
+D1
+~
+~
+0 0 20530
+D2
+~
+~
+0 0 20543
+D3
+~
+~
+0 0 20542
+S
+#20534
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20531
+D1
+~
+~
+0 0 20545
+D2
+~
+~
+0 0 20544
+D3
+~
+~
+0 0 20530
+S
+#20535
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20547
+D1
+~
+~
+0 0 20546
+D2
+~
+~
+0 0 20531
+D3
+~
+~
+0 0 20528
+S
+#20536
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D1
+~
+~
+0 0 20547
+D2
+~
+~
+0 0 20528
+D3
+~
+~
+0 0 20540
+S
+#20537
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20541
+D1
+~
+~
+0 0 20529
+D2
+~
+~
+0 0 20542
+S
+#20538
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20530
+D1
+~
+~
+0 0 20544
+D3
+~
+~
+0 0 20543
+S
+#20539
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20546
+D2
+~
+~
+0 0 20545
+D3
+~
+~
+0 0 20531
+S
+#20540
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D1
+~
+~
+0 0 20536
+D2
+~
+~
+0 0 20532
+S
+#20541
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D1
+~
+~
+0 0 20532
+D2
+~
+~
+0 0 20537
+S
+#20542
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20537
+D1
+~
+~
+0 0 20533
+S
+#20543
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20533
+D1
+~
+~
+0 0 20538
+S
+#20544
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20534
+D3
+~
+~
+0 0 20538
+S
+#20545
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D0
+~
+~
+0 0 20539
+D3
+~
+~
+0 0 20534
+S
+#20546
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D2
+~
+~
+0 0 20539
+D3
+~
+~
+0 0 20535
+S
+#20547
+The Termite Caves~
+Walking arround you have the desire to leave this place, the air turns
+the ambience disgusting.
+~
+205 0 0
+D2
+~
+~
+0 0 20535
+D3
+~
+~
+0 0 20536
+S
+#20548
+Royal Room~
+Here the queen and the king makes they job ... Is better not intrude :)
+~
+205 0 0
+D0
+~
+~
+0 0 20549
+D1
+~
+~
+0 0 20552
+D2
+~
+~
+0 0 20551
+D3
+~
+~
+0 0 20550
+D4
+~
+~
+0 0 20527
+D5
+~
+~
+0 0 20553
+S
+#20549
+Ovulate Room~
+You try to move yourself but stucks between the eggs. You wait a longer
+time then its born ... Flee, Flee!!! Too late, the hungry baby termites
+start to eat you. NHAM!!!!! NHAM!!!!! NHAM!!!!!
+~
+205 2 0
+S
+#20550
+Ovulate Room~
+Many Eggs are spread here, throbbing ...
+~
+205 0 0
+D1
+~
+~
+0 0 20548
+S
+#20551
+Ovulate Room~
+Many Eggs are spread here, throbbing ...
+~
+205 0 0
+D0
+~
+~
+0 0 20548
+S
+#20552
+Ovulate Room~
+Many Eggs are spread here, throbbing ...
+~
+205 0 0
+D3
+~
+~
+0 0 20548
+S
+#20553
+Ovulate Room~
+Many Eggs are spread here, throbbing ...
+~
+205 0 0
+D4
+~
+~
+0 0 20548
+S
+$~

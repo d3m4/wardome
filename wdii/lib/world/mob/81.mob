@@ -1,0 +1,1233 @@
+#8100
+innkeeper reilly~
+Reilly the Innkeeper~
+The innkeeper watches for customers and drinks imported Scotch.
+~
+Reilly doesn't keep this inn open by sitting and watching the 
+goblins invade! He looks more like a hobo than an innkeeper but
+you can at least see that he is wearing a huge Scotch sword at
+his side.  He is also drinking from a huge bottle of Scotch 
+whiskey, probably not the single-malt variety.  
+~
+190682 263352 200 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8101
+priest pater vinci~
+Pater Vinci~
+Pater Vinci greets you as you pass by.
+~
+Pater Vinci did not bear a weapon in the good old days, but now the 
+goblins ought to avoid him, because the good priest fought for King
+Korbor before he took holy orders, and still carries a sturdy club.
+~
+10392 4100 900 E
+151 -77 -29 1d1+17508 5d46+170
+2265 16719291 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8102
+sheriff zeb~
+Zeb Rykalp~
+Zeb Rykalp, sheriff of Ofingia, watches you closely.
+~
+You had better keep on Zeb's good side. He has few qualms about
+roughing up the Midgaarders, and is ever-vigilant for evil.
+~
+10524 4 700 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8103
+smith dorig dwarf~
+Dorig Foehammer~
+Dorig the dwarf welds bars together with a 10 pound hammer.
+~
+He is too strong for you to beat easily in a fight, and if he had
+a beer or two in him Dorig would be invincible.  At least, he would
+think himself invincible.
+~
+190686 263352 700 E
+156 -80 -29 1d1+18096 5d46+172
+2340 18376847 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8104
+carpenter joel~
+Joel Kreb~
+Joel Kreb, the village carpenter, rests with an axe close at hand.
+~
+That axe he has has a long spike opposite its blade, and you do not
+think it is intended for wood, but for flesh and bone, particularly 
+of goblin-kind.
+~
+190686 263352 700 E
+158 -81 -30 1d1+18324 5d46+172
+2370 19069362 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8105
+maxtrum halfling shopkeeper~
+Maxtrum Holloknob~
+A stout halfling shopkeeper eyes your moneybag with a glinting eye.
+~
+Guard your wallet carefully! Rumor has it that Maxtrum rarely runs
+out of money, which would be wonderful, if only his customers didn't
+so often find their pockets lighter after leaving his store, though
+they bought nothing.
+~
+190687 263352 700 E
+159 -81 -30 1d1+18444 5d46+172
+2385 19422044 11
+8 8 1 2 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8106
+churt elf elven alchemist~
+Churt Agenris~
+An elven alchemist inhales the fumes deeply and sighs happily.
+~
+Churt notices you gagging as you enter his shop and peers at you 
+with some surprise.  He is a powerful wizard, having practiced 
+such great spells as `Churt's Irresistable Retch' and `Word of 
+Command: Go away, I...' Well, never mind that one.
+~
+190687 263352 700 E
+157 -80 -29 1d1+18204 5d46+172
+2355 18720972 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 33
+E
+#8107
+dek ranger elf elven leatherworker~
+Dek Shattershock~
+A retired elven ranger works here as a leatherworker.
+~
+Dek Shattershock- the name inspires fear in goblin and githyanki 
+warrior alike! You ought to be scared, too, you shrimp.
+~
+190686 263352 700 E
+160 -82 -30 1d1+18552 5d49+174
+2400 19779044 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#8108
+marya woman baker~
+Marya the Baker~
+A young Ofintine woman kneads dough here.
+~
+She is not a noblewoman, but is a lady all the same.  After all, lady
+means `loaf-kneader' just as lord means `loaf-ward' in the old Anglo-
+Saxon tongue.  She has bashed more goblins with her rolling pin than
+Jewish rye has caraway seeds.
+~
+190686 263352 700 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8109
+serathana priestess librarian~
+Serathana the Guardian of Lore~
+A priestess watches you carefully.
+~
+This priestess is an old friend of Dek, Dorig, Churt, and Maxtrum. 
+They saved the world from destruction, but there isn't much need for 
+heroes in peacetime. You can see Sara's long spear hung on the wall
+where she can instantly reach it.
+~
+190494 263352 700 E
+160 -82 -30 1d1+18552 5d49+174
+2400 21756948 11
+8 8 1 1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#8110
+kelek guard captain~
+Sir Kelek~
+Passing guards raise their visors in salute to Sir Kelek, their captain.
+~
+He did not reach this rank by staying close by the Newbie Zone.
+~
+14618 0 700 E
+165 -84 -31 1d1+19140 5d49+176
+2475 21629734 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 84
+Att4: 42
+E
+#8111
+king korbor~
+King Korbor~
+Clad in bright mail and girt with a sword, King Korbor goes to war.
+~
+Once King Korbor sat in his lofty hall, but now he marches with his
+army to drive off the goblins which threaten his realm.
+~
+14618 0 800 E
+163 -83 -30 1d1+18900 5d49+174
+2445 20876214 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 84
+Att4: 39
+E
+#8112
+tim thief boy~
+Tim the Thief~
+A small boy sneaks silently through the shadows.
+~
+Guard your money! It is that dratted Tim!
+~
+559132 0 100 E
+149 -76 -28 1d1+17280 5d43+168
+2235 16085210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8113
+sir mischa~
+Sir Mischa~
+Sir Mischa guards his town from evil creatures.
+~
+This knight could easily kill Curley GreenLeaf.
+~
+6408 0 700 E
+160 -82 -30 1d1+18552 5d49+174
+2400 19779044 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#8114
+guard~
+the Ofintine guard~
+A guard of Ofintinia patrolls his town.
+~
+A sturdy guardsman, loyal to King Korbor.
+~
+6408 0 400 E
+154 -79 -29 1d1+17856 5d46+170
+2310 17701290 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8115
+guard~
+the Ofintine guard~
+An Ofintine guard watches the gate.
+~
+A sturdy guardsman, ever vigilant for evil.
+~
+6410 0 400 E
+154 -79 -29 1d1+17856 5d46+170
+2310 17701290 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8116
+volunteer~
+an Ofintine volunteer~
+An Ofintine volunteer patrolls his town.
+~
+He has taken up arms to fight the goblins.
+~
+4104 0 400 E
+151 -77 -29 1d1+17508 5d46+170
+2265 16719291 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8117
+volunteer~
+an Ofintine volunteer~
+The volunteer stands here ready to do battle.
+~
+She has taken up arms to fight the goblins.
+~
+4104 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 2 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8118
+man~
+a Lonoyan man~
+A man of Ofingia stands here.
+~
+He won't desert his town for a million goblins, all waving axes.
+~
+8 0 400 E
+152 -78 -29 1d1+17628 5d46+170
+2280 17042481 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8119
+woman~
+a Lonoyan citizen~
+An Lonoyan woman walks through town.
+~
+Though the goblins poured in through every gate, she would stay here.
+~
+8 0 400 E
+151 -77 -29 1d1+17508 5d46+170
+2265 16719291 11
+8 8 2 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8120
+boy~
+a small boy~
+A small boy runs around shouting at unseen foes.
+~
+He is ready for the goblins when they come!
+~
+136 0 300 E
+140 -72 -27 1d1+16236 5d43+166
+2100 13429563 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#8121
+girl~
+a young girl~
+A Lonoyan girl stands here.
+~
+You are sure she has killed many trolls and more goblins.
+~
+136 0 300 E
+140 -72 -27 1d1+16236 5d43+166
+2100 13429563 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#8122
+big dog~
+the big dog~
+A huge dog runs about, tongue lolling out of his mouth in a silly way.
+~
+A big goofy retriever, with a rough, coarse black coat.
+~
+4232 0 0 E
+140 -72 -27 1d1+16236 5d43+166
+2100 13429563 11
+8 8 1 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#8123
+dog~
+Reilly's dog~
+You cringe in fear when a small black dog growls menacingly.
+~
+Reilly's miniature schnauzer looks tougher than a small dragon.
+~
+4232 0 0 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8124
+farmer man~
+a Lonoyan farmer~
+A farmer strolls about town in his Sunday clothes.
+~
+As he walks past you, you see him stop and stare with an expression of
+recognition, changing to anger.  Perhaps you left his gate open on the
+way here.
+~
+200 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8125
+dwarf~
+a dwarf~
+A drunken Dwarf rests here, singing loud enough to wake the dead.
+~
+It takes more than a beer or two to intoxicate the sturdy mountain folk;
+he must have had enough to stun a giant.
+~
+200 1024 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8126
+hobbit~
+a hobbit landowner~
+A fine, fat and gentle hobbit swaggers around, whistling merrily.
+~
+There aren't too many hobbits living in Lonoya, and he is most likely a
+visitor from the Shire.
+~
+200 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8127
+woman barmaid maid~
+the bar maid~
+A lovely Lonoyan woman serves mead to Reilly's customers.
+~
+No one bothers her as she serves drinks, because they know that she
+has a dagger ready for anyone who gets `fresh'.
+~
+200 0 400 E
+149 -76 -28 1d1+17280 5d43+168
+2235 16085210 11
+8 8 2 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8128
+man~
+the old man~
+An old Lonoyan man sweeps the road clean.
+~
+Too old to wield a glaive, this man has taken upon himself the task of
+picking up the litter that passerby drop in Lonoyan gutters. Ofingia,
+the "Jewel of Lonoya", would not sparkle as it does in Korbor's crown
+if he was not so busy. The old man really hates adventurers who don't
+clean up after themselves.
+~
+200 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8129
+goblin~
+the goblin~
+A forest goblin roams Lonoya, arguing with himself.
+~
+He doesn't seem to notice you right away, but I wouldn't wait for him
+to stop talking and see you.  Goblins hate strangers, especially if
+they are armed.
+~
+6248 1024 -250 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8130
+goblin raider~
+the goblin~
+A goblin raider prowls Lonoya, looking for travellers to rob.
+~
+Stumpy-short but thick, green-skinned and great-headed.  Ugly, ain't he?
+~
+6248 1024 -250 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8131
+goblin~
+the goblin~
+A goblin crouches in ambush here.
+~
+Another goblin, another battle, another notch in your newbie dagger.
+~
+6248 1024 -250 E
+152 -78 -29 1d1+17628 5d46+170
+2280 17042481 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8132
+goblin~
+the goblin watchman~
+A goblin stands watch here.
+~
+Goblins, it seems, are not trusty watchmen. You'd expect no more.
+~
+6250 1024 -250 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+4 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8133
+serpent~
+the serpent~
+A great serpent slithers through the caverns, ignoring you.
+~
+For a little while you fear poison, but this snake looks about
+as harmless as any forty-five-foot reptile can.
+Perhaps this serpent lives off the carcasses of those killed by
+these goblins.
+~
+12 1024 0 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8134
+gnome~
+the lost gnome~
+A stone-gnome is far from home.
+~
+He is wandering, as you are, through these tunnels to find an exit.
+~
+2204 295936 400 E
+151 -77 -29 1d1+17508 5d46+170
+2265 16719291 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8135
+goblin~
+the goblin guard~
+A goblin stands here alert, vigilant for intruders.
+~
+No one will pass by him unnoticed.
+~
+6250 1024 -350 E
+154 -79 -29 1d1+17856 5d46+170
+2310 17701290 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8136
+goblin~
+the goblin~
+A green-skinned goblin warrior stands here, clutching a bloody scimitar.
+~
+He looks tougher than the average goblin.
+~
+6248 1024 -400 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8137
+goblin~
+the goblin warrior~
+A goblin warrior glares at you, angry at having been awakened.
+~
+He looks tougher than the average goblin.
+~
+6248 1024 -400 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+4 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8138
+hobgoblin goblin~
+a hobgoblin~
+A large goblin clad in stinking hides glares at you.
+~
+You would NEVER wear his armor; untanned cowhide is not your style.
+He doesn't seem to mind it, however, and in any case this fellow is
+a dangerous foe for any knight.
+~
+6248 1024 -400 E
+158 -81 -30 1d1+18324 5d46+172
+2370 19069362 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8139
+toadstool goblin chieftain~
+Toadstool the Goblin~
+Toadstool, chief of the forest goblins, shouts and throws things at you.
+~
+What does he throw? Rocks, mostly. Toadstool is taller than a dwarf, and
+ugly as a toad. He is larger than any goblin you have seen, in fact; 
+maybe Toadstool is orcish or half-orcish.
+~
+6248 1024 -500 E
+159 -81 -30 1d1+18444 5d46+172
+2385 19422044 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8140
+goblin~
+the goblin~
+A goblin gnaws a bone here.
+~
+That bone looks very tasty, but he probably won't share it.
+~
+6248 1024 -250 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8141
+groff troll cook~
+Groff the Troll~
+A huge hairy troll stirrs a bubbling pot.
+~
+As you watch, safely hidden, he picks up a dead goblin and throws it 
+into his pot, followed by a few spotted mushrooms and a halfling. 
+Then he catches sight of you, and wonders what flavor you'd add to his
+concoction. Oops! Should have stayed still, you idiot.
+~
+46 1024 -800 E
+165 -84 -31 1d1+19140 5d49+176
+2475 21629734 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 84
+Att4: 42
+E
+#8142
+mimic barrel~
+the mimic~
+A sturdy oaken barrel bound with iron hoops stands in the corner.
+~
+This barrel has no tap, but perhaps you could borrow one from the 
+goblins.  No, I doubt it.  Besides, there is something queer about
+that cask. Did it just move?
+~
+196618 0 10 E
+160 -82 -30 1d1+18552 5d49+174
+2400 19779044 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#8143
+mimic cabinet~
+the mimic~
+A cabinet marked `Magical Items Only' stands in the corner.
+~
+You nearly open the cabinet when you realize goblins don't write in
+the Common Speech.  Perhaps it's a trap.
+~
+196618 0 10 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8144
+hybrid centipede cementipede~
+the Cementipede~
+A strange hybrid of stone and centipede prowls the caves.
+~
+Half-crawler, half-concrete; it could only be the legendary Cementipede!
+~
+73880 1024 0 E
+159 -81 -30 1d1+18444 5d46+172
+2385 19422044 11
+8 8 0 -1 -1
+BareHandAttack: 8
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8145
+goblin~
+the goblin~
+A drunken goblin staggers around.
+~
+You don't want to THINK about what he's been drinking.
+~
+6248 1024 -250 E
+151 -77 -29 1d1+17508 5d46+170
+2265 16719291 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8146
+warg~
+the hungry warg~
+A hungry warg stands here, growling at you.
+~
+The goblins sometimes ride wargs, and maybe this one is trained as a 
+mount. You only know that the white fangs it now shows as it 
+sees you approaching look very sharp.
+~
+104 1024 -350 E
+152 -78 -29 1d1+17628 5d46+170
+2280 17042481 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#8147
+mold~
+the green mold~
+A peculiar green mold looks at you from the wall.
+~
+Looks at you? Molds don't usually have EYES! But this one does.
+~
+196682 1024 0 E
+159 -81 -30 1d1+18444 5d46+172
+2385 19422044 11
+8 8 0 -1 -1
+BareHandAttack: 1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8148
+orc~
+the orc~
+An Orc guards the caves here.
+~
+He is not as large as the usual Orc, probably half a goblin. 
+~
+6250 1024 -400 E
+157 -80 -29 1d1+18204 5d46+172
+2355 18720972 11
+4 8 1 -1 5
+Att2: 100
+Att3: 80
+Att4: 33
+E
+#8149
+goblin~
+the goblin~
+A goblin miner chips away at the mountains' stony innards.
+~
+He doesn't seem to be in the best of spirits. It's been a long day.
+~
+6248 1024 -250 E
+153 -78 -29 1d1+17748 5d46+170
+2295 17369806 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#8150
+stalker~
+the Stalker~
+The invisible stalker is, fortunately, not after you.
+~
+You can't see him.
+~
+239640 296190 -1000 E
+168 -86 -31 1d1+19488 5d49+176
+2520 22793646 11
+8 8 0 -1 -1
+BareHandAttack: 10
+Att2: 100
+Att3: 86
+Att4: 45
+E
+#8151
+kobold~
+the kobold~
+A kobold slave hauls rubble for the goblins.
+~
+He is always looking for a way to escape.
+~
+76 1024 -100 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8152
+goblin~
+the goblin~
+A goblin miner rests here, out of his master's sight.
+~
+He is not too tired to kill you with that big nasty pick.
+~
+6250 1024 -250 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+5 5 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8153
+mimic boulder~
+the mimic~
+A great boulder nearly blocks the tunnel.
+~
+Where did that thing come from? It didn't just MOVE, did it? Hmmm...
+~
+196618 0 -10 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8154
+goblin~
+the goblin~
+A goblin slave driver supervises the miners and cracks his whip!
+~
+He lashes fiercely at you with that great whip when he sees you 
+in his mine tunnels.
+~
+6252 1024 -800 E
+156 -80 -29 1d1+18096 5d46+172
+2340 18376847 11
+8 8 1 -1 -1
+BareHandAttack: 2
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8155
+slave~
+the human slave~
+An Ofintine works as a goblin slave, with no hope of escape.
+~
+The goblins captured him in a raid and now work him to death in their
+huge mines.
+~
+8 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8156
+slave~
+the human slave~
+An Ofintine works as a goblin slave, with no hope of escape.
+~
+The goblins captured her in a raid and now work her to death in their 
+huge mines.
+~
+8 0 400 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 2 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8157
+goblin blacksmith~
+the goblin blacksmith~
+Wielding two great hammers, the goblin smith toils at his forge.
+~
+His knotted, iron-hard muscles attest to long hours at the anvil.
+~
+6250 1024 -800 E
+162 -83 -30 1d1+18792 5d49+174
+2430 20506103 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 39
+E
+#8158
+goblin~
+the goblin~
+A goblin pumps the great forge-bellows here.
+~
+He works at a furious pace as the overseer cracks his whip, to keep 
+the goblins' iron furnace white-hot.
+~
+6248 1024 -250 E
+159 -81 -30 1d1+18444 5d46+172
+2385 19422044 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#8159
+kobold slave~
+the kobold slave~
+A kobold shuffles quickly about, carrying iron ore and lime.
+~
+He avoids the whip nimbly as he feeds the roaring furnace.
+~
+76 1024 -100 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8160
+giant overseer~
+the hill giant~
+A hill giant `encourages' the slaves with a huge flint-studded whip.
+~
+He is not very bright, as few giants are, and might think you work here
+if you stay much longer.  Like any evil giant, he loves causing pain.
+~
+6378 1024 -900 E
+169 -86 -31 1d1+19596 5d49+176
+2535 23190690 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 45
+E
+#8161
+mimic pig iron~
+the mimic~
+A glowing iron pig cools in the sand, away from the others.
+~
+This iron pig seems to be chuckling softly. Odd.
+~
+196618 0 -10 E
+155 -79 -29 1d1+17976 5d46+172
+2325 18036962 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#8162
+ogre~
+the ogre~
+A large ogre trudges about, pushing boulders that must weigh tons.
+~
+He looks very strong.
+~
+6346 1024 -900 E
+167 -85 -31 1d1+19368 5d49+176
+2505 22401156 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 84
+Att4: 45
+E
+#8163
+elf elven~
+an Elf~
+An Elven hunter stalks goblins here.
+~
+He, like you, has crept into Goblin-Town to hunt goblins. Seems as
+though he is doing a good job of it, so why not let him continue?
+~
+2392 525368 1000 E
+167 -85 -31 1d1+19368 5d49+176
+2505 22401156 11
+4 8 1 -1 -1
+Att2: 100
+Att3: 84
+Att4: 45
+E
+#8164
+dragon~
+the red dragon~
+A large red dragon stands here, angry that you disturbed his rest.
+~
+He can't see you when he's sleeping, and you had best let him stay that
+way.
+~
+90218 1032 -1000 E
+175 -89 -32 1d1+20292 5d52+180
+2625 25670068 11
+4 8 0 -1 -1
+Att2: 100
+Att3: 88
+Att4: 54
+E
+#8165
+troll guard~
+the troll guard~
+A huge troll of the Olog-Hai stands guard here.
+~
+Oh dear! Time to leave the way you came in!
+~
+6378 1024 -900 E
+167 -85 -31 1d1+19368 5d49+176
+2505 22401156 11
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 84
+Att4: 45
+E
+#8166
+orc~
+the orc~
+A large Orc stands here, looking for dinner.
+~
+Offering him a waybread was a BAD idea, you now think.  Orcs don't 
+like elves very much.  Well, they do like elves dead.  In fact, they
+like almost any meat. You probably look like a tasty meal.
+~
+108 1024 -800 E
+160 -82 -30 1d1+18552 5d49+174
+2400 19779044 11
+8 8 1 -1 5
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#8167
+wall~
+the living wall~
+A section of stone wall has many treasures embedded in it.
+~
+You have heard of walls that came alive by wicked sorcery and absorb
+great treasures within their magical masonry.
+~
+253978 136 -750 E
+169 -86 -31 1d1+19596 5d49+176
+2535 23190690 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 45
+E
+#8168
+mimic chest~
+the mimic~
+A fine iron-bound chest would catch any cabinetmaker's eye.
+~
+The chest was truly the work of a master carpenter.
+~
+196618 0 -10 E
+150 -77 -29 1d1+17400 5d46+170
+2250 16400210 11
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#8169
+goblin moragd~
+Moragd the Goblin~
+Moragd the Goblin stands here.
+~
+Moragd is a great goblin warrior, son of Gorgh the Knob-headed.
+~
+6378 1024 -900 E
+170 -87 -32 1d1+19716 5d52+178
+2550 23592315 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#8170
+goblin gorgh~
+Gorgh the Goblin~
+Gorgh the Knob-Headed stands here.
+~
+Gorgh, father of Moragd , is the greatest goblin warrior 
+yet to taint this world.
+~
+6378 1024 -900 E
+175 -89 -32 1d1+20292 5d52+180
+2625 25670068 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 88
+Att4: 54
+E
+#8171
+goblin Khos~
+Khos the Goblin~
+Khos the Greatnosed stands here.
+~
+Khos, Gorgh, and Moragd are the three best soldiers of the Great Goblin.
+~
+6378 1024 -900 E
+170 -87 -32 1d1+19716 5d52+178
+2550 23592315 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#8172
+goblin~
+the goblin~
+A goblin warrior stands here.
+~
+Ugly, slime-green, and bull-strong.
+~
+6248 1024 -400 E
+168 -86 -31 1d1+19488 5d49+176
+2520 22793646 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 45
+E
+#8173
+ogre guard Thrash~
+Thrash the Ogre~
+Thrash the Ogre Mercenary guards the Great Goblin.
+~
+You are sure you have seen Thrash before, somewhere.  Maybe he was
+in the Grunting Boar the other day with Pippin. Anyway, the Great 
+Goblin has hired him as a bodyguard.
+~
+6254 1032 -900 E
+170 -87 -32 1d1+19716 5d52+178
+2550 23592315 11
+8 8 1 -1 -1
+BareHandAttack: 10
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#8174
+giant guard Throm~
+Throm the Giant~
+Throm the Giant guards the Great Goblin.
+~
+You are sure you have seen Throm before, somewhere. Maybe he was at
+the weapon shop the other day? Anyway, the Great Goblin has hired
+this reknowned giant to guard his person.
+~
+6254 1032 -900 E
+170 -87 -32 1d1+19716 5d52+178
+2550 23592315 11
+8 8 1 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#8175
+human guard Tarus~
+Tarus~
+Tarus the Swordpupil guards the Great Goblin.
+~
+You are sure you have seen Tarus before, perhaps on BluemageMUD. This
+sturdy human is one of the Great Goblin's bodyguards.
+~
+6254 8 -900 E
+170 -87 -32 1d1+19716 5d52+178
+2550 23592315 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#8176
+great goblin~
+the Great Goblin~
+The Great Goblin sees you and calls his guards!
+~
+His head is bigger than any goblin's you have seen, and he is quite proud
+of it.  This goblin is quite strong, and quite ugly, and has quite a few
+guards around him.  Kill him, and King Korbor will repay you handsomely.
+~
+6254 1024 -990 E
+176 -90 -32 1d1+20412 5d52+180
+2640 26099728 11
+8 8 1 -1 -1
+Att2: 100
+Att3: 88
+Att4: 54
+E
+$

@@ -1,0 +1,130 @@
+#200
+sea serpent~
+The sea serpent~
+A sea serpent swims around here.
+~
+Looking closely at this creature reveals its large teeth... heading your
+way.
+~
+8388684 0 0 E
+75 -29 -10 1d1+5700 5d15+90
+1125 1719650 6
+8 8 1 -1 -1
+Att2: 84
+Att3: 24
+E
+#201
+lizardman sentry~
+The sentry~
+A lizardman sentry sentries here.
+~
+He seems to be doing a good job sentrying.
+~
+8388716 0 0 E
+90 -37 -12 1d1+6840 5d19+96
+1350 2880299 6
+8 8 1 3 9
+Att2: 92
+Att3: 36
+E
+#202
+lizardman wizard~
+The wizard~
+A lizardman wizard is conjuring here.
+~
+This wizard is deeply involved in his conjuring and hasn't noticed you...
+yet.
+~
+108 0 0 E
+95 -39 -13 1d1+7212 5d19+98
+1425 3695283 6
+8 8 1 0 9
+Att2: 94
+Att3: 38
+E
+#203
+water elemental~
+The water elemental~
+A large water elemental is swimming about here.
+~
+It seems to be part of the conjuring spell the wizard is casting.
+~
+108 0 0 E
+95 -39 -13 1d1+7212 5d19+98
+1425 3359349 6
+8 8 1 -1 -1
+Att2: 94
+Att3: 38
+E
+#204
+lizardman guard~
+The guard~
+A lizardman guard is guarding this area from people like you.
+~
+This Guard is guarding.
+Obviously he is not doing a good job.
+This is proven by the simple fact that you are still here.
+~
+108 0 0 E
+75 -29 -10 1d1+5700 5d15+90
+1125 1719650 6
+8 8 1 3 9
+Att2: 84
+Att3: 27
+E
+#205
+lizardman prince~
+The prince~
+The lizardman prince glares at you.
+~
+His glare is very unnerving.  Maybe you should attack him...
+~
+108 0 0 E
+75 -29 -10 1d1+5700 5d15+90
+1125 1719650 6
+8 8 1 3 9
+Att2: 84
+Att3: 27
+E
+#206
+hooper old man~
+Mr. Hooper~
+From behind the counter, Mr. Hooper smiles at you.
+~
+Mr. Hooper is the kind old man that runs this small general store.  He tips
+his head forward and looks over his glasses at you.  'Is there something that
+you would like to buy?', he asks politely.
+~
+24652 0 0 E
+80 -32 -11 1d1+6072 5d17+92
+1200 2269243 6
+8 8 0 1 -1
+BareHandAttack: 8
+Att2: 98
+Att3: 46
+E
+#207
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 8 1 1d1+0 5d1+60
+0 0 6
+8 8 0 0 0
+E
+#208
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 8 1 1d1+0 5d1+60
+0 0 6
+8 8 0 0 0
+E
+$

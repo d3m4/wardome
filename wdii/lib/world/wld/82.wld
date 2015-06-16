@@ -1,0 +1,1945 @@
+#8200
+The Entrance To France~
+You are in a large street of France, with hight lamps using as light some
+candles. You can feel the romantic mood from the atmosphere of the city of
+light. There is a sign here that says "Dont forget to visit the cathedral
+of Paris." From here you can continue in this street by going east, go to
+the town of Lyon by going south, or enter to the Champs Elyses at north.
+~
+82 16777220 1
+D0
+~
+~
+0 0 8250
+D1
+~
+~
+0 0 8201
+D2
+~
+~
+0 0 8237
+D3
+~
+~
+0 0 6078
+S
+#8201
+The Beggining Of Notre Dame Street~
+You are in a beautiful street that is decorated with flowers and trees at the sides, but if you put more attention you notice that all the street is the same.
+This is starting to bored you. From here you can continue in this street by going east or go back west.
+~
+82 0 1
+D1
+~
+~
+0 0 8202
+D3
+~
+~
+0 0 8200
+S
+#8202
+Notre Dame Street~
+You are at the same boring street, but at your side it is a big, strong, stone
+wall, you look up and see at the top a big steeple. You notice that is not an
+ordinary steeple, it is very detailed, you infer that it is from a big and im
+portant cathedral of Paris. From here you can only go east or west.
+~
+82 0 1
+D1
+~
+~
+0 0 8203
+D3
+~
+~
+0 0 8201
+S
+#8203
+The Entrance To The Cathedral~
+You are standing in front of the entrance to the cathedral of Notre Dame, you look up and amazed with the huge rose window. If you look closely you can notice the ornaments of the door, where there are represented the four evangelist.
+From here you can enter the cathedral by south or continue going east or west.
+~
+82 0 1
+D1
+~
+~
+0 0 8204
+D2
+~
+door~
+1 0 8205
+D3
+~
+~
+0 0 8202
+S
+#8204
+The End Of Notre Dame Street~
+You are in a dead end, everything is quiet, to the east their is a huge wall 
+that blocks your way. You look up and see another colossal steeple, that 
+only can mean one thing dumy you have passed the entrance to the cathedral.
+~
+82 0 1
+D3
+~
+~
+0 0 8203
+S
+#8205
+The Atrium Of The Cathedral~
+You have enter to one of the most beautiful cathedrals of gotic style, you 
+see the golden ornaments at the ceiling, the stone walls with stone statues,
+and the marble floor. When you turn around, you see at the sides of the door
+two beautiful columns of doric style, with their capital and frieze.
+~
+82 8196 0
+D0
+~
+door~
+1 0 8203
+D1
+~
+~
+0 0 8207
+D2
+~
+~
+0 0 8208
+D3
+~
+~
+0 0 8206
+S
+#8206
+The Atrium Of Notre Dame~
+You are at the west side of the atrium, the walls and the ceiling is decorated
+with some stone statues, or in the ceiling you notice some angels made out of
+gold. The floor is made out of a very expensive white marble, making you wish
+you where a priest so you could live in a place like this.
+~
+82 8192 0
+D1
+~
+~
+0 0 8205
+D3
+~
+~
+0 0 -1
+S
+#8207
+The Atrium Of Notre Dame~
+You are at the east side of the atrium, you see some statues made out of red
+stone that are decorating the walls, you reconice some of them like Christ or
+some of the apostles. On the ceiling you see many angels made out of gold, or
+even some archangels Rapahel, Michael and Gabriel.
+~
+82 8192 0
+D3
+~
+~
+0 0 8205
+S
+#8208
+The Central Corridor~
+You are in the central corridor of the cathedral, you can see the altar from
+here, at your sides there are many wood benches, where people sits and listen
+carefully to what the cardenal says. To the east you can find the chapel, and
+to the west you can find a room with a leather to the second floor.
+~
+82 8 0
+D0
+~
+~
+0 0 8205
+D1
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8216
+D3
+~
+~
+0 0 8212
+S
+#8209
+The Eastern Corridor~
+You are in the eastern corridor of the cathedral, you see wood benches at your 
+left and right sides, where people are seated and wishpering to each other. To
+the east you see a small room that leads you to the chapel.
+~
+82 8 0
+D1
+~
+~
+0 0 8210
+D2
+~
+~
+0 0 8217
+D3
+~
+~
+0 0 8208
+S
+#8210
+The Waiting Room Of The Cathedral~
+You are in a small, cold and dark room, where you see a bench where people is
+seated waiting for the priest to come. From here you can enter the chapel to
+the east just open the door.
+~
+82 9 0
+D1
+~
+door~
+1 0 8211
+D3
+~
+~
+0 0 8209
+S
+#8211
+A Little Chapel~
+You have enter to a small chapel where usually the priest confesses the French
+people who has sin. This room is very dark because the only light is a candle,
+and it doesnt have any windows. To exit the chapel you have to open the door.
+~
+82 9 0
+D3
+~
+door~
+1 0 8210
+S
+#8212
+The Western Corridor~
+You are in the western corridor, where there are many wood benches, you see to
+some French believers who are waiting to the cardenal to arrive. At the sides
+you can see in the windows some stained-glasses with passages from the bible.
+At the west a wood and old door, probably will take you to a small room.
+~
+82 8 0
+D1
+~
+~
+0 0 8208
+D2
+~
+~
+0 0 8215
+D3
+~
+door~
+1 0 8213
+S
+#8213
+A Small Room~
+You are in a small room with not much light, it is very dirty and it looks
+like if nobody has enter in a long time. To the north there is a room with a
+ladder, that sends you to the second floor of the cathedral.
+~
+82 8 0
+D0
+~
+~
+0 0 8214
+D1
+~
+door~
+1 0 8212
+S
+#8214
+The Stairs To The Steeple~
+This is a very dark room, the only light is a torch that it is in the wall
+you can see infront of you an old wood ladder. It looks very old, and not
+very dependable, go up by your own risk.
+~
+82 13 0
+D2
+~
+~
+0 0 8213
+D4
+~
+~
+0 0 8225
+S
+#8215
+Western Aisle~
+You are in the western asile of the cathedral, at the east you see many wood
+benches, and at west you see in the window a passage of the bible, The Christ
+Birday, with some pastors, cows and sheeps.
+~
+82 8 0
+D0
+~
+~
+0 0 8212
+D1
+~
+~
+0 0 8216
+D2
+~
+~
+0 0 8220
+S
+#8216
+The Central Nave~
+You are in the central nave, you have benches at you left and right, this is
+starting to make you mad. Benches, benches and more wood benches!! You have
+prefer to look the ceiling wish is made out of grey stone like almost the 90%
+of the cathedral, it has some big vains made out of stone or concrete.
+~
+82 8 0
+D0
+~
+~
+0 0 8208
+D1
+~
+~
+0 0 8217
+D2
+~
+~
+0 0 8219
+D3
+~
+~
+0 0 8215
+S
+#8217
+The Eastern Aisle~
+You are in the eastern asile of the cathedral, at west you see a lot of
+wood benches, and to the east, in the window you see a passage of the
+bible. It is represented in the window The Last Supper with Christ and
+the twelve apostles.
+~
+82 8 0
+D0
+~
+~
+0 0 8209
+D2
+~
+~
+0 0 8218
+D3
+~
+~
+0 0 8216
+S
+#8218
+Eastern Aisle~
+You are in the easthern aisle of Notre Dame, you stheal see many wood benches
+and in the stained-glass window you see represented the crucify of Chriest.
+In the aisle you see a note that says "Dont forget to give te tithe"
+~
+82 8 0
+D0
+~
+~
+0 0 8217
+D2
+~
+~
+0 0 8223
+D3
+~
+~
+0 0 8219
+S
+#8219
+The Central Nave~
+You are in the central nave, you are so bored of so many benches, that you
+start to look at the floor, and see no more the marble, you see a red carpet
+in front of you that divide the medium class from the upper class society of
+France, you compare and see that the benches look even more comfortable.
+~
+82 8 0
+D0
+~
+~
+0 0 8216
+D1
+~
+~
+0 0 8218
+D2
+~
+~
+0 0 8222
+D3
+~
+~
+0 0 8220
+S
+#8220
+The Western Aisle~
+You are in the western aisle of Notre Dame, in the stained-glass window
+is represented the scene when Chriest went to church and talked with the
+priests. At east you can see many wood benches more.
+~
+82 8 0
+D0
+~
+~
+0 0 8215
+D1
+~
+~
+0 0 8219
+D2
+~
+~
+0 0 8221
+S
+#8221
+The Western Aisle~
+You caontinue in the western aisle of the cathedral, with many benches and
+some French people of a privilegiated social class. In the stained-glass
+window it is represented the baptism of Chriest by John.
+~
+82 8 0
+D0
+~
+~
+0 0 8220
+D1
+~
+~
+0 0 8222
+D3
+~
+~
+0 0 -1
+S
+#8222
+The Nave~
+You are in the principal nave of the cathedral, here you see the same old
+benches, but the people has change you notice that they are from upper class
+society of France, this you noticed because of their clothes and their way
+to talk. In front of you it is the Notre Dame altar.
+~
+82 8 0
+D0
+~
+~
+0 0 8219
+D1
+~
+~
+0 0 8223
+D2
+~
+~
+0 0 8224
+D3
+~
+~
+0 0 8221
+S
+#8223
+Eastern Aisle~
+You are at the end of the eastern aisle, in some way you thank God fo that. In
+the stained-glass window you see the resurrection of Chriest followed by
+many angels and archangels. And if you ask yes you see many benches.
+~
+82 8 0
+D0
+~
+~
+0 0 8218
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 8222
+S
+#8224
+The Cathedral Altar~
+You are in the altar of Notre Dame, you see a big table of green stone, 
+decorated with blue marble. Here is the place where the cardenal of Paris
+give the mass. You see Chriest crucified, and at the sides statues of Mary
+and Joseph, this statues are made in a natural size.
+~
+82 8 0
+D0
+~
+~
+0 0 8222
+S
+#8225
+The Second Floor Of Notre Dame~
+You are dazzle for a moment with the light of the sun. You open your eyes and
+you are amazed. From here you can see all the city of Paris the beautiful
+houses of the city. You wish you could stay and see it at night, but you must
+continue. From here you can open the trapdoor and go to the steeple.
+~
+82 0 0
+D1
+~
+~
+0 0 8227
+D4
+~
+trapdoor~
+1 0 8226
+D5
+~
+~
+0 0 8214
+S
+#8226
+The Cathedral Steeple~
+You are in the Notre Dame steeple, you see a docen of bronze belts, with all
+the noice that can make, you can not imagine how can you find here some bats
+and birds. You feel the cold air that is caming from the east, you look and
+can belive what you eyes see, this city is beautiful.
+~
+82 64 0
+D5
+~
+trapdoor~
+1 0 8225
+S
+#8227
+A Corridor~
+You are in one of the many corridors that are in the second floor, all of
+them goes to the south, there arent any walls, insted there are many doric
+columns made of stone, that supports the weight of the stone ceiling.
+~
+82 0 0
+D1
+~
+~
+0 0 8228
+D2
+~
+~
+0 0 8231
+D3
+~
+~
+0 0 8225
+S
+#8228
+The Central Corridor Of The Second Floor~
+You are in the central corridor of the second floor of Notre Dame, you see
+many doric columns with their capital and their stone timber. At east you
+see a small room, maeve you should enter and have a look of it, you could
+find something intresting in it.
+~
+82 0 0
+D1
+~
+~
+0 0 8229
+D2
+~
+~
+0 0 8230
+D3
+~
+~
+0 0 8227
+S
+#8229
+The Room Of Quasimodo~
+You are in a small room with a straw bed, you can see some wood figures with
+human form, you deduce that this room is from the man who is screaming in the
+steeple. You feel a cold air that cames from the arch window that is at your
+left. You recognize some of the figures, one is of the cardenal, and the other
+one is from a woman that you saw in the forest.
+~
+82 0 0
+D3
+~
+~
+0 0 8228
+S
+#8230
+The Central Corridor Of The Second Floor~
+You are in the peincipal corridor of the second floor, decorated with some
+columns of doric style. Here their arent any walls, so the air passes freely
+fromthe east to the west side of the corridor. You are starting to wish you
+had brought your sweater.
+~
+82 0 0
+D0
+~
+~
+0 0 8228
+D2
+~
+~
+0 0 8233
+D3
+~
+~
+0 0 8231
+S
+#8231
+A Corridor In The Second Floor~
+You are in a corridor of the second floor at your sides there are many stone
+columns of doric style. You dont see any walls and that explains why you feel
+the cold air passing from east to west. Here the floor is no longer of white
+marmol, now it is of the same material of the columns, grey stone.
+~
+82 0 0
+D0
+~
+~
+0 0 8227
+D1
+~
+~
+0 0 8230
+D2
+~
+~
+0 0 8232
+S
+#8232
+The End Of A Corridor~
+You are at the end of a corridor that is in the second floor, and you are
+glad that you dint see not even one bench. Far to the north you can see a
+street where many carriages are passing, it must be a carriage station. 
+From here you can pass to the other corridor at east, or enter to what it 
+looks to be a room that is at you west.
+~
+82 0 0
+D0
+~
+~
+0 0 8231
+D1
+~
+~
+0 0 8233
+D3
+~
+~
+0 0 8236
+S
+#8233
+The End Of The Central Corridor~
+You are at the end of the central corridor, you can see far to the north
+some mountains, you look down and see that someone forgat to put the leather
+so DONT GO DOWN OR YOU WOULD CERTAINLY DIE. From here you can go back north,
+east or west, but never down.
+~
+82 0 0
+D0
+~
+~
+0 0 8230
+D1
+~
+~
+0 0 8234
+D3
+~
+~
+0 0 8232
+D5
+~
+~
+0 0 8235
+S
+#8234
+The Eastern Room Of The Second Floor~
+You are in what it looks to be another room, but insted of walls there is
+doric columns. Here you can see many stone demons to. It scares you to death
+just think if one of this gargoyles would come to live. Down you can see what
+it looks like a city but it isnt Paris, their way to dress is to diferent.
+~
+82 64 0
+D3
+~
+~
+0 0 8233
+S
+#8235
+The Deadtrap of Notre Dame~
+You felt in a room broking your neck and died instantly. This happend because
+you did not put attention and didnt notice that it wasnt any ladder.
+
+Sorry 
+Att. Apollo Fire God
+~
+82 6 0
+S
+#8236
+The Western Room Of The Second Floor~
+You are in what looks to be a room, but their ist any door or wall here, you
+see a huge stone statue with the shape of a winged demon, it is a gargoyle.
+From here you can see down and see the beautiful city, but you dont have the
+perfecview, because you only see the forest at the south of the city.
+~
+82 64 0
+D1
+~
+~
+0 0 8232
+S
+#8237
+A Bridge In France~
+You are at the tope of a stone bridge with curved arches, you look down and
+see the crystal water, the river of cena is so calm and clean that you can 
+see your own reflection in the water. There is a sign here you should read it.
+~
+82 0 1
+D0
+~
+~
+0 0 8200
+D2
+~
+~
+0 0 8238
+E
+read sign~
+To the North it is the city of Paris
+To the South it is the city of Lyon
+~
+S
+#8238
+The Entrance To Lyon~
+You are at the entrance of a little town named Lyon one of the most beautiful
+of all France, but one of the smallest to. In this town you can find the most
+important magic shop of all France. At the entrance you see a board that says
+"Welcome to Lyon, where the vest wines are made."
+~
+82 0 1
+D0
+~
+~
+0 0 8237
+D2
+~
+~
+0 0 8239
+S
+#8239
+The Principal Street Of Lyon~
+You have enter to the city of Lyon, you see some small buy cute houses to
+your left and a little park to the west. You see some people doing their
+daily work, walking from one side to another. From here you can enter to
+the park by going west, to a house by east, go deeper in the city by south
+or go back to Paris by going north.
+~
+82 0 1
+D0
+~
+~
+0 0 8238
+D1
+~
+~
+0 0 8240
+D2
+~
+~
+0 0 8242
+D3
+~
+~
+0 0 8241
+S
+#8240
+A Lyon House~
+You have enter to a small house of Lyon, is very simple, made out of wood,
+ornamented with some pictures in the walls, the ceiling is made out of straw
+and the furniture is made out of wood to. You only see a desk at your right,
+and a bed to the left. You can only go back west.
+~
+82 8 0
+D3
+~
+~
+0 0 8239
+S
+#8241
+The Lyon Park~
+You are in a small but pretty park, you see some kids playing in the games.
+You see here many swings, and tall trees you can even see a poodle or two.
+From here you can only go back to the streets by east.
+~
+82 0 3
+D1
+~
+~
+0 0 8239
+S
+#8242
+Down Town~
+You are in the down town of the city, you can see here a small fountain,
+it look strange and you notice that it doesnt have water, insted it has
+table wine. To the east you see a small magic shop, and the street has been
+ornamented with some colorful papers that says "whe have the best magic 
+shop of all France.", and to the west is a small miscellaneous shop.
+~
+82 0 1
+D0
+~
+~
+0 0 8239
+D1
+~
+~
+0 0 8243
+D2
+~
+~
+0 0 8244
+D3
+~
+~
+0 0 8298
+S
+#8243
+The Magic Shop Of France~
+You are in a small tent made out of blue cloth. In this tent you can
+buy many intresting things like magic potions.
+~
+82 144 0
+D3
+~
+~
+0 0 8242
+S
+#8244
+The End Of The Principal Street~
+You are at the end of the principal stret, to the south you can see the
+carriage station, where you can find carriages that takes you to any city
+of France. At east and west you can still find some houses of Lyon, maybe
+you should visit them before you leave the city.
+~
+82 0 1
+D0
+~
+~
+0 0 8242
+D1
+~
+~
+0 0 8245
+D2
+~
+~
+0 0 8247
+D3
+~
+~
+0 0 8246
+S
+#8245
+A Lyon Cabin~
+You are in a small cabin, you see some pictures at the walls, you read some
+of the signatures that says "Van Gogh" you dont put any attention  to it. You
+see some papers in the wood desk, and at the other side you can see a broken
+window where the air flows.
+~
+82 8 0
+D3
+~
+~
+0 0 8244
+S
+#8246
+Another House Of Lyon~
+You have enter to a small house of Lyon, is very simple, made out of wood,
+ornamented with some pictures in the walls, the ceiling is made out of straw
+and the furniture is made out of wood to. You only see a desk at your right,
+and a bed to the left. You can only go back east.
+~
+82 8 0
+D1
+~
+~
+0 0 8244
+S
+#8247
+Carriage Station~
+You notice something diferent from the rest of the street and of the city,
+and is that it has some white metal benches, where some people can rest
+while their wait for a carriage to pass. You notice a small sign, maybe
+you should read it. From here you can go back north, or enter in a small
+streech, and dark tunnel that is at the east.
+~
+82 0 0
+D0
+~
+~
+0 0 8244
+D1
+~
+~
+0 0 8248
+E
+read sign~
+PRICES FOR SERVISES
+To the down town of Lyon       $50 gold coins
+To the down town of Paris      $85 gold coins
+~
+S
+#8248
+A Dark Tunnel~
+You are in a very dark and stunky tunnel that is making you dizzy, maybe you
+should go back before you throw up your breakfast, and besides this look like
+the perfect place for an ambush. It feels like if you where stepping on some-
+thing, you look down and it is an ugly, fat and dirty rat. Oh dear in what
+place you have ended, you can go back west or continue east.
+~
+82 289 6
+D1
+~
+~
+0 0 8249
+D3
+~
+~
+0 0 8247
+S
+#8249
+A Dead End~
+You are at the end of a black, and dirty tunnel, you feel uncomfortable,
+you should be going back by now. This place is stinky, smells like well,
+mmm... you dont know, but what ever it is you dont like it. You should be
+careful this is the kind of places where thiefs like to hide. 
+~
+82 353 6
+D3
+~
+~
+0 0 8248
+S
+#8250
+The Entrance To Champs Elyses~
+You are in the entrace to Champs Elysees, wich is a big forest of the city
+of Paris, you can hear the singing of the birds and the noice of the air
+passing though the branches of the trees. The trees are so tall that you 
+cant see the top of them. At north there is a golden gate that has a note
+written in it, if you are smart you would continue with out reading it.
+~
+82 4 3
+D0
+~
+gate~
+1 0 8251
+D2
+~
+~
+0 0 8200
+E
+read note~
+Danger do not enter you might get lost, and we dont make our self responsable
+of what can happend to you. If you dear to enter we recoment you to visit the
+historical center of Paris.
+                N   E   N   W   S   W   N   W
+~
+S
+#8251
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8258
+D1
+~
+~
+0 0 8252
+D2
+~
+gate~
+1 0 8250
+D3
+~
+~
+0 0 8254
+S
+#8252
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8256
+D1
+~
+~
+0 0 8253
+D2
+~
+~
+0 0 8252
+D3
+~
+~
+0 0 8251
+S
+#8253
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8255
+D1
+~
+~
+0 0 8253
+D2
+~
+~
+0 0 8253
+D3
+~
+~
+0 0 8252
+S
+#8254
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8259
+D1
+~
+~
+0 0 8251
+D2
+~
+~
+0 0 8254
+D3
+~
+~
+0 0 8254
+S
+#8255
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8255
+D1
+~
+~
+0 0 8255
+D2
+~
+~
+0 0 8253
+D3
+~
+~
+0 0 8256
+S
+#8256
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8257
+D1
+~
+~
+0 0 8255
+D2
+~
+~
+0 0 8252
+D3
+~
+~
+0 0 8258
+S
+#8257
+A Campament Of Gypsys~
+You are in a small field where you see a campament of gypsys, in a small
+wood carriage. This part of the Champs Elysees is a little more lighted
+that the rest of it, and besides the gipsys has started a fire, so this
+place gives you a warm feiling of protection.
+~
+82 0 2
+D2
+~
+~
+0 0 8256
+D5
+~
+trapdoor~
+2 8255 8296
+S
+#8258
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8258
+D1
+~
+~
+0 0 8256
+D2
+~
+~
+0 0 8251
+D3
+~
+~
+0 0 8259
+S
+#8259
+Champs Elysees~
+You are in the Champs Elysees this place is very dark, because the branches
+of the trees doesnt let the solar light pass. Here you see some squirrels
+playing in the trees, and coleecting some nuts for the winter. The weater
+is very cold, and wet, you are wishing you had brought your sweater. From
+here you can go north, east, south, and west, for this reason you have lost
+all sense of direction.
+~
+82 1 0
+D0
+~
+~
+0 0 8259
+D1
+~
+~
+0 0 8258
+D2
+~
+~
+0 0 8254
+D3
+~
+~
+0 0 8260
+S
+#8260
+The Historical Center Of France~
+You are at the entrance to the historical center of the city of Paris, where
+the most important monument is the plaza of Louie XIV, what actually is the
+plaza of the concorde. Here is where the revolution of France started in the
+XVIII century. You can enter to the north.
+~
+82 4 2
+D0
+~
+~
+0 0 8261
+D1
+~
+~
+0 0 8259
+S
+#8261
+The Entrance To The Plaza Louis XIV~
+You are in the Plaza Louis XIV, but this name wont be for long, with all the
+monarchy problems. This place is ornamented with trees, and in Paris what is
+not decorated with trees? Here you can see a note that you should read.
+~
+82 0 1
+D0
+~
+~
+0 0 8265
+D1
+~
+~
+0 0 8262
+D2
+~
+~
+0 0 8260
+D3
+~
+~
+0 0 8263
+E
+read note~
+Soon this place will be called the Plaza of the Revolution
+Att. Robespierre
+~
+S
+#8262
+Plaza Louis XIV~
+You are in the eastern side of the Plaza, you can see some revolutioners
+running and hideing in the houses that are near this place. You wounder if
+is was a good idea to had visit France.
+~
+82 0 1
+D0
+~
+~
+0 0 8266
+D3
+~
+~
+0 0 8261
+S
+#8263
+Plaza Louis XIV~
+You are at the western side of the Plaza of Louis XIV, you can see some 
+pigeons eating some seeds. This place feels more uncomfortable than the
+Champs Elysees, you have notice that this wasnt the best moment to visit
+France, is a time where the people is angry with the monarchy.
+~
+82 0 1
+D0
+~
+~
+0 0 8264
+D1
+~
+~
+0 0 8261
+D3
+~
+~
+0 0 -1
+S
+#8264
+Concord Plaza~
+You continue in the plaza of Paris, where you see some metal benches at the
+sides, and some pigeons eating some seeds in the floor. Talking about it the
+floor, is made out of granite, and in some parts there is only grass. This 
+place is iluminated like all Paris with hight lamps that uses candles.
+~
+82 0 1
+D0
+~
+~
+0 0 8269
+D1
+~
+~
+0 0 8265
+D2
+~
+~
+0 0 8263
+S
+#8265
+The Center Of The Plaza~
+You are at the center of the Plaza, in here you can see a huge statue of the
+ki. In this place the only thing that lives are a pair of pigeons that are at
+the top of the statue, at least they found a wood use for it.
+~
+82 0 1
+D0
+~
+~
+0 0 8268
+D1
+~
+~
+0 0 8266
+D2
+~
+~
+0 0 8261
+D3
+~
+~
+0 0 8264
+S
+#8266
+Concord Plaza~
+You continue in the plaza of Paris, where you see some metal benches at the
+sides, and some pigeons eating some seeds in the floor. Talking about it the
+floor, is made out of granite, and in some parts there is only grass. This 
+place is iluminated like all Paris with hight lamps that uses candles.
+~
+82 0 1
+D0
+~
+~
+0 0 8267
+D2
+~
+~
+0 0 8262
+D3
+~
+~
+0 0 8265
+S
+#8267
+Revolution Plaza~
+You are at the eastern end of the plaza, in front of you is a hotel, and
+it has a sign that says "Close for remodeling, sorry for the inconvenience
+that this can cause to you." At the west you can see the entrace to the
+Musketeer Headquarters or school.
+~
+82 0 1
+D1
+~
+~
+0 0 8288
+D2
+~
+~
+0 0 8266
+D3
+~
+~
+0 0 8268
+S
+#8268
+The Entrance To Musketeer H.Q.~
+You continue walking in the plaza, and you dont see anything intresting, but
+you have notice that this place is not very secure. At north you see a door
+to the Musketeer school and Headquarters, if you want to enter just open the
+door that is at north.
+~
+82 0 1
+D0
+~
+door~
+2 8268 8270
+D1
+~
+~
+0 0 8267
+D2
+~
+~
+0 0 8265
+D3
+~
+~
+0 0 8269
+S
+#8269
+Revolution Plaza~
+You are in the western end of the plaza, you see infront of you an old
+building, with big windows. It is the Musketeers H.Q. this is a place
+you dont want to miss, the entrance is to the east.
+~
+82 0 1
+D1
+~
+~
+0 0 8268
+D2
+~
+~
+0 0 8264
+S
+#8270
+The Entrance Of Musketeer H.Q.~
+You are in the Musketeer H.Q., this is just the atrium of the building, but
+you notice that this place is not very elegant, the walls are painted in
+blue the same as the ceiling, wish are made of stone. The floor is the only
+thing that makes feel this place important, because is made out of white
+marmol, which is very expensive. To the east yo see the cafeteria.
+~
+82 8196 0
+D0
+~
+~
+0 0 8272
+D1
+~
+~
+0 0 8271
+D2
+<NOTHING>
+~
+door~
+2 8268 8268
+S
+#8271
+The French Cafeteria~
+You are in a French cafeteria that is located inside the Musketeer H.Q.,
+this place has many tables, and chairs where the soldiers who protect the
+king sits and drink a coffee, or eats something before going to work.
+~
+82 152 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 8270
+S
+#8272
+A Hall In the H.Q.~
+You are in a big hall, in front of you is a intern fountain of green marble,
+but there is a chain that doesnt let you pass. From here you can go east or
+west that leads you to a corridor inside the Musketeer H.Q. or go back to the
+entrace south.
+~
+82 8 0
+D1
+~
+~
+0 0 8273
+D2
+~
+~
+0 0 8270
+D3
+~
+~
+0 0 8286
+S
+#8273
+The Eastern Passage~
+You are in the eastern passage, you see some paintings decorating the walls
+something very comon in France. The passage leads to the north where you can
+find the rooms of the Musketeers, or the dungeon. The patio that is at east
+is closed, and you cant enter, but you can still go west or north.
+~
+82 0 0
+D0
+~
+~
+0 0 8274
+D3
+~
+~
+0 0 8272
+S
+#8274
+The Eastern Passage~
+You continue in the eastern passage, and you have notice that this place
+is big, but not very intresting. The building has a romanic style, so that
+means there isnt many windows, and is more like a fortress. This place is
+not a good place to live most of all because of the cold that is inside.
+~
+82 0 0
+D0
+~
+~
+0 0 8275
+D2
+~
+~
+0 0 8273
+S
+#8275
+The Eastern Intersection~
+You are in the eastern intersection between the passage and a corridor.
+From here you can go east, west or go back south.
+~
+82 0 0
+D1
+~
+~
+0 0 8276
+D2
+~
+~
+0 0 8274
+D3
+~
+~
+0 0 8279
+S
+#8276
+The Eastern Corridor~
+You are in the eastern corridor, it has some big strong walls, this place 
+in a time could had been a fortress during the dark ages. From here you can
+go back west or continue to the east.
+~
+82 8 0
+D1
+~
+~
+0 0 8277
+D3
+~
+~
+0 0 8275
+S
+#8277
+The Eastern End Of The Corridor~
+You are at the end of this corridor, to the north you see a big room, where
+the Musketeers, rest after a long day of work. This room has to the east a
+bih arch window in which you can see the city. The walls, arent painted any
+more there as grey as the stone as well as the ceiling.
+~
+82 12 0
+D0
+~
+~
+0 0 8278
+D3
+~
+~
+0 0 8276
+S
+#8278
+The Musketeer's Room~
+This is the room where the Musketeers can rest when they came from a
+long journey of work. This room has many chairs, beds, and a big wood
+table with some cards on it. This place has a red carped in the floor
+and the walls are decorated with some paitings from Van Goght.
+~
+82 8 0
+D1
+~
+wall~
+2 8292 8299
+D2
+~
+~
+0 0 8277
+S
+#8279
+Another Hall In The H.Q.~
+You are in another hall of the Musketeers H.Q. you see a metal door to the 
+north, probably will take to the dungeon where there are jailed many thiefs
+and revolutioner. To the east and west you see some intersections to some
+corridors or passages.
+~
+82 8 0
+D0
+~
+door~
+1 0 8280
+D1
+~
+~
+0 0 8275
+D3
+~
+~
+0 0 8281
+S
+#8280
+A Room To The Dungeon~
+You are in a small room that has a ladder that goes down, probably will
+take you to the dungeon where the Musketeers take the prisoners that they
+capture in the city, and in this times it must be full of revolutioners.
+~
+82 4 0
+D2
+~
+door~
+1 0 8279
+D5
+~
+~
+0 0 8289
+S
+#8281
+The Western Intersection~
+You are in the western intersection, between a corridor and a passage.
+From here you can go east, west or go back south.
+~
+82 0 0
+D1
+~
+~
+0 0 8279
+D2
+~
+~
+0 0 8285
+D3
+~
+~
+0 0 8282
+S
+#8282
+The Western Corridor~
+You are in the western corridor the walls here are very stretch, and
+this place like all the other are very cold because there made of a
+cold material like stone. The walls, and ceiling arent painted like in
+the entrance, and worst of all you see in the floor a cockroach.
+~
+82 8 0
+D1
+~
+~
+0 0 8281
+D3
+~
+~
+0 0 8283
+S
+#8283
+The Western End Of The Corridor~
+You are at the end of this corridor, you see an arch window to the west, and
+to the north there is a ladder that takes you to the tower. You see that only
+the entrance had the walls painted, because here the walls have the color of
+the stone, grey. You can go back or go north.
+~
+82 8 0
+D0
+~
+~
+0 0 8284
+D1
+~
+~
+0 0 8282
+S
+#8284
+A Room To The Tower~
+You are in a small room with a ladder that takes you to the tower 
+where the Musketeers wath the city looking for a sign of truble. The
+room is decorated with a paint. The ladder is made out of stone so,
+it is very strong and dependable, but any way you should be careful
+because the leather is very narrow.
+~
+82 0 0
+D2
+~
+~
+0 0 8283
+D4
+~
+~
+0 0 8295
+S
+#8285
+The Western Passage~
+You continue in the western passage, there is nothing intresting or important
+in this corridor. To the west you see the central fountain that is inside the
+H.Q., but there is a cahin that doesnt let you go, besides you dont feel like
+going to the patio of this building.
+~
+82 0 0
+D0
+~
+~
+0 0 8281
+D2
+~
+~
+0 0 8286
+S
+#8286
+The Western Passage~
+You are in a passage that is inside the Musketeers H.Q., this passage goes
+north, and to the west you see a big door, where you hear some noices, this
+noice is not made by a human, it sound more like a horse. You can infer that
+is the room where the horses of the Musketeers rest at night.
+~
+82 0 0
+D0
+~
+~
+0 0 8285
+D1
+~
+~
+0 0 8272
+D2
+~
+~
+0 0 -1
+D3
+~
+door~
+1 0 8287
+S
+#8287
+A French Stable~
+You are in the stable where the horses of the Musketeers sleep at night, this
+place smells awful, you dont know for how much time this horses havent had a
+bath. In this room the only thing that you see are horses and a lot of velvet
+glass which the horses are eating.
+~
+82 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+door~
+1 0 8286
+D5
+~
+~
+0 0 -1
+S
+#8288
+A French Hotel~
+You are in a French hotel, this place is very dirty, and is falling, in
+pieces, no wonder why is been remodelated, but at least in the ceiling it
+has a pair of beautiful candelabrums made out of pure gold. Here you see
+the receptionist, you can ask her when it will be open again.
+~
+82 8192 0
+D3
+~
+~
+0 0 8267
+S
+#8289
+A Corridor To The Cells~
+You are in a dark corridor in the Musketeer H.Q. this corridor goes to the
+cells where the most dangerous revolutioners are jailed. This place is very
+cold, and wet you should be careful, if you open a cell, because the people
+who is jailed here is very dangerous.
+~
+82 161 0
+D2
+~
+~
+0 0 8290
+D4
+~
+~
+0 0 8280
+S
+#8290
+A Corridor In The Dungeon~
+You are in a tretch corridor that is made out of stone so the prisoners
+dont scape, but you have only seen big rats, and some ugly cocrochs, this
+place is so cold that you thing that nobody could survive for more than
+a few hours. You have notice that this place absorbs your words, and that
+is why you havent hear any prisoner shouting or any other noice.
+~
+82 161 0
+D0
+~
+~
+0 0 8289
+D2
+~
+~
+0 0 8291
+S
+#8291
+At The End Of The Corridor Of the Dungeon~
+You are at the end of this corridor, this place is getting colder, and 
+darker. This place makes you shake, because you fill that you have lost
+all you magic power, as well of the power of your wands and scrolls. In
+fromt of you and at your sides there are cells, if you where inteligent
+you would lived them close.
+~
+82 129 0
+D0
+~
+~
+0 0 8290
+D1
+~
+door~
+1 0 8292
+D2
+~
+door~
+2 8290 8294
+D3
+~
+door~
+2 8290 8293
+S
+#8292
+A Cell In The Dungeon~
+You are in a small cell located in the dungeon of the Musketeers H.Q.
+this place is very dark and wet. Well, what did you expect its a cell.
+~
+82 129 0
+D3
+~
+door~
+1 0 8291
+S
+#8293
+A Cell Which Will Be Your Cript~
+This is a dungeon of maximum security, the door has closed behind you. You 
+cant hear anything but your heard beathing faster and faster. The walls seem
+to absorb all the sounds around. 
+~
+82 129 0
+D1
+~
+door~
+1 0 8291
+S
+#8294
+A Cell In The Dungeon~
+You are in a small cell located in the dungeon of the Musketeers H.Q.
+this place is very dark and wet. Well, what did you expect its a cell.
+~
+82 129 0
+D0
+~
+door~
+1 0 8291
+S
+#8295
+A Tower In The H.Q.~
+You are in a hight tower, the place is very small and you see an oil 
+lamp that is used at night by the guard. In here you have 4 windows
+that lets you see the north, south, west, and even the east side of
+the city, but the closer thing you see is the plaza at south.
+~
+82 0 0
+D5
+~
+~
+0 0 8284
+S
+#8296
+A Strange Passage~
+You are in a strang passage, it looks like a cave, but is very iluminated and
+it hasnt any light like candles or torchs. At north and south of you, you can
+see some strange portals that takes you to diferent and strange worlds. Just 
+open them and enter if you dear.
+~
+82 96 0
+D0
+~
+portal~
+1 0 -1
+D1
+~
+~
+0 0 8297
+D2
+~
+portal~
+1 0 -1
+D3
+~
+~
+0 0 8296
+S
+#8297
+A Strange Passage~
+You are in a strang passage, it looks like a cave, but is very iluminated and
+it hasnt any light like candles or torchs. At north and south of you, you can
+see some strange portals that takes you to diferent and strange worlds. Just 
+open them and enter if you dear.
+~
+82 96 0
+D0
+~
+portal~
+1 0 500
+D1
+~
+~
+0 0 8297
+D2
+~
+portal~
+1 0 -1
+D3
+~
+~
+0 0 8296
+S
+#8298
+A Small Miscellaneous Shop~
+This is another shop of Lyon, as you have notice is nothing compared with
+the magic shop that is at east. Here you can buy many diferent thing that
+you can use in a near future, like soubeniers, cloth, weapons or armours.
+~
+82 148 0
+D0
+~
+portal~
+2 8296 -1
+D1
+~
+~
+0 0 8242
+D2
+~
+portal~
+2 8296 -1
+D3
+~
+~
+0 0 -1
+S
+#8299
+Royal Hall~
+Wow a you are in the royal hall, this place is huge, and you can find here
+the king of France. This place has many ornaments made of gold, and the floor
+is made with the best marble of all the world, in the ceiling you see some
+candelabrums of gold, and in front of you is the royal throne.
+~
+82 72 0
+D3
+~
+wall~
+2 8292 8278
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+$~

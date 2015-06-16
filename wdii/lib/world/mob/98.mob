@@ -1,0 +1,415 @@
+#9801
+Temple Guardian~
+Temple Guardian~
+The Temple Guardian Stading here.
+~
+This man seems to be old and have many scars on the arms and legs, he is the
+guardian of the temple.    
+~
+3326058 9437352 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 1 3 0
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9802
+Priest~
+Priest~
+The priest meditate here. 
+~
+It looks unfinished.  This priest serves Shalyzaar, he is meditating in that
+room.  When you approach him, he ask to you.  Can I help you?    
+~
+26696 41947272 0 E
+150 -65 -20 1d1+10200 5d31+110
+2250 13401314 5
+8 8 1 1 0
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#9803
+Servant~
+Servant~
+The Servant standing here.
+~
+She is very beautiful, but a lot of sadness exists in your eyes, and a deep
+emptiness in them.    
+~
+520426 536948874 -350 E
+150 -65 -20 1d1+10200 5d31+110
+2250 12183013 5
+8 8 2 -1 3
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9804
+Priest~
+Priest~
+The Priest standing here.
+~
+This priest is just for the sacrifices done in this room.    
+~
+338152 26346624 0 E
+150 -65 -20 1d1+10200 5d31+110
+2250 13401314 5
+8 8 1 1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9805
+Temple soldier~
+Temple soldier~
+The Temple Soldier sleeping here.
+~
+This soldier wear a beautiful tunic with an eccentric symbol, it maybe be of
+Shalynon.    
+~
+489578 8388776 0 E
+150 -65 -20 1d1+10200 5d31+110
+2250 12183013 5
+8 8 1 3 6
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9806
+Templar knight~
+Knight Templar~
+The Knight Templar is looking here.
+~
+undefined~
+522282 25309312 0 E
+175 -77 -23 1d1+11892 5d35+120
+2625 19069193 5
+8 8 1 -1 13
+Att2: 100
+Att3: 95
+Att4: 90
+E
+#9807
+Slave~
+the Woman slave~
+The Woman Slave standing here.
+~
+This woman doesn't seem's to be very happy, she arranges the dining table with
+a lot of sadness.    
+~
+20552 8390272 0 E
+150 -65 -20 1d1+10200 5d31+110
+2250 12183013 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#9808
+Supreme Priest~
+Supreme Priest~
+The Supreme Priest is sitting here.
+~
+This priest is the oldest of all, he is just for a purpose, to serve Shalyzaar.
+  
+~
+522282 579941544 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 0 1 0
+BareHandAttack: 12
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9809
+Shalyzaar~
+Shalyzaar~
+The powerfull Shalyzaar is meditating here. 
+~
+Shalyzaar is the most powerful of all priests.  An aura glows around him when
+he wields his legendary mace.  Despite his old appearance, he is very
+dangerous.    
+~
+3663914 26214568 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 11 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9810
+Avatar's Shalynon~
+Avatar's Shalynon~
+The Avatar's Shalynon  is sitting here.
+~
+NOW!!!!!!.  &n This is the powerful God Shalynon, which appeared in the form of
+a titan.  Here is the place where he listens the confessions of Shalyzaar.  He
+doesn't look calm or happy, so, attacking him could not be a good idea.  
+&RLEAVE THIS PLACE NOW!!!!!!.  &n
+~
+521994 563216552 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 1 3 0
+Att2: 100
+Att3: 100
+Att4: 99
+E
+T 2
+#9820
+knight darkness~
+Knight of Darkness~
+Knight of Darkness
+~
+Knight of Darkness
+~
+3213439 9437372 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 80
+Att3: 80
+Att4: 80
+E
+#9821
+elite guardian darkness~
+Elite Guardian of Sons of Darkness~
+Elite Guardian of Sons of Darkness
+~
+Elite Guardian of Sons of Darkness
+~
+3213439 9437372 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 90
+Att3: 90
+Att4: 90
+E
+#9822
+supreme guardian darkness~
+Supreme Guardina of Sons of Darkness~
+Supreme Guardina of Sons of Darkness
+~
+Supreme Guardina of Sons of Darkness
+~
+3213439 9437372 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9823
+knight shadowblade~
+Knight of ShadowBlade~
+Knight of ShadowBlade
+~
+Knight of ShadowBlade
+~
+3213439 17825980 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 80
+Att3: 80
+Att4: 80
+E
+#9824
+elite guardian shadowblade~
+Elite Guardian of ShadowBlade~
+Elite Guardian of ShadowBlade
+~
+Elite Guardian of ShadowBlade
+~
+3213439 17825980 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 90
+Att3: 90
+Att4: 90
+E
+#9825
+supreme guardian shadowblade~
+Supreme Guardian of ShadowBlade~
+Supreme Guardian of ShadowBlade
+~
+Supreme Guardian of ShadowBlade
+~
+3213439 17825980 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9826
+knight solamnia~
+Knight of Solamnia~
+Knight of Solamnia
+~
+Knight of Solamnia
+~
+3213439 553648316 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 85
+Att3: 85
+Att4: 85
+E
+#9827
+elite guardian solamnia~
+Elite Guardian of Knight of Solamnia~
+Elite Guardian of Knight of Solamnia
+~
+Elite Guardian of Knight of Solamnia
+~
+3213439 553648316 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 95
+Att3: 95
+Att4: 95
+E
+#9828
+supreme guardian solamnia~
+Supreme Guardian of Knight of Solamnia~
+Supreme Guardian of Knight of Solamina
+~
+Supreme Guardian of Knight of Solamina
+~
+3213439 553648316 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9829
+knight assamite~
+Knight of Assamites~
+Knight of Assamites
+~
+Knight of Assamites
+~
+3213439 1610612924 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 90
+Att3: 90
+Att4: 90
+E
+#9830
+elite guardian assamite~
+Elite Guardian of Assamites~
+Elite Guardian of Assamites
+~
+Elite Guardian of Assamites
+~
+3213439 1610612924 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 95
+Att3: 95
+Att4: 95
+E
+#9831
+supreme guardian assamite~
+Supreme Guardian of Assamites~
+Supreme Guardian of Assamites
+~
+Supreme Guardian of Assamites
+~
+3213439 1610612924 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9832
+knight ultimates~
+Knight of Ultimates~
+Knight of Ultimates
+~
+Knight of Ultimates
+~
+3213439 545259708 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9833
+elite guardian ultimates~
+Elite Guardian of Ultimates~
+Elite Guardian of Ultimates
+~
+Elite Guardian of Ultimates
+~
+3213439 545259708 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9834
+supreme guardian ultimates~
+Supreme Guardian of Ultimates~
+Supreme Guardian of Ultimates
+~
+Supreme Guardian of Ultimates
+~
+3213439 545259708 0 E
+200 -90 -27 1d1+13596 5d41+130
+3000 30970739 5
+8 8 1 0 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9898
+Ragu O'Ragula~
+q~
+The master of End and Begging standing here.
+~
+It looks unfinished.
+~
+3663944 596751612 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 1 -1 -1
+E
+#9899
+Tarrasque~
+Tarrasque~
+The legendary Tarrasque is here, he looks absurdely strong.
+~
+
+~
+3663994 546341032 -1000 E
+200 -90 -27 1d1+13596 5d41+130
+3000 28155218 5
+8 8 1 10 21
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

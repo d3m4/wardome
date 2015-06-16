@@ -1,0 +1,409 @@
+#20200
+guard guardian~
+Guardian of the South Gate~
+The Guardian of the South Gate is here keeping the entrance.
+~
+&n
+~
+3158026 16811176 500 E
+70 -33 -14 1d1+6996 5d15+118
+1050 1593675 9
+8 8 1 3 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#20202
+servant king~
+a servant of the king~
+A servant of the king stands here.
+~
+&n
+~
+1048716 33960 250 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 35
+Att4: 5
+E
+#20203
+keymaster~
+the keymaster~
+The keymaster stands here.
+~
+&n
+~
+1048586 16811176 500 E
+60 -28 -12 1d1+6000 5d13+114
+900 1036406 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 10
+E
+#20212
+stern guard~
+a Stern Guard~
+A stern looking guard stands here.
+~
+&n
+~
+1054728 33960 250 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 2 -1 -1
+Att2: 100
+Att3: 40
+Att4: 10
+E
+#20215
+nervous father~
+a Nervous Father~
+A nervous looking father stands here.
+~
+&n
+~
+2106 33960 100 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20218
+Dervon professor~
+Dervon the professor~
+Dervon the professor stands here.
+~
+&n
+~
+1048586 16811176 500 E
+60 -28 -12 1d1+6000 5d13+114
+900 1036406 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 10
+E
+#20220
+strong guard~
+a Strong Guard~
+A strong guard watches the transactions stands here.
+~
+&n
+~
+1187850 16811176 250 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 1 3 -1
+Att2: 100
+Att3: 40
+Att4: 10
+E
+#20221
+bank teller~
+a Bank Teller~
+A bank teller stands behind a fortified counter.
+~
+&n
+~
+1187850 33960 250 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 40
+Att4: 10
+E
+#20222
+guard guardian~
+Guardian of the North Gate~
+The Guardian of the North Gate is here keeping the entrance.
+~
+&n
+~
+3158026 16811176 500 E
+70 -33 -14 1d1+6996 5d15+118
+1050 1593675 9
+8 8 1 3 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#20229
+massive guard dog~
+a Guard Dog~
+A massive guard dog is standing here looking for you.
+~
+&n
+~
+1194248 33960 300 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 40
+Att4: 5
+E
+#20230
+weaponsmith~
+a Weaponsmith~
+A Weaponsmith stands here.
+~
+&n
+~
+1187850 33960 300 E
+60 -28 -12 1d1+6000 5d13+114
+900 1036406 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 15
+E
+#20231
+woman minding~
+a Woman Minding~
+A woman minding her own businesses stands here.
+~
+&n
+~
+1187848 33960 100 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 2 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20237
+upset jeweler~
+an upset jeweler~
+An upset jeweler stands here.
+~
+&n
+~
+1187850 33960 100 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 2 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20239
+woman grocery shopping~
+a Woman~
+A woman out grocery shopping stands here.
+~
+&n
+~
+1187848 33960 100 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 2 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20240
+old haggard beggar~
+an old haggard beggar~
+An old haggard beggar stands here.
+~
+&n
+~
+1187848 33960 100 E
+60 -28 -12 1d1+6000 5d13+114
+900 1036406 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#20241
+Phoros~
+Phoros~
+Phoros is here kneading bread.
+~
+&n
+~
+1187850 16811176 100 E
+70 -33 -14 1d1+6996 5d15+118
+1050 1593675 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#20242
+slimy little rat~
+a slimy little rat~
+A slimy little rat stands here.
+~
+&n
+~
+1189928 33960 100 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20243
+measly little mouse~
+a measly little mouse~
+A measly little mouse stands here.
+~
+&n
+~
+1189928 33960 100 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 100
+Att3: 30
+Att4: 5
+E
+#20244
+gnarled old man~
+a gnarled old man~
+A gnarled old man stands here.
+~
+&n
+~
+1187848 33960 100 E
+60 -28 -12 1d1+6000 5d13+114
+900 1036406 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+Att4: 10
+E
+#20246
+atago~
+Atago~
+Atago, the enraged chair-throwing man stands here.
+~
+&n
+~
+1187850 16811176 500 E
+75 -35 -14 1d1+7500 5d15+120
+1125 1934606 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 30
+E
+#20247
+Orex~
+Orex~
+Orex the drunken bartender stands here.
+~
+&n
+~
+1187850 16811176 500 E
+75 -35 -14 1d1+7500 5d15+120
+1125 1934606 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 30
+E
+#20248
+Chuck~
+Chuck~
+A husky man named Chuck, stands here.
+~
+&n
+~
+1187850 16811176 500 E
+75 -35 -14 1d1+7500 5d15+120
+1125 1934606 9
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 30
+E
+#20250
+orc uruk hais~
+Tired Orc Warrior~
+A big orc is sitting here, he seems to be tired.
+~
+&n
+~
+135690 1082131624 -750 E
+180 -88 -30 1d1+18000 5d37+162
+2700 23885378 9
+8 8 0 10 5
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#20251
+orc uruk hais~
+Tired Orc Archer~
+A big orc is sitting here, he seems to be tired.
+~
+&n
+~
+135690 1082131624 -750 E
+170 -83 -29 1d1+16992 5d35+158
+2550 20221984 9
+8 8 0 7 5
+Att2: 100
+Att3: 90
+Att4: 80
+E
+#20252
+orc warchief~
+&YO&yrcs &RW&rar&Cc&chief&n~
+&yThe &YO&yrcs &RW&rar&Cc&chief &yis sitting here, he seems to be tired.&n
+~
+&n
+~
+3215402 1620059304 -1000 E
+200 -98 -33 1d1+19992 5d41+170
+3000 32486789 9
+8 8 0 10 17
+Att2: 100
+Att3: 100
+Att4: 99
+E
+#20253
+lot flies~
+a lot of flies~
+You see a lot of flies around you.
+~
+&n
+~
+32872 1140850856 -500 E
+160 -78 -27 1d1+15996 5d33+154
+2400 16953466 9
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 70
+Att4: 50
+E
+#20254
+little spider~
+little spider~
+A little spider is here. It's moving...
+~
+&n
+~
+32872 1140850856 500 E
+160 -78 -27 1d1+15996 5d33+154
+2400 16953466 9
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 70
+Att4: 50
+E
+$

@@ -1,0 +1,249 @@
+#3801
+rat small~
+a small rat~
+A small rat is scurrying from room to room.
+~
+This rat looks like ... a rat.
+~
+136 32768 -100 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#3802
+Snigger snake~
+Snigger the Cute Man-Eating Snake~
+Snigger, Icaza's cute man-eating snake, slithers around the room.
+~
+Snigger is a pretty big snake, at 7 feet and growing.  Although Icaza swears
+that Snigger has no fangs, any casual observer would quickly argue that point.
+Poisonous?  Why don't you find out?
+~
+10 8320 1000 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 1 -1 -1
+Att2: 15
+E
+#3803
+Sammy Sam kitten~
+Sammy, Hatchet's Cute Flesh-Clawing Kitten~
+Sammy, Hatchet's cute flesh-clawing kitten, meows in a corner.
+~
+Sammy is a cute little kitten, probably weighs less than 3 pounds, but she has
+claws long enough and leap high enough to jump up and claw your eyes out!  She
+is currently purring and washing herself, oblivious to your presense.
+~
+10 8320 1000 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 2 -1 -1
+Att2: 15
+E
+#3804
+rat~
+a rat~
+A rat scurries around.
+~
+This rat is about average size, with average size teeth and average size claws.
+~
+232 32768 -200 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#3805
+rat large~
+a large rat~
+A large rat stares at you hungrily, then attacks you!
+~
+This rat is about the length of your arm, with sharp claws and teeth, which it
+uses now to bite at you!
+~
+104 0 -400 E
+11 15 8 1d1+225 5d2+4
+165 8859 0
+8 8 0 -1 -1
+Att2: 12
+E
+#3806
+rat were wererat~
+a wererat~
+A humanoid rat notices you, then attacks!
+~
+This beast looks like a combination rat and human, as it has properties of
+both, namely standing erect, wielding a weapon, but with fur, ears, and tail
+of a rat.
+~
+42 0 -500 E
+12 14 8 1d1+252 5d2+4
+180 10839 0
+8 8 0 -1 -1
+Att2: 12
+E
+#3807
+rat were wererat guard~
+a wererat guard~
+A humanoid rat stands guard here, but decides to attack you!
+~
+This beast looks like a combination rat and human, as it has properties of
+both, namely standing erect, wielding a weapon, but with fur, ears, and tail
+of a rat.  He seems to be guarding something.
+~
+42 0 -500 E
+14 13 7 1d1+288 5d2+4
+210 15601 0
+8 8 0 -1 -1
+Att2: 15
+E
+#3808
+rat were wererat~
+a wererat~
+A humanoid rat sits here, discussing some business.
+~
+This beast looks like a combination rat and human, as it has properties of
+both, namely standing erect, wielding a weapon, but with fur, ears, and tail
+of a rat.  They don't notice you in their duscussion.
+~
+202 0 -5 E
+13 14 8 1d1+270 5d2+4
+195 13081 0
+8 8 0 -1 -1
+Att2: 12
+E
+#3809
+drake firedrake~
+a firedrake~
+A red dragon-beast sits here, staring at you and blowing fire at you!
+~
+This beast looks a lot like a red dragon, except that it's a bit smaller.  It
+has red scales over it's four-legged reptilian body, with sharp claws and
+piercing tail.  It is disturbed by your intrusion.
+~
+4194346 8 -700 E
+17 12 7 1d1+351 5d2+6
+255 24976 0
+8 8 0 -1 -1
+Att2: 18
+E
+#3810
+rat were wererat leader~
+the wererat leader~
+A bulky rat-beast is here, enraged that you have intruded upon its room!
+~
+This beast looks like a combination rat and human, as it has properties of
+both, namely standing erect, wielding a weapon, but with fur, ears, and tail
+of a rat.  This one is different from the others, since it is better attired
+and also much bigger.
+~
+42 0 -700 E
+17 12 7 1d1+351 5d2+6
+255 24976 0
+8 8 0 -1 -1
+Att2: 18
+E
+#3811
+rat large~
+a large rat~
+A large rat stares at you menacingly, then attacks you!
+~
+This rat is about the length of your arm, with sharp claws and teeth, which it
+uses now to bite at you!
+~
+42 0 -400 E
+12 14 8 1d1+252 5d2+4
+180 10839 0
+8 8 0 -1 -1
+Att2: 12
+E
+#3812
+rat were wererat slavemaster~
+a wererat slavemaster~
+A large wererat cracks his whip at you!
+~
+This beast looks like a combination rat and human, as it has properties of
+both, namely standing erect, wielding a weapon, but with fur, ears, and tail
+of a rat.  This one looks quite big, and the barbed whip he flicks toward you
+looks quite deadly.
+~
+40 0 -600 E
+14 13 7 1d1+288 5d2+4
+210 15601 0
+8 8 1 -1 -1
+Att2: 15
+E
+#3813
+slave human~
+a human slave~
+A human slave crouches in a corner, shivering.
+~
+This human looks familiar, and upon further examination, you see that this
+slave used to be a citizen of Midgaard!  She asks pitifully for you to help
+her escape.
+~
+136 0 100 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+#3814
+slave human~
+a human slave~
+A human slave is here, digging in the tunnels.
+~
+This human looks familiar, and upon further examination, you see that this
+slave used to be a citizen of Midgaard!  He asks pitifully for you to help
+him escape.
+~
+136 0 100 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 1 -1 -1
+Att2: 9
+E
+#3815
+mortal manifestation~
+the mortal manifestation of Overlord Hatchet~
+The mortal manifestation of Overlord Hatchet sits here, whispering to
+~
+Even in his mortal, statuesque form, Hatchet smirks a bit.  He smiles at your
+entrance, and welcomes you to join in conversation.
+~
+10 8328 1000 E
+20 10 7 1d1+414 5d3+8
+300 41126 0
+8 8 1 0 -1
+Att2: 21
+E
+#3816
+goddess mortal manifestation~
+the mortal manifestation of Goddess Icaza~
+The mortal manifestation of Goddess Icaza sits here, whispering to
+~
+Even in her mortal, statuesque form, Icaza smiles and blushes a bit.  She
+smiles at you, and with an accent not too different from a Southern one, says,
+'Please join us in conversation!'
+~
+10 8328 1000 E
+20 10 7 1d1+414 5d3+8
+300 41126 0
+8 8 2 1 -1
+Att2: 21
+E
+#3817
+ooze green~
+the green Ooze~
+Some green ooze clings onto the ceiling and the walls.
+~
+This ooze looks like bad stuff, almost as if it's alive.
+~
+42 0 0 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 0 -1 -1
+Att2: 15
+E
+$

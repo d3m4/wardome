@@ -1,0 +1,447 @@
+#13000
+Gate Guardian~
+the gate guardian~
+The Powerfull Guardian is here protecting the Gate.
+~
+You see a powerfull warrior, do not disturb him.
+~
+247882 40 -300 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 8 1 2 0
+Att2: 88
+Att3: 24
+E
+#13001
+skeleton~
+the Skeleton~
+A pile of bones is on the floor.
+~
+   As you get closer of the bones you can see that they aren't
+just bones, they have LIFE.
+~
+26204 172 0 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 8 0 2 -1
+Att2: 88
+Att3: 24
+E
+#13002
+undead corpse~
+the Undead Corpse~
+A corpse is lying on the ground here.
+~
+   Looks like it is dead for a long time, you can't suport the smell.
+~
+25166 1160 0 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 8 0 2 -1
+Att2: 88
+Att3: 24
+E
+#13005
+The King~
+the king~
+The King sit's here in his throne.
+~
+He seems strong and powerfull...
+~
+256072 16811146 300 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 2 0
+Att2: 92
+Att3: 36
+E
+#13006
+Princess Zeina~
+&WThe beatiful &MPrincess Zeina&n~
+A fallen angel called &MZeina &yis here.
+~
+She looks like a angel.
+~
+516170 33928 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 2 2 0
+Att2: 92
+Att3: 36
+E
+#13010
+priest~
+the Mad Priest~
+The crazy priest is standing here.
+~
+He's completely crazy it might be a good idea to leave.
+~
+24622 25167002 0 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 2 9
+Att2: 96
+Att3: 40
+E
+#13011
+Arkanus, the thief~
+the Thief Arkanus~
+The strange &BArkanus &yis here looking to your pocket.
+~
+He looks very suspicious...
+~
+258122 525352 -100 E
+105 -36 -8 1d1+4620 5d11+62
+1575 4126799 2
+8 8 1 2 1
+Att2: 98
+Att3: 44
+E
+#13024
+student thief~
+a Thief Student of Backstab~
+A Thief Student of Backstab is standing here.
+~
+Thief Student of Backstab
+~
+82058 819200 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 90
+Att3: 30
+Att4: 40
+E
+#13025
+student thief~
+a Thief Student of Circle Arround~
+A Thief Student of Circle Arround is standing here.
+~
+Thief Student of Circle Arround
+~
+65674 819208 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 90
+Att3: 30
+Att4: 40
+E
+#13026
+student thief~
+a Thief Student of Listen~
+A Thief Student of Listen is standing here.
+~
+A Thief Student of Listen
+~
+49290 819200 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 2 0
+Att2: 90
+Att3: 30
+E
+#13027
+teste~
+teste~
+teste
+~
+undefined~
+82058 34373632 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 2 -1
+BareHandAttack: 11
+Att2: 90
+Att3: 30
+Att4: 40
+E
+#13028
+master shadow Arkanis~
+&rArkanis, The Shadow Master&n~
+&rArkanis, The Shadow Master&n is standing here.
+~
+&rDont look at me... or you die!!&n
+~
+518698 43816126 -1000 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 7 0 2 0
+BareHandAttack: 11
+Att2: 100
+Att3: 53
+Att4: 4
+E
+#13029
+student thief~
+a Thief Student of Sneak~
+A Thief Student of Sneak is standing here.
+~
+Thief Student of Sneak
+~
+270378 33849344 -500 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 88
+Att3: 24
+Att4: 30
+E
+#13030
+student thief~
+a Thief student of Steal~
+A Thief Student of Steal is standing here.
+~
+Thief student of Steal
+~
+51850 33849384 -600 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 7 0 2 0
+BareHandAttack: 14
+Att2: 88
+Att3: 24
+Att4: 40
+E
+#13031
+student thief~
+a Thief Student of Hide~
+A Thief Student of Hide is standing here.
+~
+Thief Student of Hide
+~
+451210 34373644 -800 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 7 0 2 0
+BareHandAttack: 14
+Att2: 88
+Att3: 24
+Att4: 40
+E
+#13032
+student thief~
+a Thief Student of Pick Lock~
+A Thief Student of Pick Lock is standing here.
+~
+Thief Student of Pick Lock
+~
+55946 33853500 -950 E
+70 -19 -3 1d1+3072 5d8+48
+1050 1307631 2
+8 8 0 2 3
+BareHandAttack: 14
+Att2: 88
+Att3: 24
+Att4: 60
+E
+#13033
+Drizzt, the sad man~
+Drizzt, the sailor~
+Drizzt, the sailor is here with a sad look.
+~
+Drizzt, the sailor is a tall and strong man, he
+has a sad look.
+~
+24586 0 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 2 1
+Att2: 100
+Att3: 53
+Att4: 4
+E
+#13035
+Mawerick, the Daywalker Vampire~
+Mawerick, the son of Locky~
+Mawerick is here, be careful with your neck.
+~
+You see a big Warrior, half man, half vampire, he looks invencible,
+you feel it's not a good idea try something against him.
+~
+3399722 1061032 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 2 0
+BareHandAttack: 14
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#13036
+Old Jerry~
+the Legend~
+&wA fat and old dwarf called &BJerry &wis here.
+~
+The great dwarf Jerry doesn't look like so great, he is old
+and very fat, but he could be dangerous.
+~
+516170 25167016 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 2 3
+BareHandAttack: 11
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#13051
+student thief~
+a Thief Student of Sting~
+A Thief Student of Sting is standing here.
+~
+Thief Student of Sting
+~
+82058 819200 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 92
+Att3: 36
+Att4: 50
+E
+#13052
+student thief~
+a Thief Student of Stab~
+A Thief Student of Stab is standing here.
+~
+Thief Student of Stab
+~
+16522 819200 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 92
+Att3: 36
+Att4: 50
+E
+#13053
+student thief~
+a Thief Student of Tumble~
+A Thief Student of Tumble is standing here.
+~
+Thief Student of Tumble
+~
+196746 819200 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 92
+Att3: 36
+Att4: 50
+E
+#13054
+student thief~
+a Thief Student of Second Stab~
+A Thief Student of Second Stab is standing here.
+~
+Thief Student of Second Stab
+~
+90250 819200 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 92
+Att3: 36
+Att4: 50
+E
+#13055
+thief guard~
+a Thief Bodyguard~
+A Thief Bodyguard is standing here.
+~
+Thief Bodyguard
+~
+522026 34341950 -1000 E
+110 -39 -9 1d1+4836 5d12+64
+1650 4715076 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 100
+Att3: 50
+E
+#13056
+chief body guard bodyguard~
+a Chief of the Bodyguard's~
+A Chief of the Bodyguard's is standing here.
+~
+Chief of the Bodyguard's
+~
+479786 1867778 0 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 0 2 0
+BareHandAttack: 14
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#13060
+thief student~
+a Thief Student of Escape~
+A Thief Student of Escape is standing here.
+~
+Thief Student of Escape
+~
+49162 294912 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 2 0
+BareHandAttack: 11
+Att2: 90
+Att3: 30
+Att4: 50
+E
+#13063
+captain's horse~
+the captain's horse~
+The captain's horse is here.
+~
+The horse is a domestic animal, with a good and strong appearance.
+~
+67594 128 0 E
+150 -59 -15 1d1+6600 5d16+80
+2250 11534213 2
+8 8 1 3 -1
+Att2: 50
+Att3: 50
+E
+#13098
+guard~
+the Red Light House guard~
+The Red Light House Guard is here taking care of the women who work here.
+~
+It looks unfinished.
+The guard is very strong don't make anything that may
+disturb him.
+~
+92174 524416 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 1 2 0
+Att2: 90
+Att3: 30
+E
+#13099
+prostitute woman~
+a prostitute~
+A very atractive woman is here making striptease.
+~
+She's almost naked, calling you to the back of the prostibule.
+~
+16522 1160 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 2 2 -1
+BareHandAttack: 4
+Att2: 92
+Att3: 36
+E
+$

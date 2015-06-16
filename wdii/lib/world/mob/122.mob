@@ -1,0 +1,923 @@
+#12200
+heimdall~
+Heimdall~
+A towering guardian clad in brilliant white armor stands guarding Bifrost.
+~
+Sworn guardian of Bifrost, the rainbow bridge, Heimdall is stalwart,
+loyal and brave to a fault. Nothing save his utter destruction will
+cause him to forsake his sworn duty.
+~
+10 8236 -1000 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 3 6
+Att2: 40
+Att3: 5
+E
+#12201
+thor~
+Thor~
+A heavily muscled man clad in black and gold armor roars with laughter.
+~
+God of thunder and slayer of the mortal enemies of Asgard, the frost
+and fire giants, his name alone is enough to inspire the friends and
+cast dread into the hearts of the enemies of Asgard.
+~
+516106 9384 0 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 10 13
+Att2: 40
+Att3: 5
+E
+#12202
+odin~
+Odin~
+A bearded, one eyed man clad in heavy armor sits upon the throne.
+~
+Supreme ruler of the Gods, Odin is by far the most powerful and wise of
+their lot, and is respected accordingly. He is a brave, honest and inspiring
+god who genuinely cares about those who worship him, even if his gruff exterior
+may oft indicate impassiveness or downright disdain.
+~
+10 8380 500 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 5 5
+Att2: 40
+Att3: 5
+E
+#12203
+sif~
+Sif~
+A woman clad in robes of silver practices with her swords.
+~
+A skilful and respected warrior, Sif is also known as the wife of Thor,
+and can often be seen dancing about her slower husband in mock battles
+they engage in to maintain their skills. She is an expert with all forms
+of weapons, thlough she favors twin sword style.
+~
+10 9384 400 E
+10 7 2 1d1+600 5d2+44
+150 9977 4
+8 8 2 1 0
+Att2: 40
+Att3: 5
+E
+#12204
+frey~
+Frey~
+A handsome, long haired elf stands here smiling happily.
+~
+Frey is a Vanir, and ruler of Alfheim, the domain of the elves. His
+parents were Njord and Skadi; thus he differs from most of the Gods,
+who are Aesir. A handsome, noble god, Frey is the epitome of the people
+who live under his rule and worship him.
+~
+10 9384 600 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 7 3
+Att2: 40
+Att3: 5
+E
+#12205
+freya~
+Freya~
+A beautiful elven woman clad in well crafted armor smiles coyly.
+~
+The beautiful twin of the handsome Vanir Frey, Freya is the god of all
+things associated with love, lust and fertility (especially the good
+bits :P). A mighty spellcaster as well as a mighty lover, Freya is
+equally famous for her victories on the battlefield as in the bedchamber.
+Freya is leader of the Valkyries, and often accompanies them.
+~
+10 8360 600 E
+10 7 2 1d1+600 5d2+44
+150 9977 4
+8 8 2 0 8
+Att2: 40
+Att3: 5
+E
+#12206
+loki~
+Loki~
+A wiry, black haired man slinks past you.
+~
+Blood brother of Odin, Loki is a cruel, manipulative trickster and
+schemer, constantly at odds with the other gods, and usually banished
+or outcast because of it.
+~
+200 794794 -1000 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 2 1
+Att2: 40
+Att3: 5
+E
+#12207
+hel~
+Hel~
+A woman whose face is a visage of youth and decrepitude glares at you.
+~
+One side of Hel's face is that of a comely, attractive maiden who eyes
+you with obvious lust (regardless of your gender or race); the other half
+is of a withered old crone who glares balefully at all.
+~
+10 1192 -200 E
+10 7 2 1d1+600 5d2+44
+150 9977 4
+8 8 2 8 2
+Att2: 40
+Att3: 5
+E
+#12208
+jormungand serpent~
+Jormungand~
+The massive head of a serpent of infinite size arises from the waters.
+~
+
+~
+104 1192 -1000 E
+10 7 2 1d1+600 5d2+44
+150 9070 4
+8 8 1 -1 -1
+Att2: 40
+Att3: 5
+E
+#12209
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+10 7 2 1d1+600 5d2+44
+150 9977 4
+8 8 0 0 0
+Att2: 40
+Att3: 5
+E
+#12210
+frigga~
+Frigga~
+A beautiful woman clad in flowing robes stands staring out the window.
+~
+The wife of Odin and goddess of the atmosphere, Frigga is a beloved and
+caring deity, often invoked by women seeking a marriage. Her temper is
+quick, however, and her power great.
+~
+42 9384 700 E
+10 7 2 1d1+600 5d2+44
+150 9977 4
+8 8 2 4 7
+Att2: 40
+Att3: 5
+E
+#12211
+tyr~
+Tyr~
+A one handed god rests here in silent meditation.
+~
+Honred as God of trust and law for his selfless actions with Fenris,
+Tyr is probably the most respected of the Aesir, if not one of the more
+powerful.
+~
+10 9384 1000 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 1 5 9
+Att2: 50
+Att3: 10
+E
+#12212
+berserker~
+a berserker~
+An enraged berserker foams at the mouth.
+~
+
+~
+104 1024 0 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 1 10 11
+Att2: 50
+Att3: 10
+E
+#12213
+hugin raven~
+Hugin~
+A black feathered raven perches here, eyeing you cautiously.
+~
+These ravens are used by Odin as scouts and messengers. Loyal and highly
+intelligent, they are invaluable allies to the God.
+~
+10 271400 200 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 0 6 5
+Att2: 50
+Att3: 10
+E
+#12214
+munin raven~
+Munin~
+A black feathered raven perches here, eyeing you cautiously.
+~
+These ravens are used by Odin as scouts and messengers. Loyal and highly
+intelligent, they are invaluable allies to the God.
+~
+10 271400 200 E
+20 2 1 1d1+1200 5d3+48
+300 52343 4
+8 8 0 4 3
+Att2: 50
+Att3: 10
+E
+#12215
+freke wolf~
+Freke~
+A huge black wolf with a grey muzzle sniffs at you suspiciously.
+~
+Faithful pets of Odin, these giant black wolves are used by him to punish
+sinful mortals, or to scout out the movements of his enemies.
+~
+10 271528 200 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 2 3 10
+Att2: 50
+Att3: 10
+E
+#12216
+gere~
+Gere~
+A huge black wolf with a grey muzzle sniffs at you suspiciously.
+~
+Faithful pets of Odin, these giant black wolves are used by him to punish
+sinful mortals, or to scout out the movements of his enemies.
+~
+10 271528 200 E
+20 2 1 1d1+1200 5d3+48
+300 52343 4
+8 8 2 0 9
+Att2: 50
+Att3: 10
+E
+#12217
+sleipner~
+Sleipner~
+A muscular, eight legged horse waves its legs about nervously.
+~
+This noble beast carries Odin, and people whom he bestows the honour upon,
+across any plane or place, to his or her destination in mere seconds.
+~
+10 1192 600 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 1 10 4
+Att2: 50
+Att3: 10
+E
+#12218
+valkyrie~
+a valkyrie~
+A muscular woman clad in glowing armor glares at you.
+~
+These are the chosen servants of Odin and Frigga, who escort the souls
+of those slain in battle to Valhalla, where they become members of the
+Einheriar.
+~
+10 795818 1000 E
+20 2 1 1d1+1200 5d3+48
+300 52343 4
+8 8 2 9 3
+Att2: 50
+Att3: 10
+E
+#12219
+norn urd~
+Urd~
+The Norns tend to Yggdrasil, the Tree of Life.
+~
+The norns tend to Yggdrasil, and also dispense wisdom, on occasion;
+usually in the form of cryptic responses. They know the fate of all
+mortal men, being able to see past, present and future all at once.
+~
+10 9384 0 E
+20 2 1 1d1+1200 5d3+48
+300 47585 4
+8 8 2 -1 -1
+Att2: 50
+Att3: 10
+E
+#12220
+verdandi norn~
+Verdandi~
+The Norns tend to Yggdrasil, the Tree of Life.
+~
+The norns tend to Yggdrasil, and also dispense wisdom, on occasion;
+usually in the form of cryptic responses. They know the fate of all
+mortal men, being able to see past, present and future all at once.
+~
+10 9384 0 E
+20 2 1 1d1+1200 5d3+48
+300 52343 4
+8 8 2 11 11
+Att2: 50
+Att3: 10
+E
+#12221
+skuld norn~
+Skuld~
+The Norns tend to Yggdrasil, the Tree of Life.
+~
+The norns tend to Yggdrasil, and also dispense wisdom, on occasion;
+usually in the form of cryptic responses. They know the fate of all
+mortal men, being able to see past, present and future all at once.
+~
+10 9384 0 E
+30 -3 0 1d1+1800 5d4+52
+450 134783 4
+8 8 2 10 3
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12222
+goat tanngrisner~
+Tanngrisner~
+A massive white goat nibbles at some fresh grass.
+~
+
+~
+10 9344 400 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 1 4 10
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12223
+goat tanngjost~
+Tanngjost~
+A massive black goat nibbles at some fresh grass.
+~
+
+~
+10 9344 -400 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 1 9 6
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12224
+magni~
+Magni~
+A child of about eleven sits here lifting stone monoliths for practice.
+~
+Magni, the son of Thor, is the strongest being ever, stronger even than
+his father. There is nothing he cannot lift, including Mjolnir.
+~
+10 9344 1000 E
+30 -3 0 1d1+1800 5d4+52
+450 134783 4
+8 8 1 5 1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12225
+garm~
+Garm~
+A huge, hideous wolflike being stands before the gates of Hel.
+~
+
+~
+42 9256 -500 E
+30 -3 0 1d1+1800 5d4+52
+450 134783 4
+8 8 1 5 1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12226
+durin smith~
+the Smith~
+The greatest of the Durin smiths stands here.
+~
+This burly dwarf has muscles of iron, and fists that can bend tempered
+steel. He is inured to the blistering heat of his forge, and can work
+unbothered for several weeks without rest.
+~
+10 9384 400 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 1 9 4
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12227
+fjalar durin~
+Fjalar~
+A mighty dwarf stands here, weapons ready.
+~
+Hero of the Durin race, Fjaler stands ready to defend them from the
+scourge of Jotunheim. Using his magical gauntlets, Fjalar can deliver
+blows of incredible strength and speed.
+~
+72 9384 300 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 1 11 9
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12228
+blodug-hofi~
+Blodug-Hofi~
+A magnificent brown horse rears up as you come near.
+~
+The steed of Frey, it is a magnificent beast which serves its master
+loyally; even though it is no match for some of the greater enemies of
+the Vanir, it will still stand over its master until slain.
+~
+10 271488 0 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 0 9 3
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12229
+gullin-bursti boar~
+Gullin-bursti~
+A massive boar grunts at your intrusion.
+~
+A gift from the dwarves, Gullin-Bursti the golden boar pulls Frey's
+chariot into battle, and aids him against his foes, usually giants or
+similar.
+~
+8 9344 0 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 1 0 8
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12230
+valkyrie~
+a valkyrie~
+A muscular woman clad in glowing armor glares at you.
+~
+These are the chosen servants of Odin and Frigga, who escort the souls
+of those slain in battle to Valhalla, where they become members of the
+Einheriar.
+~
+10 795818 1000 E
+30 -3 0 1d1+1800 5d4+52
+450 148261 4
+8 8 2 11 2
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12231
+balder~
+Balder~
+An incredibly handsome man smiles as you enter.
+~
+The God of beauty, Baldur's appearance is virtually irresistable to
+mortal females, who have often fallen under his spell, never to return
+to their previous lives. Be careful before agreeing to any of his pacts,
+however...
+~
+10 9384 800 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 10 1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12232
+bragi skald~
+Bragi~
+A skald sits here strumming a golden harp.
+~
+Bragi is a peaceful god of music and poetry, and such is his influence
+that no mortal may commit an act of violence in his presence. His harp
+is a valued item, and he will not part with it, except for an exceptional
+reason.
+~
+10 9384 1000 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 3 6
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12233
+fenris wolf~
+the Fenris Wolf~
+A wolf of mammoth proportions towers over you.
+~
+This "wolf" is actually the demonic offspring of Loki. Standing at over
+fifty feet high, it is a wonder that even the Aesir managed to capture it.
+They are not allowed to slay the offspring of a god, so they had to bind it
+here instead. Odin would not be displeased, however, were he to find out it
+was dead.
+~
+42 1192 -1000 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 -1 -1
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12234
+idun~
+Idun~
+A muscular Aesir woman clad in silvery armor stands here.
+~
+This stout ranger is loyal to her duty and to Odin, whom entrusted her
+the task many centuries ago. She will protect the apples until the day
+of Ragnarak, at which point it will no longer be necessary.
+Idun is also the beloved wife of Bragi, who can be found in the Chambers
+of the Aesir at most times.
+~
+72 9384 400 E
+40 -8 -2 1d1+2400 5d5+56
+600 318728 4
+8 8 2 0 5
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12235
+aegir sea god~
+Aegir~
+A massive man with a long grey beard cackles in glee.
+~
+Aegir is an enormous giant, over sixty feet tall, and almost as broad.
+He is a violent, unpredictable deity, whose cruelty is oft unmatched
+by any of those who stand with (or against even) the Aesir.
+~
+10 1192 -400 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 2 10
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12236
+forseti~
+Forseti~
+Forseti, son of Balder, sits in judgement here.
+~
+
+~
+10 9384 1000 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 7 11
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12237
+skirnir shieldbearer~
+Skirner~
+A sturdy norse warrior stands ready to serve his master.
+~
+Frey's shieldbearer, Skirnir is a norse warrior whose dedication to
+his elven master is legendary.
+~
+72 9344 745 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 5 11
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12238
+modi~
+Modi~
+A berserker warrior of incredible strength strides boldly past.
+~
+A son of Thor, Modi is the god of courage, as well as a patron of
+berserkers. It is said that if he is ever in dire straits, he can launch
+himself into a berserk rage of incredible magnitude.
+~
+72 9384 400 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 10 2
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12239
+surtur~
+Surtur~
+A massive fire giant bellows in anger.
+~
+Lord of the fire giants of Jotunheim, and sworn enemy of the Aesir,
+Surtur is not a god as much as a giant of incredible stature and strength.
+Nevertheless he is a significant foe, such that few amongst the Aesir apart
+from Thor would challenge his wrath without ample precaution.
+~
+10 9384 -1000 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 2 6
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12240
+u~
+a fire giant~
+A fire giant strides the halls of his master.
+~
+The beards and hair of these creatures are as fire, crackling and burning
+perpetually atop their reddish skin all over their muscular torsos. Their
+eyes glint with a low, but cunning and malicious, intelligence, and their
+arms bulge with the strength of ten humans.
+~
+72 1024 -1000 E
+40 -8 -2 1d1+2400 5d5+56
+600 289753 4
+8 8 1 10 11
+Att2: 50
+Att3: 10
+Att4: 5
+E
+#12241
+thrym~
+Thrym~
+A bearded, muscular frost giant hefts a massive axe.
+~
+Lord of the frost giants of Jotunheim, Thrym is a vile and evil being,
+and a sworn enemy of the Aesir and Vanir, and awaits Ragnarak, the day
+that the icy wastes will cover all of Gladsheim.
+~
+10 9384 -1000 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 7 5
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12242
+frost giant~
+a frost giant~
+A frost giant stomps past you.
+~
+The beards and hair of these creatures are as ice, glistening coldly
+atop their pale blue skin all over their muscular, chilly torsos. Their
+eyes glint with a low, but cunning and malicious, intelligence, and their
+arms bulge with the strength of ten humans.
+~
+104 1024 -1000 E
+50 -13 -3 1d1+3000 5d6+60
+750 584745 4
+8 8 1 0 -1
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12243
+vidar~
+Vidar~
+A strong, silent man strides the halls of Valaskialf.
+~
+The son of Odin and Frigga, Vidar is the god of silence and strength, and
+is a loyal ally of the Aesir, who know they can depend upon him. He is
+fearless, and dedicated to the destruction of evil wherever he may encounter
+it.
+~
+72 9384 1000 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 6 0
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12244
+uller~
+Uller~
+A man clad in green buckskins jogs past.
+~
+
+~
+72 795816 400 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 6 11
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12245
+damned soul~
+A damned soul~
+A damned soul screams in eternal torment.
+~
+
+~
+104 1184 -400 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 0 2 9
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12246
+einheriar~
+an Einheriar~
+A strong norse warrior roars in bloodlust!
+~
+The souls of those slain in battle and gathered by valkyries, the
+Einheriar do battle daily upon the bloodsoaked battlefield of Valhalla,
+being reborn daily to do battle again, all in preperation for Ragnarok,
+when they will march under the command of the Aesir against the giants
+of Jotunheim.
+~
+104 1024 0 E
+50 -13 -3 1d1+3000 5d6+60
+750 584745 4
+8 8 1 9 0
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12247
+sylvan elf~
+a sylvan elf~
+A slender elf flits silenty through the trees.
+~
+These slender but hardly elfin folk reside under the protection of
+Frey, in the forests of Alfheim.
+~
+72 795648 500 E
+50 -13 -3 1d1+3000 5d6+60
+750 531587 4
+8 8 1 7 8
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12248
+valkyrie~
+a valkyrie~
+An armored woman supervises the proceedings.
+~
+These are the chosen servants of Odin and Frigga, who escort the souls
+of those slain in battle to Valhalla, where they become members of the
+Einheriar.
+~
+10 795818 1000 E
+50 -13 -3 1d1+3000 5d6+60
+750 584745 4
+8 8 2 0 7
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12249
+electric eel~
+an electric eel~
+A writhing black creature alive with energy swims past.
+~
+This underwater menace is a hazard to ships as well as swimmers foolish
+enough to brave the icy depths; the powerful current it unleashes could
+fell a troll.
+~
+104 1024 0 E
+50 -13 -3 1d1+3000 5d6+60
+750 584745 4
+8 8 0 0 3
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12250
+giant crab~
+a giant crab~
+A crab the size of a horse scuttles past.
+~
+The thick shell of this sturdy crustacean makes it very difficult to
+damage, especially with stabbing weapons. The crab could crush a large
+human with little effort in those pincers.
+~
+108 1024 0 E
+50 -13 -3 1d1+3000 5d6+60
+750 584745 4
+8 8 0 8 -1
+Att2: 55
+Att3: 15
+Att4: 10
+E
+#12251
+shark great~
+the great shark~
+A monstrous white shark glides through the water.
+~
+One of the most feared and hated marine predators, sharks are at the
+best of times worthy opponents. This monster, however, is the size of
+three normal sharks, nearly thirty feet in length, and with several
+rows of teeth that could bite an armored knight in half like a twig.
+That is, if it didn't just swallow them whole...
+~
+4194408 1064 -400 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 0 -1 -1
+Att2: 55
+Att3: 25
+Att4: 10
+E
+#12252
+durin guard~
+a Durin guard~
+A stocky, muscular dwarf stands near the tunnel entrance.
+~
+The Durin are the most ancient and powerful of the dwarven races,
+possessed of strength and skill far surpassing dwarves of later and
+earlier ages. Rigid and inflexible in their ways, they are unlikely
+to extend a great deal of hospitality to strangers.
+~
+10 1024 200 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 3 2
+Att2: 55
+Att3: 25
+Att4: 10
+E
+#12253
+durin miner ~
+a Durin miner~
+A Durin miner toils endlessly at the mineral rich rock.
+~
+The Durin are the most ancient and powerful of the dwarven races,
+possessed of strength and skill far surpassing dwarves of later and
+earlier ages. Rigid and inflexible in their ways, they are unlikely
+to extend a great deal of hospitality to strangers.
+~
+10 1024 200 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 3 2
+Att2: 55
+Att3: 25
+Att4: 10
+E
+#12254
+durin dwarf ~
+a Durin~
+A doughty dwarf strides boldly through the tunnels.
+~
+The Durin are the most ancient and powerful of the dwarven races,
+possessed of strength and skill far surpassing dwarves of later and
+earlier ages. Rigid and inflexible in their ways, they are unlikely
+to extend a great deal of hospitality to strangers.
+~
+72 1024 200 E
+60 -18 -5 1d1+3600 5d7+64
+900 879375 4
+8 8 1 3 2
+Att2: 55
+Att3: 25
+Att4: 10
+E
+#12400
+final mobile~
+a newly created final mobile~
+Some god abandoned a newly created final mobile here.
+~
+
+~
+8 0 0 E
+1 19 9 1d1+13 1d3+1
+15 366 9
+8 8 0 -1 -1
+E
+$

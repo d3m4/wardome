@@ -1,0 +1,12 @@
+@Version: 2
+#326
+The Builders Test Zone~
+32699 30 2 2 -1
+M 0 32610 1 32699 	(An aprenticce of the Archmage Miriel)
+M 0 32600 1 32605 	(the Fcobain)
+G 1 32602 99 -1 	(the vulcan kiss)
+G 1 32601 99 -1 	(a tongue kiss)
+G 1 32600 99 -1 	(a simple kiss)
+E 1 32603 2 5 	(a silk nightgown)
+S
+$

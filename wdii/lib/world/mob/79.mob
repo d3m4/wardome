@@ -1,0 +1,50 @@
+#7900
+paladin grand knight~
+the Grand Knight of Paladins~
+The Grand Knight is standing here, waiting for someone to help.
+~
+The Knight is standing here, smiling at you.  He is dressed all in white,
+blue and silver.  He looks VERY strong, as he stands here, ready to help
+the innocent.
+~
+26927 1160 1000 E
+116 -38 -7 1d1+3240 5d12+46
+1740 4461906 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 50
+E
+#7901
+rat large~
+the large rat~
+There is a large rat here, poking through the foodstuffs lying around.
+~
+The large rat is about two feet long from head to tail and has claws the
+size of your fingers, looking very nasty.  It seems to be quite occupied
+with all the chewed open foodstuffs lying about the room.
+~
+42 1024 -800 E
+112 -36 -6 1d1+3132 5d12+44
+1680 4034211 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 48
+E
+#7902
+cleaver~
+the Cleaver~
+The Cleaver is here eyeing you hungrily in anticipation of its next meal.
+~
+The Cleaver is a huge spidery chittinous creature with four large
+spindly arms ending in cleaverlike talons that will surely cut you
+to ribbons.
+~
+256120 33928 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+$

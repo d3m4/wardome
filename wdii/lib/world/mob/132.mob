@@ -1,0 +1,1222 @@
+#13200
+guard palace~
+a Palace Guard~
+A palace guard is ready to attack at the slightest sign of trouble.
+~
+You see a huge, heavily armored dragon guard.  This is one of the city's best
+guards.  Palace guards are chosen by the King himself as the last line of 
+protection against attacks.
+~
+8266 40 -175 E
+10 -1 -3 1d1+912 5d3+84
+150 10180 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 12
+E
+#13201
+bodyguard guard~
+the King's Bodyguard~
+One of the King's Bodyguards is keeping a watch for strangers.
+~
+This half-minotaur, half-dragon is one of Cloudy Mountain's finest warriors.
+Each Bodyguard has sworn to give their life to protect the king.
+~
+8264 4 0 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 60
+Att3: 15
+E
+#13202
+guard elite~
+an Elite guard~
+An Elite guard of the city stands watch.
+~
+This guard has reached the higher ranks among the guards.  Although the 
+position of Elite Guard is supposed to be open to all, they tend to be half
+minotaur.
+~
+8264 1073741824 -350 E
+10 -1 -3 1d1+912 5d3+84
+150 10180 8
+8 8 0 -1 -1
+Att2: 60
+Att3: 15
+E
+#13203
+lieutenant dragon~
+a dragon lieutenant~
+A lieutenant is drilling his troops.
+~
+This half-minotaur is very powerful and doesn't take kindly to slackers in his
+ranks.
+~
+8266 40 -400 E
+10 -1 -3 1d1+912 5d3+84
+150 10180 8
+8 8 1 -1 -1
+Att2: 54
+Att3: 12
+E
+#13204
+lieutenant dragon~
+a dragon lieutenant~
+A lieutenant is surveying the troops
+~
+Although most dragons with human blood are usually discriminated against, this
+half-human has risen quickly through the ranks.
+~
+8264 40 -375 E
+10 -1 -3 1d1+912 5d3+84
+150 10180 8
+8 8 2 -1 -1
+Att2: 54
+Att3: 12
+E
+#13205
+guard dragon~
+a dragon guard~
+A guard of Cloudy Mountain stands watch.
+~
+Cloudy Mountain's first line of defense once the enemy has made it to the walls
+of the city.  This guard appears to have a lot of human qualities.
+~
+8264 40 360 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 60
+Att3: 15
+E
+#13206
+guard dragon~
+a dragon guard~
+A guard of cloudy mountain stands watch
+~
+The first line of defense for the city itself.  This guard appears to be a 
+giant with dragon features.
+~
+8264 40 -360 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13207
+soldier dragon~
+a dragon soldier~
+A soldier of Cloudy Mountain is here.
+~
+This fierce warrior is not only strong, but well trained in battle and in
+strategy.  This combination makes this army one of the finest and most feared
+in the land.
+~
+8264 40 375 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13208
+soldier dragon~
+a dragon soldier~
+A soldier of Cloudy Mountain is here.
+~
+This fierce warrior is not only strong, but well trained in battle and in 
+strategy.  This combination makes this army one of the finest and most feared
+in the land.
+~
+8264 40 -375 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13209
+gateguard guard~
+a gateguard~
+A guard is protecting the city entrance.
+~
+This dragon appears to be very short and stocky.  You don't seem to be 
+intimidated by this guard even though you are being challenged.  Is this the
+city's best defense, or is this a trick to make you underestimate the defenses?
+~
+8266 40 0 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 9
+E
+#13210
+dragon winged~
+the winged dragon~
+A winged dragon guards a half to the Crown of Kings.
+~
+These dragons have inhabited Cloudy Mountain for centuries.  They have kept the
+Crown of Kings in their possession all this time and do not intend to give them
+up to you.
+~
+8298 8360 -600 E
+15 -3 -4 1d1+1380 5d3+86
+225 26305 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 15
+E
+#13211
+dragon mountain~
+a mountain dragon~
+A dragon searches Cloudy Mountain for it's next meal.
+~
+A ferocious dragon that views you as food and nothing else.
+~
+8298 40 -550 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 12
+E
+#13212
+snake~
+a giant snake~
+A HUGE snake towers over you.
+~
+This snake looks like it could swallow a man whole!
+~
+106 40 -500 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+BareHandAttack: 4
+Att2: 42
+Att3: 6
+E
+#13213
+demon~
+a demon~
+A demon searches the caverns for victims.
+~
+A large, lizard like creature sizes you up as a good meal.
+~
+8298 40 -500 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 60
+Att3: 15
+E
+#13214
+rat~
+a cave rat~
+A large cave rat is searching for it's next meal
+~
+This is the biggest rat you've ever seen!  Even though you are still bigger,
+it is still bent on killing you.
+~
+234 40 -450 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 39
+Att3: 6
+E
+#13215
+bat~
+a bat~
+A big brown bat is making noise
+~
+This bat keeps flying close to you, but doesn't attack.  You have the feeling
+that it's purpose is to distract you from noticing a larger foe.
+~
+8392 67108904 -390 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#13216
+spider~
+a giant spider~
+A giant, hairy spider eyes your inventory
+~
+A large, black, hairy spider that will eat your inventory the instant you 
+turn your back to it.
+~
+204 262176 -350 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 36
+Att3: 3
+E
+#13217
+blob~
+the blob~
+The blob is eating everything in it's path
+~
+Although slow moving, this....thing...will drain your life very quickly if 
+you are foolish enough to get too close.
+~
+78 40 -400 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13218
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain passes by.
+~
+A half-giant dragon lumbers by, paying no heed to you.
+~
+8392 40 200 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13219
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain eyes you suspiciously.
+~
+A half-drawf, this dragon is suspicious of strangers in the city.
+~
+8392 40 350 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13220
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain is here.
+~
+This dragon is half-elf and is rather slender for a dragon.
+~
+8392 40 500 E
+20 -6 -5 1d1+1836 5d5+88
+300 53412 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13221
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain smiles happily.
+~
+Although some high ranking officials in the city believe mating with humans
+will save dragons since humans appear to be taking over as the dominate 
+intelligent life-form, many are suspicious of half-humans for this very reason.
+Others simply believe that it is ruining the dragon race.
+~
+8392 40 100 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13222
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain grins evilly.
+~
+Although some high ranking officials in the city believe mating with humans will
+save dragons since humans appear to be taking over as the dominate intelligent
+life-form, many are suspicious of half-humans for this very reason.  Others 
+simply believe that it is ruining the dragon race.
+~
+8392 40 -100 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13223
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain glares at you.
+~
+This mean-spirited dragon is half-orc.
+~
+8392 40 -200 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13224
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain looks you over.
+~
+Because they are so strong and skilled in battle, half-minotaurs are favored 
+by many of the higher ranking officials in the city.
+~
+8392 40 -350 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13225
+citizen dragon~
+a citizen~
+A citizen of Cloudy Mountain snarls at you.
+~
+Although not as intelligent as the other dragons, this half-troll looks like
+a fierce fighter.
+~
+8392 8 -500 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13226
+citizen dragon~
+a dragon citizen~
+A citizen of Cloudy Mountain looms before you.
+~
+This dragon nearly takes up the whole room, since this is one of the true
+dragons in the city.
+~
+8264 40 0 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 9
+E
+#13227
+thief~
+a thief~
+A thief is here.
+~
+Although rather large, this half-human thief is certainly not clumsy and will
+rob you blind.
+~
+8396 794624 -370 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13228
+rogue~
+a rogue~
+A rogue is here.
+~
+A rogue is looking for a fight.
+~
+8396 8 -400 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13229
+assassin~
+the assassin~
+An assassin guards the entrance.
+~
+Every official must watch their back because of these deadly dragon assassins.
+Although large, they strike quickly and quietly and have the brawn to 
+engage in a straight fight.
+~
+8298 32 -500 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 15
+E
+#13230
+dragon anarchy~
+a Dragon of Anarchy~
+A member of the clan Dragons of Anarchy is here.
+~
+These dragons are a part of a clan dedicated to evil.  They hope to someday
+control the city and use it's army to conquer the surrounding lands.
+~
+8392 40 -600 E
+25 -8 -5 1d1+2292 5d5+90
+375 94180 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 12
+E
+#13231
+dragon virtue~
+a Dragon of Virtue~
+A member of the group Dragons of Virtue is here.
+~
+These dragons are dedicated to spreading good will and hope to eliminate
+the fear other races have for these large beings.
+~
+8392 8232 600 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 15
+E
+#13232
+Dracolich Gimp~
+the dracolich of Gimp~
+The dracolich of Gimp rears his head to attack.
+~
+It is the un-dead transformation of Gimp in his true dragon form that was 
+only observed when he was in a state of extreme anger.
+~
+8296 168 -1000 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 1 -1 -1
+Att2: 63
+Att3: 18
+E
+#13233
+lag monster~
+Lag~
+OH NO! IT'S THE HORRIBLE LAG MONSTER!!!!!!
+~
+It can't be killed, it kills players slowly by rendering them helpless with
+it's lag spell.  Everyone from the clueless newbie to the experienced hero
+falls victim to the lag monster.
+~
+8302 0 -1000 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 60
+Att3: 15
+E
+#13234
+cloaker~
+a cloaker~
+A large, black cloak lies here.
+~
+What you thought was a cloak rises to reveal a pale body and head with 
+piercing red eyes and a VERY large mouth.  It's tail uncurls and anticipates
+it's next meal.
+~
+8298 40 -500 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13235
+piercer stalactite~
+a piercer~
+A small stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+8234 1064 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13236
+piercer~
+a piercer~
+A stalactite hangs from the cave ceiling
+~
+You see what appears to be a harmless stalactite.
+~
+42 1064 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13237
+piercer~
+a piercer~
+A large stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+42 1064 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13238
+piercer~
+a piercer~
+A very large sharp stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+42 1064 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13239
+piercer stalactite~
+a piercer~
+A small stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+42 525352 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13240
+piercer~
+a piercer~
+A stalactite hangs from the cave ceiling
+~
+You see what appears to be a harmless stalactite.
+~
+42 525352 -200 E
+30 -11 -6 1d1+2760 5d7+92
+450 151287 8
+8 8 0 -1 -1
+Att2: 33
+E
+#13241
+piercer~
+a piercer~
+A large stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+42 525352 -200 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13242
+piercer~
+a piercer~
+A very large, sharp stalactite hangs from the cave ceiling.
+~
+You see what appears to be a harmless stalactite.
+~
+42 525352 -200 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13243
+anarchy~
+a Dragon of Anarchy~
+A member of the clan Dragons of Anarchy is here.
+~
+This dragon has sworn an oath to fighting good either directly or through 
+deception.
+~
+8392 8232 -900 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 12
+E
+#13244
+virtue~
+a Dragon of Virtue~
+A member of the group Dragons of Virtue is here.
+~
+This dragon has sworn an oath to battle evil either through negotiation, or
+if necessary, through combat.
+~
+8392 8232 900 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 15
+E
+#13245
+Drakknar~
+Drakknar~
+The Great Cloud Dragon, Drakknar, towers above you.
+~
+He is a pure dragon, and doesn't like other races, especially humans.  However
+he is a great politician, and it is he that prevents the two halves of the 
+city from destroying each other.
+~
+8202 168 0 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 1 -1 -1
+Att2: 63
+Att3: 18
+E
+#13246
+Kringe~
+Kringe~
+Kringe is thinking dreadful thoughts.
+~
+The leader of the clan Dragons of Anarchy.  Being a red dragon, he is very
+greedy.  It is rumored that he leads covert bands to sack other cities in 
+order to increase his wealth.  After appraising you as being no threat, he 
+begins counting his money...again.
+~
+10 168 -1000 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 1 -1 -1
+Att2: 72
+Att3: 21
+E
+#13247
+Maaklan~
+Maaklan~
+Maaklan smiles at you.
+~
+The leader of the group Dragons of Virtue.  She is pure silver dragon, but 
+likes to take on humanoid forms.  She especially enjoys the company of humans
+and elves.  Her favorite form is that of an elf with the best dragon features.
+She appears as a VERY tall, slender, gorgeous elven woman with a pale 
+complexion and flowing silver hair.
+~
+229386 8364 1000 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 2 -1 -1
+Att2: 75
+Att3: 24
+E
+#13248
+Bazarnog bronze puppy~
+Bazarnog~
+A bronze colored puppy wags it's tail.
+~
+The cute little puppy smirks.  Suddenly it transforms into a bronze hulk of
+a dragon.  He introduces himself to you as Bazarnog, leader of the warrior
+guild of Cloudy Mountain.
+~
+10 1073741992 800 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 1 -1 -1
+Att2: 72
+Att3: 21
+E
+#13249
+Barnok~
+Barnok~
+Barnok is memorizing spells.
+~
+The blue dragon, Barnok, leader of the Mage Guild.  Being a dragon Mage Hero, he
+has learned all of the dragon breath weapons.  Since he is a quarter 
+minotaur himself, Barnok has made sure many half-minotaurs have risen to 
+high ranks among the guards.
+~
+10 170 -800 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 1 -1 21
+Att2: 72
+Att3: 21
+E
+#13250
+Nara Saan~
+Nara Saan~
+Nara Saan is speaking very rapidly.
+~
+Nara Saan, the high priestess of the cleric guild.  She is a mercury dragon, 
+smaller, but fleeter.  She knows every cleric spell in the book.  She would
+rather preach to an opponent than fight.
+~
+10 25174184 800 E
+35 -13 -7 1d1+3216 5d7+94
+525 227412 8
+8 8 2 -1 -1
+Att2: 72
+Att3: 21
+E
+#13251
+Gringle shadow~
+Gringle~
+Something very large looms in the shadows.
+~
+You shine your light in the corner to expose Gringle, Head Assassin of the 
+thief guild.  He is a shadow dragon who loves surprises.  In fact, chances are
+he found you first.
+~
+238 786568 -800 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 72
+Att3: 21
+E
+#13252
+Ghanekar~
+Ghanekar~
+General Ghanekar becomes angry at your intrusion and attacks!
+~
+You are fighting Kringe's right hand man, or so Kringe thinks.  Ghanekar has
+a lot of shady deals on the side and no one really controls him.  He is a 
+green dragon and just so happens to be Gimp's dad.
+~
+8234 136 -750 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 69
+Att3: 18
+E
+#13253
+Arnog~
+Arnog~
+General Arnog the dragon-giant smiles at you.
+~
+You see the second in command of the Dragons of Virtue.  He is half giant,
+half gold dragon.  He appears to be a giant with gold scales instead of skin.
+He is also much more intelligent that your average giant, since gold dragons
+are geniuses.
+~
+8202 168 750 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 66
+Att3: 18
+E
+#13254
+Gauzrah~
+Commander Gauzrah~
+Commander Gauzrah stands silent.
+~
+One of the leaders of the Cloudy Mountain army.  He is also an active member of
+the Anarchy Clan.  He is half brown dragon and half minotaur.  Like Barnok,
+he prefers those with minotaur blood and thins his kind is superior on and 
+off the battlefield.
+~
+8200 524328 -300 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 63
+Att3: 18
+E
+#13255
+Raechalin~
+Raechalin~
+Raechalin is stand here.
+~
+You are surprised to see a human amongst all these dragons and half-dragons.
+Unless of course you are a steel dragon and recognize Raechalin as one of your
+own.  She is the army's best tactician.
+~
+72 40 350 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 2 -1 -1
+Att2: 42
+Att3: 6
+E
+#13256
+Captain~
+the captain~
+The captain of the guard stands watch over the city.
+~
+She is a sapphire dragon sparkling in the sunlight.  Her wings are folded
+behind her like a cloak.
+~
+72 40 200 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 2 -1 -1
+Att2: 45
+Att3: 6
+E
+#13257
+King~
+the King~
+The King of Cloudy Mountain sits here.
+~
+You see the king on a very large throne.  He is an amethyst dragon.  He keeps
+to himself in the castle, but always allows guests.  His main function is 
+keeping Drakknar from leaving the city, but stays out of the internal affairs
+as much as possible.  He likes humans and used to be married to one until her
+mysterious death.
+~
+10 168 0 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 72
+Att3: 21
+E
+#13258
+noble~
+a dragon noble~
+A dragon noble brushes past.
+~
+A dragon who has devoted it's life to hoarding as many jewels, gold, and riches
+as possible.  Status in this city is determined by wealth and the individual's
+determination to get it.
+~
+8200 40 -25 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13259
+Zilch~
+Zilch~
+Zilch is here giggling.
+~
+Although she is the most intelligent of the King's court, this half-human
+half-copper dragon spends most of her time planning practical jokes.  She is 
+the half-sister of Zonk.
+~
+8202 1572904 425 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 2 -1 -1
+Att2: 54
+Att3: 12
+E
+#13260
+Zonk~
+Zonk~
+Zonk is staring off into space.
+~
+Big and stupid.  Zonk is half white dragon and half human.  He is the half-
+brother of Zilch.
+~
+8202 42 -350 E
+40 -16 -8 1d1+3672 5d9+96
+600 325233 8
+8 8 1 -1 -1
+Att2: 57
+Att3: 15
+E
+#13261
+narz~
+Narz~
+Narz grins evilly at you.
+~
+Narz is half black dragon and half drow.  In fact she looks like a drow except
+she is extremely tall for a drow and has a long dragon's tail that she keeps
+hidden beneath her cloak.  She has more natural beauty (from a human's 
+perspective, not a dragon's) than any other in Cloudy Mountain.  She is very
+vain and very dangerous.
+~
+8202 168 -500 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 2 -1 -1
+Att2: 60
+Att3: 15
+E
+#13262
+Fred~
+Fred~
+Fred the dragon is talking your ear off.
+~
+Fred is a brass dragon who is always talking but has little to say.
+~
+8202 40 325 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13263
+hatchling~
+a hatchling~
+A dragon hatchling is crying.
+~
+Aw.... how cute! A baby dragon!
+A hatchling bites your toe off!
+~
+8200 40 0 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 33
+Att3: 3
+E
+#13264
+young dragon very~
+a very young dragon~
+A very young dragon is playing.
+~
+A very young dragon is playing.
+Ouch! A very young dragon tries to tackle you!
+~
+8200 40 0 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 30
+E
+#13265
+young dragon~
+a young dragon~
+A young dragon is here.
+~
+Although young by dragon standards, this dragon is already bigger than you.
+~
+8200 40 0 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#13266
+juvenile~
+a juvenile dragon~
+A juvenile dragon is here.
+~
+A juvenile dragon tackles you and knocks you out of the room!
+~
+8200 40 0 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 45
+Att3: 9
+E
+#13267
+peddler~
+a peddler~
+A shady looking peddler is in the corner.
+~
+The peddler is wearing a dark brown cloak.  The hood is pulled over it's head
+and only two large red eyes can be seen in the shadows.  The peddler cackles
+quietly.
+~
+24584 40 0 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#13268
+warrior~
+a warrior~
+A warrior smiles happily.
+~
+A half-giant, this dragon makes the perfect warrior.
+~
+8232 40 375 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13269
+warrior~
+a warrior~
+A warrior snarls at you.
+~
+A half-giant, this dragon could easily snap you like a twig.
+~
+12296 40 -200 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13270
+mage~
+a mage~
+A mage utters the words, 'powerword kill'.
+~
+A half-drow, this dragon mage is a master of casting deadly combat spells.
+~
+172040 1048618 -400 E
+45 -18 -8 1d1+4140 5d9+98
+675 447429 8
+8 8 0 -1 -1
+Att2: 45
+Att3: 6
+E
+#13271
+mage~
+a mage~
+A mage utters the words, 'zjjdf aljljwed'.
+~
+An elven-dragon, this mage is very powerful.
+~
+139272 65576 250 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#13272
+knight~
+a knight~
+A knight stands guard.
+~
+This dragon knight has sworn to honor and protect the warrior guild.
+~
+8200 42 500 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13273
+knight~
+a knight~
+A knight of evil glares at you.
+~
+A dragon knight that has fallen from the path of good.  This dragon will 
+surely be recruited by the Dragons of Anarchy.
+~
+8200 40 -500 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 9
+E
+#13274
+sorcerer~
+a sorcerer~
+A sorcerer of Barnok.
+~
+This half-minotaur mage is one of Barnok's favorites.  Knowing that only the
+most powerful mages may become one of his personal sorcerers, you think twice
+about attacking.
+~
+401416 65568 -500 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 51
+Att3: 12
+E
+#13275
+samurai~
+a samurai warrior~
+A samurai warrior stands guard.
+~
+Dressed in ancient robes, this warrior is a master of swords.
+~
+454682 1048616 300 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 78
+Att3: 24
+E
+#13276
+ranger~
+a ranger~
+A ranger is here.
+~
+A half-elf ranger.
+~
+270344 40 500 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 48
+Att3: 9
+E
+#13277
+cleric~
+a cleric~
+A cleric is here.
+~
+The clerics of Cloudy Mountain have mastered the art of healing that is 
+second to none.
+~
+8 168 490 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 45
+Att3: 9
+E
+#13278
+priest~
+a priest~
+A priest of Nara Saan is here worshiping.
+~
+A priest dressed in mercury robes is saying prayers in honor of Nara Saan.
+The priests also serve as Saan's personal bodyguards.
+~
+8202 40 600 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 54
+Att3: 12
+E
+#13279
+priest~
+a priest~
+A priest of Nara Saan is here worshiping.
+~
+A priest dressed in mercury robes is saying prayers in honor of Nara Saan.
+The priests also serve as Saan's personal bodyguards.
+~
+8 40 0 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#13280
+Monk~
+a monk~
+A monk guards the entrance.
+~
+These silent guards are respected by the city for their vow of silence.  It does
+not include spell casting, which equal the most powerful sorcerers'.
+~
+12298 168 550 E
+50 -21 -9 1d1+4596 5d11+100
+750 596679 8
+8 8 0 -1 -1
+Att2: 57
+Att3: 15
+E
+$

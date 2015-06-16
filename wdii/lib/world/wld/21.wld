@@ -1,0 +1,1069 @@
+#2100
+The Great Field~
+You are standing in a great field of tall grass.  The smell of fresh dirt and sunlight surrounds you.  The air is filled with the sound of chirping birds happily building their nests in the depths of the knotted grass.  A wagon trail runs in an east-sout
+~
+21 16777216 2
+D2
+~
+gate~
+1 -1 12029
+D3
+~
+~
+0 0 2101
+S
+#2101
+The Forest's Edge~
+   The grassland fades to spotted scrub here, and finally merges into a great
+line of trees.  To the far north a stormcloud hangs in the air ominously, but
+strangely enough it is still quite pleasant out.  Crickets chirp merrily, and
+the sun's rays warm your skin.  The wagon trail leads eastwards back into the
+grassland, and dissapears westwards into the forest.    
+~
+21 0 3
+D1
+~
+~
+0 0 2100
+D3
+~
+~
+0 0 2102
+S
+#2102
+Entrance to the Forest of Graye~
+   The trail passes into the shade here, and the temperature drops quite
+suddenly.  Great broad leaf trees gather the descending sunlight, and cover the
+leaf-strewn forest floor with dappled sunlight.  The wagon trail becomes much
+wider here, showing signs of recent heavy use.  The wagon trail runs from west
+to east here, and it looks possible to venture into the forest to the north and
+south.    
+~
+21 0 3
+D0
+~
+~
+0 0 2104
+D1
+~
+~
+0 0 2101
+D2
+~
+~
+0 0 2105
+D3
+~
+~
+0 0 2109
+S
+#2103
+The Forest of Graye~
+   You in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D2
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 2107
+S
+#2104
+The Forest of Graye~
+   You in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2103
+D1
+~
+~
+0 0 2102
+D3
+~
+~
+0 0 2108
+S
+#2105
+The Forest of Graye~
+   You in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2102
+D2
+~
+~
+0 0 2106
+D3
+~
+~
+0 0 2110
+S
+#2106
+The Forest of Graye~
+   You in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2105
+D3
+~
+~
+0 0 2111
+S
+#2107
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.  There is a
+sheer cliff face to the west, rising up above the forest.  There is a &R&RSIGN&n
+nailed neatly on the cliff wall.    
+~
+21 0 3
+D1
+~
+~
+0 0 2103
+D2
+~
+~
+0 0 2108
+E
+sign~
+The sign reads:
+
+******************************
+*                            *
+*       The Graye Area       *
+*         Written By:        *
+*      Aten of GenericMUD    *
+*         April 1994         *
+*                            *
+*         Modified to        *
+*         Wardome Mud        *
+*         By Heimdall        *
+*                            *
+*                            *
+******************************
+~
+E
+cliff sheer face~
+The face of the cliff seems impossible to scale.
+~
+S
+#2108
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.  There is a
+sheer cliff face to the west, rising above the forest.    
+~
+21 0 3
+D0
+~
+~
+0 0 2107
+D1
+~
+~
+0 0 2104
+D2
+~
+~
+0 0 2109
+E
+cliff sheer face~
+The face of the cliff seems impossible to scale.
+~
+S
+#2109
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.  The wagon trail
+ends abruptly here.    
+~
+21 0 0
+D0
+~
+~
+0 0 2108
+D1
+~
+~
+0 0 2102
+D2
+~
+~
+0 0 2110
+D3
+~
+~
+0 0 2112
+S
+#2110
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 0
+D0
+~
+~
+0 0 2109
+D1
+~
+~
+0 0 2105
+D2
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2113
+S
+#2111
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2110
+D1
+~
+~
+0 0 2106
+S
+#2112
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.  There is a
+sheer cliff face to the north, rising above the forest.    
+~
+21 0 3
+D1
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2113
+D3
+~
+~
+0 0 2115
+E
+cliff sheer face~
+The cliff face seems impossible to scale
+~
+S
+#2113
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2112
+D1
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2114
+D3
+~
+~
+0 0 2116
+S
+#2114
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2113
+D1
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2117
+S
+#2115
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.  There is a
+cliff face to the north.    
+~
+21 0 3
+D1
+~
+~
+0 0 2112
+D2
+~
+~
+0 0 2116
+D4
+~
+~
+0 0 2118
+E
+cliff face~
+   It seems that if you put your toe right here, and your left hand over here,
+that you just might be able to climb it.    
+~
+S
+#2116
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2115
+D1
+~
+~
+0 0 2113
+D2
+~
+~
+0 0 2117
+S
+#2117
+The Forest of Graye~
+   You are in a hardwood forest, walking through noisy leaves.    
+~
+21 0 3
+D0
+~
+~
+0 0 2116
+D1
+~
+~
+0 0 2114
+S
+#2118
+The Cliff Wall~
+   You inch your way upwards, hand over hand, searching out more footholds.  
+Sweat stings your eyes, and your breathing becomes ragged.  You can still drop
+safely to the forest floor, or madly continue upwards.    
+~
+21 4 5
+D4
+~
+~
+0 0 2119
+D5
+~
+~
+0 0 2115
+S
+#2119
+The Overhang~
+   You progress upwards is stopped by what appears to be an overhang.  It would
+be a nice place to stop an rest..  If you weren't underneath it.  You glance
+around for an alternate path..    
+~
+21 0 5
+D1
+~
+~
+0 0 2120
+D5
+~
+~
+0 0 2118
+S
+#2120
+Hanging By a Thread~
+   As you reach for your next handhold, the rock comes loose and tumbles down,
+down, down to the ground.  You barely manage to save yourself by clinging
+desperately to the rock face with your other hand.  Returning back west is out
+of the question, but you might be able to pull yourself upwards onto a very
+thin ledge.    
+~
+21 0 5
+D4
+~
+~
+0 0 2121
+E
+ledge thin~
+The ledge is very narrow, perhaps two feet at it's widest part.
+~
+S
+#2121
+The Thin Ledge~
+   You are standing on a very thin ledge, just wide enough for your feet to
+stand on it widthwise.  The ledge widens to the west and east.    
+~
+21 0 5
+D1
+~
+~
+0 0 2123
+D3
+~
+~
+0 0 2122
+D5
+~
+~
+0 0 2123
+S
+#2122
+The Ledge~
+   You find yourself on a very wide ledge.  You could stretch out here and take
+a nap if you wanted too.  To the south you get a fantastic view of the entire
+forest.  There is perhaps another forty feet to the top of the cliff, all of
+which appears to be an easy climb.    
+~
+21 0 5
+D1
+~
+~
+0 0 2121
+D4
+~
+~
+0 0 2124
+S
+#2123
+Oops.~
+   "Aaarrrggg!  ", you scream as you plummet toward the earth.  The ground
+rushes up at you at a dizzying pace, and you prepare for impact.  Suddenly,
+there is a flash of blinding light, and you feel yourself floating in white
+light.  You notice a glint in Aten's eye.    
+
+     "Your time has not yet come..", he utters.
+~
+21 6 5
+S
+#2124
+Top of the Cliff~
+   You reach the top of the cliff and struggle to your feet.  You spend several
+moments just turning around, taking in all that you see.  To the south and east
+you see the forest sweeping outwards from the cliff wall, and to the north you
+see a clearing surrounding a small town.    
+~
+21 0 4
+D0
+~
+~
+0 0 2126
+D5
+~
+~
+0 0 2122
+S
+#2125
+The Clearing~
+   You are in a wide clearing between the city walls and the forest.  You see
+men atop the walls pointing at you and gesturing frantically.    
+~
+21 0 2
+D0
+~
+~
+0 0 2128
+D1
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2131
+S
+#2126
+The Clearing~
+   You are in a wide clearing between the city walls and the forest.  You see
+men atop the walls pointing at you and gesturing frantically.    
+~
+21 0 2
+D0
+~
+~
+0 0 2129
+D1
+~
+~
+0 0 2127
+D2
+~
+~
+0 0 2124
+D3
+~
+~
+0 0 2125
+S
+#2127
+The Clearing~
+   You are in a wide clearing between the city walls and the forest.  You see
+men atop the walls pointing at you and gesturing frantically.    
+~
+21 0 2
+D0
+~
+~
+0 0 2130
+D1
+~
+~
+0 0 2134
+D3
+~
+~
+0 0 2126
+S
+#2128
+The Clearing~
+   You are in a wide clearing between the city walls and the forest.  You see
+men atop the walls pointing at you and gesturing frantically.    
+~
+21 0 2
+D2
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2132
+S
+#2129
+Entrance to the City of Graye~
+   You are standing before the great gate of Graye.  Crimson plumed soldiers
+raise the portcullis and urge you the enter quickly.    
+~
+21 0 1
+D0
+~
+~
+0 0 2135
+S
+#2130
+The Clearing~
+   You are in a wide clearing between the city walls and the forest.  You see
+men atop the walls pointing at you and gesturing frantically.    
+~
+21 0 2
+D1
+~
+~
+0 0 2133
+D2
+~
+~
+0 0 2127
+S
+#2131
+The Demon's Wood~
+   You find yourself among the twisted, gnarled trunks of giant thorn trees.  
+Mist covers the forest floor and everything is completely silent.    
+~
+21 0 2
+D0
+~
+~
+0 0 2132
+D1
+~
+~
+0 0 2125
+S
+#2132
+The Demon's Wood~
+   You find yourself among the twisted, gnarled trunks of giant thorn trees.  
+Mist covers the forest floor and everything is completely silent.    
+~
+21 0 2
+D1
+~
+~
+0 0 2128
+D2
+~
+~
+0 0 2131
+S
+#2133
+The Demon's Wood~
+   You find yourself among the twisted, gnarled trunks of giant thorn trees.  
+Mist covers the forest floor and everything is completely silent.    
+~
+21 0 2
+D2
+~
+~
+0 0 2134
+D3
+~
+~
+0 0 2130
+S
+#2134
+The Demon's Wood~
+   You find yourself among the twisted, gnarled trunks of giant thorn trees.  
+Mist covers the forest floor and everything is completely silent.    
+~
+21 0 2
+D0
+~
+~
+0 0 2133
+D3
+~
+~
+0 0 2127
+S
+#2135
+The City Street~
+   Simple houses line both sides of the street, and guards are posted at every
+junction.  There is a castle to the north, and more streets to the east and
+west.  There is a large sign posted on a wall here.    
+~
+21 0 1
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2137
+D3
+~
+~
+0 0 2136
+E
+sign large~
+There is a sign posted here, it says:
+
+
+                 ATTENTION CITIZENS OF GRAYE!
+
+Due to the demons beseiging our city, their night-time raids, and their recent kidnapping of King Relnar, we ask all citizens to observe the 7 pm curfew!  Those out on the streets after dark run the risk of being mistaken for the enemy and killed!
+
+signed,
+The Graye Guard
+~
+S
+#2136
+The City Streets~
+   Small houses line both sides of the street, and armed guards are posted at
+every junction.  You see a small poster pasted to the wall here.    
+~
+21 0 1
+D1
+~
+~
+0 0 2135
+E
+poster small~
+The poster reads:
+
+Great rewards will be given to anyone who can rescue the benevolent King Relnar.
+~
+S
+#2137
+The City Streets~
+   Small houses line both sides of the street, and armed guards are posted at
+every junction.    
+~
+21 0 1
+D3
+~
+~
+0 0 2135
+S
+#2138
+Inside the Castle~
+   Everything here is a mess.  Furniture has been overturned, paintings
+slashed, even the gold inlaid tiles have been torn up.    
+~
+21 0 1
+D1
+~
+~
+0 0 2139
+S
+#2139
+Entrance to Relnar's Castle~
+   You stand before the ajar gate of the castle.  You here complete silence
+from inside.  City life continues to bustle around you.    
+~
+21 0 0
+D0
+~
+~
+0 0 2142
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2138
+S
+#2140
+Inside the Castle~
+   Everything here is a mess.  Furniture has been overturned, paintings
+slashed, even the gold inlaid tiles have been torn up.    
+~
+21 0 0
+D3
+~
+~
+0 0 2139
+S
+#2141
+Relnar's Study~
+   As soon as you enter this room, you feel it.  A magical aura of goodness
+fills this room, and everything is in a neat and tidy condition.    
+~
+21 0 0
+D1
+~
+~
+0 0 2142
+D5
+~
+floorboards secret~
+1 2123 2157
+S
+#2142
+The Throne Room~
+   King Relnar's throne sits here, empty.  There are rooms to the east and
+west.    
+~
+21 0 0
+D1
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2139
+D3
+~
+~
+0 0 2141
+D5
+~
+secret~
+1 2101 2144
+S
+#2143
+Rymat's Chamber~
+   You find yourself in a small undecorated chamber.  There is a bed, desk, and
+finely crafted washbasin.    
+~
+21 0 0
+D3
+~
+~
+0 0 2142
+E
+basin wash washbasin~
+It is a very nice washbasin.
+~
+E
+desk~
+It is a bare desk, no drawers or anything.
+~
+E
+bed~
+It is a tidy, well made bed.
+~
+S
+#2144
+The Tunnel~
+   The tunnel has a bare dirt floor, and its sides are of rough-hewn rock.  
+Magical torches are set in each side of the tunnel wall, providing light.    
+~
+21 0 0
+D0
+~
+~
+0 0 2145
+D4
+~
+secret~
+1 2101 2142
+E
+torch torches magical~
+They provide light with a soft magical glow.
+~
+S
+#2145
+The Tunnel~
+   The tunnel begins to curve upwards.    
+~
+21 0 0
+D0
+~
+~
+0 0 2146
+D2
+~
+~
+0 0 2144
+S
+#2146
+Tunnel's End~
+   You reach the end of the tunnel.  Just above you, sunlight peeks around the
+edge of a trapdoor.    
+~
+21 0 0
+D2
+~
+~
+0 0 2145
+D4
+~
+trapdoor~
+1 2102 2147
+S
+#2147
+The Valley of Demons~
+   You emerge from the tunnel, and take a look around you.  To the far south
+you can just barely see one of the castle's towers over the trees.  To the
+north, the land sloped downward, and thick, gnarled thorn trees prevent
+movement to the east or west.    
+~
+21 0 0
+D0
+~
+~
+0 0 2148
+D5
+~
+trapdoor~
+1 2102 2146
+S
+#2148
+The Valley of Demons~
+   You are heading deeper and deeper into a valley.  The walls climb up on
+either side of you, soon becoming nearly vertical.  Your path is slowed by
+thick choking vegetation grabbing your boots.  The path back to the south
+disappears in darkness, and your path continues to dip as you head to the
+north.    
+~
+21 0 0
+D0
+~
+~
+0 0 2149
+D2
+~
+~
+0 0 2147
+S
+#2149
+The Valley Floor~
+   You have reached the very bottom of the valley.  The hills climb steeply to
+the east and west.  A sudden gust of wind brings you the smell of sulphur from
+the north.    
+~
+21 0 0
+D0
+~
+~
+0 0 2150
+D2
+~
+~
+0 0 2148
+S
+#2150
+The Rift~
+   A great yawning rift breaks the earth's surface here.  Tendrils of smoke
+waft their way upwards, stinging your nose sharply.  You sense that a great
+evil is near.    
+~
+21 0 0
+D2
+~
+~
+0 0 2149
+D5
+~
+~
+0 0 2151
+S
+#2151
+Inside the Rift~
+   There is a ledge here, and a tunnel which leads into the earth.  Far below
+you, lava churns and bubbles.    
+~
+21 0 0
+D0
+~
+~
+0 0 2152
+D4
+~
+~
+0 0 2156
+S
+#2152
+The Tunnel~
+   The tunnel leads north and south, and to either side of you are great cells.
+Peeking in a smudged window, you see human prisoners, many of them wearing the
+uniform of the Graye Guard.    
+~
+21 0 0
+D0
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2151
+S
+#2153
+Irgon's Guard Room~
+   You find yourself in a small guard room.  Chambers to the east and west
+house prisoners, and an ebony door blocks the way north.  Instruments of
+torture line the walls, and blood is splattered everywhere.    
+~
+21 0 0
+D0
+~
+eboyn door~
+1 2103 2154
+D2
+~
+~
+0 0 2152
+S
+#2154
+Scrytin's Chamber of Doom~
+   This chamber is COVERED in blood.  The Arch-Demon Scrytin has made this foul
+place his abode.  There is an Ivory door to the east.    
+~
+21 0 0
+D1
+~
+ivory door~
+1 2104 2155
+D2
+~
+door ebony~
+1 2103 2153
+E
+door ebony~
+An ebony door is there.
+~
+E
+ivory door~
+There is an ivory door there.
+~
+S
+#2155
+Relnar's Cell~
+   You stumble into a tiny cell, lit by a single candle.    
+~
+21 0 0
+D1
+~
+~
+0 0 2141
+D3
+~
+ebony door~
+1 2104 2154
+S
+#2156
+The Lava~
+You slip..
+           ..
+              ..
+                 hot
+                     Hot
+                         HOT!!
+~
+21 6 0
+S
+#2157
+The secret passage~
+   You are in an unfinished room.  You step into the musty passage and let your
+eyes grow accustomed to the light.  Stone walls block every direction save
+north.    
+~
+21 0 0
+D0
+~
+~
+0 0 2158
+D4
+~
+~
+0 0 2141
+S
+#2158
+The Catacombs~
+   You are in an unfinished room.  You walk along the passage, and notice the
+remains of all the previous kings of Graye are buried on either side of you.  
+You can see in the room, but there is no discernable source of light.  The
+passage continues on to the north and south.    
+~
+21 0 0
+D0
+~
+~
+0 0 2159
+D2
+~
+~
+0 0 2157
+S
+#2159
+The Tomb of Graye~
+   You enter a huge circular room.  A guilded gold coffin rests in the center
+atop at stone tablet.  Treasure is piled high against all the walls.  You have
+found the final resting place of the paladin knight Graye.    
+~
+21 0 0
+D2
+~
+~
+0 0 2158
+E
+stone tablet~
+   It is a giant stone tablet supporting the coffin of Graye.    
+~
+E
+coffin~
+   The coffin holds the remains of Graye.  His gift to you is not within it.  
+
+~
+S
+$~

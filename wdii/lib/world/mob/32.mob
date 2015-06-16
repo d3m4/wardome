@@ -1,0 +1,117 @@
+#3201
+shaggy monk~
+the Shaggy Monk~
+A shaggy monk stands here quietly.
+~
+   This man looks like an ordinary monk, except he is really quite a big fella,
+and seems to have a lot of very fine brown body hair, even on his palms..  
+*stare*
+~
+266 16777216 400 E
+155 -57 -13 1d1+4332 5d16+62
+2325 11337518 0
+8 8 1 1 0
+Att2: 70
+Att3: 30
+Att4: 10
+E
+#3202
+silver statue~
+the Silver Statue~
+A silver statue has posted itself in the corner.
+~
+   Well, It doesn't APPEAR to be human.  It looks like a suit of armor, but why
+the heck did it just turn to look at you?    
+~
+2314 16777216 400 E
+160 -60 -14 1d1+4476 5d17+64
+2400 11302310 0
+8 8 0 -1 -1
+Att2: 75
+Att3: 40
+Att4: 25
+E
+#3203
+templar~
+the templar of Mateon~
+Mateon's Templar is here, looking out the window.
+~
+   This man has dedicated his life to Mateon, and the man behind the mask.  He
+turns from the window and stares at you blankly.    
+~
+2314 16777216 400 E
+165 -62 -14 1d1+4620 5d17+66
+2475 13595832 0
+8 8 1 1 0
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#3204
+mateon knight~
+the grand knight Mateon~
+Mateon, defender of the Bull, scowers at you!
+~
+   Mateon is a HUGE man.  A huge ANGRY man.  He will NOT let you NEAR the man
+behind the mask.    
+~
+2314 16777216 400 E
+165 -62 -14 1d1+4620 5d17+66
+2475 13595832 0
+8 8 1 1 0
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#3205
+chambermaid~
+the Chambermaid~
+A Chambermaid is here, desperately trying to straighten up.
+~
+   The Chambermaid looks harried, and glances at you with fear in her eyes.  
+
+~
+2314 16777216 400 E
+165 -62 -14 1d1+4620 5d17+66
+2475 12359848 0
+8 8 2 -1 0
+Att2: 75
+Att3: 45
+Att4: 35
+E
+#3206
+taurus~
+Taurus~
+A man wearing a golden mask watches you.
+~
+   You look at this man, and then notice something funny.  It seems to be
+difficult for him to stand on two legs.  As you watch, he drops to all fours.
+You see a glimpse of fur under his cloak.  He peels the mask off and you stare
+into his brown eyes, and big, wet, black nose.  "Nice nose ring", you think.  
+
+~
+2314 16777216 400 E
+170 -65 -15 1d1+4752 5d18+68
+2550 13481323 0
+8 8 1 -1 -1
+Att2: 85
+Att3: 55
+Att4: 35
+E
+#3207
+acolyte~
+an acolyte~
+An acolyte is here, looking for a broom.
+~
+   The acolyte wanders around, looking for a broom.  He is making a heroic
+attempt to ignore you.    
+~
+456 16777216 400 E
+155 -57 -13 1d1+4332 5d16+62
+2325 11337518 0
+8 8 1 1 0
+Att2: 70
+Att3: 40
+Att4: 25
+E
+$

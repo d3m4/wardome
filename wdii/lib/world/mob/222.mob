@@ -1,0 +1,87 @@
+#22200
+amanda aprentice~
+Amanda, the pupil of Marche~
+&cAmanda &ythe first pupil of &CMarche&y is here, practicing some magik.&n
+~
+Amanda is a beautiful young girl, but her
+sage look, reveals that she is more than she
+looks like.
+~
+3661898 638582912 0 E
+0 200 -380 -40d60000+1 5592d5+41
+320 3000 416913805
+0 8 8 8 0
+BareHandAttack: 12
+Str: 0
+Att2: 100
+Att3: 90
+Att4: 90
+E
+#22201
+avatar angel~
+Amanda's avatar~
+An incredibly beautiful angel is here, protecting Amanda.
+~
+This angel seems to have one single objective:
+Protect Amanda at all cost! It is her avatar
+and her guide.
+~
+3665994 638943386 0 E
+0 200 -380 -40d60000+1 5592d5+41
+320 3000 416913805
+0 8 8 8 0
+BareHandAttack: 12
+Str: 0
+Att2: 100
+Att3: 100
+Att4: 95
+E
+#22202
+yin~
+Yin, o bom~
+&cYin&y, a bondade pura, se encontra aqui.&n
+~
+Voce se sente purificado so' pelo fato de olhar para
+essa criatura. A bondade flui de seu interior.
+~
+3661832 0 0 E
+0 0 20 -10d0+1 0d5+1
+0 0 0
+0 0 1 22 0
+Str: 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#22203
+yang~
+Yang, o mal~
+&cYang&y, a maldade pura, se encontra aqui.&n
+~
+Voce se sente contaminado pelo odio e maldade,
+ao olhar para esse ser. A maldade domina o ambiente.
+~
+3661832 0 0 E
+0 0 20 -10d0+1 0d5+1
+0 0 0
+0 0 1 22 0
+Str: 0
+Att2: 100
+Att4: 100
+E
+#22204
+fett gay carlos~
+Fett, o gay~
+&YFett&y esta' aqui, se esfregando em voce, e procurando criancinhas.&n
+~
+OLHA! E' O FETT!!! POOTA M****!!!
+ele lhe faz uma proposta indecente...
+chuta ele! o que ta' esperando?
+~
+10 0 0 E
+0 0 20 -10d0+1 0d5+1
+0 0 0
+0 0 0 26 24
+Str: 0
+E
+$

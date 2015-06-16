@@ -1,0 +1,519 @@
+#10100
+Ungolianth clan guard~
+Ungolianth~
+A beast seeming to be formed of blood and many tentacles is here, shreding flesh.
+~
+It looks unfinished.
+~
+4186123 562036904 -500 E
+200 -92 -29 1d1+15192 5d41+140
+3000 28877146 6
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#10101
+elven guard~
+Elven Guard~
+a elven guard is here, guarding the door.
+~
+
+~
+467210 33558696 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 3 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10102
+elven guard~
+Elven Guard~
+a elven guard is here, guarding the door.
+~
+
+~
+467210 33558696 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 0 3 3
+BareHandAttack: 1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10103
+Erestor~
+Erestor~
+Erestor the counsellor is here.
+~
+
+~
+49162 4264 750 E
+140 -62 -20 1d1+10632 5d29+116
+2100 10232048 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10104
+fair elf~
+Fair Elf~
+a fair elf is smiling to you.
+~
+
+~
+49352 33559720 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10105
+Legolas~
+Legolas Greenleaf~
+Legolas, Prince of Mirkwood is here.
+~
+
+~
+3633226 1628476584 1000 E
+200 -92 -29 1d1+15192 5d41+140
+3000 28877146 6
+8 8 1 -1 3
+Att2: 100
+Att3: 100
+Att4: 90
+E
+#10106
+chef cook~
+Chef~
+The Chef is here, shouting orders to the other cooks.
+~
+
+~
+10 4264 750 E
+120 -52 -17 1d1+9120 5d25+108
+1800 6558348 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10107
+cook~
+the Cook~
+There is a cook here, making himself busy with a pot.
+~
+A junior cook, eager to do the Chef's bidding.
+~
+32968 4136 750 E
+120 -52 -17 1d1+9120 5d25+108
+1800 6558348 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10108
+Bilbo Baggins~
+Bilbo Baggins~
+Bilbo Baggins, world traveller.
+~
+
+~
+286858 4264 1000 E
+120 -52 -17 1d1+9120 5d25+108
+1800 6558348 6
+8 8 1 -1 -1
+Att2: 100
+Att3: 95
+Att4: 70
+E
+T 10108
+T 10107
+#10109
+fair headed elf~
+Fair Elf~
+A fair-headed elf cleans up a mess.
+~
+
+~
+10316 4136 750 E
+120 -52 -17 1d1+9120 5d25+108
+1800 6558348 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10110
+old wizard~
+Old Wizard~
+An old wizard trainer is here.
+~
+
+~
+57354 69802 750 E
+145 -64 -20 1d1+11016 5d29+118
+2175 12458707 6
+8 8 1 9 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10111
+Carilan~
+Carilan~
+Carilan, the shopkeeper is here.
+~
+
+~
+92170 4264 750 E
+135 -59 -19 1d1+10260 5d27+114
+2025 9210748 6
+8 8 2 -1 3
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10112
+elven girl~
+Elven Girl~
+An elven girl hums a happy tune.
+~
+
+~
+4296 37032 750 E
+125 -54 -17 1d1+9492 5d25+110
+1875 7376398 6
+8 8 2 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10113
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 750 E
+0 8 1 1d1+0 5d1+60
+0 0 6
+8 8 0 0 0
+E
+#10114
+Aelros~
+Aelros~
+Aelros patiently repairs a flute.
+~
+It looks unfinished.
+~
+92170 5288 750 E
+140 -62 -20 1d1+10632 5d29+116
+2100 10232048 6
+8 8 1 -1 3
+E
+#10115
+Healer~
+the Healer~
+The Healer is curing the people that are here.
+~
+
+~
+516106 37032 1000 E
+130 -57 -18 1d1+9876 5d27+112
+1950 9085667 6
+8 8 1 1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+T 10115
+#10120
+Anslem~
+Anslem~
+Anslem, the Firemaker is here.
+~
+
+~
+147466 4264 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 -1 3
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10122
+Eshna~
+Eshna~
+Eshna, an elderly elven woman.
+~
+
+~
+147466 4264 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 2 -1 3
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10123
+celeborn~
+Celeborn~
+Celeborn, Lord of Lorien is here protecting arwen.
+~
+
+~
+454666 16789672 1000 E
+150 -67 -21 1d1+11400 5d31+120
+2250 12495398 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 70
+E
+#10124
+Arwen~
+Arwen~
+Arwen, Daughter of Elrond is here.
+~
+
+~
+1564810 16781480 1000 E
+150 -67 -21 1d1+11400 5d31+120
+2250 12495398 6
+8 8 2 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10125
+Elrond~
+Elrond~
+Elrond the Elf Lord is resting here.
+~
+
+~
+3663946 554734760 1000 E
+200 -92 -29 1d1+15192 5d41+140
+3000 28877146 6
+8 8 1 -1 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#10127
+elf~
+Annoyed Elf~
+An annoyed elf growls at you.
+~
+
+~
+147464 4264 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10128
+elven traveler~
+Elven Traveler~
+An elven traveler meets your gaze.
+~
+
+~
+147464 4264 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10129
+Adric~
+Adric~
+Adric, a scholar of tongues.
+~
+
+~
+149512 4264 750 E
+130 -57 -18 1d1+9876 5d27+112
+1950 8259698 6
+8 8 1 -1 3
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10135
+elven artist~
+Elven Artist~
+An elven artist studies the valley.
+~
+
+~
+147466 1192 750 E
+120 -52 -17 1d1+9120 5d25+108
+1800 6558348 6
+8 8 1 -1 3
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#10139
+The Blind Octopussy~
+Octopussy~
+The Octopussy attacks you with its slimy tentacles.
+~
+This is a creature from the deepest part of the pool.
+~
+385066 1073743016 -750 E
+150 -67 -21 1d1+11400 5d31+120
+2250 12495398 6
+8 8 0 -1 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 99
+Att4: 70
+E
+#10145
+huge troll~
+Huge Troll~
+Here is standing a huge troll searching for blood.
+~
+
+~
+213032 1073743016 500 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 0 -1 18
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10146
+old huge troll~
+Old Huge Troll~
+Here is standing a old huge troll searching for blood.
+~
+
+~
+94248 1090520232 -750 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 0 -1 18
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10147
+fat goblin~
+Fat Goblin~
+a goblin is standing here eating something, waiting for you!
+~
+
+~
+65608 1073743016 -750 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 0 3 -1
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10148
+goblin~
+Goblin~
+The goblin walks around, looking for someone to kill.
+~
+
+~
+262248 1192 -750 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 1 3 -1
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10149
+Orc~
+Orc~
+a orc is seeking you, go away or be dead.
+~
+
+~
+24616 1192 -750 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 0 3 5
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10150
+orc archer~
+Orc Archer~
+A strange Archer is here.
+~
+You see a very ugly creature smelling bad here, he have a bow.    
+~
+143400 1073743016 -750 E
+100 -42 -14 1d1+7596 5d21+100
+1500 3888649 6
+8 8 0 -1 5
+Att2: 100
+Att3: 95
+Att4: 70
+E
+#10151
+statue elendil~
+Statue of Elendil~
+you see a great statue of Elendil, the last king of men.
+~
+Look you see a big one it decrees, of the great king Elendil, the last king of
+men.  This decrees it inspires Honor, Courage, and Glories, you feel blessed
+when looks at her.    
+~
+3661834 1627391144 500 E
+200 -92 -29 1d1+15192 5d41+140
+3000 28877146 6
+8 8 1 3 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#10198
+steel warrior clan guard~
+&cS&Ct&we&Ce&cl W&Ca&wr&Wr&wi&Co&cr&n~
+&ca &cS&Ct&We&Ce&cl &cW&Ca&Wr&wr&Wi&Co&cr is standing here, with his sword drawn, and held high.&n
+~
+The proud expression of the warrior inspire battle songs in your mind...
+You suddenly start to daydream and to understand the words that inspire the kingdom echoing:
+"Time to face the world let brothers never fight
+Forever forge ahead and keep the dream in sight
+For those who never try they are sure to fail
+The heart's a righteous wind that comes to fill the sail
+For the glory of the king we fight to stay alive
+By the power of the will, the spirit to survive..."
+~
+4188171 562036904 0 E
+200 -92 -29 1d1+15192 5d41+140
+3000 28877146 6
+8 8 0 3 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

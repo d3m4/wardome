@@ -1,0 +1,1035 @@
+#10400
+blood fountain~
+the blood from the fountain~
+The &Rblood &yin the &wfountain &ygurgles merrily.&n
+~
+You see gallons and gallons of thick red blood gurgling in the fountian.    
+~
+65546 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10401
+oldstyle Guardian guard~
+the Guardian of Hell~
+A Guardian of Hell stands here, keeping you the Hell out.
+~
+The guardian is a stone devil, a hideous creation from the dark laboratories
+of Hell.  Its black eyes stare into your soul with a hunger that makes you
+shiver.  The guardian stands motionless before you.  Its rough grey skin
+looks impervious to normal weapons.
+~
+42 8389800 -900 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 60
+Att4: 20
+E
+#10402
+Bloody severed nose~
+Bloody severed nose~
+A &rbloody &ysevered nose lies here.&n
+~
+I wonder how the person that lost this smells...  Hopefully not as bad as this
+nose does...    
+~
+270346 8389768 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10403
+male Scavenger~
+the Male Scavenger~
+The Male Scavenger lies on the bed, waiting to please you.
+~
+This is the most handsome male you have ever seen.  The well-defined
+muscles on his naked body make your mouth water.
+~
+42 8389760 -1000 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 1 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10404
+female scavenger~
+the female Scavenger~
+The Female Scavenger lies on the bed, waiting to please you.
+~
+This is the most beautiful female you have ever seen. The curves of her
+naked body make you sweat and babble uncontrollably.
+~
+42 8389760 -1000 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 2 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10405
+Bloody severed foot~
+Bloody severed foot~
+A &rbloody &ysevered foot lies here.&n
+~
+This bloody foot definitely wasn't a lucky one.
+~
+196618 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10406
+Bloody severed arm~
+Bloody severed arm~
+A &rbloody &ysevered arm lies here.&n
+~
+The blood arm of some poor luckless indivudual.  The stench of the gore covered
+limb makes you want to retch.    
+~
+73738 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10407
+vegetable pot pie~
+a yummy vegetable pot pie~
+A yummy looking vegetable pot pie is here on the ground.
+~
+You see a golden crusted pot pie filled with vegetables.
+~
+10 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10408
+beef pot pie~
+a yummy beef pot pie~
+A yummy looking beef pot pie is here on the ground.
+~
+You see a golden crusted pot pie filled with beef and vegetables.
+~
+10 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10409
+oldstyle damned soul~
+a damned soul~
+A damned soul wanders aimlessly here.
+~
+You see the faint silhouette of a person. Looking closely at it, you can barely 
+make out features that would identify it as the person it was in life.
+~
+72 8389632 -700 E
+80 -22 -3 1d1+2880 5d9+42
+1200 1878758 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10410
+oldstyle tortured soul~
+a tortured soul~
+A tortured soul screams out in pain.
+~
+You see a unrecognizable person going through unheard-of and
+indescribable torture. It screams out at you in pain and terror.
+~
+10 1024 -800 E
+90 -27 -5 1d1+3240 5d10+46
+1350 2623130 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10411
+overlord~
+the Overlord~
+The Overlord lies here, writhing in agony.
+~
+This poor soul looks as if he has been chewed on and spit out.  He writhes
+He is in agony and terror as he gasps frantically for Death to answer his
+desperate plea...
+~
+507950 8389768 -757 E
+90 -27 -5 1d1+3240 5d10+46
+1350 2623130 1
+8 8 0 10 11
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10412
+Horned Demon~
+Horned Demon~
+The Horned Demon looks at you...
+~
+The Horned Demon is a giant beast with a enormous horn.
+~
+4706346 8389760 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 0 10 11
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10413
+oldstyle skeletal warrior~
+Skeletal warrior~
+A skeletal warrior wanders the planes of Hell.
+~
+Rotting flesh and gore drop from the bones of this creature.
+Its decaying eyes stare at you intently as it sees only your
+delicious and juicy brain.
+~
+8 8389760 -743 E
+90 -27 -5 1d1+3240 5d10+46
+1350 2623130 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10414
+chicken pot pie~
+a yummy chicken pot pie~
+A yummy looking chicken pot pie is here on the ground.
+~
+It looks unfinished.
+~
+10 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 2066633 1
+8 8 0 0 0
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10415
+pile gold coins~
+a pile of &Ygold &ycoins&n~
+A pile of &Ygold &ycoins lies on the ground.&n
+~
+A large sparkly pile of gold coins.
+~
+10 1160 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 1878758 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10416
+gold bar~
+&yThe &YGold &wbar&n~
+A shiny gold bar lies on the ground.
+~
+This gold bar must be worth bucks!
+~
+8202 1082131592 0 E
+80 -22 -3 1d1+2880 5d9+42
+1200 1878758 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10417
+half eaten person~
+the half-eaten person~
+A half-eaten person lies here writhing in agony.
+~
+This poor soul looks as if he has been chewed on and been spit out.
+It writhes in agony and pain as it gasps frantically for Death to answer
+its desperate plea...
+~
+2058 8389768 0 E
+90 -27 -5 1d1+3240 5d10+46
+1350 2885443 1
+8 8 0 0 0
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10418
+oldstyle Lost soul~
+the lost soul~
+A lost soul stands here looking lost.
+~
+This soul is definitely clueless to as where he is. He holds a ticket
+that reads #14349023402342039840293481234900049.
+~
+10 8389632 -500 E
+80 -22 -3 1d1+2880 5d9+42
+1200 1878758 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10419
+oldstyle crispy critter~
+the crispy critter~
+A crispy critter is here, being burned to death.
+~
+This was once a person.  Now it is only a charred and smoking hulk that
+is being burned for eternity.  It screams out as the flames lick at its
+body and devour its flesh...
+~
+10 8389760 -800 E
+90 -27 -5 1d1+3240 5d10+46
+1350 2623130 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 50
+Att4: 10
+E
+#10420
+oldstyle pile bones skeleton~
+pile of bones~
+A decaying pile of bones lies on the ground.
+~
+Stringy bits of flesh blow gently in the breeze. The bones rattle as you walk
+by them.
+~
+10 1024 -700 E
+80 -22 -3 1d1+2880 5d9+42
+1200 1878758 1
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 10
+E
+#10421
+oldstyle manes sub-demon~
+the manes~
+A manes wanders the planes of Hell, looking for something to kill.
+~
+A gruesome sub-demon who used to be mortal, this is a semi-intelligent
+creature who attacks, with nails and teeth, anyone it encounters.  It is
+often fed upon by demon lords and princes.  Its green-and-red blotched
+skin gives it a diseased and decaying look.  It somewhat resembles a
+shadow or a ghost.
+~
+136 8389760 -900 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10422
+oldstyle prisoner raiden~
+the prisoner Raiden~
+The prisoner of Hell, Raiden sits here for eternity.
+~
+This is a sad individual. He smells strongly of the rotten food that has been
+thrown at him. He sits here chained to the wall, banished to Hell forever by
+the gods.
+~
+10 1152 -1000 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 1 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10423
+oldstyle prisoner hell~
+a prisoner in Hell~
+A sad looking individual sits here, awaiting torture.
+~
+She is sad-looking, indeed:  cuts and scrapes all over her.  Many scars
+and burns cover her face and arms.  The appalling condition of her once-lovely
+breasts makes you avert your eyes.
+~
+10 1024 -800 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 2 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10424
+oldstyle prisoner hell~
+a prisoner in Hell~
+A sad looking individual sits here ,awaiting torture.
+~
+He is sad-looking, indeed:  cuts and scrapes all over him.  Many scars
+and burns cover his face and arms.  One of his arms is broken at the
+elbow and hangs limply by his side.
+~
+10 1024 -800 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 1 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10425
+oldstyle demonguard~
+Demonguard~
+A demonguard patrols the planes of Hell.
+~
+This very large demon stands before you, licking his daggerlike teeth.
+Yellow spittle runs down the scales of his blackened skin.
+~
+104 8389760 -800 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10426
+oldstyle burning fool~
+the burning fool~
+A burning fool is here, crisping away.
+~
+You can barely make out anything on it. All you can make out are the flames 
+of Hell consuming it, and the smell of burning flesh.
+~
+10 1024 -900 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3541448 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10427
+Female construction worker~
+Female construction worker~
+A construction worker is here working, riveting framework.
+~
+She is the typical contruction worker.  T-shirt, jeans, yellow hard hat.  As
+you look closer at the hard hat you notice it says, '4th demonsion Construction
+Co.  '
+~
+2058 8389768 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10428
+Male construction worker~
+Male construction worker~
+A construction worker is here welding pipework.
+~
+He is the typical contruction worker.  T-shirt, jeans, yellow hard hat.  As you
+look closer at the hard hat you notice it says, '4th demonsion Construction Co.
+'
+~
+2058 8389768 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10429
+Female construction worker~
+Female construction worker~
+A construction worker is here working cutting structural steel.
+~
+She is the typical contruction worker.  T-shirt, jeans, yellow hard hat.  As
+you look closer at the hard hat you notice it says, '4th demonsion Construction
+Co.  '
+~
+2058 8389768 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 95
+Att3: 50
+Att4: 20
+E
+#10430
+oldstyle fire devil~
+the fire devil~
+A fire devil stands here with a box of matches, lighting up poor souls.
+~
+It is an indescribably grotesque creature.  Its pale, green-yellow skin
+erupts with blisters and puss.  As you look at it, it smiles at you with
+sharp, blood-covered teeth.  This is definitely a face only a mother could
+love.
+~
+4194314 8389760 -1000 E
+110 -37 -8 1d1+3960 5d12+54
+1650 4651927 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10431
+oldstyle wall fire~
+the wall of fire~
+A wall of fire is here, creeping slowly across the room.
+~
+It is simply a large, door-sized wall of fire.  It slowly inches across the
+room, burning everything in its path, including the poor souls that are chained
+to the various posts around the room.
+~
+4194314 8389760 -600 E
+110 -37 -8 1d1+3960 5d12+54
+1650 4651927 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10432
+oldstyle hell hound~
+the hell hound~
+A hell hound runs freely through the halls of hell.
+~
+This freak of a canine is rusty red to red-brown in color. Its eyes glow a
+ghastly red. Its sooty black teeth and tongue are covered with green spittle
+that runs down its dung covered coat.
+~
+10 1064 -900 E
+110 -37 -8 1d1+3960 5d12+54
+1650 4651927 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10433
+Frozen body~
+&cF&Cr&Woz&Ce&cn &cB&Cod&cy&n~
+A frozen body lies here on the ground.
+~
+As you look at the corpse you recoil as you notice its eyes still move.  They
+stare intently from its bluish face as if pleading for your help.    
+~
+2058 1160 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10434
+Soul trapped under ice~
+Soul trapped under the ice~
+A soul trapped under the ice gasps desperately for air.
+~
+This poor soul has been encased in ice; almost as if it is caught under an
+iceflow.  It desperatly gasps for air for a few minutes and then seems to die
+for a second before it is restored and begins thrashing about again.    
+~
+8390666 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10435
+Side frozen beef~
+Side of &cF&Cr&Woz&Ce&cn&y beef&n~
+A frozen side of beef hangs here on a hook.
+~
+This enormous carcass looks as if it came from a small dragon or a very large
+cow.    
+~
+2058 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10436
+Half frozen body~
+&yH&Yal&yf &cF&Cr&Woz&Ce&cn &cB&Cod&cy&n~
+A half frozen body hangs here on a meat hook.
+~
+A large meat hook is embedded deep within the back of the body.  You see small
+white maggots eating away at the body.  The flesh seems to move and wriggle
+with a life of its own...    
+~
+2058 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10437
+killer penguin~
+&rThe &Rkiller &wPe&Wngu&win&n~
+A small penguin waddles around here on the ice.
+~
+What a cute little penguin....  Wait why is it looking at you that way...  
+HEY!  Penguins don't have teeth!    
+~
+2058 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10438
+scream worker~
+I-scream worker~
+An I-scream worker runs from machine to machine.
+~
+It moves about so frantically you can't really get a chance to look at it.
+It runs about screaming, 'I SCREAM, YOU SCREAM!
+&n
+WE ALL SCREAM FOR I SCREAM!!!'
+~
+2058 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10439
+Ice Screamer~
+&CI&Wc&Ce &WScreamer&n~
+An Ice Screamer is here yelling into empty cartons.
+~
+He is dressing in a white jumpsuit with the words,
+&n
+'Eye Splean I Screamery'
+&n
+written on it in large yellow letters.
+~
+8390666 8389768 0 E
+110 -37 -8 1d1+3960 5d12+54
+1650 5117119 1
+8 8 0 0 0
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10440
+oldstyle Construction Foreman Demonic~
+the Demonic Foreman~
+A Demonic Foreman sits here, looking at blueprints.
+~
+This huge demon has somehow managed to fit himself into
+a oversized, orange jumpsuit. The words,
+
+'4th DEMONsion Construction Co.' are written on the 
+back in large, black letters.
+He seems none too happy to see you.
+~
+4194410 8389800 -1000 E
+110 -37 -8 1d1+3960 5d12+54
+1650 4651927 1
+8 8 1 -1 -1
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#10441
+Magma Demon~
+the Magma Demon~
+The Magma Demon is here to stops you
+~
+This is a fire lady made of lava and iridescent stone...
+~
+4452394 8389800 -700 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 2 10 11
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10442
+Cave Viper~
+the Cave Viper~
+The Cave Viper is here to kill all intruders.
+~
+Just looking at him makes your blood boil. 
+AAAAAAAAAAaaaaaaaaaaaarrrrrrrrgggggghhhhh!!!!!!!!!!!
+~
+522282 8389800 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 0 10 11
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10443
+Fiend~
+Fiend Worker~
+A fiend Worker is here, working for you master.
+~
+You see a rather plain-looking office personel here, filing paperwork on
+someone.
+~
+42 33555500 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 0 10 11
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10444
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 96
+Att3: 40
+E
+#10445
+oldstyle high priest hell~
+High Priest of Hell~
+The High Priest of Hell is here, eating 'I Scream'.
+~
+The dark, black robes hide most of his features, but you can nearly make
+out his emaciated face beneath the hood.
+~
+42 8455208 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 1 -1 -1
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10446
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 96
+Att3: 40
+E
+#10447
+oldstyle jury member~
+jury member~
+A jury member sits here with a "Guilty" sign, waiting for the trial to begin.
+~
+It seems to be a lesser demon disguised as mortal. Fair trial?  Not likely.
+~
+253994 1064 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10448
+oldstyle Judge Whopper~
+Judge Whopper~
+Judge Whopper sits here, trying to think of a painful sentence.
+~
+This is the High Judge of Hell. He has never found anyone innocent
+and is notorious for his painful and harsh punishments.
+~
+516138 1056 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10449
+oldstyle lawyer hell~
+Lawyer from Hell~
+The Lawyer from Hell sits here, playing games on his laptop computer.
+~
+Slimy, sleezy, and with very sharp teeth... A lawyer all right...
+~
+42 1064 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 0 -1 -1
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10450
+Advocate~
+the Advocate~
+The Advocate is here, watching...
+~
+She seems not to notice you, but is absorbed in her favorite soap,
+'As The Hell Burns'
+~
+4138 1056 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 2 10 11
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10451
+Baal~
+Baal~
+Baal , The lord of hell is here to kill you.
+~
+The Enormous Fire Beast with flaming wings and blood in his hands...
+~
+518154 41952424 -1000 E
+120 -42 -9 1d1+4320 5d13+58
+1800 5972782 1
+8 8 1 10 11
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#10452
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 8388736 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 96
+Att3: 40
+E
+#10453
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+100 -32 -6 1d1+3600 5d11+50
+1500 3895592 1
+8 8 0 0 0
+Att2: 96
+Att3: 40
+E
+#10454
+Black Knight~
+Black Knight~
+The Black Knight is here to follow is master.
+~
+He is a crafty old fart who looks about 1000 years old, but his figurines
+are pretty well-known.  He was rumored to have disappeared around Solace 100
+years ago.
+~
+516106 8389800 -1000 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 3 0
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10455
+oldstyle half eaten horse carcass~
+horse carcass~
+A half-eaten horse carcass is here being digested. 
+~
+This is what used to be a horse.  Hmm, maybe - it's hard to tell.  Half
+of it has been digested already.
+~
+522282 1064 -800 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 0 10 11
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10456
+oldstyle stomach dragon~
+stomach dragon~
+A stomach dragon is here, digesting Big Mouth's food.
+~
+A large, brown-and-green, slime-covered reptile, its function seems to be
+to move to each food item and barf acid all over it.
+~
+520234 1064 -800 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 0 10 11
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10457
+betharan demon~
+Betharan~
+&rBetharan &yis here protecting &RSatan&y.&n
+~
+
+~
+5328938 1082131624 -750 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 0 10 -1
+Att2: 95
+Att3: 75
+Att4: 50
+E
+#10458
+abrazaath demon~
+Abrazaath~
+&rAbrazaath &yis here protecting &RSatan&y.&n
+~
+Abrazaath the very own minister of the Evil Lord of the darkness.  He changes
+his form showing you and reminding persons of your entire life.  His fight is
+Psychologic, and this makes a little difference:you are on HIS world
+~
+5328938 8389800 0 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 0 3 -1
+Att2: 95
+Att3: 75
+Att4: 50
+E
+#10459
+man fernis demon~
+Fernis~
+A simple looking man holds a &Rtome &yand some &Ycandles&n.
+~
+
+~
+5259274 8389800 -750 E
+130 -47 -11 1d1+4680 5d14+62
+1950 8274447 1
+8 8 0 9 -1
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10460
+satan demon~
+Satan~
+&RSatan &ystands here, laughing at each scream he hears..&n
+~
+
+~
+7856170 1653613736 -1000 E
+150 -57 -14 1d1+5400 5d16+70
+2250 11379737 1
+8 8 0 3 -1
+Att2: 95
+Att3: 75
+Att4: 50
+E
+#10462
+Succubus~
+Succubus~
+The Succubus is here.
+~
+He spots you and screams, 'Git awa froom mi food!  I'll kill you!'
+~
+520234 8389672 -800 E
+130 -47 -11 1d1+4680 5d14+62
+1950 8274447 1
+8 8 1 11 11
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10463
+Slayer~
+Slayer~
+The Slayer of hell is here to slash you.
+~
+
+~
+520296 536871944 -600 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 10 11
+Att2: 95
+Att3: 75
+Att4: 40
+E
+#10468
+oldstyle Greater Fire Demon~
+the Greater Fire Demon~
+A Greater Fire Demon stands here, laughing at each scream he hears..
+~
+This large, black-scaled demon laughs merrily as he watches poor souls
+scream out in pain. He pokes and picks at the flesh of the damned who
+were unlucky enough to be tortured close to him.  His black-taloned
+nails rip slowly through their flesh as he cackles with glee at the
+sounds of their unending pain...
+~
+4194346 545260712 -800 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 0 10 11
+Att2: 95
+Att3: 75
+Att4: 50
+E
+$

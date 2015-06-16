@@ -1,0 +1,201 @@
+#17000
+A Great Glade~
+You are standing in a great glade. A lot of animals and birds live here.
+You have the foreboding that you are near of a different civilization.
+A civilization that live under dark caves.
+~
+170 0 2
+D0
+You look at a path to the forest.
+~
+~
+0 0 17001
+D3
+You look at a path to the forest.
+~
+~
+0 0 17002
+S
+#17001
+A Path to the Forest~
+You are in a ground road that go to the forest. You hear a strange sound
+caused by any cult. You also hear the sound of the birds and see some
+animals which are not habituate with your presence.
+~
+170 0 3
+D2
+You see a great glade to this way.
+~
+~
+0 0 17000
+D3
+You see a forest with a lot of trees to the west.
+~
+~
+0 0 17003
+S
+#17002
+A Path to the Forest~
+You are in a ground road that go to the forest. You hear a strange sound
+caused by any cult. You also hear the sound of the birds and see some
+animals which are not habituate with your presence.
+~
+170 0 3
+D0
+You see a forest with a lot of trees to the north.
+~
+~
+0 0 17003
+D1
+You see a great glade to this way.
+~
+~
+0 0 17000
+S
+#17003
+The Treelike Forest~
+You are standing in a great forest with a great numbers of trees and wild
+animals. The sound of that cult becomes stronger. You hear a sound of
+warriors preparing themselves to the battle too.
+~
+170 0 3
+D0
+You see more of the treelike forest.
+~
+~
+0 0 17004
+D1
+You look at the path to the forest.
+~
+~
+0 0 17001
+D2
+You look at the path to the forest.
+~
+~
+0 0 17002
+D3
+You see more of the treelike forest.
+~
+~
+0 0 17005
+S
+#17004
+The Treelike Forest~
+You are standing in a great forest with a great numbers of trees and wild
+animals. The sound of that cult becomes stronger. You hear a sound of
+warriors preparing themselves to the battle too.
+~
+170 0 3
+D0
+You look at the north and see a cult of xvarts around a small campfire.
+~
+~
+0 0 17007
+D1
+You see a big cave to this direction.
+~
+~
+0 0 17006
+D2
+You see more of the treelike forest.
+~
+~
+0 0 17003
+S
+#17005
+The Treelike Forest~
+You are standing in a great forest with a great numbers of trees and wild
+animals. The sound of that cult becomes stronger. You hear a sound of
+warriors preparing themselves to the battle too.
+~
+170 0 3
+D1
+You see more of the treelike forest.
+~
+~
+0 0 17003
+S
+#17006
+Entrance of a Big Cave~
+You are in the beginning of a big cave. In the wall of the cave you see ancient
+pictures. All of them show battle and war images. The smell of this place is
+very strange. You don't feel much comfortable stanfing here.
+~
+170 0 0
+D1
+It's to dark to see.
+~
+~
+0 0 17008
+D3
+You look at a forest with a lot of trees to the west.
+~
+~
+0 0 17004
+S
+#17007
+Around a Small Campfire~
+You look for this place and see a big cult around a small campfire. Many xvarts 
+stand at this place to make their rituals. But you must be careful. Nobody at
+this place likes unknown creatures like you here.
+~
+170 0 2
+D2
+You see a forest with many trees to this direction.
+~
+~
+0 0 17004
+S
+#17008
+Inside the Big Cave~
+You are standing inside the Big Cave. Each pass you go the cave is becoming
+darker. You feel that this place is the house of a great animal. The pictures
+in the wall are increasing. All of them have a history. But you don't
+understand anyone.
+~
+170 1 0
+D1
+It's to dark to see.
+~
+~
+0 0 17009
+D3
+It's too dark, but you see the light of the entrance of the cave.
+~
+~
+0 0 17006
+S
+#17009
+A Turn in the Cave~
+You stand in a turn inside the Cave. It's very dark but you note a passage
+to west and another to the north. With a light you perceive that one of the
+great number of pictures looks strange. If you touch the wall where it is
+located you will see you are near a secret room.
+~
+170 1 0
+D0
+It's so dark to see to this direction.
+~
+~
+0 0 17010
+D3
+It's too dark to see what have in this direction.
+~
+~
+0 0 17008
+S
+#17010
+Cave Bear's Lair~
+You enter in a dark place inside the cave. You hear a strange sound. 
+The sound of a hungry bear. You look around and perceive lots of bones. Yes,
+bones of adventurers who tried to go ahead this lair.
+~
+0 1048585 0
+D2
+It's so dark to see to this direction.
+~
+~
+0 0 17009
+S
+$~

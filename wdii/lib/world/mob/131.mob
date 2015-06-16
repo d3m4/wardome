@@ -1,0 +1,208 @@
+#13100
+Samurai Trainee~
+a Samurai Trainee~
+A Samurai Trainee is standing here trying to gather lost Karma.
+~
+You see before you a young Samurai.  His clothes and weapon indicate that he
+is only a trainee.
+~
+2122 8 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 6 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#13101
+Samurai Apprentice~
+a Samurai Apprentice~
+An apprentice looking Samurai is meditating here. 
+~
+You see a samurai apprentice standing before you.  He looks much like a
+trainee, but you can't quite tell.
+~
+2122 8 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 -1 -1
+Att2: 100
+Att3: 60
+Att4: 10
+E
+#13102
+Samurai Warrior~
+a Samurai Warrior~
+A Samurai Warrior is here trying to look grim.
+~
+You find yourself before one of the greatest warriors of all time.  And, from
+the looks of his weapon, he is ready to fight.
+~
+2122 532488 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 6 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#13103
+Shogun of Understanding~
+the Shogun of Understanding~
+The Shogun of Understanding is here pondering on something.
+~
+The Shogun of Understanding glows with goodness and stares straight at you as
+if he knows something.
+~
+2122 16810120 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 6 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#13104
+Shogun of Ethics~
+the Shogun of Ethics~
+The Shogun of Ethics is offended by your appearance.
+~
+The Shogun of Ethics towers over you.  From the sight of his bloodied sword,
+you decide not to be 'judged'.
+~
+1098 8421512 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 6 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#13105
+Shogun of Loyalty~
+the Shogun of Loyalty~
+The Shogun of Loyalty is here, panting, as if he just fled from something.
+~
+The Shogun of Loyalty stands tall and proud.  You think that he might be a good
+friend to have.
+~
+2122 16810120 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 1 6 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#13106
+Shogun of Respect~
+the Shogun of Respect~
+The Shogun of Respect is here, polishing his ancient sword.
+~
+You see a huge figure grasping a spear-like weapon.  His presence alone is
+enough to demand respect.
+~
+2122 8421512 900 E
+130 -47 -11 1d1+4680 5d14+62
+1950 7522225 1
+8 8 2 6 -1
+Att2: 100
+Att3: 60
+Att4: 20
+E
+#13107
+Shogun of Authority~
+the Shogun of Authority~
+The Shogun of Authority demands something from you.
+~
+This man reminds you of everything you ever feared in a parent. You want to
+run back to your room.
+~
+2122 16810120 900 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 1 6 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#13108
+Shogun of Knowledge~
+the Shogun of Knowledge~
+The Shogun of Knowledge exclaims occationally 'Eureka!'
+~
+The Shogun of Knowledge merely looks at you, making you wonder what he really
+knows.
+~
+2138 8421512 900 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 1 6 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#13109
+Shogun of Truth~
+the Shogun of Truth~
+The Shogun of Truth stands here muttering riddles.
+~
+This guy is mean, strong, and has a bigger weapon than you.
+He scares you ... no lie.
+~
+2122 16810120 900 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 1 6 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#13110
+Shogun of Caring~
+the Shogun of Caring~
+The Shogun of Caring is here tucking flowers into his belt.
+~
+The Shogun of Caring reminds you somewhat of your father.  You just wanna give
+him a great big hug!
+~
+2122 8421512 900 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 1 6 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#13111
+Tokugawa Yoshikatsu~
+Tokugawa Yoshikatsu~
+Tokugawa Yoshikatsu is here meditating.
+~
+Tokugawa Yoshikatsu was one of the greatest Samurai to ever kill a man.  And,
+soon, either you or he will die.
+~
+2122 16810120 900 E
+140 -52 -12 1d1+5040 5d15+66
+2100 9318472 1
+8 8 1 6 -1
+Att2: 100
+Att3: 70
+Att4: 30
+E
+#13112
+guard guardian~
+the Guardian of Karma~
+The giant statue of the Guardian of Karma is standing here.
+~
+It's big and covered with moss and other small plants.  Seems to be very ancient.
+~
+2122 67110056 900 E
+150 -57 -14 1d1+5400 5d16+70
+2250 12517710 1
+8 8 0 11 -1
+Att2: 100
+Att3: 70
+Att4: 40
+E
+$

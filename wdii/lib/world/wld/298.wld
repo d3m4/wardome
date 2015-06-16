@@ -1,0 +1,1664 @@
+#29800
+The Guard Post~
+You climb down the ladder into a damp room.  The only light comes from the
+north where a little camp fire burns.  To the east you here the faint sound of
+footsteeps.    
+~
+298 9 0
+D0
+~
+~
+0 0 29801
+D1
+~
+~
+0 0 29812
+D2
+~
+~
+0 0 10141
+D4
+~
+~
+0 0 29871
+S
+#29801
+The Mining Tunnel~
+The entire tunnel gradually slopes downward, and the floor is covered with
+small rocks from holes in the wall.  It looks like someone have been mining for
+something.    
+~
+298 9 0
+D0
+~
+~
+0 0 29802
+D2
+~
+~
+0 0 29800
+S
+#29802
+The Mining Tunnel~
+The entire tunnel gradually slopes downward, and the floor is covered with
+small rocks from holes in the wall.  It looks like someone have been mining for
+something.    
+~
+298 9 3
+D0
+~
+~
+0 0 29803
+D2
+~
+~
+0 0 29801
+S
+#29803
+The Mining Tunnel~
+The entire tunnel gradually slopes downward, and the floor is covered with
+small rocks from holes in the wall.  It looks like someone have been mining for
+something.    
+~
+298 9 3
+D0
+~
+~
+0 0 29804
+D2
+~
+~
+0 0 29802
+S
+#29804
+The Mining Tunnel~
+The tunnel makes a sharp turn to the east.  And you see light flickering ahead.
+  
+~
+298 9 3
+D1
+~
+~
+0 0 29805
+D2
+~
+~
+0 0 29803
+S
+#29805
+The Mining Tunnel~
+The tunnel continues, to the east you see a large cave.  The flickering light
+is getting stronger and you can make out a campfire at the end of the cave.  
+
+~
+298 9 3
+D1
+~
+~
+0 0 29806
+D3
+~
+~
+0 0 29804
+S
+#29806
+The Large Cave~
+The tunnel comes out in large cave.  Further east you see a large black door
+covered with strange runes.  A campfire makes the whole cave light up.  To the
+north you see a couple of beds made of straw.    
+~
+298 9 3
+D0
+~
+~
+0 0 29807
+D1
+~
+~
+0 0 29809
+D3
+~
+~
+0 0 29805
+S
+#29807
+The Beds~
+Around you are four beds made of straw.  A table and two chairs is the only
+furniture besides the beds.  To the east you see a large pile of stone.    
+~
+298 9 3
+D1
+~
+~
+0 0 29808
+D2
+~
+~
+0 0 29806
+S
+#29808
+The North-East corner~
+In front of you is a large pile of stone.  The stone propobly comes from the
+mining in the tunnel.  To the south you see the campfire and the huge black
+door.  The straw beds is too the west.    
+~
+298 9 3
+D2
+~
+~
+0 0 29809
+D3
+~
+~
+0 0 29807
+S
+#29809
+In front of the Black Door~
+Who or what ever build this door must have been enormous.  The door measures
+ten meters in height and five meters in width, and the whole door is covered
+with arcane writings.  Maybe you should turn back while you can.    
+~
+298 9 3
+D0
+~
+~
+0 0 29808
+D1
+~
+huge~
+2 29807 29810
+D3
+~
+~
+0 0 29806
+S
+#29810
+The staircase~
+Before you a huge staircase formed of grey stone leads down into darkness.  To
+the west you hear the sound of fire burning.    
+~
+298 9 3
+D3
+~
+Huge~
+1 29807 29809
+D5
+~
+~
+0 0 29811
+S
+#29811
+The Staircase~
+You are in a very large cave room.  You can see a metal sign nailed on the
+wall.  To the north a large corridor continues into the uknown and a huge stair
+leads up.    
+~
+298 9 3
+D0
+~
+~
+0 0 29823
+D4
+~
+~
+0 0 29810
+S
+#29812
+The dark mining tunnel~
+As you enter the dark mining tunnel you notice a draft comming from within.  
+The tunnel contines into the dark.  To the West you here a fire burning.    
+~
+298 9 3
+D1
+~
+~
+0 0 29813
+D3
+~
+~
+0 0 29800
+S
+#29813
+The T-cross~
+The mining tunnel devides into two tunnels one north and one south.  From the
+south you hear footsteeps and distant muttering.    
+~
+298 9 3
+D0
+~
+~
+0 0 29814
+D2
+~
+~
+0 0 29817
+D3
+~
+~
+0 0 29812
+S
+#29814
+Turn in the Mining tunnel~
+The mining tunnel makes a sharp turn too the east.    
+~
+298 9 3
+D1
+~
+~
+0 0 29815
+D2
+~
+~
+0 0 29813
+S
+#29815
+The Cave-In~
+The mining tunnel comes to an abrubt end.  The tunnel infront of you looks like
+it have collapsed.    
+~
+298 9 3
+D3
+~
+~
+0 0 29814
+D4
+~
+~
+0 0 29816
+S
+#29816
+The collapsed tunnel~
+The whole tunnel seems too have collapsed.  Remains of two skeletons can be
+found on the floor.  Maybe you should get out of here before you join them.  
+
+~
+298 9 3
+D5
+~
+~
+0 0 29815
+S
+#29817
+The Mining Tunnel~
+The tunnel makes a sharp turn to the east.  Further east you see light
+flickering.    
+~
+298 9 3
+D0
+~
+~
+0 0 29813
+D1
+~
+~
+0 0 29818
+S
+#29818
+The Mining Tunnel~
+As you move forward you smell the scent of roasted meat.  The sound of
+muttering is getting louder.    
+~
+298 9 3
+D1
+~
+~
+0 0 29819
+D3
+~
+~
+0 0 29817
+S
+#29819
+The Huge Cave~
+The tunnel emerges into a huge cave.  To the south you see the cause of the
+smell, a large cauldron over a campfire.    
+~
+298 9 3
+D1
+~
+~
+0 0 29820
+D2
+~
+~
+0 0 29822
+D3
+~
+~
+0 0 29818
+S
+#29820
+The Huge Cave~
+Lots of bones and junk have been trown away here.    
+~
+298 9 3
+D2
+~
+~
+0 0 29821
+D3
+~
+~
+0 0 29819
+S
+#29821
+The Huge Cave~
+In this corner of the cave the Black Orc practice their fighting skills.    
+~
+298 8 3
+D0
+~
+~
+0 0 29820
+D3
+~
+~
+0 0 29822
+S
+#29822
+The Huge Cave~
+A large cauldron is placed over a campfire here.    
+~
+298 8 3
+D0
+~
+~
+0 0 29819
+D1
+~
+~
+0 0 29821
+S
+#29823
+The Corridor~
+You are in a large north-south leading corridor.    
+~
+298 9 3
+D0
+~
+~
+0 0 29824
+D2
+~
+~
+0 0 29811
+S
+#29824
+The Cave Entrance~
+You see a large cave filled with stalagmites and stalagtites to north and east.
+You can enter a corridor to the south.    
+~
+298 9 3
+D0
+~
+~
+0 0 29827
+D1
+~
+~
+0 0 29825
+D2
+~
+~
+0 0 29823
+S
+#29825
+The south-east corner of stalagmite cave~
+You are in a large stalagmite cave.  The air is very moisty here and water is
+dripping from the walls.  The cave continues to the north and the west.    
+~
+298 9 3
+D0
+~
+~
+0 0 29826
+D3
+~
+~
+0 0 29824
+S
+#29826
+The Stalagmite Cave~
+You are in a large stalagmite cave.  You can see big stalagmites hanging above
+your head.  The cave continues to the north,south and west.    
+~
+298 9 3
+D0
+~
+~
+0 0 29829
+D2
+~
+~
+0 0 29825
+D3
+~
+~
+0 0 29827
+S
+#29827
+The Stalagmite Cave~
+You are in a large stalagmite cave.  The cave seems much bigger now.  The cave
+continues in all directions.    
+~
+298 9 3
+D0
+~
+~
+0 0 29830
+D1
+~
+~
+0 0 29826
+D2
+~
+~
+0 0 29824
+D3
+~
+~
+0 0 29828
+S
+#29828
+The south-west corner of the stalagmite cave~
+You are in a large stalagmite cave.  The air is very moisty here and water is
+dripping from the walls.  The cave continues to north and east.    
+~
+298 9 3
+D0
+~
+~
+0 0 29831
+D1
+~
+~
+0 0 29827
+S
+#29829
+The stalagmite cave~
+You are in the middle of a large stalagmite cave.  The floor is covered with
+water puddles.  The cave continues in all directions.    
+~
+298 9 3
+D0
+~
+~
+0 0 29835
+D1
+~
+~
+0 0 29837
+D2
+~
+~
+0 0 29826
+D3
+~
+~
+0 0 29830
+S
+#29830
+The stalagmite cave~
+You are in a the middle of a large stalagmite cave.  The cave continues in all
+directions.    
+~
+298 9 3
+D0
+~
+~
+0 0 29834
+D1
+~
+~
+0 0 29829
+D2
+~
+~
+0 0 29827
+D3
+~
+~
+0 0 29831
+S
+#29831
+Near the big boulder~
+You are in the large stalagmite cave near a big boulder.  You can see a carving
+on the boulders left side.  The cave countinues to the north, south and east.
+  
+~
+298 9 3
+D0
+~
+~
+0 0 29833
+D1
+~
+~
+0 0 29830
+D2
+~
+~
+0 0 29828
+D5
+~
+boulder~
+1 0 29832
+S
+#29832
+On the lake~
+You are on a small lake in the cave.  The water seems to be almost black.  The
+lake continues to the west and you can see a small beach to the north.    
+~
+298 9 3
+D0
+~
+~
+0 0 29851
+D3
+~
+~
+0 0 29852
+S
+#29833
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue north into the abyss (not a very wise decsion),
+south and east to the cave.    
+~
+298 9 3
+D0
+~
+~
+0 0 29841
+D1
+~
+~
+0 0 29834
+D2
+~
+~
+0 0 29831
+S
+#29834
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue north into the abyss (not a very wise decsion),
+south, east and west to the cave.    
+~
+298 9 3
+D0
+~
+~
+0 0 29840
+D1
+~
+~
+0 0 29835
+D2
+~
+~
+0 0 29830
+D3
+~
+~
+0 0 29833
+S
+#29835
+Near the narrow stone bridge~
+You see a narrow stone bridge to the North.  The cave continues to the
+south,east and west.    
+~
+298 9 3
+D0
+~
+~
+0 0 29839
+D1
+~
+~
+0 0 29836
+D2
+~
+~
+0 0 29829
+D3
+~
+~
+0 0 29834
+S
+#29836
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue north into the abyss (not a very wise decsion),
+south and east to the cave.    
+~
+298 9 3
+D0
+~
+~
+0 0 29838
+D2
+~
+~
+0 0 29837
+D3
+~
+~
+0 0 29835
+S
+#29837
+The stalagmite cave~
+You are in a large stalagmite cave.  The floor is covered with water puddles.
+The cave continues to the north and west.    
+~
+298 9 3
+D0
+~
+~
+0 0 29836
+D3
+~
+~
+0 0 29829
+S
+#29838
+In the abyss~
+You are faaaaaaaling down into the dark abyss.    
+~
+298 14 3
+D0
+~
+~
+0 0 29843
+D2
+~
+~
+0 0 29836
+D3
+~
+~
+0 0 29839
+S
+#29839
+On the narrow stone bridge~
+You are standing on a narrow stone bridge.  It looks very slippery and wet.  
+You better be carefull because it's a long way down.  You can continue east and
+west into the abyss or south and north to the cave.    
+~
+298 13 2
+D0
+~
+~
+0 0 29842
+D1
+~
+~
+0 0 29838
+D2
+~
+~
+0 0 29835
+D3
+~
+~
+0 0 29840
+S
+#29840
+In the abyss~
+You are faaaaaaaling down into the dark abyss.    
+~
+298 14 3
+D0
+~
+~
+0 0 29844
+D1
+~
+~
+0 0 29839
+D2
+~
+~
+0 0 29834
+D3
+~
+~
+0 0 29841
+S
+#29841
+In the abyss~
+You are faaaaaaaling down into the dark abyss.
+~
+298 14 3
+D0
+~
+~
+0 0 29845
+D1
+~
+~
+0 0 29840
+D2
+~
+~
+0 0 29833
+S
+#29842
+Near the narrow stone bridge~
+You see a narrow stone bridge to the South.  The cave continues to the east and
+west.    
+~
+298 9 3
+D1
+~
+~
+0 0 29843
+D2
+~
+~
+0 0 29839
+D3
+~
+~
+0 0 29844
+S
+#29843
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue south into the abyss (not a very wise decsion)
+and west to the cave.    
+~
+298 9 3
+D2
+~
+~
+0 0 29838
+D3
+~
+~
+0 0 29842
+S
+#29844
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue south into the abyss (not a very wise decsion),
+east, west and north to the cave.    
+~
+298 9 3
+D0
+~
+~
+0 0 29846
+D1
+~
+~
+0 0 29842
+D2
+~
+~
+0 0 29840
+D3
+~
+~
+0 0 29845
+S
+#29845
+Near the abyss~
+You are standing near the edge of a very deep abyss.  Hot smoke is drifting out
+of the abyss.  You can continue south into the abyss (not a very wise decsion)
+and east to the cave.    
+~
+298 9 3
+D1
+~
+~
+0 0 29844
+D2
+~
+~
+0 0 29841
+D3
+~
+~
+0 0 29856
+S
+#29846
+The Corridor~
+You are in a large south-west leading corridor.    
+~
+298 9 3
+D2
+~
+~
+0 0 29844
+D3
+~
+~
+0 0 29847
+S
+#29847
+The crypt entrance~
+The corridor ends up into a huge stone door to the south.  You can see a large
+inscription on the door.  The corridor continues to the east.    
+~
+298 0 0
+D1
+~
+~
+0 0 29846
+D3
+~
+door~
+1 29808 29848
+S
+#29848
+The passage~
+You are in a very narrow tunnel.  The floor is covered with dust.  The tunnel
+continues into a large crypt to the south and east to a corridor.    
+~
+298 9 0
+D1
+~
+door~
+1 29808 29847
+D2
+~
+~
+0 0 29849
+S
+#29849
+The crypt~
+Lit torches lines the walls of the crypt.  You can see a big throne at the end
+of the room.  A thick layer of dust covers the floor.  It looks like nobody
+have been here for ages.  In the middle of the room you see a large stone chest
+with arcane writings.    
+~
+298 8 0
+D0
+~
+~
+0 0 29848
+D5
+~
+Trapdoor~
+1 29808 29850
+S
+#29850
+The Tomb of the Dwarven king~
+You climb down into the stonechest.  Something about this makes your backbone
+shiver.  This place does not seem to like your intrusion.  You can see the
+remains of a powerfull looking dwarf.  He wears a shining plate and wields
+two-handed axe.  Maybe you shouldn't disturb him.  The only exit seems to be
+up.    
+~
+298 8 0
+D4
+~
+Trapdoor~
+1 29815 29849
+S
+#29851
+The small beach~
+You are on a very small beach.  The only exits up on a ladder or south on a
+small lake.    
+~
+298 9 2
+D2
+~
+~
+0 0 29832
+D4
+~
+rock~
+1 0 29831
+S
+#29852
+On the lake~
+You are on a small lake in the cave.  This part of the lake seems to be very
+deep.  The lake continues to the east and you can see a small island to the
+west.    
+~
+298 9 2
+D1
+~
+~
+0 0 29832
+D3
+~
+~
+0 0 29853
+S
+#29853
+Outside the cottage~
+You are on a small island outside a cottage.  You can continue North into the
+cottage or East into the water.    
+~
+298 9 2
+D0
+~
+door~
+1 0 29854
+D1
+~
+~
+0 0 29852
+S
+#29854
+In the cottage~
+You are in a very small and dirty cottage.  The floor is covered with garbage
+and junk.  The only furnitures in the room is a small straw bed and a cabinet.
+The only exit is to the south.    
+~
+298 9 2
+D2
+~
+door~
+1 0 29853
+D3
+~
+door~
+1 0 29855
+S
+#29855
+Behind the cabinet~
+You step in behind the cabinet.  The only exit is back to the east.    
+~
+298 9 2
+D1
+~
+door~
+1 0 29854
+S
+#29856
+The Staircase~
+You can see a long and a huge trial with a long stair, you cant feel your
+feets, but you have to go.    
+~
+298 261 4
+D1
+~
+~
+0 0 29845
+D4
+~
+~
+0 0 29857
+S
+#29857
+The corridor of hope~
+You are in the middle of a long corridor, you are tired, but you can see the
+light, you RUN!    
+~
+298 6291532 4
+D0
+~
+~
+0 0 29858
+D5
+~
+~
+0 0 29856
+S
+#29858
+Top of the Mountain~
+You are in the top of the mountain, looking at the sky, you can feel a
+presence, try to use your intinty.    
+~
+298 72 5
+D0
+~
+~
+0 0 29859
+D2
+~
+~
+0 0 29857
+S
+#29859
+Middle of Mountain~
+You are using your instinty really well, but you have some troubles at your
+back, pay attention!    
+~
+298 72 5
+D0
+~
+~
+0 0 29860
+D2
+~
+~
+0 0 29858
+S
+#29860
+Walking around the Mountain~
+You are too tired, but you have to go, get out of here, safe your life and
+complete you have to do.    
+~
+298 72 5
+D0
+~
+~
+0 0 29861
+D2
+~
+~
+0 0 29859
+S
+#29861
+Walking around the Mountain~
+You are walking around the mountain, you feel really angry, now you can see the
+big forest at down.    
+~
+298 72 5
+D2
+~
+~
+0 0 29860
+D5
+~
+~
+0 0 29862
+S
+#29862
+Going Down the Mountain~
+You climb very well, hold on a second, you see the middle of the forest.    
+~
+298 76 5
+D1
+~
+~
+0 0 29863
+D4
+~
+~
+0 0 29861
+S
+#29863
+&wIn The &GForest&n~
+You are walking in the middle of the forest, you are searching for the river...
+  
+~
+298 72 3
+D0
+~
+~
+0 0 29974
+D3
+~
+~
+0 0 29862
+S
+#29864
+&wIn The &GForest&n~
+You are walking in a dense florest, a lot of animals are walking around you.  
+Wait, you can see great constructions..    
+~
+298 76 3
+D1
+~
+~
+0 0 29865
+D2
+~
+~
+0 0 29973
+S
+#29865
+Caras Galadon~
+You are at the entrance to a walled grove of trees.  Looking more carefully
+into the trees you see elven flets.  You have reached Caras Galadon, the City
+of Trees, home to Celeborn and Galadriel.    
+~
+298 72 3
+D0
+~
+~
+0 0 29866
+D3
+~
+~
+0 0 29864
+S
+#29866
+A bridge leading to Caras Galadon~
+You have just stepped onto the bridge which leads north to the famed city of
+Caras Galadon.  It is said that the people that well therein have never let
+evil pass inside the walls of their beautiful city.  It would not be wise to
+try and be the first.  All around you the sounds of birds and the wind can be
+heard.    
+~
+298 72 3
+D0
+~
+~
+0 0 29867
+D2
+~
+~
+0 0 29865
+S
+#29867
+The bridge to Caras Galadon~
+You are now almost at the gates of Caras Galadon.  Many have sought to find
+this mystical place, and many have failed.  As you look northward towards the
+gates, you see for the first time why so many have tried.  The walls of the
+city seem almost to shimmer, and dazzle your eyes with their pure white color.
+The water is the dirtiest you have ever seen, as it roars underneath this
+beautiful structure.  That many branches and debris are being swept along with
+the current.  Such a thing to this wonderful place.  You sigh, and watch the
+muddy water lick at the base of the walls.    
+~
+298 72 3
+D0
+~
+~
+0 0 29868
+D2
+~
+~
+0 0 29866
+S
+#29868
+Gates to mighty Caras Galadon~
+These are the great gates of Caras Galadon.  The path takes a bend to the
+northeast just before coming upon them.  As you stand at the doorway to such a
+mysterious place, you wonder why it is that evil has never penetrated these
+gates.  The bridge leads back to the south.  Two immovable sentinels stand on
+either side of the gates.    
+~
+298 72 3
+D0
+~
+~
+0 0 29869
+D2
+~
+~
+0 0 29867
+S
+#29869
+Inside Caras Galadon~
+You slowly walk around the city, still a bit surprised to be within a place of
+such peace and beauty.  You walk under a small wooden eve and finally arrive
+just beyond the wall itself.  The city of Caras Galadon lies before you in all
+its glory!  Sounds of the bustling city float past you, as you pause to take in
+the sights.  A small flet is in the tree directly in front of you, standing by
+itself.    
+~
+298 72 1
+D0
+~
+~
+0 0 29902
+D2
+~
+<NONE>~
+0 0 29868
+D4
+~
+~
+0 0 29900
+S
+#29870
+The tunnel~
+You are in a small tunnel, it leads from east to the west.    
+~
+298 9 2
+D1
+~
+~
+0 0 29871
+D3
+~
+~
+0 0 10199
+S
+#29871
+The hole~
+You are standing by a large hole in the floor, a ladder leads down into the
+darkness you feel frightened.    
+~
+298 13 2
+D3
+~
+~
+0 0 29870
+D5
+~
+~
+0 0 29800
+S
+#29872
+The passage~
+You are in a passage that leads north-south.  You notice a small light to the
+south.    
+~
+298 9 2
+D0
+~
+~
+0 0 10198
+D2
+~
+~
+0 0 29873
+S
+#29873
+The passage~
+You are in a north-south leading passage.  To the south you see light.    
+~
+298 9 2
+D0
+~
+~
+0 0 29872
+D2
+~
+~
+0 0 29874
+S
+#29874
+The passage~
+You are in a passage, to the east you see a cave.  Light from the cave lights
+up the passage.  To the north the passage leads into the darkness..    
+~
+298 0 0
+D0
+~
+~
+0 0 29873
+D1
+~
+~
+0 0 29875
+S
+#29875
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the east and north.  To the west a passage
+leads north.    
+~
+298 9 2
+D0
+~
+~
+0 0 29877
+D1
+~
+~
+0 0 29876
+D3
+~
+~
+0 0 29874
+S
+#29876
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the north and west.    
+~
+298 9 2
+D0
+~
+~
+0 0 29881
+D3
+~
+~
+0 0 29875
+S
+#29877
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the east and south.    
+~
+298 9 2
+D1
+~
+~
+0 0 29881
+D2
+~
+~
+0 0 29875
+D3
+~
+~
+0 0 29878
+S
+#29878
+The secret tunnel~
+You are in a secret tunnel that leads west, you feel evilness approaching you
+as you continue west.    
+~
+298 9 2
+D3
+~
+~
+0 0 29879
+S
+#29879
+The secret chamber~
+You are in a secret chamber, the room is filled with an evil feeling.    
+~
+298 9 2
+D0
+~
+~
+0 0 29880
+S
+#29880
+The secret tunnel~
+You are in a secret tunnel that leads north, to the south you see a small
+chamber.    
+~
+298 9 2
+D0
+~
+~
+0 0 10193
+D2
+~
+~
+0 0 29879
+S
+#29881
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the west and south.  To the north a small hole
+leads to a tunnel.    
+~
+298 9 2
+D0
+~
+~
+0 0 29870
+D2
+~
+~
+0 0 29876
+D3
+~
+~
+0 0 29877
+S
+#29882
+The tunnel~
+You are in a tunnel, only exit is to the east.  You sense that the tunnel leads
+slightly down.    
+~
+298 9 2
+D1
+~
+~
+0 0 29883
+S
+#29883
+The tunnel~
+You are in a small tunnel, to the west the tunnel continues and to the east you
+see some light.    
+~
+298 9 2
+D1
+~
+~
+0 0 29884
+D3
+~
+~
+0 0 29882
+S
+#29884
+The light cave~
+You are in the south end of a light cave, tunnels leads of to the south and
+west.    
+~
+298 9 2
+D0
+~
+~
+0 0 29885
+D2
+~
+~
+0 0 29886
+D3
+~
+~
+0 0 29883
+S
+#29885
+The light cave~
+You are in a light cave, a large fire in front of you lights the room.  The
+cave continues to the north and south.    
+~
+298 9 2
+D0
+~
+~
+0 0 10180
+D2
+~
+~
+0 0 29884
+S
+#29886
+The maze~
+You are in a maze of small damp tunnels.  The tunnel continues east.  To the
+north there is a light cave.    
+~
+298 9 2
+D0
+~
+~
+0 0 29884
+D1
+~
+~
+0 0 29887
+S
+#29887
+The maze~
+You are in a maze of small damp tunnels.  Exits leads east and north.  To the
+south is a large cave.    
+~
+298 9 2
+D0
+~
+~
+0 0 29888
+D1
+~
+~
+0 0 29889
+D2
+~
+~
+0 0 29890
+S
+#29888
+The maze~
+You are in a maze of small damp tunnels.  Exits leads east and west.    
+~
+298 9 2
+D1
+~
+~
+0 0 10180
+D3
+~
+~
+0 0 29884
+S
+#29889
+The maze~
+You are in a maze of small damp tunnels.  Exits leads west and north.    
+~
+298 9 2
+D0
+~
+~
+0 0 10180
+D3
+~
+~
+0 0 29887
+S
+#29890
+The large cave~
+You are in the northeast end of a large cave.  To the north the is a small damp
+tunnel.    
+~
+298 0 0
+D0
+~
+~
+0 0 29887
+D2
+~
+~
+0 0 29893
+D3
+~
+~
+0 0 29891
+S
+#29891
+The large cave~
+You are in the northwest end of a large cave.    
+~
+298 9 2
+D1
+~
+~
+0 0 29890
+D2
+~
+~
+0 0 29892
+S
+#29892
+The large cave~
+You are in the southwest end of a large cave.    
+~
+298 9 2
+D0
+~
+~
+0 0 29891
+D1
+~
+~
+0 0 29893
+S
+#29893
+The large cave~
+You are in the southeast end of a large cave.  To the east you notice a small
+tunnel.    
+~
+298 9 2
+D0
+~
+~
+0 0 29890
+D1
+~
+~
+0 0 29894
+D3
+~
+~
+0 0 29892
+S
+#29894
+The tunnel~
+You are in a narrow tunnel, which leads both to the east and the south.  There
+is also an exit towards the west, where you see a large cave.    
+~
+298 9 2
+D1
+~
+~
+0 0 29895
+D2
+~
+~
+0 0 29896
+D3
+~
+~
+0 0 29893
+S
+#29895
+End of tunnel~
+The tunnel stops here.  There is no other exits than the one you came from.  
+
+~
+298 9 2
+D3
+~
+~
+0 0 29894
+S
+#29896
+The hole~
+You are at a small hole in the floor, you can either leave north or try your
+luck and leave down into the unknown!    
+~
+298 9 2
+D0
+~
+~
+0 0 29894
+D1
+~
+~
+0 0 29897
+S
+#29897
+the passage~
+You are in a passage, to the east you see a cave.  Light from the cave lights
+up the passage.  To the west the passage leads into the darkness.    
+~
+298 9 2
+D1
+~
+~
+0 0 29898
+D3
+~
+~
+0 0 29896
+S
+#29898
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the north.  To the west a passage leads north.
+  
+~
+298 9 2
+D0
+~
+~
+0 0 29899
+D3
+~
+~
+0 0 29897
+S
+#29899
+The cave~
+You are in a light cave, from torches several feet above your head fire lights
+the room.  The cave continues to the east and south.    
+~
+298 9 2
+D2
+~
+~
+0 0 29898
+D5
+~
+~
+0 0 29895
+S
+$~

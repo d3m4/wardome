@@ -1,0 +1,116 @@
+#30201
+&MB&mridge&c of the &BC&bastle&n~
+You're in the bridge of the castle.  You feel yourself astonished with the
+construction, it transmits a noble and imponent air.  There is a lake around
+the castle for better protection, and this is the reason of the existence of
+this large bridge that you are steping on.  There are two magnificent
+observation towers keeping the bridge, and behind them, you still can see in a
+high distance the superior part of the castle.  You dive in your mind thinking
+who could build a so beautiful architectural workmanship,with all the aspects
+of a great fortress, but still with a noble air.    
+This is all you are able to appreciate of this place if you are not a
+Purple Dragon. 
+~
+302 0 0
+D0
+~
+~
+0 0 30202
+D2
+~
+~
+0 0 5672
+S
+#30202
+&ME&mntrance &MR&moom &cof the &BC&bastle&n~
+There is much movement in the entrance room of the castle.  The generals and
+their captains take plans back and forth.  These plans are about diverse
+things.  Plans to face malignant legions at far away villages or those ones
+that involves great cities, are all found here.  Many soldiers pass through
+here carrying material for the Arsenal, leaving in troops to watch the
+outskirts or preparing their quick horses for private missions.  To the north
+you can see the throne room, to the west the arsenal of the fort and down the
+stairs you can go to the training area of the Purple Dragons.  The fountain
+lies in front of the stairs.    
+~
+302 128 0
+D0
+~
+~
+0 0 30203
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 30201
+D3
+~
+~
+0 0 30204
+S
+#30203
+&MT&mhrone &BR&boom&n~
+You are in the throne room, gorgeous and richly decorated.  The whole floor is
+covered with a beautiful red carpet.  Most of the walls are covered with yellow
+curtains, and on each curtain there is the painting of the Purple Dragon,
+decorated with gold and silver.  On the walls that there is no curtain, some
+pictures with great figures of the clan and this world are hung, also diverse
+histories of the Purple Dragons.  There is a rectangular table in the middle of
+the hall, that is used for the meeting of the high cupole, and still to receive
+illustrious celebrities with style.  The throne is the great attraction of all
+this high-decorated hall.  It was made of a mixture of diverse noble materials
+as gold, silver, mithril and adamantite.  There is still a sign for the most
+diverse acknowledgments near the entrance of this hall.    
+~
+302 128 0
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 30202
+D4
+~
+~
+0 0 30205
+S
+#30204
+&MD&mragons &BA&brsenal&n~
+This place is FULL of accessory and instruments and that can be useful to the
+members of the Purple Dragons.  This is a great room with some tables of rock,
+in which the equipment are organized in a mode that you can visualize quickly
+what you desires.  You can usufruct of this equipment, however also you will
+need to help in its collection and in the "refinement" of those you bring, for
+in such a way certify yourself that the item has some value to deserve to be
+kept in here.  The perpetual guard of the room is a small humanoid rock dragon,
+with approximately 2,5m and ready for battle with an armor of metallic leagues
+and a pretty vorpal sword.  It is said in some legends that at times of
+necessity this dragon will wake up and influence the way of the great battles.
+  
+~
+302 6668 0
+D1
+~
+~
+0 0 30202
+D3
+~
+~
+0 0 -1
+S
+#30205
+&MT&memple &Wof &BJ&bustice&n~
+o azoun que eh bom nisso.
+~
+302 1048644 0
+D5
+~
+~
+0 0 30203
+S
+$~

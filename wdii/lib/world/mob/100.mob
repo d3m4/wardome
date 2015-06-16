@@ -1,0 +1,110 @@
+#10000
+bat~
+a huge black bat~
+A huge black bat hovers before you.
+~
+It doesn't seem to want to attack, it simply seems to be watching you, almost
+with intelligent eyes.    
+~
+196620 0 -200 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+BareHandAttack: 8
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#10001
+gypsy zigeuner~
+the Zigeuner Gypsy~
+A Zigeuner Gypsy seems shocked by your presence here.
+~
+Walking head down, mumbling to himself, you are the last thing this guy expected.
+~
+6216 0 -300 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#10002
+gypsy cigano~
+the Cigano Gypsy~
+A Cigano Gypsy spots you and turns away at a quick pace.
+~
+He seems to be on his way to take care of something...'
+~
+6344 0 -300 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#10003
+gypsy tsigani~
+a Tsigani Gypsy~
+A Tsigani Gypsy comes running at you, weapon drawn!
+~
+Of all the different gypsies in the castle, you had to find the one with a
+deathwish...    
+~
+6248 0 -300 E
+153 -56 -12 1d1+4284 5d16+60
+2295 9925603 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 27
+E
+#10004
+vampyre greater~
+a Greater Vampyre~
+A Greater Vampyre flings himself on you in a frenzy of Bloodlust!
+~
+You really don't have the time to stop and check this guy out, he is attacking
+you!    
+~
+230008 1064 -700 E
+170 -65 -15 1d1+4752 5d18+68
+2550 13481323 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#10005
+vampyre lesser~
+a Lesser Vampyre~
+A Lesser Vampyre attacks with a power that only a vampyre could possess.
+~
+Watch the teeth - something you were supposed to remember about the teeth.    
+~
+168568 1064 -800 E
+160 -60 -14 1d1+4476 5d17+64
+2400 11302310 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#10006
+Lord vampyre~
+the Vampyre Lord~
+A huge, terrifying man-like thing is about to bite your neck.
+~
+He moves so fast, it is hard to tell anyting about him at all.    
+~
+2682 9384 -1000 E
+175 -67 -16 1d1+4896 5d18+70
+2625 14668610 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 88
+Att4: 54
+E
+$

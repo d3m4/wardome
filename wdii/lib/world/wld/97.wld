@@ -1,0 +1,769 @@
+#9700
+Mountain~
+You are climbing a large mountain which towers over Ofcol.  The path
+continues up the mountain, but part of it is gone.  There is no way to
+continue by land.
+~
+97 16777216 5
+D2
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 9701
+D5
+~
+~
+0 0 6078
+S
+#9701
+Mountain~
+You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.
+~
+97 0 9
+D4
+~
+~
+0 -1 9702
+D5
+~
+~
+0 -1 9700
+S
+#9702
+Mountain~
+You have finally reached the top of the mountain.  The air here is so thin
+that you must gasp for breath.  To the north, you see what seems to be the
+entrance to a city.
+~
+97 0 9
+D0
+~
+~
+0 -1 9703
+D5
+~
+~
+0 -1 9701
+S
+#9703
+Entrance~
+You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have never
+seen a city with such beautiful buildings.
+~
+97 0 1
+D0
+~
+~
+0 -1 9704
+D2
+~
+~
+0 -1 9702
+S
+#9704
+Zeus Street~
+You are walking down a huge street.  You notice that there are not many
+people in this town.  On a corner, you see a sign marked 'Zeus Street'.
+To the west, you see a small store.
+~
+97 0 1
+D0
+The street continues.
+~
+~
+0 -1 9705
+D2
+~
+~
+0 -1 9703
+D3
+~
+~
+0 -1 9723
+S
+#9705
+Zeus Street~
+You are walking down what appears to be the main street of this city.
+You see large residences to the east and west, while the street continues
+to the north and south.
+~
+97 0 1
+D0
+~
+~
+0 -1 9706
+D1
+~
+~
+0 -1 9724
+D2
+The street continues.
+~
+~
+0 -1 9704
+D3
+~
+~
+0 -1 9725
+S
+#9706
+Zeus Street~
+You are on the main street of this town, called Zeus street. There is some
+sort of store to the west.
+~
+97 0 1
+D0
+~
+~
+0 -1 9707
+D2
+~
+~
+0 -1 9705
+D3
+~
+~
+0 -1 9726
+S
+#9707
+Zeus Street~
+You are still on the main thoroughfare of this town.  To the north, you see
+a large castle.  To the east there is a smaller road.
+~
+97 0 1
+D0
+~
+~
+0 -1 9708
+D1
+~
+~
+0 -1 9727
+D2
+~
+~
+0 -1 9706
+S
+#9708
+Castle Entryway~
+You are in the entryway of a large castle.  It is very beautiful, with
+large paintings and a lovely carpet.  You hear jovial laughter to the north,
+while smaller corridors branch off to the east and west.
+~
+97 8 1
+D0
+~
+~
+0 -1 9709
+D1
+~
+~
+0 -1 9714
+D2
+~
+~
+0 -1 9707
+D3
+~
+~
+0 -1 9710
+S
+#9709
+Throne Room~
+You stop dead in your tracks as you enter this room.  Before you is Zeus,
+in all his glory, sitting on a huge golden throne.  You had thought him to be 
+just a myth, but here he is ... you wonder who else lives in this castle.
+~
+97 8 1
+D0
+~
+~
+0 -1 9722
+D2
+~
+~
+0 -1 9708
+D5
+~
+throne trapdoor~
+1 -1 9717
+E
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+S
+#9710
+Western Wing~
+You are in the western wing of the castle.  You see the entrance to the
+east, while this hallway continues to the west.
+~
+97 8 1
+D1
+~
+~
+0 -1 9708
+D3
+~
+~
+0 -1 9711
+S
+#9711
+Western Wing~
+You are in the western wing of the castle.  The hallway continues to the
+north, while there are private rooms to the west and south.
+~
+97 8 1
+D0
+~
+~
+0 -1 9712
+D1
+~
+~
+0 -1 9710
+D2
+~
+~
+0 -1 9729
+D3
+~
+~
+0 -1 9728
+S
+#9712
+Western Wing~
+You are in the western wing of the castle.  This hallway continues to the
+south, and you hear pots and pans rattling to the north.
+~
+97 8 1
+D0
+~
+~
+0 -1 9713
+D2
+~
+~
+0 -1 9711
+S
+#9713
+Kitchen~
+You have entered the kitchen of this castle, and it is a hotbed of
+activity.  Servants are bustling about, preparing food for the Gods themselves.
+~
+97 8 1
+D2
+~
+~
+0 -1 9712
+S
+#9714
+Eastern Wing~
+You are in the eastern wing of the castle.  The hall continues to the
+east, while the entrance is back to the west.
+~
+97 8 1
+D1
+~
+~
+0 -1 9715
+D3
+~
+~
+0 -1 9708
+S
+#9715
+Eastern Wing~
+You are in the eastern wing of the castle.  The hall turns to the north
+here, while there are private rooms to the east and the south.
+~
+97 8 1
+D0
+~
+~
+0 -1 9716
+D1
+~
+~
+0 -1 9730
+D2
+~
+~
+0 -1 9731
+D3
+~
+~
+0 -1 9714
+S
+#9716
+Eastern Wing~
+You are in the eastern wing of the castle.  You hear animals to the north,
+while the hallway continues to the south.
+~
+97 8 1
+D0
+~
+~
+0 -1 9732
+D2
+~
+~
+0 -1 9715
+S
+#9717
+Dungeon~
+You are in Zeus's Dungeon.  You wonder what creatures are so terrible that
+even mighty Zeus fears them enough to imprison them.
+~
+97 9 1
+D0
+~
+~
+0 -1 9718
+D4
+~
+trapdoor throne~
+1 -1 9709
+S
+#9718
+Dungeon~
+You are in Zeus's Dungeon.  There are cells to the north, west, and east. 
+From the east and west, you hear guttural noises.  From the north, nothing ...
+~
+97 9 1
+D0
+~
+door~
+1 9727 9719
+D1
+~
+door~
+1 9727 9721
+D2
+~
+~
+0 0 9717
+D3
+~
+door~
+1 9727 9720
+S
+#9719
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+97 9 1
+D2
+~
+door~
+1 9717 9718
+S
+#9720
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+97 9 1
+D1
+~
+door~
+1 9727 9718
+S
+#9721
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+97 9 1
+D3
+~
+door~
+1 9727 9718
+S
+#9722
+Stairway~
+You have come to a large stairway leading up.  To the south, you see the
+throne room of Zeus.
+~
+97 8 1
+D2
+~
+~
+0 -1 9709
+D4
+~
+~
+0 -1 9738
+S
+#9723
+Bakery~
+You are in the small store which supplies the residents of this town with
+their food.  It smells wonderful in here!
+~
+97 8 1
+D1
+~
+~
+0 -1 9704
+S
+#9724
+Residence~
+You are in the residence of one of the inhabitants of this town.  She
+looks vaguely familiar, but you can't place her name ...
+~
+97 8 1
+D3
+~
+~
+0 -1 9705
+S
+#9725
+Residence~
+You are in the residence of one of the inhabitants of this town.  He looks
+vaguely familiar, but you can't place his name ...
+~
+97 8 1
+D1
+~
+~
+0 -1 9705
+S
+#9726
+Mystic Shop~
+You are in the store which provides the citizens here with whichever
+arcane objects they may need.
+~
+97 8 1
+D1
+~
+~
+0 -1 9706
+S
+#9727
+Ares Street~
+You are on a smaller road which branches off from the main street.  On a
+sign, you notice that the name of this road is Ares Street.
+~
+97 8 1
+D1
+~
+~
+0 -1 9733
+D3
+~
+~
+0 -1 9707
+S
+#9728
+Guest Quarters~
+You have entered private quarters which are reserved for visitors to the
+castle.  You nearly faint as you recognize the occupant of this chamber as Odin
+himself, patron God of Midgaard.  He must be visiting Zeus.
+~
+97 8 1
+D1
+~
+~
+0 -1 9711
+S
+#9729
+Storage Room~
+You are in a storage room of the castle.  There isn't much here, just a
+few boxes filled with old junk.
+~
+97 8 1
+D0
+~
+~
+0 -1 9711
+S
+#9730
+Guest Quarters~
+You have entered a room reserved for visitors to this castle.  You are
+amazed as you recognize the occupant - Ra, the Egyptian Sun God.  He must be
+visiting Zeus.
+~
+97 8 1
+D3
+~
+~
+0 -1 9715
+S
+#9731
+Storage Room~
+You are in a storage room of the castle.  There isn't much here, just a lot
+of dust.
+~
+97 8 1
+D0
+~
+~
+0 -1 9715
+S
+#9732
+Stable~
+You are in the stable of the castle.  Rather than the horses which you
+expected to find, it is filled with a wide variety of creatures which you
+thought were mythical.  Obviously, you were wrong.
+~
+97 8 1
+D2
+~
+~
+0 -1 9716
+S
+#9733
+Ares Street~
+You have reached the end of Ares Street.  To the south you see an armoury,
+while there is a weapons shop to the east.  To the north, you hear the sounds
+of a blacksmith.
+~
+97 8 1
+D0
+~
+~
+0 -1 9736
+D1
+~
+~
+0 -1 9735
+D2
+~
+~
+0 -1 9734
+D3
+~
+~
+0 -1 9727
+S
+#9734
+Armoury~
+This small store is almost empty.  It seems as if there is not much here,
+but the shopkeeper doesn't want to do business with you anyways.
+~
+97 8 1
+D0
+~
+~
+0 -1 9733
+S
+#9735
+Weapon Shop~
+You have entered a small store with a modest selection of weapons.  You
+get the feeling that there is not a very wide selection here, but the
+shopkeeper doesn't want to do business with you anyways.
+~
+97 8 1
+D3
+~
+~
+0 -1 9733
+S
+#9736
+Smithy~
+This large room is so noisy, you can barely hear yourself think.  All the
+occupants are hard at work, crafting high quality weapons and armor.  Something
+is strange about the west wall, although you can't quite tell what it is.
+~
+97 8 1
+D2
+~
+~
+0 -1 9733
+D3
+You see a concealed door!
+~
+door concealed~
+1 -1 9737
+S
+#9737
+The Planning Room~
+You have entered a large room dominated by a huge table with a large map
+on it.  Several men are gathered around the table, studying the map carefully.
+You hear the barking of dogs to the north.
+~
+97 9 1
+D0
+~
+~
+0 -1 9749
+D1
+~
+door~
+1 0 9736
+S
+#9738
+Second Floor~
+You are on the second floor of this castle.  You are numb from your
+discoveries on the first floor, and wonder what secrets the upper floor of this
+castle holds.  Hallways extend in all directions, and you see a small, closed 
+hatch above you.
+~
+97 8 1
+D0
+~
+~
+0 -1 9739
+D1
+~
+~
+0 -1 9742
+D2
+~
+~
+0 -1 9740
+D3
+~
+~
+0 -1 9741
+D4
+You see a sign on the hatch.  It reads 'Private Property. No trespassing!'
+~
+hatch~
+1 -1 9747
+D5
+~
+~
+0 -1 9722
+S
+#9739
+Northern Hall~
+You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.
+~
+97 8 1
+D0
+~
+~
+0 -1 9746
+D2
+~
+~
+0 -1 9738
+S
+#9740
+Southern Hall~
+You are in the southern hallway.  There is a private room to the south,
+and the stairs leading down are to the north.
+~
+97 8 1
+D0
+~
+~
+0 -1 9738
+D2
+~
+~
+0 -1 9743
+S
+#9741
+Western Hall~
+You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.
+~
+97 8 1
+D1
+~
+~
+0 -1 9738
+D3
+~
+~
+0 -1 9744
+S
+#9742
+Eastern Hall~
+You are in the eastern hallway.  There is a private room to the east, and
+the stairs leading down are to the west.
+~
+97 8 1
+D1
+~
+~
+0 -1 9745
+D3
+~
+~
+0 -1 9738
+S
+#9743
+Bed Room~
+You are in the bed room of a God!  This one seems to be empty.
+~
+97 8 1
+D0
+~
+~
+0 -1 9740
+S
+#9744
+Bed Room~
+You are in the bed room of a God!
+~
+97 8 1
+D1
+~
+~
+0 -1 9741
+S
+#9745
+Bed Room~
+You are in the bed room of a God!
+~
+97 8 1
+D3
+~
+~
+0 -1 9742
+S
+#9746
+Bed Room~
+You are in the bed room of a God!
+~
+97 8 1
+D2
+~
+~
+0 -1 9739
+S
+#9747
+Hall of Gods~
+You have entered the most sacred of places, the hall of true Gods.  If you
+are a mortal, it would probably be a good idea to leave NOW!  Exits leave in
+all directions.
+~
+97 8 1
+D0
+~
+~
+0 -1 9748
+D5
+~
+hatch~
+1 -1 9738
+S
+#9748
+The Portal~
+A sign reads: Beware of the unexpected and don't expect too much.
+~
+97 8 1
+D2
+~
+~
+0 -1 9747
+S
+#9749
+The Believer~
+A voice whispers, 'before the time has passed, enjoy your life.'
+~
+97 8 1
+D2
+~
+~
+0 -1 9737
+S
+$~

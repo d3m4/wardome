@@ -1,0 +1,130 @@
+#300
+oldstyle druid Aruncus~
+Aruncus the Druid~
+Aruncus the Druid is walking around here, searching for herbs.
+~
+Aruncus is a tall, skinny druid with a face marked by nature.
+He seems to be in peace with himself and his surroundings.
+~
+200 8 -500 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 1 -1 -1
+Att2: 15
+E
+#301
+oldstyle hermit sorbus~
+Sorbus the Hermit~
+Sorbus the Hermit is sitting here, roasting a rabbit.
+~
+Sorbus bares the marks of a long, hard life in solitude.
+He is dressed in simple clothing and looks like he has little
+or nothing to say.
+~
+10 32768 0 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 1 -1 -1
+Att2: 15
+E
+#303
+oldstyle citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+He seems like a nice person with no interest in harming you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+76 0 0 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 1 -1 -1
+Att2: 9
+E
+#304
+oldstyle citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+She seems like a nice person with no interest in harming you or others.
+She wears a minimum of clothing and has big ... eyes.
+~
+76 0 0 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+8 8 2 -1 -1
+Att2: 6
+E
+#305
+oldstyle worm Shudde-M'ell~
+Shudde-M'ell~
+Shudde-M'ell the Giant worm of G'harne is guarding his treasure.
+~
+Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,
+The worm is the protector of the treasure of G'harne and has been so
+for as long anyone can remember.
+~
+42 8 -1000 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 1 -1 -1
+Att2: 15
+E
+#306
+oldstyle luxan shopkeeper~
+Luxan~
+Luxan the Shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.
+He looks like a mean trader from the outskirts of Midgaard.
+His life is seems to be totally occupied with trading.
+He looks very fit and capable of protecting his goods.
+~
+24590 0 400 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 1 -1 -1
+Att2: 15
+E
+#308
+oldstyle keeper innkeeper~
+the Innkeeper~
+An Innkeeper is here waiting for your order.
+~
+The Innkeeper looks skilled in brewing different beers and mixing the
+wierdest drinks known. He also looks very big.
+~
+24586 0 -100 E
+23 9 6 1d1+477 5d3+8
+345 53243 0
+8 8 1 -1 -1
+Att2: 24
+E
+#309
+oldstyle rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+72 0 0 E
+1 20 10 1d1+18 5d1+0
+15 196 0
+8 8 0 -1 -1
+E
+#350
+oldstyle dragon pet~
+the pet dragon~
+Ravan's pet dragon is bouncing around here flapping her cute wings.
+~
+Ravan's pet dragon is about 3 ft. tall with small pointy teeth.
+The small wings are eagerly trying to lift her from the ground,
+but so far they haven't succeeded.
+~
+138 136 1000 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 2 -1 -1
+Att2: 9
+E
+$

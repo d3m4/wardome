@@ -1,0 +1,246 @@
+#9601
+Cave Entrace~
+You come across an immense cave, when you look upward it observes that this
+cave is to the foot of a very big mountain.    
+~
+96 4 5
+D1
+~
+~
+0 0 9602
+D2
+~
+~
+0 0 9827
+S
+#9602
+Dark passage~
+You notice that the passage is very dark, even with illumination it is
+difficult to see, the passage continues in decline to the east.    
+~
+96 257 0
+D1
+~
+~
+0 0 9603
+D3
+~
+~
+0 0 9601
+S
+#9603
+Dark passage~
+You notice that the passage is very dark, even with illumination it is
+difficult to see, the passage continues in decline to the east.    
+~
+96 257 0
+D1
+~
+~
+0 0 9604
+D3
+~
+~
+0 0 9602
+S
+#9604
+Dark passage and it narrows~
+You notice that the passage is very dark, even with illumination it is
+difficult to see, the passage continues in decline to the east.    
+~
+96 321 0
+D1
+~
+~
+0 0 9605
+D3
+~
+~
+0 0 9603
+S
+#9605
+Bifurcation  ~
+You observe that the patch becomes separated here in 2, choose BE CAREFULLY
+which the patch that you want to continue, because when you look back you
+notices that won't get to go up the passage again....  You listen noises to the
+passages.    
+~
+96 257 0
+D0
+~
+~
+0 0 9606
+D1
+~
+~
+0 0 9608
+D3
+~
+~
+0 0 9604
+S
+#9606
+Dark passage~
+You notice that the passage is very dark, even with illumination it is
+difficult to see, the passage continues in decline to the north.    
+~
+96 257 0
+D0
+~
+~
+0 0 9607
+D2
+~
+~
+0 0 9605
+S
+#9607
+Snake nest  ~
+You are already walking at hours when begins to notice many bones for the
+ground, some bones are many big with more than 5 meters
+~
+96 257 0
+D1
+~
+secret passage~
+0 0 9614
+D2
+~
+~
+0 0 9606
+S
+#9608
+Bifurcation  ~
+You observe that the patch becomes separated here in 2, choose BE CAREFULLY
+which the patch that you want to continue, you listen noises to the passages.
+  
+~
+96 257 0
+D0
+~
+~
+0 0 9609
+D1
+~
+~
+0 0 9610
+D3
+~
+~
+0 0 9605
+S
+#9609
+Oh -Oou...  ~
+You are already walking at a long time, your legs begin to hurt a lot and
+suddenly is with one it seems, without you to notice slips for a hole below it
+seems falling her for about 20 seconds.....    
+SORRY...YOU ARE DEAD!!!
+~
+96 6 0
+D2
+~
+~
+0 0 9608
+S
+#9610
+Bifurcation~
+You observe that the patch becomes separated here in 2, choose BE CAREFULLY
+which the patch that you want to continue, you listen noises to the passages.
+  
+~
+96 257 0
+D0
+~
+~
+0 0 9611
+D1
+~
+~
+0 0 9612
+D3
+~
+~
+0 0 9605
+S
+#9611
+Bat nest  ~
+You are already walking at hours when begins to notice many bones for the
+ground, some bones are many big with more than 5 meters, and many bats is
+sleeping here.    
+~
+96 257 0
+D2
+~
+~
+0 0 9610
+S
+#9612
+The big Hole~
+UUUUUUUUUUOOOOOOOOOOOOOOOUUUUUUUUUUUUU ...P L O F T...  
+While you walked you didn't notice that the patch had been in it refuses. You notice an immense hole of approximately some 50 of diameter in front you....
+&RYOU REALLY SURE THAT WANT TO GO DOWN???&n
+~
+96 260 0
+D5
+~
+~
+0 0 9615
+S
+#9613
+Corridor~
+You begin to hear the same noise now before more next...    
+~
+96 257 0
+D0
+~
+~
+0 0 9614
+D2
+~
+~
+0 0 9612
+S
+#9614
+Corridor~
+You begin to hear the same noise now before more next...    
+~
+96 257 0
+D2
+~
+~
+0 0 9613
+D3
+~
+~
+0 0 9607
+S
+#9615
+Tarrasque Home~
+You rise of the ground and observes an IMMENSE creature in your front...  
+Without could move or think you wield your weapon...  But it seems that her
+this sleeping.  You stop to think and begins to observe the monster.  You don't
+believe but it is, is the Legendary Tarrasque.    
+
+&RLEAVE THIS PLACE NOW!  &n
+~
+96 384 0
+D1
+~
+door~
+1 9601 9616
+D4
+~
+~
+0 0 9612
+S
+#9616
+Sacred Room~
+Ok...Now take this and get out!
+~
+96 69 0
+D3
+~
+~
+0 0 9615
+S
+$~

@@ -1,0 +1,112 @@
+#3700
+oldstyle henry gardener~
+Henry the Gardener~
+Henry the Gardener is sitting here, looking drunk.
+~
+He is a tall but bulky man in his late fifties.  His features are worn with
+decades of hard work and his somewhat crouched expression is one of deep
+sorrow and depression.  He is haunted by a memory of a lost paradise.
+~
+72 0 350 E
+120 -46 -12 1d1+6240 5d13+78
+1800 6148452 3
+8 8 1 3 19
+Att2: 100
+Att3: 90
+Att4: 40
+E
+#3701
+oldstyle zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+8 1024 -750 E
+100 -36 -9 1d1+5196 5d11+70
+1500 3645608 3
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 40
+E
+#3702
+oldstyle ghoul~
+the ghastly ghoul~
+A ghastly ghoul is here.
+~
+It is a walking corpse with long fangs and long, sharp nails that most of
+resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+~
+8 1024 -750 E
+110 -41 -11 1d1+5712 5d12+74
+1650 4788749 3
+8 8 1 -1 -1
+Att2: 100
+Att3: 85
+Att4: 65
+E
+#3703
+oldstyle skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+8 1024 -750 E
+110 -41 -11 1d1+5712 5d12+74
+1650 4788749 3
+8 8 1 -1 -1
+Att2: 100
+Att3: 88
+Att4: 65
+E
+#3704
+oldstyle skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+8 1024 -750 E
+100 -36 -9 1d1+5196 5d11+70
+1500 3645608 3
+8 8 1 -1 -1
+Att2: 100
+Att3: 80
+Att4: 40
+E
+#3705
+oldstyle zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+175624 1024 -750 E
+110 -41 -11 1d1+5712 5d12+74
+1650 4788749 3
+8 8 1 -1 -1
+Att2: 100
+Att3: 88
+Att4: 65
+E
+#3712
+Flaming Skeleton~
+&RF&rl&Ya&ym&Yi&rn&Rg &WS&wke&Wle&wto&Wn&n~
+you see a large &Wsk&wel&Wet&won&y in &Rf&rir&Re&y here.&n
+~
+A many huge bones mounted in the middle of the room, you see his ugly skull
+snarling to you evily.    
+~
+3661834 1644168328 -1000 E
+140 -56 -15 1d1+7272 5d15+86
+2100 9592545 3
+8 8 0 10 12
+Att2: 100
+Att3: 90
+Att4: 50
+E
+$

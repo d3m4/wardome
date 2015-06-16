@@ -1,0 +1,622 @@
+#28600
+Wardome Serpent~
+Wardome Serpent Guardian~
+The Wardome Serpent guards the entrance to the Dragon Village.
+~
+You see a slate grey vaguely serpent shape, devoid of any true features.
+It stands before you with arms folded, seemingly uninterested in you.
+~
+6250 1032 100 E
+140 -50 -11 1d1+3278 1d142+70
+7830 7616115 0
+8 8 0 3 9
+BareHandAttack: 4
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28601
+White Dragon~
+white dragon~
+A White Dragon is here, roars at you with its flaming hooves.
+~
+The white dragon is a wholly evil being, sent out by the rulers of the lower 
+planes to torment mortals.
+~
+4200 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28602
+Blue Dragon~
+blue dragon~
+Maldraedior Great Blue dragon stares at you.
+~
+This Blue dragon hisses at you as you enter the room.  Although it is only a 
+few feet long, its sharp teeth make you think twice about petting it.         
+The dragon hatchling is in excellent condition.
+~
+4200 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28603
+Green Dragon~
+a green dragon~
+Dagaronzie the Green Dragon grins evilly at you.
+~
+This majestous green dragon is huge and his skin is densely covered with   
+small and regular scales. His face looks calm, his neck is long and awsome.
+His body is firmly settled upon his four legs, but you know that the beast 
+can walk under his two paws. His two forepaws have long fingers, and they  
+look quite nimb.
+~
+4200 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28604
+Black Dragon~
+a Black dragon~
+A Black dragon grins evilly at you.
+~
+This unfortunate being has had its very dragon torn from its body.  It now roam
+mindlessly, unaware of its surroundings.
+~
+4200 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28605
+Red Dragon~
+a Red Dragon~
+A Red Dragon searches for signs of humanoids.
+~
+This dragon has red scaled skin and huge yellow ears, which look quite     
+attent to everything that happens around. As he sees you, he begins to come 
+to your right direction.
+~
+4200 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28606
+Ancient Rozan Dragon~
+an Ancient Dragon~
+The Ancient Rozan Dragon his here...
+~
+You see an old dragon tall as a normal dragon. Like all Dragons, his teeth are
+fanged and his eyes hollow and sunken. 
+~
+6250 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28607
+Storm Dragon~
+a Storm Dragon~
+The Storm Dragon stares at you, angrily.
+~
+You cannot see her eyes, or whatever details of his face  
+and body because of the darkness of her splinters.
+~
+6250 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28608
+Shivan Dragon~
+Shivan Dragon~
+The Shivan Dragon just look to you and grins.
+~
+This is the majestous Shivan dragon. His face looks calm, his neck is
+long and awsome. His two forepaws have long fingers.
+~
+6250 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28609
+Lareth The Dragon Of Injustice ~
+Lareth The Dragon Of Injustice ~
+Lareth The Dragon Of Injustice get no mercy...
+~
+You see a leathery-skinned dragon that stands a full foot taller
+than a normal dragon.
+~
+6250 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 13332526 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28610
+Dregoth Dragon King~
+Dregoth The Undead Dragon~
+Dregoth The Undead is here sleeping . 
+~
+This dragon has gray scaled skin and huge yellow ears, which look quite     
+attent to everything that happens around. As he sees you, he begins to come 
+to your right direction.
+~
+6250 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 13332526 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28611
+Hydra~
+Hydra~
+Hydra head licks her fangs as you enter this room.
+~
+Its looks like an enormous dragon with 5 heads...
+No time to look... No time to flee. 
+~
+8 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28612
+Hydra~
+Hydra~
+Hydra head lurks at you as you enter this room.
+~
+Its looks like an enormous dragon with 5 heads...
+No time to look... No time to flee.
+~
+6250 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28613
+Golden Dracolich queen~
+the Dracolich-Queen~
+The evil Dracolich-queen reaches out to destroy you.
+~
+The lich-queen of the Golden Dragon was once dragon, but no longer.  Her skin h
+completely shrunken around her skull, held together solely by the force of
+unholy magic and the powers of this plane of existence.  The cold glare of her
+hollow eyes sends you into paroxysms of fright.
+~
+6250 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 0 9
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28614
+Golden Dragon~
+Golden Dragon~
+The Golden Dragon King  says, "Prepare yourself ..hiss..to make you pay ...hiss...for your insolence ...hiss.. with your live!"
+~
+Golden Dragon is an enormous beast, with two wings widely opened. He looks  
+covered with several dark spliters, that are spread all around when the 
+dragon moves. You cannot see her eyes, or whatever details of his face  
+and body because of the darkness of his splinters. You note that his    
+red mouth is oponed and her tongue moves frantically.                   
+The dragon looks quite ansious.
+~
+6250 0 0 E
+185 -72 -17 1d1+4945 1d187+92
+11975 17034833 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#28615
+Hydra~
+Hydra~
+Hydra head grins at you evily as you enter this room.
+~
+The ghost makes no sound.  It is a shadowy shell of its former self, cursed
+now to roam forever without rest.  The mind of this creature has been twisted
+and destroyed in this torment, and it now envys and intends to destroy all the
+true living beings it encounters, including you.
+~
+6250 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28616
+Blood Dragon~
+a Blood Dragon~
+The Blood Dragon is here, grinning evilly at you..
+~
+This dragon has a skin intensely red coloured. Her pair of wings is closed, 
+what makes it seems she is less dangerous she really is. There are several  
+dark circular marks on her short neck, looking like sets of ebony colars.   
+There are the same marks on his arms and legs, and the bright red of his    
+torso makes you think of incandescent metal.                                
+Her eyes take your attention, as they don't stop to look at you.            
+~
+6250 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28617
+Mysterious Dragon~
+Mysterious Dragon~
+You see a Strange VERY BIG Lizard in front you.
+~
+I dont have words to describe this dragon ...
+~
+6250 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28618
+Smaug~
+Smaug~
+Smaug is here with an arrow sticking his skin.
+~
+This is a Legendary Dragon from Tolkien tales...
+He is alive! You admire a holy arrow just sticks in a vital
+part of his body...its better back while you can!
+~
+6250 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28619
+Falx The silver dragon~
+Falx The silver dragon~
+Falx The silver dragon grins at you.
+~
+This dragon has silver scaled skin and huge yellow ears, which look quite     
+attent to everything that happens around. As he sees you, he begins to come 
+to your right direction.
+~
+6250 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 13332526 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28620
+Crystal Dragon~
+Crystal Dragon~
+Sparkle The Crystal Dragon hisses at you.
+~
+This majestous Crystal dragon is huge and his skin is densely covered with   
+small and regular scales. His face looks calm, his neck is long and awsome.
+His body is firmly settled upon his four legs, but you know that the beast 
+can walk under his two paws. His two forepaws have long fingers, and they  
+look quite nimb.
+~
+6250 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 13332526 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28621
+Pellgrade Inexorable ~
+Pellgrade Inexorable ~
+The Inexorable Pellgrade growls at you.
+~
+There are several dark circular marks on her short neck, looking like
+sets of ebony colars. There are the same marks on his arms and legs,
+and the bright red of his torso makes you think of incandescent metal.         
+~
+8 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#28622
+Astral Dragon~
+Astral Dragon~
+Astral Dragon appears suddenness -> THE END.
+~
+Astral Dragon is an enormous beast, with two wings widely opened.
+He is a Guardian from all Planes...
+~
+8 0 0 E
+170 -65 -15 1d1+4362 1d172+85
+10555 13332526 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#28623
+Bestial Devastation~
+Bestial Devastation~
+Bestial Devastation is here to bring paim.
+~
+This Fly best has gray scaled skin and huge yellow ears, which look quite     
+attent to everything that happens around. As he sees you, he begins to come 
+to your right direction.
+~
+8 0 0 E
+140 -50 -11 1d1+3278 1d142+70
+7830 7616115 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#28626
+Hydra~
+Hydra~
+Hydra head hisses at you as you enter this room.
+~
+Its looks like an enormous dragon with 5 heads...
+No time to look... No time to flee.
+~
+8 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28627
+Hydra~
+Hydra~
+Hydra head growls at you as you enter this room.
+~
+Its looks like an enormous dragon with 5 heads...
+No time to look... No time to flee.
+~
+8 0 0 E
+180 -70 -17 1d1+4750 1d182+90
+11500 15733343 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#28628
+Baby Dragon Red~
+a red baby dragon~
+A &RRed&y Baby Dragon players here with human bones.&n
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+188622 603987968 -300 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4897709 0
+8 8 0 10 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28629
+Blue Baby Dragon~
+a blue baby dragon~
+A &BBlue&y Baby Dragon plays here with human bones.&n
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+57546 67117160 -300 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4897709 0
+8 8 0 10 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28630
+Green Baby Dragon~
+a green baby dragon~
+A &GGreen&y Baby Dragon plays here with human bones.&n
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+57546 67117096 -300 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4897709 0
+8 8 0 10 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28631
+White Baby Dragon~
+a white baby dragon~
+A &nWhite&y Baby Dragon plays here with human bones.&n
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+516298 67113000 400 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4897709 0
+8 8 0 10 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28632
+Black Baby Dragon~
+a black baby dragon~
+A &KBlack&y Baby Dragon plays here with human bones.&n
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+516170 75505704 -500 E
+120 -40 -8 1d1+2610 1d122+60
+6210 4897709 0
+8 8 0 10 -1
+BareHandAttack: 4
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#28633
+Baby Dragon~
+a Baby Dragon~
+A baby grey dragon plays here with human bones.
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+8 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28634
+Baby Dragon~
+a Baby Dragon~
+A baby cyan dragon plays here with human bones.
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+8 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28635
+Baby Dragon~
+a Baby Dragon~
+A baby silver dragon plays here with human bones.
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+8 0 0 E
+1 19 9 1d1+13 1d3+1
+15 366 0
+8 8 0 -1 -1
+E
+#28636
+Baby Dragon~
+a Baby Dragon~
+A baby grey dragon plays here with human bones.
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+8 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28637
+Baby Dragon~
+a Baby Dragon~
+A baby yellow dragon plays here with human bones.
+~
+It's only a baby by dragon standards.           
+A baby rainbow dragon is in excellent condition.
+~
+8 0 0 E
+150 -55 -12 1d1+3628 1d152+75
+8680 9288495 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#28638
+Quester Shen long dragon~
+Shen Long~
+Shen Long is here waiting for the 7 Dragon balls Wisher.
+~
+This majestous glowing dragon is huge and his skin is densely covered with   
+small and regular scales. His face looks calm, his neck is long and awsome.
+His body is firmly settled upon his four legs, but you know that the beast 
+can walk under his two paws.
+~
+8 0 0 E
+160 -60 -14 1d1+3992 1d162+80
+9565 11189104 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+$~

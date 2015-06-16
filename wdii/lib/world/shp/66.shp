@@ -1,0 +1,31 @@
+CircleMUD v3.0 Shop File~
+#6603~
+6602
+6606
+6609
+6610
+6608
+6601
+-1
+1.00
+1.00
+2scroll
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+6601
+0
+6603
+-1
+0
+28
+0
+0
+$~

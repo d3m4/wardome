@@ -1,0 +1,601 @@
+#9200
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#9201
+mountain climber mountainclimber~
+the mountain climber~
+A mountain climber is making the same trek that you are.
+~
+He wants to see what's on the other side of the mountain too.
+~
+78 0 500 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 1 -1 0
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9202
+cyclops~
+the cyclops~
+A hungry cyclops snarls at you!
+~
+He looks like he's about to have dinner (maybe it's you?).
+~
+42 1064 -700 E
+140 -50 -11 1d1+3912 5d15+56
+2100 7674036 0
+8 8 1 10 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#9203
+oldstyle tiny elemental~
+a tiny elemental~
+A tiny elemental form wanders about.
+~
+Rather small for an elemental form, looks like a reject.
+~
+74 0 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9204
+oldstyle elemental guardian~
+the elemental guardian~
+The elemental guardian of the canyon.
+~
+You can't tell which kind of elemental it is, maybe it's a bit o' all of them?
+~
+10 0 0 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 3 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9205
+oldstyle small elemental~
+a small elemental~
+A small, rather non-descript elemental.
+~
+A small elemental, a resident of the canyon.
+~
+74 0 0 E
+124 -42 -8 1d1+3468 5d13+48
+1860 5405736 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 56
+Att4: 6
+E
+#9206
+oldstyle medium elemental~
+a medium elemental~
+A medium-sized elemental.
+~
+A medium elemental, a resident of the canyon.
+~
+74 0 10 E
+135 -47 -10 1d1+3780 5d14+54
+2025 6908061 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#9207
+oldstyle large elemental~
+a large elemental~
+A large elemental.
+~
+A large elemental, a resident of the canyon.
+~
+74 0 20 E
+145 -52 -11 1d1+4056 5d15+58
+2175 8494573 0
+8 8 0 10 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#9208
+oldstyle earth elemental ruler~
+the Earth Ruler~
+The Ruler of the earth elementals.
+~
+He looks as old as the earth itself.  He seems to know all the 
+secrets and knowledge of the Earth.  You can't really tell where 
+he begins and the rock wall ends.
+~
+10 128 0 E
+160 -60 -14 1d1+4476 5d17+64
+2400 12432541 0
+8 8 0 8 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9209
+oldstyle fire elemental ruler~
+the Fire Ruler~
+The Ruler of the fire elementals.
+~
+As you look at him he seems to blend in with the fire in his throne.
+~
+4194314 128 0 E
+160 -60 -14 1d1+4476 5d17+64
+2400 12432541 0
+8 8 0 4 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9210
+oldstyle air elemental ruler~
+the Air Ruler~
+The Ruler of the air elementals.
+~
+As you peer at him you seem to be looking at the sky itself.
+~
+10 128 0 E
+160 -60 -14 1d1+4476 5d17+64
+2400 12432541 0
+8 8 0 9 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9211
+oldstyle lightning elemental ruler~
+the Lightning Ruler~
+The Ruler of the lightning elementals.
+~
+As you examine him there is a blinding flash of light and a deafening boom!
+You rub your eyes and look and the ruler is there grinning at you.
+~
+10 16777256 0 E
+160 -60 -14 1d1+4476 5d17+64
+2400 11302310 0
+8 8 0 10 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9212
+oldstyle water elemental ruler~
+the Water Ruler~
+The Ruler of the water elementals.
+~
+As you look at him he changes to mist, which swirls around you.  Just
+as you get scared, it reforms in elemental form.
+~
+10 128 0 E
+160 -60 -14 1d1+4476 5d17+64
+2400 11302310 0
+8 8 0 3 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#9213
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+10 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#9214
+oldstyle water puddle elemental~
+a puddle~
+A small puddle of water elemental.
+~
+It trickles along the ground and gets your feet wet.
+~
+8388682 0 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9215
+oldstyle fire flame elemental~
+a flame~
+A small flickering flame elemental.
+~
+It smolders along the grass aimlessly.
+~
+4194378 0 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9216
+oldstyle snowflake snow flake ice elemental~
+a small snowflake~
+A frozen snowflake water elemental.
+~
+It looks a little blue.
+~
+8388682 0 520 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9217
+oldstyle pebble rock earth stone elemental~
+a small rock~
+A small rock.
+~
+It seems to be a small living pebble!
+~
+74 0 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9218
+oldstyle spark lightning energy elemental~
+a small spark~
+A small spark of electricity fizzles here.
+~
+Zipping from place to place at the speed of light is tough work.
+~
+74 0 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9219
+oldstyle acid blob elemental~
+a small blob of acid~
+A small blob of acid aimlessly eats away at the stone.
+~
+The magical blob of acid is a cross between lightning and water.
+~
+4194378 0 0 E
+125 -42 -8 1d1+3492 5d13+50
+1875 5532299 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 59
+Att4: 6
+E
+#9220
+oldstyle lava elemental~
+a lava beast~
+A lava beast spews from place to place.
+~
+The magical lava beast is a cross between fire and earth.
+~
+4194378 0 0 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9221
+oldstyle mud elemental~
+a mud monster~
+A mud monster slops around.
+~
+The magical mud monster is a cross between water and earth.
+~
+74 0 0 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9222
+oldstyle mist elemental~
+an elemental mist~
+The air is magically misty here.
+~
+The magical mist is a cross between water and air.
+~
+74 0 0 E
+140 -50 -11 1d1+3912 5d15+56
+2100 7674036 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#9223
+oldstyle particle elemental~
+a particle~
+A sub-atomic particle is too small for you to see.
+~
+The magical manifestation of energy.
+~
+74 0 0 E
+135 -47 -10 1d1+3780 5d14+54
+2025 6908061 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#9224
+oldstyle dust elemental~
+a dust cloud~
+A dust cloud blowing by makes you sneeze.
+~
+The magical dust cloud is a cross between air and earth.
+~
+74 40 0 E
+135 -47 -10 1d1+3780 5d14+54
+2025 6908061 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#9225
+oldstyle eddie elemental~
+an eddie~
+A small eddie current swirls junk around here.
+~
+The magical eddie current is a manifestation of an air elemental.
+~
+74 40 0 E
+145 -52 -11 1d1+4056 5d15+58
+2175 8494573 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#9226
+oldstyle blue flame~
+the Blue Flame~
+The Blue Flame burns mysteriously here.
+~
+As you look you see what seems to be a face and almost a 
+humanoid figure somehow trapped in the fire.
+~
+4194378 0 -100 E
+155 -57 -13 1d1+4332 5d16+62
+2325 11337518 0
+8 8 0 1 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#9227
+oldstyle magneto~
+the Magneto~
+The Magneto considers zapping you for the heck of it.
+~
+A humanoid figure seems to be trapped in the field of the Magneto.
+~
+74 0 -150 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9228
+oldstyle ice bandit~
+the Ice Bandit~
+The Ice Bandit strikes cold fear in your heart.
+~
+A humanoid figure encased in ice but still apparently alive.
+~
+8388810 262144 -250 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9229
+oldstyle rock monster~
+the Rock Monster~
+The Rock Monster considers you in stoney silence.
+~
+A humanoid figure trapped in stone seems alive.
+~
+74 0 -310 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9230
+oldstyle hurricane~
+the Hurricane~
+A Hurricane rages across the sky.
+~
+A humanoid figure is trapped in the rushing wind.
+~
+74 262144 -10 E
+150 -55 -12 1d1+4200 5d16+60
+2250 9371548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9231
+oldstyle magician~
+an elemental magician~
+An elemental magician seeks magical stones for a spell.
+~
+The elemental magician has come here in search of the fabled
+Stone of Surrender which can be used to render opponents senseless.
+~
+74 2 -50 E
+145 -52 -11 1d1+4056 5d15+58
+2175 9344030 0
+8 8 0 0 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#9232
+oldstyle rainbow warrior~
+a rainbow warrior~
+A warrior of the Rainbow Cult swears his loyalty.
+~
+The Rainbow Cult has received special powers for their service to 
+the elemental forces.
+~
+74 0 150 E
+149 -54 -12 1d1+4164 5d15+58
+2235 9191548 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9233
+oldstyle illusionist~
+an illusionist~
+The illusionist seeks the aid of the elemental forces.
+~
+He seeks their aid for a powerful new spell of deception.
+
+<wielded>            The Sword of Illusions
+~
+74 0 -50 E
+150 -55 -12 1d1+4200 5d16+60
+2250 10308702 0
+8 8 0 9 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#9234
+oldstyle alchemist~
+an alchemist~
+An alchemist wanders by in search of magical herbs.
+~
+Rare herbs are rumored to grow only in the canyon.
+~
+74 40 -50 E
+148 -54 -12 1d1+4140 5d15+58
+2220 9915252 0
+8 8 0 0 0
+Att2: 100
+Att3: 74
+Att4: 24
+E
+#9235
+oldstyle baby rainbow dragon~
+a baby rainbow dragon~
+A baby rainbow dragon plays among the elements here.
+~
+It's only a baby by dragon standards.
+~
+4194378 40 0 E
+151 -55 -12 1d1+4224 5d16+60
+2265 9553881 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 77
+Att4: 27
+E
+#9236
+oldstyle imp~
+a little imp~
+A little imp runs along being annoying.
+~
+The little bugger steals stuff and is generally obnoxious.
+~
+206 786432 0 E
+120 -40 -8 1d1+3360 5d13+48
+1800 4918761 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#9237
+oldstyle HUGE elemental~
+a HUGE elemental~
+A HUGE elemental form stands here.
+~
+HUGE, need i say more?
+~
+74 0 30 E
+155 -57 -13 1d1+4332 5d16+62
+2325 10306835 0
+8 8 0 3 -1
+Att2: 100
+Att3: 80
+Att4: 30
+E
+#9238
+oldstyle vendor~
+the elixir vendor~
+A vendor is willing to sell you elixirs.
+~
+I WOULD NOT suggest you attack me ...!
+~
+3301450 0 900 E
+140 -50 -11 1d1+3912 5d15+56
+2100 7674036 0
+8 8 1 3 0
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#9239
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 -1 -1
+E
+$

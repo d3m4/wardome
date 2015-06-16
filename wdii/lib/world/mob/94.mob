@@ -1,0 +1,37 @@
+#9400
+thor viking~
+the &BV&Wikings &YGod&W, &GThor~
+&WThe greatest of all warrior Gods, Thor, is sitting here.&n
+~
+&GWhen you gets closer, he stands up and raises his &RH&Ba&Ym&Rm&Be&Yr&G and teleports you away.&n
+~
+4155403 596639912 800 E
+200 -130 -50 1d1+75000 10d41+150
+3000 34652576 10
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9401
+Elendil Helms king cmob~
+&WThe &YKing Elendil&n~
+&WThe &YSpirit &Wof &YElendil, &WThe &YKing &Wof &YHumans&n
+~
+
+This ghost seems a old man, with his grey beard, The King Elendil.
+His muscles bulge out of his robes. He carries the legendary Broken
+Sword of Narsil.
+Someday somebody wakes from Helms Deep to get my sword and bring
+Justice and union to all Kingdows...
+~
+3668234 51482798 1000 E
+200 -100 -30 1d1+21600 10d41+100
+3000 34652576 10
+8 8 1 5 12
+BareHandAttack: 3
+Att2: 100
+Att3: 80
+Att4: 50
+E
+$

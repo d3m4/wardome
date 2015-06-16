@@ -1,0 +1,211 @@
+#2901
+black mountain goat~
+a mountain goat~
+A mountain goat is standing here.
+~
+It looks hungry and searches for food.
+~
+10 1026 0 E
+-100 110 -37 -8d1+1 3960d5+12
+54 1650 4651927
+1 8 8 1 3
+Att2: 100
+Att3: 65
+Att4: 20
+E
+#2902
+black mountain ewe~
+a mountain ewe~
+A mountain ewe is standing here.
+~
+The ewe is watching her young.
+~
+10 33555456 0 E
+-100 110 -37 -8d1+1 3960d5+12
+54 1650 4651927
+1 8 8 2 3
+Att2: 100
+Att3: 65
+Att4: 20
+E
+#2903
+black mountain kid~
+a mountain kid~
+A mountain kid is standing here.
+~
+The kid is playing with its siblings.
+~
+10 132096 0 E
+-100 110 -37 -8d1+1 3960d5+12
+54 1650 4651927
+1 8 8 0 3
+Att2: 100
+Att3: 65
+Att4: 20
+E
+#2904
+fire newt worker~
+a fire newt worker~
+A fire newt worker is standing here.
+~
+The fire newt worker looks hot and sweaty.
+~
+4194380 1024 0 E
+-400 120 -42 -9d1+1 4320d5+13
+58 1800 5972782
+1 8 8 1 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2905
+fire newt guard~
+a fire newt guard~
+A fire newt guard is standing here.
+~
+The fire newt guard thinks you would be better dead.
+~
+4194314 66688 0 E
+-450 120 -42 -9d1+1 4320d5+13
+58 1800 5972782
+1 8 8 1 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2906
+fire newt worker~
+a fire newt worker~
+A fire newt worker is standing here.
+~
+The fire newt worker looks hot and sweaty.
+~
+4194314 536937608 0 E
+-400 120 -42 -9d1+1 4320d5+13
+58 1800 5972782
+1 8 8 2 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2907
+fire newt guard~
+Fire newt guard~
+A fire newt guard is standing here.
+~
+The fire newt guard wants to kill you!
+~
+4194408 536937600 0 E
+-450 130 -47 -11d1+1 4680d5+14
+62 1950 7522225
+1 8 8 2 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2908
+fire newt mother~
+a fire newt mother~
+A fire newt mother is standing here.
+~
+The fire newt mother is watching her kids.
+~
+4194314 8389632 0 E
+-355 130 -47 -11d1+1 4680d5+14
+62 1950 7522225
+1 8 8 2 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2909
+fire newt baby~
+a fire newt baby~
+A fire newt baby is crawling here.
+~
+The fire newt baby is crawling and drooling here.
+~
+4194318 1024 0 E
+-350 130 -47 -11d1+1 4680d5+14
+62 1950 7522225
+1 8 8 0 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2910
+fire newt sergeant~
+a fire newt sergeant~
+A fire newt sergeant patrols this area.
+~
+He's just found something that doesn't belong here!
+~
+10 1152 0 E
+-500 150 -57 -14d1+1 5400d5+16
+70 2250 11379737
+1 8 8 1 3
+Att2: 100
+Att3: 90
+Att4: 50
+E
+#2911
+fire newt general~
+a fire newt general~
+A fire newt general is standing here.
+~
+The fire newt general grins evilly at you.
+~
+4194346 546047104 0 E
+-700 150 -57 -14d1+1 5400d5+16
+70 2250 11379737
+1 8 8 1 3
+Att2: 100
+Att3: 90
+Att4: 50
+E
+#2912
+fire newt leader~
+a fire newt leader~
+A fire newt leader is standing here.
+~
+The fire newt leader screams, 'I'm going to hose you!'
+~
+4194314 553714824 0 E
+-1000 150 -57 -14d1+1 5400d5+16
+70 2250 11379737
+1 8 8 1 3
+Att2: 100
+Att3: 90
+Att4: 50
+E
+#2913
+fire newt priest~
+a fire newt priest~
+A fire newt priest is standing here.
+~
+The fire newt priest is preparing for worship.
+~
+4194314 1160 0 E
+-1000 140 -52 -12d1+1 5040d5+15
+66 2100 9318472
+1 8 8 1 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+#2914
+fire lizard~
+a fire lizard~
+A fire lizard is crawling here.
+~
+The fire lizard flicks its tongue at you.
+~
+4194314 1140851850 0 E
+-100 140 -52 -12d1+1 5040d5+15
+66 2100 9318472
+1 8 8 0 3
+Att2: 100
+Att3: 70
+Att4: 20
+E
+$

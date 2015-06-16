@@ -1,0 +1,886 @@
+#11201
+umber hulk~
+an umber hulk~
+A massive, purple skinned beast with multiple eyes and huge tusks lurks here.
+~
+These powerfully built creatures are feared foes of any subterranean
+dwellers, for their muscular arms and huge tusks are capable of rending
+many creatures in seconds. To find them so boldly outside their natural
+habitat is bad for two reasons; one, it means all regular methods of
+monster control have collapsed, making this a perilous place indeed to
+be. And secondly, umber hulks are usually found outside of their lairs
+only as lackeys of more powerful evil creatures such as Illithids and
+Beholders. And if either of those fell creatures is about you could be
+in serious trouble indeed...
+~
+42 40 -600 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11202
+illithid mage~
+an illithid mage~
+A purple skinned illithid clad in the robes of a mage stands here.
+~
+Three illithid mages assist the beholder mage xyrtog in his insidious
+schemes. One of them is usually away, recruiting new slaves or similar,
+while the other two work here on ways to increase the sphere of the
+ensorcellment's influence. And they are in a state of excitement, as
+they have finally succeeded.
+~
+106 8232 -600 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11203
+giant two headed troll ~
+a giant two-headed troll~
+A giant two headed troll stares slackjawed into space.
+~
+undefined~
+106 32 -400 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11204
+half-ogre warrior gaoler~
+the gaoler~
+A half-ogre of immense size lumbers about.
+~
+Truly a warrior of formidable strength and skill, the gaoler is not
+a foe to be easily dismissed. However, his movements are jerky, and
+sluggish, as if he were doing this against his will, and this lack
+of co-ordination can only benefit people who would do battle with him.
+~
+106 0 -500 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11205
+elven noble~
+an elven noble~
+An elven male attempts to remain dignified amidst the squalor.
+~
+undefined~
+10 32768 750 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11206
+crazed merchant~
+a crazed merchant~
+A crazed merchant begs to be freed.
+~
+This filthy, rag clad human has been imprisoned here for almost a year,
+after ignorantly attempting to trade with the town. He is being held
+in the hopes that his wealthy guild will pay a ransom, but it now
+looks as if that is not going to happen.
+~
+10 0 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11207
+peasant~
+a peasant~
+A peasant grimly awaits his fate.
+~
+This fellow was unfortunate enough to be made of sterner stuff than
+most of his neighbours, and resisted the enthrallment of the evil
+powers who subverted Hochenyana. Thus he has been imprisoned here, and
+decreed to serve as their next meal...
+~
+74 0 400 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11208
+dog~
+a village dog~
+A sinewy hunting dog wanders the streets in a daze.
+~
+undefined~
+72 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11209
+dazed villager~
+a dazed villager~
+A dazed villager stumbles along.
+~
+This poor soul appears to have no willpower left. He shuffles along
+oblivious to his surroundings.
+~
+72 0 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11210
+dazed villager~
+a dazed villager~
+A dazed villager stares blankly into space.
+~
+This poor woman has no willpower left; she appears to be in a trance,
+or a zombie like state.
+~
+72 0 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 2 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11211
+guard~
+a village guard~
+A stout human clad in mismatched armor stares into space.
+~
+This stout, dependable chap was once one of Hochenyana's famed
+militia, a sturdy guard who have fended off countless orcish raids.
+But now he seems more interested in studying a passing fly than in
+well armed intruders in his village...
+~
+74 0 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11212
+mayor geoffrey hiln doppleganger~
+Geoffrey Hiln~
+A heavy-set, bearded man welcomes you into his office.
+~
+Geoffrey Hiln, veteran of countless battles against Chaos, is by
+repute a loud spoken bear of a man, who is just as likely to deck
+someone who insults him as try to talk them down. He is abrupt, curt
+and rude, but loved and respected by his villagers, whom he would give
+his life to protect. However, the obsequious panderer who is addressing
+you now does not exactly fit the bill, even if he is the spitting image
+of Geoffrey Hiln physically.
+~
+74 40 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11213
+mayor secretary~
+the mayor's secretary~
+A plump, middle aged woman sits here behind a huge desk.
+~
+This woman appears to be unusually bright and cheerful, for this place;
+you wonder for a second if she somehow resisted the malediction plaguing
+her peers, then you notice that her smile is forced, her eyes emotionless,
+and realize it is almost as if she is just acting out a preprogrammed
+series of activities and responses.
+~
+10 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 2 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11214
+giant spider~
+a giant spider~
+A spider of immense size scuttles across the dusty floor.
+~
+You cannot believe that such a hideous beast has managed to lurk here
+undetected for so long; perhaps it has been placed here as a guardian?
+~
+104 98304 -400 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 36
+Att3: 3
+E
+#11215
+true mayor geoffrey hiln~
+Geoffrey Hiln~
+A heavy-set, bearded man sits on a chair, fuming.
+~
+Geoffrey Hiln, veteran of countless battles against Chaos, is by
+repute a loud spoken bear of a man, who is just as likely to deck
+someone who insults him as try to talk them down. He is abrupt, curt
+and rude, but loved and respected by his villagers, whom he would give
+his life to protect. His imprisonment has done little to dull his senses,
+or his temper.
+~
+74 40 500 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11216
+zombie badwick~
+the zombie of Badwick~
+A decaying corpse lurches across the dusty workshop!
+~
+Poor Badwick has certainly seen better days; such was the anguish and
+unnatural nature of his death that the body refused to die, and cannot
+now rest.
+~
+106 40 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11217
+insane butcher clegg~
+Clegg~
+An insane butcher foams at the mouth as he hacks into a slab of meat.
+~
+The butcher was never the most stable of people, having a rather
+unhealthy attraction to hacking up carcasses, but something has now
+quite broken what mind he has, and he has become a homicidal maniac.
+~
+106 0 -400 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11218
+mariah~
+Mariah~
+A young woman is seated here, singing softly to herself.
+~
+Despite your best efforts to attract her attention, the pretty
+shopkeeper ignores you, staring into space and singing softly. As you
+watch, tears begin to flow down her face, as if something was upsetting
+her greatly, and her voice wavers.
+~
+10 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 2 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11219
+bear~
+a brown bear~
+A brown bear lumbers out from behind a table, blood on its fur.
+~
+This bear wandered into town a few days ago, and was astonished at the
+lack of resistance it met. It decided to devour the family that once lived
+here, and has laired here since, enjoying the easy meals.
+~
+42 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11220
+patron~
+a patron~
+A sober patron sits silently at one of the long tables.
+~
+This fellow is seated, as was his wont for years, in the pub, but is
+not drinking or eating; he just stares into space, as if waiting for
+something.
+~
+74 0 -200 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11221
+silus bartender~
+Silus~
+A slender elf, the proprieter of this establishment, stares blankly at you.
+~
+Silus is the proprieter of what was once a happy and prosperous pub,
+but now being here makes you depressed and uneasy. He and his patrons
+just sit and stare into space, no expression gracing their faces. Even
+slapping and shaking them provokes only the briefest response.
+~
+10 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11222
+maddax ~
+Maddax~
+An elderly man clad in wizard's robes hawks his wares.
+~
+Two things strike you as unusual about this fellow; firstly, he is
+talking, and no one else in the village you have met has actually
+addressed you in a polite manner. Secondly, his eyes do not appear to
+be glazed over as the others are.
+~
+10 8200 760 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11223
+skeleton horse~
+a skeletal horse~
+The skeleton of a dead horse rises from the ground!
+~
+Although its physical form is long dead, the remains of the horse
+arise by the dint of some foul necromancy to assault any who intrude
+upon its place of death!
+~
+42 0 -400 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 0 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11224
+insane merchant~
+an insane merchant~
+A ragged, dishevelled old man sits weeping on the dirty floor.
+~
+This poor fellow appears to have suffered mightily at the hands of
+whatever has taken over this town; his mind has been broken by what
+he has been subjected to.
+~
+10 0 0 E
+35 -15 -8 1d1+3492 5d7+104
+525 238782 9
+8 8 1 -1 -1
+Att2: 70
+Att3: 20
+Att4: 5
+E
+#11225
+edmund armorer~
+Edmund~
+A short, stocky man is lying on the floor, stunned.
+~
+Someone or something large has smashed into the armorer, and he lies on
+the floor, struggling back to consciousness. As you enter, you notice the
+dazed look that fills the eyes of most of the people here disappearing...
+~
+10 0 0 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11226
+otyugh~
+an otyugh~
+A horrid, tentacled blob arises from the muck.
+~
+Lurking in this sewer is a horrid otyugh, not at all common to this
+region, and undoubtledly released here by the infiltrators of the city
+to dispose of unwanted waste. This foul mobile garbage devouring monster
+has ultra keen senses, with which it can detect hidden or concealed foes,
+though magical invisibility still confounds it.
+~
+46 32 -400 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11227
+englebert~
+N~
+A balding middle aged man is seated by a blazing fire.
+~
+This harmless old coot sits by his fire, mumbling about the bitter cold,
+despite it being hotter than the inside of a smith's forge in his cramped
+shop.
+~
+10 0 0 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 30
+Att4: 15
+E
+#11228
+giant frog~
+a giant frog~
+A massive frog croaks angrily.
+~
+This massive amphibian is the size of an alsatian, and has a tongue
+long enough to wrap three times around you, its favorite method of
+snaring prey.
+~
+42 0 -225 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#11229
+thief~
+N~
+A thief cautiously searches the room for any valuables.
+~
+This amoral rogue is taking advantage of the senseless townsfolk to
+search for loot; he is a little perturbed by their unusual behaviour,
+but his greed is overriding his uneasiness, which may be to his regret...
+~
+10 32808 -400 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 30
+Att4: 15
+E
+#11230
+wild boar~
+a wild boar~
+A wild boar grunts in displeasure.
+~
+This aggressive brute wandered into town one day, and was surprised at
+the lack of resistance and decided to stay to enjoy the easy pickings.
+Estroglian boars are by nature quite carniverious, and their bloodlust
+is exacerbated by easy prey.
+~
+42 0 -209 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 6
+E
+#11231
+holst brecker~
+N~
+A stern, middle aged man stands rigidly at attention here.
+~
+The constable of Hochenyana, Holst was ironically one of the first to
+fall under the influence of the foul enchantments placed 'pon this place.
+Now he stands here, as if nothing was amiss, awaiting further orders.
+~
+10 8192 0 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 30
+Att4: 15
+E
+#11232
+goblin shaman~
+a goblin shaman~
+A rather mangy, bedragged goblin covered in white paint screams at the sky.
+~
+This cunning shaman took advantage of the helplessness of the townsfolk
+to move his tribe into the mage's tower; accomodations he has long desired.
+He is dimly aware that something is seriously wrong with the villagers, and
+that some sort of enchantment is in affect, but ignores it as it has yet ot
+affect him.
+~
+229434 1090519208 -800 E
+40 -18 -9 1d1+3996 5d9+106
+600 375644 9
+8 8 1 11 -1
+Att2: 42
+Att3: 6
+E
+#11233
+guard~
+the town guard~
+A town guard wanders past in a daze.
+~
+This stout, dependable chap was once one of Hochenyana's famed
+militia, a sturdy guard who have fended off countless orcish raids.
+But now he seems more interested in studying a passing fly than in
+well armed intruders in his village...
+~
+74 0 -200 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 30
+Att4: 15
+E
+#11234
+grinning goblin~
+a grinning goblin~
+A grinning goblin cackles maniacally.
+~
+This fecund member of the Gutripper Clan is here under the auspices of
+the clan shaman, who took it upon himself to invade the mage's tower
+when the town came under the influence of whatever malady besets them.
+Ferocious even by goblin standards, this sinewy foe is quite capable of
+rending strong adventurers in two.
+~
+42 0 -500 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 42
+Att3: 6
+E
+#11235
+goblin~
+N~
+A small, but strong, goblin creeps through the hovels.
+~
+This fecund member of the Gutripper Clan is here under the auspices of
+the clan shaman, who took it upon himself to invade the mage's tower
+when the town came under the influence of whatever malady besets them.
+Ferocious even by goblin standards, this sinewy foe is quite capable of
+rending strong adventurers in two.
+~
+42 0 -500 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 42
+Att3: 30
+Att4: 15
+E
+#11236
+brass golem~
+a brass golem~
+A brass golem stands before the two doors.
+~
+Lacking many of the powers and immunities of its more powerful cousins,
+the brass golem is nevertheless a competent and hardy defender of any
+mage's chambers.
+~
+10 8232 0 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11237
+fire elemental~
+a fire elemental~
+A towering pillar of flame fills this chamber with heat.
+~
+This semi intelligent being from the plane of fire seeks only to destroy
+by fire all it encounters.
+~
+4194344 524288 -400 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11238
+minion nool~
+a minion of No'ol~
+A winged demon hovers above the bloodstained altar.
+~
+Sent by the Chaotic Lord to observe the goings-on in this temple,
+the minion was pleased to note the extent to which chaos had taken
+advantage of the evil enchantments placed upon the town. No'ol is aware
+of who is behind the enchantment, and his priests have hammered out a
+pact of mutual benefit, though Chaos does not always co operate with
+forces of purer Evil.
+~
+42 168 -1000 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11239
+wraith~
+a wraith~
+The enraged spirit of a man who starved to death has returned!
+~
+This poor soul was doomed to a slow death by starvation, and it now
+cannot rest due to the indignity of such a death.
+~
+42 532520 -200 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 0 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11240
+illithid disguised librarian~
+an illithid scientist~
+A tall figure shrouded completely in dark robes stands reading a book.
+~
+This scholar appears to be totally engrossed in his work. As you approach,
+however, you see a long blue clawed hand protrude from the robe, and a slimy
+tentacle inches out of the cowled robe...
+~
+10 40 -800 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11241
+dark monk~
+a dark monk~
+A wizened old man shambles through the aisles, searching.
+~
+The forces behind the conquest of Hochenyana have brought in the infamous
+dark monks, collectors and translators of ancient unholy texts, some of
+which they hope to find in this old library.
+~
+104 0 -800 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 1 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11242
+rogue~
+a rogue~
+A svelte elven woman clad in a black catsuit slinks out of the shadows.
+~
+This evil woman was hired by the powers in control to keep an eye on
+the library and destroy any unwanted intruders, a task she relishes in.
+~
+46 32810 -675 E
+40 -18 -9 1d1+3996 5d9+106
+600 341495 9
+8 8 2 -1 -1
+Att2: 80
+Att3: 30
+Att4: 15
+E
+#11243
+Xeratzl~
+Xeratzl~
+A short, grumpy demon squats in the middle of null-space.
+~
+Xeratzl was imprisoned here by an old mage centuries ago, who desired
+her tome but had not the strength to wrest it from her grasp. He has
+since entrusted the beast to the library, and the new owners have yet
+to discover her little prison.
+~
+106 565416 -666 E
+45 -20 -10 1d1+4500 5d9+108
+675 469801 9
+8 8 2 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11244
+devrel paladin~
+Devrel~
+A naked man has been tossed into a corner of this room like so much garbage.
+~
+Once the finest Paladin of Asteh, Devrel is now a quivering wreck, his
+mind destroyed by the usurpers. However, the rigors did not affect his
+physical form, and he can still defend himself on an animal like
+instinctive level.
+~
+10 8224 1000 E
+45 -20 -10 1d1+4500 5d9+108
+675 469801 9
+8 8 1 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11245
+shadow~
+a shadow~
+An indistinct form coalesces from the shadows before you.
+~
+undefined~
+42 557096 -670 E
+45 -20 -10 1d1+4500 5d9+108
+675 469801 9
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11246
+priest no'ol~
+a Priest of No'ol~
+A naked, screaming female prostrates herself before her god.
+~
+Utterly evil, inutterably insane, this vile she-witch is a priest of
+No'ol, and she works herself into unholy frenzies in worship of her
+deity.
+~
+8 40 -1000 E
+45 -20 -10 1d1+4500 5d9+108
+675 469801 9
+8 8 2 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11247
+avatar asteh~
+an avatar of Asteh~
+A glowing humanoid stands trapped behind a shimmering force field.
+~
+The avatar was summoned during the taking of the temple by the clergy
+in a last ditch effort to save their church. However the avatar was
+overcome and entrapped here, where the faithful of No'ol can scorn and
+deride it. The force field bars only it from moving; all others may pass
+freely. Her armor bears many dents, and her skin is burned badly in several
+places, punishment from her captors.
+~
+10 532648 450 E
+45 -20 -10 1d1+4500 5d9+108
+675 469801 9
+8 8 2 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11248
+ghost bishop~
+the ghost of the bishop~
+The ghost of the bishop of Asteh haunts this place.
+~
+This poor soul was slain here, and his enraged spirit refuses to rest;
+indeed it cannot until the evil here has been laid to rest.
+~
+10 8360 1000 E
+46 -21 -10 1d1+4596 5d9+108
+690 498781 9
+8 8 1 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11249
+mud man~
+a mud man~
+A humanoid form arises from the muck.
+~
+This magical creature is only semi-intelligent, but it is imbued with
+a strong desire to destroy anything not like itself.
+~
+42 0 -200 E
+47 -21 -10 1d1+4692 5d9+108
+705 528919 9
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11250
+giant leech~
+a giant leech~
+A massive leech rises from the smelly waters.
+~
+undefined~
+42 32768 0 E
+48 -22 -10 1d1+4800 5d9+108
+720 560239 9
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+#11251
+beholder mage xyrtog~
+Xyrtog~
+A beholder of immense size utters an incantation.
+~
+This foul creature of evil is the ringleader of the evil influence that
+has taken over the peaceful town of Hochenyana. A mage of considerable
+power, Xyrtog is also a highly influential force in the Beholder City
+of Qu'gphtek M'gyhr. With his illithid allies, he intends to expand
+the range of his ensorcellment, and achieve what chaos has failed to
+do for centuries, and without even having to spill a drop of blood, though
+that does not worry the evil tyrant.
+~
+106 8360 -875 E
+50 -23 -11 1d1+4992 5d11+110
+750 626513 9
+8 8 0 -1 -1
+Att2: 90
+Att3: 40
+Att4: 25
+E
+$

@@ -1,0 +1,25 @@
+@Version: 2
+#3
+The Plains of the North~
+399 240 1 1
+O 1 300 10 327 	(a small dusk of timian herbs)
+O 1 301 10 319 	(a small dusk of black gyvel)
+O 1 304 3 316 	(wild flowers)
+O 1 304 3 323 	(wild flowers)
+O 1 304 3 338 	(wild flowers)
+M 0 305 1 344 	(Shudde-M'ell)
+G 1 310 5 -1 	(a strange template)
+G 1 311 99 -1 	(a clear potion)
+M 0 309 10 324 	(the cute rabbit)
+M 0 309 10 318 	(the cute rabbit)
+M 0 309 10 334 	(the cute rabbit)
+M 0 300 1 323 	(Aruncus the Druid)
+E 1 308 2 17 	(a druish staff)
+E 1 307 2 3 	(a strange amulet)
+G 1 312 1 -1 	(a scroll titled 'jhyfrdow')
+G 1 302 10 -1 	(a small dusk of poison ivy)
+M 0 301 1 331 	(Sorbus the Hermit)
+G 1 303 2 -1 	(a dark red jar)
+O 1 309 30 331 	(a rabbit roast)
+S
+$

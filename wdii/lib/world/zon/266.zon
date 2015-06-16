@@ -1,0 +1,16 @@
+@Version: 2
+#266
+Wardome - Learning Zone~
+26699 1 2 13 -1
+M 0 26604 2 26600 	(Ajudante)
+O 0 26600 7 26607 	(Sunglass)
+O 1 2 7 26607 	(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)
+M 0 26604 1 26612 	(Ajudante)
+O 0 26601 7 26619 	(Sunglass)
+O 1 2 7 26619 	(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)
+M 0 26602 1 26617 	(Astrain, the ugly)
+M 0 26603 7 26613 	(A dumb orc)
+M 0 26601 7 26601 	(Um orc retardado)
+M 0 26600 1 26605 	(Galahar, o feio)
+S
+$

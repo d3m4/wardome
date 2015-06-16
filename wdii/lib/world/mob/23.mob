@@ -1,0 +1,765 @@
+#2300
+oldstyle knight ethereal dark~
+the Dark Ethereal Knight~
+A dark ethereal knight hovers over the bloody clearing.
+~
+The ethereal knight is clad in shadowy black armor. It appears as though he
+was involved in the carnage that occurred here. His soul is trapped here, as
+he waits for release.
+~
+10 136 -1000 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 1 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2301
+oldstyle treant tree~
+the Old Treant~
+A huge, gnarled tree stands here, battered by age and nature.
+~
+The old tree looks as though the wind has battered and torn at it for years.
+Very few leaves remain. Its limbs are crooked and gnarled. It moans as the 
+wind pushes it back and forth.
+~
+10 0 250 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2302
+oldstyle dweller cave creature~
+the Cave Dweller~
+A slimy, gross creature is here munching on a corpse.
+~
+The cave dweller looks like a mixture of several disgusting monsters. It has
+a bird's beak, huge white eyes, a furry body, and long clawed hands and feet.
+It sees you and snarls.
+~
+42 262164 0 E
+185 -76 -20 1d1+8136 5d19+94
+2775 21228458 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#2303
+oldstyle toad rock~
+the Rock Toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+10 0 -250 E
+188 -78 -21 1d1+8268 5d19+94
+2820 22248634 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 94
+Att4: 66
+E
+#2304
+oldstyle weeping willow tree~
+the Weeping Willow~
+A large willow tree stands here, weeping.
+~
+The weeping willow has long thins branches. These branches seem to droop in
+anguish and dismay. You hear a faint sound of crying.
+~
+10 136 1000 E
+185 -76 -20 1d1+8136 5d19+94
+2775 21228458 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#2305
+oldstyle mist mistling~
+the Mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+42 524288 0 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#2306
+oldstyle swamp wraith~
+the Swamp Wraith~
+A swamp wraith emerges from the mist here.
+~
+The swamp wraith is made of mist and is in the image of a great warrior. He
+appears to emerge from the mist. You feel the cold radiating from his form as
+he nears you.
+~
+46 0 -1000 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2307
+oldstyle ogre villager~
+the Ogre Villager~
+The ogre villager is here, going about its chores.
+~
+You see a pitifully overworked ogre. It is dressed in rags and shuffles along
+with its head hung low. It sees you and cringes in mortal terror.
+~
+200 0 -200 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#2308
+oldstyle warrior ogre~
+the Ogre Warrior~
+The ogre warrior stands here, growling fiercely.
+~
+The ogre warrior is dressed in thick fur armor. He looks quite large and
+formidable.
+~
+236 0 -350 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#2309
+oldstyle guard ogre~
+the Ogre Guard~
+The ogre guard is here manning his post faithfully.
+~
+The ogre guard stands here manning his post. It appears as though he would
+fight to the death before abandoning his post.
+~
+110 0 -500 E
+195 -81 -22 1d1+8580 5d20+98
+2925 24754935 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#2310
+oldstyle shaman ogre~
+the Ogre Shaman~
+The ogre shaman is here chanting arcane words and waving his arms.
+~
+The ogre shaman is draped in thick fur cloaks and pelts. He has all types of
+charms and holy symbols draped about him. He looks at you and snarls.
+~
+206 136 -750 E
+185 -76 -20 1d1+8136 5d19+94
+2775 21228458 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#2311
+oldstyle chief chieftain ogre~
+the Ogre Chieftain~
+The ogre chieftain is here, observing his subjects.
+~
+This is the biggest ogre you have ever seen. He is heavily equipped and looks
+quite formidable. He towers high above you and growls menacingly.
+~
+238 136 -1000 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2312
+oldstyle barbarian~
+the Plains Barbarian~
+A plains barbarian is here, clad in heavy furs.
+~
+The plains barbarian is clad in heavy furs. He seems used to the chilling cold
+and icy wastes.
+~
+238 0 0 E
+195 -81 -22 1d1+8580 5d20+98
+2925 24754935 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#2313
+oldstyle yeti white~
+the White Yeti~
+The white yeti crouches here snarling.
+~
+The white yeti looks like a huge white snow ape. Its long arms end in long
+curved talons and its mouth is full of sharp teeth.
+~
+238 0 -350 E
+185 -76 -20 1d1+8136 5d19+94
+2775 21228458 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#2314
+oldstyle worm ice iceworm~
+the Ice Worm~
+A huge ice worm burrows through the ice and snow here. It rears up and
+attacks!
+~
+The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow
+as it charges directly at you.
+~
+8388718 0 0 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#2315
+oldstyle citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, hurrying through the icy streets.
+~
+You see a rather ragged and cold minotaur. It appears to be looking for a warm
+place to seek refuge from the cold.
+~
+204 0 100 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#2316
+oldstyle guard minotaur~
+the Minotaur Guard~
+A minotaur guard catches you trespassing and attacks!
+~
+The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of
+his armor.
+~
+110 0 -330 E
+185 -76 -20 1d1+8136 5d19+94
+2775 21228458 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#2317
+oldstyle warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here looking for intruders.
+~
+You see a huge minotaur that is dressed in thick furs and armor. He has black
+fur and red eyes. He looks quite capable of protecting the city.
+~
+108 0 -330 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 1 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2318
+minotaur gatekeeper guard~
+the Minotaur Gatekeeper~
+A minotaur is here guarding the Keep of Mahn-Tor.
+~
+The minotaur stands rigidly before the gates of the keep. It looks quite
+miserable standing in the driven snow and ice.
+~
+78 8 -330 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2319
+oldstyle minotaur high guard~
+the High Minotaur Guard~
+The minotaur high guard is here guarding the Keep.
+~
+The high guard is dressed in blue plate armour. He looks quite dangerous and
+skilled.
+~
+110 8 -330 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2320
+oldstyle minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard considers you an intruder and attacks!
+~
+The royal guard is quite huge. He is dressed in heavy red armor and wields a
+huge glaive. He looks quite capable of protecting the keep.
+~
+110 8 -330 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2321
+oldstyle guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard sees you and attacks!
+~
+This minotaur wields a huge morningstar and is clad in heavy crimson plate and
+furs.
+~
+2158 8 -250 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 3 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2322
+girl minotaur harem~
+the Harem Girl~
+A beautiful minotaur girl is standing here.
+~
+She looks quite attractive for a minotaur. Her low cut gown reveals why she
+was chosen to be in the harem.
+~
+206 0 1000 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2323
+oldstyle butler minotaur~
+the Minotaur Butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+206 0 250 E
+180 -74 -20 1d1+7920 5d19+92
+2700 19598258 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#2324
+oldstyle keeper minotaur ring-keeper~
+the Minotaur Ring-Keeper~
+The minotaur ring-keeper stands guarding his post.
+~
+The ring-keeper is a huge minotaur. You notice a huge ring of multicolored
+keys hanging from his belt. He wears huge, spiked brass knuckles.
+~
+78 136 -300 E
+190 -79 -21 1d1+8352 5d20+96
+2850 22946581 2
+8 8 1 -1 -1
+Att2: 96
+Att3: 40
+E
+#2325
+Harok~
+Harok~
+Harok, the Minotaur Warrior Master, is here practicing his skills.
+~
+Harok is HUGE. His bulging muscles are confined beneath heavy armor. It seems
+very clear why he is the master of the warriors of Mahn-Tor.
+~
+2090 136 -300 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 3 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2326
+oldstyle darkoth minotaur anti-paladin master~
+Darkoth~
+Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Darkoth is a living incarnation of evil. He radiates a dark aura, and a cold
+chill runs down your spine. He is the master of the Mahn-Tor anti-paladins.
+~
+42 136 -1000 E
+150 -59 -15 1d1+6600 5d16+80
+2250 11534213 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#2327
+yergoth minotaur paladin master~
+Yergoth~
+Yergoth, the minotaur paladin, is here worshipping silently.
+~
+Yergoth is the minotaur incarnation of good. You feel safe and at ease in his
+presence. He is the leader of the Mahn-Tor paladins.
+~
+10 136 1000 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2328
+oldstyle amyrok minotaur mage master~
+Amyrok~
+Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Amyrok is a small minotaur. He is clad in loose robes and emits an aura of
+power. He appears quite dangerous, despite his size. He is the leader of the
+mages of Mahn-Tor.
+~
+42 136 300 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2329
+oldstyle sumaron minotaur cleric master~
+Sumaron~
+Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Sumaron is clad in white glowing robes. He is goodness incarnate. He is the
+master of all the clerics of Mahn-Tor.
+~
+6426 136 1000 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2330
+oldstyle nasturn minotaur druid master~
+Nasturn~
+Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Nasturn is quite a natural looking minotaur. He is dressed in leather and
+wears no metal of any type. He looks at you and smiles.
+~
+10 136 500 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2331
+oldstyle belrak minotaur ranger master~
+Belrak~
+Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Belrak is clad in green and brown leather. He looks quite agile and thin, when
+compared to the normal minotaur. He looks at you with a slight smirk.
+~
+42 136 500 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2332
+oldstyle dorgar minotaur thief master~
+Dorgar~
+Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Dorgar is clad all in black. He is tall and slender, unlike most minotaurs. He
+appears to be quite a skilled thief.
+~
+3145790 524288 -500 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2333
+mahn-tor minotaur grand master~
+Mahn-Tor~
+Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Mahn-Tor towers above you. He is simply huge. Mahn-Tor is clad in the best of
+armor and robes. He wields the largest axe you have ever seen. You can see why
+Mahn-Tor is the leader of the minotaurs. He is awe-inspiring.
+~
+3270670 1048746 -500 E
+200 -84 -23 1d1+8796 5d21+100
+3000 26655827 2
+8 8 1 3 -1
+BareHandAttack: 13
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#2334
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2335
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2336
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2337
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2338
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2339
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2340
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2341
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2342
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2343
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2344
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2345
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2346
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2347
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2348
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2349
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2350
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+#2351
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 16 7 1d1+0 5d1+20
+0 0 2
+8 8 0 0 0
+E
+$

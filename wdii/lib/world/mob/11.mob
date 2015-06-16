@@ -1,0 +1,747 @@
+#1100
+oldstyle elven wizard~
+the Elven Wizard~
+An Elven Wizard is here, creating fireworks for the festivities.
+~
+The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to
+penetrate through your innermost being.  He is wearing a silvery cloak
+and holding a multi-colored staff.  Although he appears to be older
+than the oldest man, he seems to have an inner strength which most mortals
+cannot overcome.
+~
+74 8 500 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#1101
+oldstyle ring keeper~
+the Keeper of the Ring~
+The Keeper of the Ring is here, guarding his treasure jealously.
+~
+The Ring Keeper is a rather big but short halfling.  His short stature and
+bulbous nose belie his true nature.  An elven sword that glows with a blue
+light hangs from his belt, and on his finger you see the One Ring.  Although
+usually a halfling of peace, he will fight you to the death if you attempt
+to take away that which belongs to him.
+~
+74 42 0 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 3 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#1102
+oldstyle farmer gamgee~
+Farmer Gamgee~
+Farmer Gamgee sniffs the air, wondering if harvest time is near.
+~
+Farmer Gamgee is a short, stout halfling of thirty years.  His skin has
+been tanned from working the fields night and day.  He's quite a jolly
+chap, always ready to befriend an injured bunny rabbit.
+~
+138 0 350 E
+110 -39 -9 1d1+4836 5d12+64
+1650 4715076 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1103
+toddler~
+a toddler~
+A toddler crawls about, looking for something to chew on.
+~
+The toddler is dressed in nothing but his birthday suit.  He crawls about
+for he hasn't learned to walk yet.  He peers up at you and asks "da da?"
+~
+138 0 100 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+#1104
+oldstyle nursemaid~
+a nursemaid~
+A nursemaid wanders about, trying to keep track of all the toddlers.
+~
+The nursemaid looks rather tired and worn out.  Taking care of so many
+toddlers for too long has evidently taken its toll.  She looks to you and
+in her eyes you can see her longing for a better life.
+~
+10 0 100 E
+95 -31 -7 1d1+4176 5d10+58
+1425 3100938 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1105
+oldstyle cow~
+a cow~
+A cow is here, chewing her cud.
+~
+The cow looks like it hasn't been milked in quite some time.  Although she
+is past her prime, you see that she still has a lot of years left, and that
+if provoked, her rear kick can be quite deadly.
+~
+72 0 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1106
+oldstyle pig~
+a pig~
+A pig wallows in the mud and oinks in contentment.
+~
+The pig appears quite happy to be a pig.  He is oblivious to your presence
+and cares only for the care-free life that he leads.  It is enormously fat
+and consequently cannot move around very quickly.
+~
+72 0 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1107
+oldstyle chicken~
+a chicken~
+A chicken sits on her nest.
+~
+The chicken is bright and healthy.  She has no weapons but her beak.
+~
+72 0 0 E
+80 -24 -5 1d1+3516 5d9+52
+1200 1904261 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1108
+oldstyle bull~
+a bull~
+A bull scratches at the ground and lowers his head.
+~
+The bull is in top condition.  He looks like quite a fighter, nothing to be
+reckoned with.  With his horns and his hooves he can attack just about
+anything.
+~
+42 0 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1109
+oldstyle horse~
+a horse~
+A horse becomes frightened by your presence.
+~
+The horse looks at you and turns away.  You can tell that it is afraid of you.
+~
+74 0 0 E
+115 -41 -10 1d1+5052 5d12+66
+1725 5356660 2
+8 8 0 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1110
+oldstyle shiriff~
+a shiriff~
+A shiriff of the Shire looks for signs of trouble.
+~
+The shiriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff-raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+76 0 150 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1111
+oldstyle shiriff~
+a shiriff~
+A shiriff of the Shire looks for signs of trouble.
+~
+The shiriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+76 0 150 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1112
+oldstyle thain~
+the Thain~
+The Thain commands respect from all Shire folk.
+~
+A personable yet serious halfling, the Thain looks at you and yells a
+deep 'Hullo'.  He walks about comfortably, secure in the knowledge that
+as long as he's in office, the Shire will always remain a safe haven for
+Shire folk.
+~
+74 0 400 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 36
+E
+#1113
+oldstyle innkeeper~
+the Innkeeper~
+The Innkeeper stands here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+24650 0 200 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 33
+E
+#1114
+oldstyle miller~
+the Miller~
+The Miller is here, overseeing his busy mill workers.
+~
+The Miller is an impatient young halfling, always trying to command more
+respect from his workers than he can get.  He looks like the type of person
+who deserves a spanking but never got one.
+~
+204 0 50 E
+105 -36 -8 1d1+4620 5d11+62
+1575 4126799 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1115
+oldstyle mill worker~
+the mill worker~
+The mill worker runs to and fro.
+~
+The mill worker is in fine shape from the hard labor that he does at the
+mill.  He doesn't notice your presence, but he looks like he could break you
+in two without thinking about it.
+~
+10 0 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1116
+oldstyle elven warrior~
+the elven warrior~
+The elven warrior watches you solemnly.
+~
+The tall elven warrior is light and fair-skinned.  The expression that he wears
+on his countenance is solemn and tragic.  He cares not for this world any
+longer and wearies of it.
+~
+10 0 600 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#1117
+oldstyle dwarven prince~
+the dwarven prince~
+The dwarven prince sits here patiently for the return of his king.
+~
+Grim and cold, the dwarven prince is quite strong and bulky, even for the
+dwarves of his land.  His glowing eyes peer out of his bushy face and stare
+beyond your gaze.
+~
+10 0 200 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 86
+Att4: 48
+E
+#1118
+M~
+the shopkeeper~
+The shopkeeper smiles and patiently waits for you to buy something.
+~
+The shopkeeper will fight like a madman to protect his store from riff-raff
+like you.
+~
+24586 0 600 E
+85 -26 -5 1d1+3732 5d9+54
+1275 2260615 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#1119
+oldstyle grocer~
+the grocer~
+The grocer offers you the finest breads in all the land.
+~
+The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.
+However, he also knows that it's worth protecting and so will do everything
+in his power to prevent riff-raff like you from stealing it.
+~
+24586 0 600 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#1120
+oldstyle blacksmith~
+the blacksmith~
+The blacksmith bids you welcome to his humble store.
+~
+The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
+and armour would certainly help him in any fight against riff-raff like you.
+~
+24586 0 600 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#1121
+oldstyle battle master~
+the battle master~
+The battle master offers you the services of his fine trainees.
+~
+The battle master is a wizened fighter, with many scars to prove his worth.
+~
+10 0 350 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#1122
+oldstyle halfling youth~
+a halfling youth~
+A halfling youth stands here, waiting for nothing in particular.
+~
+The halfling youth is not yet quite in the prime of his youth.  He's knee
+high and you get the sudden urge to step on him.
+~
+200 40 0 E
+90 -29 -6 1d1+3960 5d10+56
+1350 2658738 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1123
+oldstyle seasoned adventurer~
+a seasoned adventurer~
+A seasoned adventurer sits here, telling tales of fame and fortune.
+~
+The seasoned adventurer has seen his share of glory days.  Although he is
+past his prime, he still looks like he could put up more than his share of
+a good fight.
+~
+10 0 100 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#1124
+oldstyle local gossip~
+a local gossip~
+A local gossip asks you, "Have you heard the latest?"
+~
+The gossip is all talk and no action.  You're transfixed by her ability to
+talk so much so quickly.
+~
+138 0 0 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1125
+oldstyle halfling beauty~
+a halfling beauty~
+A halfling beauty stares dreamily into your eyes.
+~
+She is the most beautiful creature you've seen in quite some time.  As you
+stare at her, thoughts of all else vanish.  You get the sudden urge to grovel
+at her feet, hoping she'll take you in like a lost puppy.  You wouldn't dare
+harm a hair on her precious little head.
+~
+10 0 1000 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 2 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1126
+oldstyle trainee~
+a trainee~
+A trainee screams a death cry as he delivers the fatal blow to a dummy.
+~
+The trainee smiles smugly, aware of your interest in him.  He's a little
+fresh, but his enthusiasm and desire to please more than make up for what
+he lacks in skill.
+~
+10 0 0 E
+84 -26 -5 1d1+3696 5d9+52
+1260 2186076 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1127
+oldstyle chic urbanite~
+a chic urbanite~
+A chic urbanite sits here, enjoying his class status.
+~
+The urbanite seems very much at home in his surroundings.  His clothes are
+all of the latest fashions and his manners impeccable.  He offers you some
+coins if you'd be so good as to order a drink for him.
+~
+138 0 0 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 68
+Att4: 18
+E
+#1128
+oldstyle country bumpkin~
+a country bumpkin~
+A country bumpkin dreams of pipeweed and its many uses.
+~
+The country bumpkin snores noisily.
+~
+10 0 0 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 74
+Att4: 21
+E
+#1129
+maltzabor mage~
+the mage Maltzabor~
+Maltzabor, the recharger mage, is standing here.
+~
+You see a mage wearing light blue clothes. His eyes are totally
+white, and his hair is red.
+~
+24650 536871040 0 E
+150 -59 -15 1d1+6600 5d16+80
+2250 12687634 2
+8 8 1 0 0
+Att2: 100
+Att3: 80
+Att4: 40
+E
+#1130
+oldstyle innkeeper~
+the Innkeeper~
+The Innkeeper stands here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+24586 0 200 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#1131
+oldstyle receptionist~
+the receptionist~
+The receptionist sits here, signing forms.
+~
+He is a very professional looking type.
+~
+10 0 200 E
+100 -34 -8 1d1+4392 5d11+60
+1500 3589522 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#1132
+oldstyle shiriff~
+a shiriff~
+A shiriff of the Shire looks for the lost halfling youth.
+~
+The shiriff is over waist high, quite tall for a halfling.
+He looks at you, smiles and asks you if you have seen a halfling youth
+somewhere outside the shire.
+~
+10 0 150 E
+120 -44 -11 1d1+5280 5d13+68
+1800 6053860 2
+8 8 1 -1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#1150
+bronze dragon~
+Bronze Dragon~
+The Bronze Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67141820 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 6 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1151
+silver dragon~
+Silver Dragon~
+The Silver Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1152
+diamond dragon~
+Diamond Dragon~
+The Diamond Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1153
+bronze dragon~
+Bronze Dragon~
+The Bronze Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1154
+Sapphire Sragon~
+Sapphire Dragon~
+The Sapphire Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1155
+Amethyst dragon~
+Amethyst Dragon~
+The Amethyst Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1156
+bronze dragon~
+Bronze Dragon~
+The Bronze Dragon is the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1157
+Chimaera Spectral Dragon~
+Chimaera Spectral Dragon~
+Chimaera Spectral Dragonis the guardian of this chalange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 0 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1158
+Platinum-Golden Dragon~
+Platinum-Golden Dragon~
+Platinum-Golden Dragon is the guardian of this challange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1159
+Adamantite Radiant Dragon~
+Adamantite Radiant Dragon~
+The Adamantite Radiant Dragon is the guardian of this challange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1160
+Adamantite Radiant Dragon~
+Adamantite Radiant Dragon~
+The Adamantite Radiant Dragon is the guardian of this challange
+~
+It looks unfinished.
+~
+3663914 67142716 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 1 9 21
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1161
+space man~
+SpaceMan~
+You admire a strange man dressed in &Wmetallic&n &ycloths.&n
+~
+It looks unfinished.
+You admire a strange man dressed in metallic cloths.
+You cant understand...
+Whatta hell is he?
+Where did he from?
+hum...
+~
+8 32768 0 E
+200 -84 -23 1d1+8796 5d21+100
+3000 29321409 2
+8 8 0 0 -1
+Att2: 80
+Att3: 60
+Att4: 40
+E
+$

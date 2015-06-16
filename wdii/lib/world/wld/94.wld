@@ -1,0 +1,131 @@
+#9400
+&WThe &BFlying Drakkar&W'&Bs &WBoarding Path~
+&CFrom here it is possible to see an extraordinary boat with wings, it has the shape of a dragon.Here is a rope ladder wich takes you aboard the ship. Thor himself is here guarding the entrance!&n
+~
+94 3145920 3
+D0
+~
+door~
+0 9402 9401
+D2
+~
+~
+0 0 6151
+S
+#9401
+&WThe &BR&Wecreation &BR&Woom&n~
+&CJudging by the size, and the seats in here you can supose that this is where people rest and talk to one another. You also can find a barrel full of clean water here.
+~
+94 1048644 0
+D0
+~
+~
+0 0 9402
+D2
+~
+door~
+0 9402 9400
+S
+#9402
+&BB&Woard &BR&Woom&n~
+&CThis is a large place, you can see a board with messages, on the wall.
+~
+94 8260 0
+D0
+~
+~
+0 0 9406
+D1
+~
+~
+0 0 9404
+D2
+~
+~
+0 0 9401
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#9403
+The &RL&ribrary&n~
+Here you stand in a great library.  At your side you see many bookcases with
+magical and theorical books.  Here is the history of the &YH&welm&Y'&ws
+&YD&weep&n and you can see it looking to the &Wdeeds&n on the wall.  There is
+also a Board, where you can write to the rest of the fortress.  I'm sure that
+the comments will be wise.    
+~
+94 131268 0
+D4
+~
+~
+0 0 9402
+S
+#9404
+&BA&Wrsenal&n~
+&CIn this room you find a great sort of weapons and armory all new and tidy. Here you can also recognize thor's and odins figures on the walls. You can also see a picture of St. Olav,getting ready for battle.&n
+~
+94 10820 0
+D3
+~
+~
+0 0 9402
+S
+#9405
+&BA&Wrsenal&n~
+&C
+In this room you find a great sort of weapons and armory all new and tidy. Here
+you can also recognize thor's and odins figures on the walls. You can also see
+a picture of St. Olav,getting ready for battle.
+&n
+~
+94 10820 0
+D1
+~
+~
+0 0 9402
+S
+#9406
+&BC&Wonference &BR&Woom&n~
+&C You find youself in the front end of the ship, here is the place where decisions are made.  you can see some mosaics of odin and thor and also some old norsk runes of justice and loyalty.
+&n
+~
+94 68 0
+D2
+~
+~
+0 0 9402
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 -1
+S
+#9407
+The &CG&creat &CT&cower &gof &CR&cedemptio&Cn&n~
+You are in the Great Tower of the fortress.  Here the Kings takes their
+decisions and deliberate about the fighting tactics used on the battlefield.  
+Once in this place, the famous phrase was spoken: &WLet them come!  &n by the
+King Theoden, about the last battle on the &YD&weep&n against Uruk-hai's, on
+the Ring's War.    
+&n
+~
+94 1048644 0
+D5
+~
+~
+0 0 9406
+S
+$~

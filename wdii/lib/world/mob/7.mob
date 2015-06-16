@@ -1,0 +1,838 @@
+#700
+MouseRider~
+MouseRider~
+MouseRider sits on his throne here, his head in his hands.
+~
+MouseRider is the greatest mortal sage ever.  He is also a most
+troubled man, knowing things you couldn't even guess at.  You wonder
+how he could have all that knowledge and not want power.
+~
+10 128 1000 E
+30 -5 -2 1d1+2040 5d7+62
+450 137671 5
+6 6 1 -1 -1
+Att2: 30
+E
+#701
+Sentinel Beast~
+the Sentinel Beast~
+The Sentinel Beast's eyes glow chaotically as it attacks!
+~
+The Sentinel Beast is somewhat reminiscent of a wolf if you ignore the
+multi-colored glowing eyes, the horns, the six inch long claws...
+~
+42 136 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 30
+E
+#702
+Leonna~
+Leonna~
+Leonna, guildmaster of the Mages' Guild of Kerofk, greets you.
+~
+Leonna seems to be a nice, fun-loving woman.  Obviously she became
+guildmaster due more to her personality than her wizardly power.  Her
+powers are no small matter, however; she is still one of the best
+mages in the city.
+~
+10 128 700 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 2 -1 -1
+Att2: 30
+E
+#703
+Bookstore Owner~
+the Bookstore Owner~
+The Bookstore Owner looks up from a paperback as you come in.
+~
+The Bookstore Owner looks very bored in his job here.  From the way
+his fingers twitch and his eyes dart, you wonder if he really is what
+he appears...
+~
+24586 128 -500 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 -1 -1
+Att2: 27
+E
+#704
+Seobagn Thieves Thief Guildmaster~
+Seobagn~
+The Thieves' Guildmaster, Seobagn, watches you with narrowed eyes.
+~
+Seobagn snickers at you while he spins a coin around his fingers with
+practised ease.  You wonder if its your coin.
+~
+10 128 -800 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#705
+Bartender~
+the Bartender~
+The Bartender pours drinks several at a time to keep up with the rush.
+~
+The Bartender looks harried as he tries to keep up with several
+different orders at the same time.  Maybe you should bother him
+later...
+~
+10 128 250 E
+50 -15 -5 1d1+3396 5d11+70
+750 542978 5
+8 8 1 -1 -1
+Att2: 21
+E
+#706
+Barmaid~
+The Barmaid~
+The barmaids rush about delivering drinks and taking orders.
+~
+The barmaid looks at you with a tired glance as she struggles to keep
+up with the thirsty populace.  
+'What do you want?' she asks while pulling out an order pad.
+~
+138 128 100 E
+60 -20 -6 1d1+4080 5d13+74
+900 898219 5
+8 8 2 -1 -1
+Att2: 15
+E
+#707
+drunk person~
+the Drunk~
+A drunk person is here, babbling about something incessantly.
+~
+The drunk person looks at you and slurs, 'Whatre you lookin' at,
+bozo?'
+~
+10 128 0 E
+85 -32 -10 1d1+5772 5d17+84
+1275 2387774 5
+8 8 1 -1 -1
+Att2: 18
+E
+#708
+lucky gambler~
+the Gambler~
+A lucky gambler is here, striking it rich!
+~
+The lucky gambler looks at you and snickers.  Poor Boy!
+~
+14 128 0 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 -1 -1
+Att2: 18
+E
+#709
+dealer~
+the Dealer~
+The dealer sets out a new hand for all to play.
+~
+The dealer looks at you flatly and says, 'Are you in or out?'  He
+really doesn't seem to care one way or another.
+~
+10 128 200 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 -1 -1
+Att2: 30
+E
+#710
+Ben Benzaldehyde~
+Ben~
+Ben counts his money, ignoring you completely.
+~
+Benzaldehyde is a big man, reminding you of some elephants you've
+seen.  His eyes light up while he counts his money--a man possessed by
+his greed.
+~
+138 128 -785 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+6 6 1 -1 -1
+Att2: 24
+E
+#711
+Ginger shopkeeper~
+the Shopkeeper~
+The shopkeeper smiles at you as you enter her store.
+~
+The shopkeeper here is the legendary Bob's wife Ginger.  She welcomes
+you to her establishment and invites you to browse as long as you
+wish.
+~
+24586 128 900 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 2 -1 -1
+Att2: 96
+Att3: 42
+E
+#712
+unlucky gambler~
+the Gambler~
+An unlucky gambler struggles to hold back tears as his money disappears.
+~
+The unlucky gambler just doesn't say a word, he just keeps putting the
+money down, hoping to at least break even.  It doesn't even look like
+he's got a chance.
+~
+14 128 0 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 -1 -1
+Att2: 24
+E
+#713
+citizen~
+the Citizen~
+A citizen is here, debating politics with anyone who will listen.
+~
+The citizen seems very upset about something.  You're not sure exactly
+what, but he seems anxious to tell you.  The more he talks, the more
+your attention wanders until you're ready to go.
+~
+138 128 350 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 20
+E
+#714
+receptionist wife~
+the Receptionist~
+The receptionst smiles and offers you a room.
+~
+Myrama is all smiles as you look at her.  She is bright, witty, and
+the only reason why Kell is so successful.  Myrama is truly marvelous!
+~
+10 128 1000 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 2 -1 -1
+Att2: 30
+E
+#715
+herbalist shopkeeper~
+the Herbalist~
+The herbalist is here, reading to her plants.
+~
+The herbalist is an ancient woman, but she still seems spry and
+sharp-minded when it comes to plants.  You've no doubt this woman is
+an expert in her field.
+~
+24586 128 500 E
+85 -32 -10 1d1+5772 5d17+84
+1275 2387774 5
+8 8 2 -1 -1
+Att2: 27
+E
+#716
+lawyer~
+the Lawyer~
+The lawyer is here, ready to lie his tongue out.
+~
+The lawyer looks at you, ready to spot anything he can sue you for.
+This has got to be one of the most loathesome mobs in the whole mud!
+~
+138 128 -1000 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#717
+secretary~
+the Secretary~
+The secretary pops his gum and asks you what you want.
+~
+The secretary is a bored, out-of-place looking man, until you spot the
+hidden daggers in his sleeve, boot, shirt, down his back, etc.  (not
+too good at hiding them, is he?).  Obviously, this man is here more to
+protect the mayor than to do office work.
+~
+10 128 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+6 6 1 -1 -1
+Att2: 21
+E
+#718
+mayor kell~
+Kell~
+Mayor Kell greets you into his office with a welcoming hand.
+~
+The mayor seems happy to see you, even though you interrupted his
+putting practice.  He sits you down, offers you a drink, and asks what
+he can do for you.
+~
+10 128 1000 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#719
+council guard~
+the Council Guard~
+The Council Guards look ready to rip you apart if you disturb the meeting.
+~
+The Council Guards are impressive.  As you look upon their pikes and
+plate armor, a little part of your brain start screaming about how
+you'd be crazy to mess with them.
+~
+10 136 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#720
+council members~
+the Council Member~
+The council member looks quite upset as you interrupt them!
+~
+The council member is not just another politician...he can fight, too!
+~
+138 128 350 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#721
+jailer~
+the Jailer~
+The jailer reads his newspaper while sitting in his chair.
+~
+The jailer looks bored, as if he was in a Fortran class.  That
+bored...really!
+~
+10 128 100 E
+85 -32 -10 1d1+5772 5d17+84
+1275 2387774 5
+6 6 1 -1 -1
+Att2: 25
+E
+#722
+prisoner~
+the Prisoner~
+A prisoner here has given up all hopes of escape.
+~
+The prisoner looks up at you weakly and mumbles, 
+'I am not a number!'  He gasps and looks dejected again.
+~
+10 128 -500 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+6 6 1 -1 -1
+Att2: 23
+E
+#723
+innguard guard~
+the Innguard~
+A innguard is here, ready to fight off some marauding hordes.
+~
+The innguard looks fearless and ready to defend the patrons of the
+Fortress at a moments notice.
+~
+10 128 600 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#724
+George~
+George~
+George is here, ready to sell you anything!
+~
+George is a lowdown no good shopkeeper who'll sell anything to make some gold! 
+He's corrupt, greedy, and your kind of man!
+~
+24586 128 -500 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 24
+E
+#725
+black marketeer~
+the Black Marketeer~
+The black marketeer is here ready to sell you anything you want.
+~
+The black marketeer has set up shop in George's place to sell just what you need... Now what is it you need?
+~
+10 128 -750 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#726
+priest~
+the Priest~
+A priest is here, performing his absolutions.
+~
+The priest looks like a kindly man who has seen too much suffering for
+one life.  He now devotes his life to Hope, hoping to one day ascend to
+immortality.
+~
+138 128 0 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 23
+E
+#727
+high priest guildmaster~
+the High Priest~
+The High Priest is here, glowing with the benevolence of AO.
+~
+The High Priest will be ascending to Hope soon, and now his entire
+body glows with the same light as his soul.
+~
+10 0 1000 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 1 -1 -1
+Att2: 30
+E
+#728
+sergeant recruiting~
+the Sergeant~
+The recruiting sergeant tries to make you sign his forms.
+~
+The recruiting sergeant has seen the world.  Now he's trying to make
+you do the same.  ARGH!!! Resist!  Resist!!
+~
+10 128 0 E
+85 -32 -10 1d1+5772 5d17+84
+1275 2387774 5
+8 8 1 -1 -1
+Att2: 30
+E
+#729
+captain guard~
+the Captain~
+The Captain of the Guard salutes you with his epee.
+~
+The Captain has a true love of civilized fighting.  He raises his
+eyebrow to you...shall we have a go at it?
+~
+10 128 200 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 30
+E
+#730
+beggar~
+the Beggar~
+A beggar sits here, waiting for handouts.
+~
+The beggar looks up at you with sad eyes.  However, you notice
+something shiny clenched in his hand...  What is he hiding?
+~
+200 128 900 E
+60 -20 -6 1d1+4080 5d13+74
+900 898219 5
+6 6 1 -1 -1
+Att2: 6
+E
+#731
+citizen~
+the Citizen~
+A citizen is here, waiting in line.
+~
+The citizen looks at you with a flat stare.  You can see he's
+wondering if you'll butt in line.
+~
+10 0 100 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 18
+E
+#732
+citizen~
+the Citizen~
+A citizen of Kerofk is here, going about his business.
+~
+This citizen really doesn't have time to fool around with adventurers;
+he has too much to do.
+~
+72 0 100 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 22
+E
+#733
+militia guard~
+the Militia Man~
+A militia guard is here keeping the peace.
+~
+The militia guardsman looks very well trained, for a citizen.
+~
+72 128 500 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 1 -1 -1
+Att2: 21
+E
+#734
+Kervin~
+Kervin~
+Kervin the wandering mage is well, ...wandering here.
+~
+Kervin is very odd looking....  He has a big unkempt shock of white
+hair that stick straight up and wears an electric blue robe to hide
+the rest of his features.
+~
+72 136 700 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 30
+E
+#735
+gateguard~
+the Gateguard~
+The gateguard is here, guarding the gate.
+~
+The guard guard looks at you and enunciates very clearly,
+'Guard guard guard guard guard guard guard guard guard.'
+	(looks like he got the right job!)
+~
+10 128 400 E
+95 -37 -11 1d1+6456 5d19+88
+1425 3275365 5
+8 8 1 -1 -1
+Att2: 25
+E
+#736
+bright light~
+the Bright Light~
+A bright shining light here nearly blinds you!
+~
+You try to look closer at the light and nearly burn your retinas clear
+off.  That wasn't too bright now, was it?
+~
+42 136 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 30
+E
+#737
+guardian wisp~
+the Guardian Wisp~
+Some guardian wisps here attack!
+~
+The wisp is made up of clammy, misty air, and a bad attitude.
+~
+42 1048704 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 30
+E
+#738
+orb~
+the Orb~
+The orb glows with a pure white light.
+~
+The orb is pure crystal and shines with a bright aura.  This is surely
+the object of your quest!
+~
+10 136 1000 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 30
+E
+#739
+liche mouserider~
+the Liche~
+The liche that was MouseRider curses you horribly!
+~
+This liche was once the troubled MouseRider.  Now he has finally
+lunged for power and achieved it, making him immortal.  Will you be
+able to stop him?
+~
+4138 0 -1000 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 50
+E
+#740
+storm demon~
+the Storm Demon~
+The storm demons attack on the Liche's order!
+~
+The demons are spindly with great bats wings and glowing blue eyes.
+They are twisted things not of nature.  They attack!
+~
+4138 136 -900 E
+96 -38 -11 1d1+6528 5d19+88
+1440 3374581 5
+8 8 0 -1 -1
+Att2: 27
+E
+#741
+Tiersten vampire~
+Tiersten~
+Tiersten looks at you with angry eyes and bared fangs!
+~
+Tiersten, the patriarch of this odd, odd, family, turns out to be a
+vampire.  And a demonologist to boot!  He growls incoherently at you
+as he attacks!
+~
+42 8 -1000 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 1 -1 -1
+Att2: 27
+E
+#742
+Edimmu~
+the Edimmu~
+A mist-like being stabs at you with a tendril!
+~
+There doesn't seem to be much to look at, besides the coiling mist
+attacking you!
+~
+42 1572874 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 21
+E
+#743
+Sosivia~
+Sosivia~
+Sosivia stands here, lost in daydreams.
+~
+Sosivia struggles to hold onto her artist's soul, in spite of her
+family.  She is a beautiful woman that you wish you could take away
+from all this.
+~
+26 128 1000 E
+75 -27 -8 1d1+5100 5d15+80
+1125 1676658 5
+8 8 2 -1 -1
+Att2: 36
+Att3: 3
+E
+#744
+Gretta~
+Gretta~
+Gretta sneers at you... Sneer... Sneer!
+~
+Gretta is Talbot and Korino's sister, and Sosivia's mother.  She is the
+head of the household as far as you can tell, and leeches onto the
+power with a death-grip.  What a horrible woman!
+~
+14 128 -600 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 2 -1 -1
+Att2: 18
+E
+#745
+Talbot~
+Talbot~
+Talbot spars with his brother Korino here.
+~
+Talbot has a permanent sneer on his face.  He barely glances at you as
+he beats his brother's sword back to take a vicious swipe...
+~
+10 128 0 E
+50 -15 -5 1d1+3396 5d11+70
+750 542978 5
+8 8 1 -1 -1
+Att2: 21
+E
+#746
+Korino~
+Korino~
+Korino spars with his brother Talbot here.
+~
+Korino looks at you with barely disguised contempt as he parries
+Talbot's blow and ripostes around...
+~
+10 128 0 E
+60 -20 -6 1d1+4080 5d13+74
+900 898219 5
+8 8 1 -1 -1
+Att2: 21
+E
+#747
+Fleecem Bungle~
+Bungle Fleecem~
+Bungle Fleecem, esquire, looks at you expectantly.
+~
+He smiles, leans back, and tries to look bored to cover that vulturous
+attitude.  He doesn't quite succeed; he IS a lawyer, after all.
+~
+138 128 -600 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+6 6 1 -1 -1
+Att2: 25
+E
+#748
+digger gravedigger~
+the gravedigger~
+A gravedigger works away the nightshift here.
+~
+He looks tired and dirty.  A glare out of the corner of his eye, and
+he dismisses you easily.  He doesn't seem to care one whit about you.
+~
+10 128 200 E
+30 -5 -2 1d1+2040 5d7+62
+450 137671 5
+8 8 1 -1 -1
+Att2: 12
+E
+#749
+citizen~
+the Citizen~
+A citizen of Kerofk is here, going about her business.
+~
+This citizen really doesn't have time to fool around with adventurers;
+she has far too much to do.
+~
+72 0 100 E
+90 -35 -11 1d1+6120 5d19+86
+1350 2808292 5
+8 8 2 -1 -1
+Att2: 20
+E
+#750
+hellhounds hounds hell hell-hounds~
+a hellhound~
+A hellhound looks at you with hunger.
+~
+It's hide is a deep brownish-red hue, but its eyes are the most
+noticeable about this magnificent beast.  Red within red eyes, with
+tiny pupils of black in the center.
+~
+42 168 -500 E
+85 -32 -10 1d1+5772 5d17+84
+1275 2387774 5
+8 8 0 -1 -1
+Att2: 30
+E
+#751
+goblin~
+a goblin~
+A goblin launches into a frenzied attack!
+~
+You see the bloodlust in its eyes, and know there's no reasoning with
+this creature...
+~
+4138 168 -600 E
+80 -30 -9 1d1+5436 5d17+82
+1200 2011376 5
+8 8 0 -1 -1
+Att2: 25
+E
+#752
+Farmer~
+the Farmer~
+The farmer sells her lackluster with all the excitement it warrants.
+~
+She looks wearied, but keeps hanging in there!
+~
+24586 0 200 E
+50 -15 -5 1d1+3396 5d11+70
+750 542978 5
+8 8 2 -1 -1
+Att2: 18
+E
+#753
+Receptionist~
+the Receptionist~
+A receptionist stands in front of you, waiting to help you.
+~
+She looks at you happily, and pushes a ledger at you.
+~
+10 128 0 E
+95 -37 -11 1d1+6456 5d19+88
+1425 3275365 5
+8 8 2 -1 -1
+Att2: 30
+E
+#754
+Bartender~
+the Bartender~
+The Bartender pours drinks several at a time to keep up with the rush.
+~
+The Bartender looks harried as he tries to keep up with several
+different orders at the same time.  Maybe you should bother him
+later...
+~
+24586 128 250 E
+30 -5 -2 1d1+2040 5d7+62
+450 137671 5
+8 8 1 -1 -1
+Att2: 15
+E
+#755
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 128 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+#756
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+#757
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+#758
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 10 2 1d1+0 5d1+50
+0 0 5
+8 8 0 0 0
+E
+$

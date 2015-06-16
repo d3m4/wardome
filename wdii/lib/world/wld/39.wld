@@ -1,0 +1,379 @@
+#3900
+The Entrance to the great library~
+   You stand now where one day was the entrance hall for the great library of
+Thalos.  Looking around you find some statues with different forms, which vary
+from lions to something you remember as from a nightmare.  All around you can
+notice that this place is not used for years, thick layers of dust gather here,
+some statues are broken, the remaining statues look so alive...  You can go
+inside by north or go back to the city.    
+~
+39 5 9
+D0
+~
+~
+0 0 3901
+D5
+~
+~
+0 0 5250
+S
+#3901
+The Main Hall~
+   You stand in a huge room, with smooth white walls, burned in some places,
+some kind of light iluminates this place, you can't really see from where it
+comes from, scary...  This must be the First Hall considering all the chairs
+and tables, and also this light...  Here you hear the scholars warcry, this
+horrible sound seems to go forever....  You see shadows moving near the walls.
+The room becomes a corridor to the north, and to small rooms to east and west.
+~
+39 32 9
+D0
+~
+~
+0 0 3904
+D1
+~
+~
+0 0 3902
+D2
+~
+~
+0 0 3900
+D3
+~
+~
+0 0 3903
+S
+#3902
+A Transcription room~
+   The room is really plain..  The only things you see around are chairs and
+small tables, something special about this room you can notice is the fact
+there is not dust on the floor, nor in the tables.  In here you can breath a
+pure and smooth air, first time since you came in...  After a while you notice
+a robed figure in one of the tables, staring at you.  You can leave to west
+trough the door.    
+~
+39 32 9
+D3
+~
+~
+0 0 3901
+S
+#3903
+Study Room~
+   The room is very plain...  This room is illuminated by some glowing
+fireballs, the room is not destroyed at all, some chairs are broken...  And
+some tables are turned upside down but that is all, the same dust you saw back
+there is here...  Some mages, or shadows, gather here studing, they dont seem
+aware of your presence.  You can only leave the room by the entrance.    
+~
+39 32 9
+D1
+~
+~
+0 0 3901
+S
+#3904
+A Narrow Way~
+   You walk in a very dark and narrow corridor, this corridor takes you
+straight ahead in a slimy path.  Oh, its really slippery.  The walls are quite
+plain.  No much to see around, just a corridor, just a corridor...  You can
+keep straight and find to where the corridor leads or back to the Main Hall in
+the south..    
+~
+39 33 9
+D0
+~
+~
+0 0 3905
+D2
+~
+~
+0 0 3901
+S
+#3905
+The Nexus~
+   As you come walking from the south you find there are no walls close to you,
+you are in a huge room with only columns separating the exits, the room has a
+domed roof, with the dawn sky pained on it.  The corridor keeps it way straight
+ahead and there are exits to both east and west now, you can also go back from
+where you came.    
+~
+39 33 9
+D0
+~
+~
+0 0 3919
+D1
+~
+~
+0 0 3906
+D2
+~
+~
+0 0 3904
+D3
+~
+~
+0 0 3914
+S
+#3906
+Shelves~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+  
+~
+39 33 9
+D1
+~
+~
+0 0 3907
+D3
+~
+~
+0 0 3905
+S
+#3907
+Some shelfs~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the east.    
+~
+39 33 9
+D1
+~
+~
+0 0 3908
+D2
+~
+~
+0 0 3913
+D3
+~
+~
+0 0 3906
+S
+#3908
+Another bunch of shelfs~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the east.    
+~
+39 33 9
+D1
+~
+~
+0 0 3911
+D3
+~
+~
+0 0 3907
+S
+#3909
+More shelfs....~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the west.    
+~
+39 1 9
+S
+#3910
+Some shelfs~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the east.    
+~
+39 1 9
+S
+#3911
+More shelfs....~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the west.    
+~
+39 33 9
+D2
+~
+~
+0 0 3912
+D3
+~
+~
+0 0 3908
+S
+#3912
+More shelfs....~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the north and to the west.    
+~
+39 33 9
+D0
+~
+~
+0 0 3911
+D3
+~
+~
+0 0 3913
+S
+#3913
+Some shelfs~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the north and to the east.    
+~
+39 33 9
+D0
+~
+~
+0 0 3907
+D1
+~
+~
+0 0 3912
+S
+#3914
+Shelves~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+  
+~
+39 33 9
+D1
+~
+~
+0 0 3905
+D3
+~
+~
+0 0 3915
+S
+#3915
+Some shelfs~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the norht and to the west.    
+~
+39 33 9
+D0
+~
+~
+0 0 3916
+D1
+~
+~
+0 0 3914
+D3
+~
+~
+0 0 3918
+S
+#3916
+And again... shelves~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the west.    
+~
+39 33 9
+D2
+~
+~
+0 0 3915
+D3
+~
+~
+0 0 3917
+S
+#3917
+Nothing but shelves~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the south and to the east.    
+~
+39 33 9
+D1
+~
+~
+0 0 3916
+D2
+~
+~
+0 0 3918
+S
+#3918
+More shelfs....~
+   Here nothing but shelfs, books all around, the mages paradise.  No more to
+see here, all the books are destroyed, some are burned to ashes, some dont
+really have pages inside it.  No more to see here.  Some shadows walk around...
+You see more shelfs to the north and to the east.    
+~
+39 33 9
+D0
+~
+~
+0 0 3917
+D1
+~
+~
+0 0 3915
+S
+#3919
+The waiting room~
+   Contrasting to the rest of the place in this room the chairs and the tables
+are all in place and you can see no dust as if it was cleaned just some minutes
+ago!  Here a thin fellow with green hair and weird cloths greet you.  There is
+a lot of noise trough the door to the north.    
+~
+39 40 9
+D0
+~
+~
+0 0 3920
+D2
+~
+~
+0 0 3905
+S
+#3920
+The office~
+   This room is really busy lots of people here...  Beside that is quite
+intersting, marble smooth walls and some chairs, nice and colorfull objects are
+all around in golden bookcases, near which you see a BIG sign.  A big person
+with very fin robes stands here, trying to keep the order.    
+~
+39 262176 9
+D1
+~
+~
+0 0 3921
+D2
+~
+~
+0 0 3919
+S
+#3921
+Mage's Lab~
+   You were warned...  When you come in you feel the hatred of thousands...  
+But can't see a thing...  It's all dark...  You don't fell your body, such a
+nice feeling now you think.    
+~
+39 11 9
+D3
+~
+~
+0 0 3920
+S
+$~

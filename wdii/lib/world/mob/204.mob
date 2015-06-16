@@ -1,0 +1,133 @@
+#20400
+ant small~
+Small Ant~
+A small ant is walking around, doing her job.
+~
+She is carrying something heavy on his torso.
+~
+8 9437312 0 E
+0 0 200 -82d-40+1 1d20000+5
+1 100 11016
+72 10 8 8 1
+Str: 25
+Att2: 100
+Att3: 90
+Att4: 90
+E
+#20401
+large ant~
+Large Ant~
+You can see a large ant seeking for YOU!
+~
+The protector of the anthill
+~
+104 1074790528 0 E
+0 0 200 -480d-70+1 1d20000+5
+121 420 14300
+72 10 8 8 1
+Str: 25
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#20402
+child ant~
+Child Ant~
+You can see a child lying here.
+~
+BUH!
+~
+8 25165824 0 E
+0 0 200 -480d-70+1 1d20000+5
+121 420 14300
+72 10 8 8 1
+Str: 25
+Att2: 80
+Att3: 80
+Att4: 80
+E
+#20403
+baby ant~
+Baby Ant~
+A baby is crying right here.
+~
+SNIFF!
+~
+4168 538443776 0 E
+0 0 200 -480d-70+1 1d20000+5
+121 420 14300
+72 10 8 8 1
+Str: 25
+Att2: 100
+Att3: 80
+Att4: 80
+E
+#20404
+queen ant~
+Queen Ant~
+A beatiful queen is taking care of his children's right here.
+~
+Do not disturb
+~
+4170 562036864 0 E
+0 0 200 -480d-70+1 1d20000+5
+121 420 14300
+72 10 8 8 1
+Str: 25
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#20405
+Bodyguard~
+Bodyguard~
+A Bodyguard is here, ready to kill you.
+~
+A large Ant that was designed to protect its Anthill.
+~
+2058 1083179144 0 E
+0 0 -180 -40d10+1 1d100+5
+121 420 14300
+10 8 8 1 1
+BareHandAttack: 4
+Str: 25
+Att2: 100
+Att3: 75
+Att4: 50
+E
+#20406
+Ant Nurse~
+an Ant Nurse~
+An Ant Nurse is nervously walking here.
+~
+Its Nurse is not the most usual you have seen, but its can do all others nurses do.
+~
+1083402 571475072 0 E
+0 0 0 -80d-40+1 1d20000+5
+1 100 11000
+0 10 8 8 1
+BareHandAttack: 4
+Str: 25
+Att2: 100
+Att3: 50
+Att4: 25
+E
+#20407
+Ant Cook~
+a Cook~
+A very fat Cook is standing here.
+~
+When you look to him you can feel the taste of food...
+But beware he is very dangerous.
+~
+42 1074790528 0 E
+0 0 200 -480d-70+1 1d20000+5
+121 420 14300
+72 10 8 8 1
+BareHandAttack: 4
+Str: 25
+Att2: 100
+Att3: 60
+Att4: 30
+E
+$

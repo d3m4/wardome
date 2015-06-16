@@ -1,0 +1,639 @@
+#29900
+elven scout~
+Elven Scout~
+An elven scout is here.
+~
+
+~
+131144 4264 750 E
+110 -51 -18 1d1+10116 5d23+124
+1650 5472856 8
+8 8 1 3 3
+Att2: 95
+Att3: 60
+Att4: 10
+E
+#29901
+elf guard~
+Elf Guard~
+a elf guard is standing here.
+~
+
+~
+131144 4264 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 3 3
+Att2: 95
+Att3: 70
+Att4: 40
+E
+#29902
+elven tall local~
+Elven~
+A tall elven local is here.
+~
+
+~
+131144 4264 750 E
+110 -51 -18 1d1+10116 5d23+124
+1650 5472856 8
+8 8 0 -1 3
+Att2: 95
+Att3: 60
+Att4: 10
+E
+#29903
+elven elf guardian haldir~
+Haldir~
+A guardian of the Lorien's Galadhrim border stands here.
+~
+
+~
+3146056 819368 0 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 3 3
+Att2: 90
+Att3: 60
+Att4: 30
+E
+#29904
+young musician apprentice ~
+Young Musician's Apprentice~
+A young musician's apprentice is here.
+~
+
+~
+131146 4264 750 E
+110 -51 -18 1d1+10116 5d23+124
+1650 5472856 8
+8 8 1 -1 3
+Att2: 95
+Att3: 60
+Att4: 10
+E
+#29905
+elven minstrel~
+Elven Minstrel~
+A tall elven minstrel stands here.
+~
+It looks unfinished.
+~
+131146 4264 0 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7026802 8
+8 8 1 10 3
+Att2: 95
+Att3: 50
+Att4: 10
+E
+#29906
+beautiful elven barmaid ~
+Beautiful Elven Barmaid ~
+A beautiful elven barmaid stands here.
+~
+It looks unfinished.
+~
+131146 4264 0 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7729482 8
+8 8 2 0 3
+Att2: 95
+Att3: 50
+Att4: 10
+E
+#29907
+shady elf ~
+Shady Elf~
+A shady-looking elf stands here.
+~
+It looks unfinished.
+~
+131146 4264 0 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7026802 8
+8 8 0 -1 3
+Att2: 95
+Att3: 50
+Att4: 10
+E
+#29908
+elven elf shadow Orophin~
+Orophin~
+You hardly see another shadow quickly moving through the threes.
+~
+
+~
+3146056 819368 0 E
+110 -51 -18 1d1+10116 5d23+124
+1650 5472856 8
+8 8 1 3 3
+Att2: 90
+Att3: 50
+Att4: 20
+E
+#29909
+Elven Baker~
+Elven Baker~
+A short elven baker is here.
+~
+
+~
+131144 4264 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 -1 3
+Att2: 95
+Att3: 60
+Att4: 30
+E
+#29910
+elven apprentice~
+Elven Apprentice~
+A small elven apprentice baker is here.
+~
+
+~
+131144 4264 750 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7026802 8
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29911
+elven elf shadow rumil~
+Rumil~
+You notice a shadow that could only be seen while moving.
+~
+
+~
+3146056 819368 0 E
+110 -51 -18 1d1+10116 5d23+124
+1650 5472856 8
+8 8 1 3 3
+Att2: 90
+Att3: 50
+Att4: 20
+E
+#29912
+Lady Selandance~
+Lady Selandance~
+The beautiful Lady Selandance is here.
+~
+
+~
+131146 4264 750 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7026802 8
+8 8 2 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29916
+Shady Elf~
+Shady Elf~
+A shady-looking elf is standing here.
+~
+
+~
+131144 4264 0 E
+120 -56 -20 1d1+11040 5d25+128
+1800 7026802 8
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29917
+Deilos shopkeeper ~
+Deilos~
+Deilos the shopkeeper is here.
+~
+
+~
+131146 16781480 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29919
+ancient elf ~
+Ancient Elf~
+An ancient and sad elf is here.
+~
+
+~
+131144 4264 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 20
+E
+#29921
+tense elf ~
+Tense Elf ~
+A tense elf is here.
+~
+
+~
+131144 4264 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 1 -1 3
+Att2: 85
+Att3: 50
+Att4: 10
+E
+#29924
+female elf~
+Female Elf~
+A tall, dark looking female elf is here.
+~
+
+~
+131144 4264 750 E
+130 -61 -21 1d1+11952 5d27+132
+1950 8849677 8
+8 8 2 -1 3
+Att2: 85
+Att3: 50
+Att4: 10
+E
+#29927
+elven blacksmith~
+Elven Blacksmith~
+a Elven Blacksmith is standing here.
+~
+
+~
+131146 16781480 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 50
+Att4: 30
+E
+#29929
+Elven Healer~
+Elven Healer~
+The Elven Healer is curing the people that are here.
+~
+
+~
+131146 16781480 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 50
+Att4: 30
+E
+#29932
+little elven boy ~
+Little Elven Boy ~
+A little elven boy is standing here.
+~
+
+~
+131144 4264 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+E
+#29933
+happy elven man~
+Happy Elven Man~
+A happy elven man is standing here.
+~
+
+~
+131400 4264 0 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#29934
+angry elven man ~
+Angry Elven Man~
+An angry elven man is standing here.
+~
+
+~
+131144 4264 0 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#29942
+mob unfinished~
+Elven Woman ~
+A desperate elven woman is standing here.
+~
+
+~
+131146 4264 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 2 -1 3
+Att2: 95
+Att3: 60
+Att4: 40
+E
+#29946
+elven honor guard~
+Elven Honor Guard~
+A tall elven honor guard is standing here.
+~
+
+~
+131146 4264 0 E
+150 -71 -24 1d1+13800 5d31+140
+2250 13387926 8
+8 8 1 -1 3
+Att2: 95
+Att3: 70
+Att4: 50
+E
+#29949
+diplomat~
+Diplomat~
+A tall diplomat is here.
+~
+
+~
+131146 4264 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 70
+Att4: 50
+E
+#29961
+Cook~
+Cook~
+A elven cook is here, shouting orders to the other cooks.
+~
+
+~
+131146 4264 750 E
+140 -66 -23 1d1+12876 5d29+136
+2100 10962908 8
+8 8 1 -1 3
+Att2: 95
+Att3: 70
+Att4: 50
+E
+#29967
+Argwai~
+Argwai~
+Argwai, the manager of the storeroom is here.
+~
+
+~
+131146 4264 750 E
+150 -71 -24 1d1+13800 5d31+140
+2250 13387926 8
+8 8 1 -1 3
+Att2: 95
+Att3: 80
+Att4: 70
+E
+#29968
+statue gil galad~
+Statue of Gil-Galad~
+A tall golden statue stands in the middle of the room, wielding a great spear.
+~
+Standing tall and fair at your front, you see a large golden statue, at the
+momment you see it, you recognize as Gil-Galad the might elf of the House of
+Fingolfin.  Wielding his legendary spear, he looks ready for battle.    
+~
+3661834 554730664 0 E
+200 -96 -32 1d1+18396 5d41+160
+3000 30939800 8
+8 8 0 10 3
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29969
+Celeborn~
+Celeborn~
+Celeborn the wise, Lord of Lothlorien is here.
+~
+
+~
+131402 553652392 750 E
+190 -91 -30 1d1+17472 5d39+156
+2850 26634425 8
+8 8 1 -1 3
+Att2: 100
+Att3: 95
+Att4: 80
+E
+#29970
+woman~
+Woman~
+A woman, patiently waiting is here.
+~
+
+~
+131146 4264 750 E
+150 -71 -24 1d1+13800 5d31+140
+2250 13387926 8
+8 8 2 -1 3
+Att2: 95
+Att3: 80
+Att4: 70
+E
+#29971
+secretary~
+Secretary~
+A stuffy secretary sits here.
+~
+
+~
+131402 4264 750 E
+150 -71 -24 1d1+13800 5d31+140
+2250 13387926 8
+8 8 2 -1 3
+Att2: 95
+Att3: 80
+Att4: 70
+E
+#29972
+Galadriel~
+Galadriel~
+Galadriel, Lady of Light is here.
+~
+
+~
+8520010 553652392 1000 E
+190 -91 -30 1d1+17472 5d39+156
+2850 26634425 8
+8 8 2 -1 3
+Att2: 100
+Att3: 95
+Att4: 80
+E
+#29976
+daleron docker elven~
+Daleron the elven docker~
+An elf is here watching the boat ropes on the dock.
+~
+A usual elf, that watches you carefully as you approach near his boats.  Maybe
+you can buy one of these.    
+~
+1114122 16778408 0 E
+170 -81 -27 1d1+15636 5d35+148
+2550 21184935 8
+8 8 0 1 3
+Att2: 100
+Att3: 70
+Att4: 40
+E
+#29981
+Isildur statue~
+the Isildur statue~
+There is a colossal statue with the left hand raised here.
+~
+This is one of the statues known as Argonaths, that keep the Dunedain domain.
+This statue is a tribute to Isildur.    
+~
+3661834 553649320 0 E
+200 -96 -32 1d1+18396 5d41+160
+3000 30939800 8
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29982
+Anarion statue~
+the Anarion statue~
+Another giant statue with the left hand raised is here.
+~
+This another statue known as an Argonath.  They keep the Dunedain domain.  
+This statue is a tribute to Anarion.    
+~
+3645450 1627391144 0 E
+200 -96 -32 1d1+18396 5d41+160
+3000 30939800 8
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29985
+orc archer~
+the orc archer~
+A horrible orc grumbles and aims his bow at you.
+~
+This orc has an angry look.  He is not as big as an infantary orc.  His hands
+shakes a little while aiming at you.    
+~
+524 1082131624 -750 E
+190 -91 -30 1d1+17472 5d39+156
+2850 26634425 8
+8 8 0 10 5
+Att2: 100
+Att3: 100
+Att4: 80
+E
+#29986
+corpulent orc~
+the corpulent orc~
+A heavily armored orc stands(and stomps) here.
+~
+This is an example of infantary orc.  He is not so intelligent, but a horde of
+these can make you cry.    
+~
+524 1082131624 -750 E
+195 -93 -31 1d1+17940 5d39+158
+2925 28733407 8
+8 8 0 10 5
+Att2: 100
+Att3: 100
+Att4: 90
+E
+#29988
+rohan knight~
+a Rohan knight~
+A knight clad in heavy armour rides his horse here.
+~
+This is one of the knights of the group that hunts orcs around these fields.  
+He looks at you distrustfully.    
+~
+65800 1090520232 750 E
+190 -91 -30 1d1+17472 5d39+156
+2850 26634425 8
+8 8 0 5 -1
+Att2: 100
+Att3: 100
+Att4: 90
+E
+#29989
+rohan scout~
+a Rohan scout~
+A light knight has his eyes attently at everything around.
+~
+This knight is the explorer of the group.  He checks the area before the
+knights attack.  He is tall and uses light clothes, and already noticed you.  
+
+~
+65800 1090520232 750 E
+180 -86 -29 1d1+16560 5d37+152
+2700 22747979 8
+8 8 0 5 -1
+Att2: 100
+Att3: 100
+Att4: 80
+E
+#29990
+eomer~
+Eomer~
+A high knight rides and leaders his group here.
+~
+He is Eomer, Nephew og King Theoden of Rohan.  He has some characteristics of a
+numenorian, and a serious expression on his face.    
+~
+65802 1627395240 750 E
+200 -96 -32 1d1+18396 5d41+160
+3000 30939800 8
+8 8 1 5 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#29999
+remort~
+Remort~
+Eu tou Aki :D
+~
+It looks unfinished.
+~
+10 0 0 E
+193 -92 -30 1d1+17748 5d39+156
+2895 27881075 8
+8 8 0 10 9
+Att2: 80
+Att3: 60
+Att4: 40
+E
+$

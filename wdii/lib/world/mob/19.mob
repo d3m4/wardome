@@ -1,0 +1,35 @@
+#1900
+o Assassino~
+o Assassino~
+Um sutil homem encapuzado de bracos cruzados esta parado logo ali.
+~
+   Um agil homen de pele escura e encapuzado, com duas pequenas adagas na mao,
+de pe, observa sutilmente o local, e observa tudo o que se passa ao seu redor.
+  
+~
+4188171 562036904 0 E
+200 -130 -50 1d1+75000 10d41+150
+3000 50734834 10
+8 8 0 8 0
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1901
+Nephalin cmob~
+&RNephalin&n~
+&CYou see a &RNephalin &Cflying around, guarding her disciples.&n
+~
+&RYou see a Fallen Creature, she looks like a woman, but there someting in her eyes...&n
+~
+3668490 588354734 1000 E
+200 -100 -30 1d1+21600 10d41+100
+3000 34652576 10
+8 8 2 3 21
+BareHandAttack: 12
+Att2: 100
+Att3: 80
+Att4: 50
+E
+$

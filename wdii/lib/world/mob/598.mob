@@ -1,0 +1,179 @@
+#359801
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+This man seems to be old and have many scars on the arms and legs, he is the
+guardian of the temple.    
+~
+3326058 9437352 0 E
+200 -80 -20 1d1+13596 10d21+80
+3000 28155218 5
+8 8 1 3 0
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#359802
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+It looks unfinished.  This priest serves Shalyzaar, he is meditating in that
+room.  When you approach him, he ask to you.  Can I help you?    
+~
+26696 41947272 0 E
+150 -54 -12 1d1+10200 10d16+60
+2250 12183013 5
+8 8 1 1 0
+Att2: 100
+Att3: 65
+Att4: 15
+E
+#59803
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+She is very beautiful, but a lot of sadness exists in your eyes, and a deep
+emptiness in them.    
+~
+520426 536948874 -350 E
+150 -54 -12 1d1+10200 10d16+60
+2250 12183013 5
+8 8 2 -1 3
+Att2: 100
+Att3: 53
+Att4: 3
+E
+#59804
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+This priest is just for the sacrifices done in this room.    
+~
+338152 26346624 0 E
+150 -54 -12 1d1+10200 10d16+60
+2250 12183013 5
+8 8 1 1 -1
+Att2: 100
+Att3: 77
+Att4: 24
+E
+#59805
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+This soldier wear a beautiful tunic with an eccentric symbol, it maybe be of
+Shalynon.    
+~
+489578 8388776 0 E
+150 -54 -12 1d1+10200 10d16+60
+2250 12183013 5
+8 8 1 3 6
+Att2: 100
+Att3: 82
+Att4: 36
+E
+#59806
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+undefined~
+522282 25309312 0 E
+175 -66 -16 1d1+11892 10d18+70
+2625 19069193 5
+8 8 1 -1 13
+Att2: 100
+Att3: 95
+Att4: 90
+E
+#59807
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+This woman doesn't seem's to be very happy, she arranges the dining table with
+a lot of sadness.    
+~
+20552 8390272 0 E
+150 -54 -12 1d1+10200 10d16+60
+2250 12183013 5
+8 8 2 -1 -1
+Att2: 100
+Att3: 62
+Att4: 9
+E
+#59808
+Sons of Darkness Guardian~
+Sons of Darkness Guardian~
+The Sons of Darkness Guardian Stading here.
+~
+This priest is the oldest of all, he is just for a purpose, to serve Shalyzaar.
+  
+~
+522282 579941544 0 E
+200 -80 -20 1d1+13596 10d21+80
+3000 28155218 5
+8 8 0 1 0
+BareHandAttack: 12
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#59809
+Sons of Master Darkness Guardian~
+Sons of Master Darkness Guardian~
+The Sons of Darkness Master Guardian Stading here.
+~
+Shalyzaar is the most powerful of all priests.  An aura glows around him when
+he wields his legendary mace.  Despite his old appearance, he is very
+dangerous.    
+~
+3663914 26214568 0 E
+200 -80 -20 1d1+13596 10d21+80
+3000 28155218 5
+8 8 1 11 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#59810
+Sons of Supreme Darkness Guardian~
+Sons of Supreme Darkness Guardian~
+The Sons of Darkness Supreme Guardian Stading here.
+~
+NOW!!!!!!.  &n This is the powerful God Shalynon, which appeared in the form of
+a titan.  Here is the place where he listens the confessions of Shalyzaar.  He
+doesn't look calm or happy, so, attacking him could not be a good idea.  
+&RLEAVE THIS PLACE NOW!!!!!!.  &n
+~
+521994 563216552 0 E
+200 -80 -20 1d1+13596 10d21+80
+3000 28155218 5
+8 8 1 3 0
+Att2: 100
+Att3: 100
+Att4: 99
+E
+T 2
+#59899
+Tarrasque~
+Tarrasque~
+The legendary Tarrasque sleeping here.
+~
+
+~
+3663994 546341032 -1000 E
+200 -80 -20 1d1+100000 10d41+80
+3000 100000000 10
+8 8 1 -1 21
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$
+

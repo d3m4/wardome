@@ -1,0 +1,4671 @@
+#0 
+multiplayer
+MULTIPLAYER
+LEIS PARA SECOND PLAYERS	
+
+- Se o Second player infringir qualquer lei estipulada abaixo pelos Gods
+  tera o player principal punido rigorosamente.
+  
+- Nao sera aceito o second player que nao tiver (S) ao lado do title no
+  comando 'who'.
+  
+- O player second nao podera ser PK, atacar ou interferir na jogabilidade 
+  dos demais jogadores, nao podera entrar em arenas e participar de quests.
+  
+- Todo second player devera ser criado a partir da data estipulada para a 
+  liberacao de second players no mud, os players criados antes desta deta
+  serao deletados.
+  
+- Cada player tera direito a apenas 1 (um) player second.
+
+- As leis acima estao sujeitas a mudancas sem aviso previo.
+
+Obs:. As leis acima soh se aplicam para mortais.
+
+#0
+brew
+BREW
+Skill de Ranger que usa uma erva para criar uma pocao.
+Exemplo:
+	> brew erb
+Obs:. Cada erva tem a possibilidade de criar tal pocao.
+A mana gasta para fazer uma pocao depende do Level do player e do Remort.
+
+#0
+paths
+Ligar o comando no toggle ou escrevendo NOPATH
+Assim quando voce passar por um inicio de zona o path sera mostrado.
+
+Zhantar
+
+#0
+spellbook
+SPELLBOOK SPELLBOOKS
+Spellbooks are a way of learning spells that might not otherwise be
+available to you.  Some spellbooks can be found in the Library in
+<YOUR TOWN HERE>, while others may be scattered throughout the game.  There 
+are typically two things you can do with a spellbook:  read it, or study it.
+Reading a spellbook gives you a simple description of the spell (or spells)
+it contains.  Any character can read a spellbook.
+Studying a spellbook causes your character to learn the spell (or spells)
+it contains.  Only characters of the proper class and level will be able to
+study a spellbook.  Once you have learned a spell, you are can improve your
+proficiency at it by practicing in your guild.  Studying a spellbook will
+destroy the book.
+See also: STUDY
+
+
+#0
+study
+STUDY
+Usage: study <spellbook>
+Used to learn new spells from a spellbook.  Once it has been studied, the
+spellbook disintegrates.  You must be holding the book to study it.
+See also: SPELLBOOKS
+
+#0
+sip
+    Este comando permite que voce experimente algum liquido antes de bebe-lo.
+    Pode ser muito util quando voce suspeitar que este esteja envenenado.
+    > sip bottle
+    It tastes like beer.
+    Veja tambem:&y taste, drink, eat, pour
+
+#0
+taste
+&y
+    Este comando permite que voce experimente um alimento antes de come-lo.
+    Pode ser muito util quando voce suspeitar que este esteja envenenado.
+&y
+    > taste waybread
+    You nibble a little bit of a waybread.
+&n
+    &YVeja tambem:&y sip, drink, eat, pour
+&n
+
+#0
+drink
+&y
+    Este comando permite que voce beba algum liquido que esteja em um
+recipiente, como uma garrafa ou uma fonte.
+&y
+    > drink bottle
+    You drink the lemonade.
+&n
+    &YVeja tambem:&y sip, taste, eat, pour
+&n
+
+#0
+eat
+&y
+    Este comando permite que voce coma um alimento. Lembrando que nesse mud
+voce nao morre de fome, mas e necessario comer e beber periodocamente para
+manter o nivel de recuperacao de hit points e move points alto.
+&y
+    > eat cookie
+    You eat a small chocolate chip cookie.
+&n
+    &YVeja tambem:&y sip, taste, drink, pour
+&n
+
+#0
+pour
+&y    Este comando permite que voce esvazie um recipiente com liquido dentro, ou
+passe seu conteudo para outro recipiente.
+&y
+    > pour bottle out
+    You empty a bottle.
+&y
+    > pour canteen bottle
+    You pour the clear water into the bottle.
+&n
+    &YVeja tambem:&y sip, taste, drink, eat
+&n
+
+#0
+examine
+&y
+    Este comando permite verificar o conteudo de um recipiente qualquer.
+&y
+    > examine bottle
+    It looks like a drink container. 
+    When you look inside, you see:
+    It's more than half full of a green liquid. 
+&n
+    &YVeja tambem:&y look
+&n
+
+#0
+look
+&y
+    Look permite que voce obtenha detalhes sobre o que foi olhado. E possivel
+olhar players, mobs, npcs, objetos, saidas da sala atual, entre outros. Look
+usado sem parametros exibe detalhes da sala em que voce se encontra.
+&y
+    > look heimdall
+    You see nothing special about him.
+    Heimdall is in excellent condition.
+&n
+    &YVeja tambem:&y examine, diagnose
+&n
+
+#0
+diagnose
+&y
+    Diagnose permite que se avalie a condicao fisica de um player ou mob, sem
+precisar olhar para o que este esta vestindo.
+&n
+&y
+    > diagnose heimdall
+    Heimdall is in excellent condition.
+&n
+    &YVeja tambem:&y look, examine, kill, first aid
+&n
+
+#0
+kill
+&y
+    Kill permite atacar um mob ou player. Lembrando que para atacar um player,
+as regras de PK devem ser obedecidas (veja o help de PK para maiores detalhes).
+&n
+&y
+    > kill tarrasque
+    Your pierce <-:-*-:-> SUPERNOVAS <-:-*-:-> tarrasque. [1380]
+&n
+    &YVeja tambem:&y look, diagnose, consider, kill, skills, spells, pk, revive
+&n
+
+#0
+pk
+&y
+    O Wardome Mud eh um mud onde voce pode optar por ser ou nao um Player
+Killer. Voce podera fazer esta opcao no nivel 10.
+    Caso escolha ser, voce sera setado com a flag permanente PK, e podera
+atacar e ser atacado por players dentro de seu PK Range. No Wardome, o PK Range
+eh de 9 niveis, ou seja, voce podera atacar players 9 niveis acima e abaixo do
+seu nivel, bem como ser atacado por estes. Os players que voce podera atacar
+terao um * vermelho ao lado de seus niveis, exibidos no comando who. Uma vez
+que voce opte por ser Player Killer, voce nao podera mudar de ideia mais tarde.
+E voce deve aceitar o fato de, caso voce venha a ser morto por um outro Player
+Killer, ele (e somente ele) tem todo o direito de roubar tudo o que voce
+estiver usando ou carregando.
+    Caso voce escolha nao ser Player Killer, ou passe para o nivel 11 sem ter
+feito a escolha, voce sera um No Player Killer. NOPKs sao protegidos pelo
+codigo, nao podendo matar, roubar, serem mortos ou serem roubados por outros
+players. Porem, voce podera optar por ser um Player Killer no nivel 10 de cada
+Remort que voce atinja futuramente.
+    Existem ainda alguns casos especiais de PK, que podem ocorrer quando um
+player esta marcado com alguma flag especial: THIEF quando um Player Killer
+tenta roubar outro player com a skill STEAL e falha, e KILLER, quando um Player
+Killer mata mais de 10 players ou ataca os guardioes de um clan. Veja o help de
+flags para mais detalhes nestes casos.
+&n
+    &YVeja tambem:&y kill, diagnose, consider, who, remort, flags, revive
+&n
+
+#0
+flags
+&y
+    No Wardome Mud, as seguintes flags podem marcar um player:
+&n
+    &R[KILLER*]&y - O player marcado matou mais de 10 players, ou atacou os
+guardioes de um clan. Um player marcado com esta flag pode ser atacado por
+qualquer outro player, em qualquer nivel, seja ele PK ou NOPK. Ser morto por
+outro player eh a unica forma de se livrar desta flag.
+    &w(THIEF)&y - O player marcado tentou roubar outro player com a skill STEAL,
+mas falhou. Neste caso, ele tambem pode ser atacado por qualquer outro player,
+em qualquer nivel, seja ele PK ou NOPK, e ser morto por outro player tambem eh
+a única forma de se livrar desta flag.
+    &w(banned)&y - O player marcado foi expulso ou abandonou (traiu) seu clan.
+Um player marcado com esta flag nao pode entrar em clans, e sua flag so sera
+removida apos um god estudar o caso.
+    &W(notell)&y - O player nao esta aceitando mensagens no canal tell.
+    &w(deaf)&y - O player nao esta aceitando mensagens no canal shout.
+    &C(quest)&y - O player esta aceitando mensagens no canal quest.
+    &w(writing)&y - O player esta escrevendo algo. Players marcados com esta flag
+nao podem ver nenhuma mensagem, em nenhum dos canais.
+    &R(AFK)&y - O player esta fora por alguns momentos (AFK = Away From Keyboard).
+Um player AFK nao pode receber mensagem no canal tell, e sera setado com a flag
+&Ridle&y caso venha a ficar fora mais de 6 minutos.
+    &R(idle: X)&y - O player esta fora ja faz X minutos. Caso ele venha a ficar
+fora por mais de 20 minutos, ele sera automaticamente desconectado.
+    &w(invis)&y - O player esta invisivel. Voce so pode ve-lo porque esta
+afetado por DETECT INVISIBILITY ou algo similar.
+    &G(hidden)&y - O player esta escondido. Voce so pode ve-lo porque esta
+afetado por SENSE LIFE ou algo similar.
+&n
+    &YVeja tambem:&y pk, steal, clan, tell, shout, afk, invisibility, hide
+&n
+
+#0
+remort
+&y
+    O remort consiste em uma mudanca de classes, com algo a mais. No Wardome, o
+nivel 200 eh o ultimo nivel que voce atinge. Passando deste nivel, que exige um
+quantidade absurda de experiencia, voce remortara! Neste momento, voce sera
+transportado para a Wardome Preparation Room, e devera escolher 5 skills ou
+spells que voce desejaria manter de sua classe atual para seu proximo remort,
+digitando &Yremort&y <nome da skill/spell>. Lembrando que voce so aprendera as
+skills e spells levadas de um remort quando voce atingir o nivel que elas eram
+aprendidas no remort anterior! Enfim, uma vez escolhida as 5, voce deve
+escolher qual a proxima classe que deseja assumir. Digite &Yremort&y para
+verificar a letra da classe que voce deseja assumir, e finalmente, &Yremort&y
+<letra> para remortar com a nova classe! Voce voltara ao nivel 1, porem
+mantera os atributos que ja possuia, e aprendera as skills e spells escolhidas
+em seus niveis.
+    Quando voce ja remortou pelo menos uma vez, o comando &Yremort&y mostrara as
+skills e as spells que voce levou de cada remort anterior.
+&n
+    &YVeja tambem:&y reborn, classes, races, adv.races, skills, spells
+&n
+
+#0
+reborn
+&y
+    Apos remortar pelo menos seis classes voce podera evoluir para uma raca
+mais avancada! Este processo se chama reborn. Rebornando, voce ganhara alguns
+bonus, de acordo com a sua raca, e podera assumir qualquer classe, inclusive
+aquelas que voce já foi!
+    A qualquer momento, na Wardome Preparation Room, digite &Yreborn&y para
+verificar quais os bonus que sua raca ganhara ao rebornar.
+&n
+    &YVeja tambem:&y remort, classes, races, adv.races
+&n
+
+#0
+classes
+&y
+    Estas sao as classes existentes no Wardome, veja o help de cada uma para
+obter mais detalhes, como descricao, spells e skills de cada uma.
+&n
+&yPaladin&n              &CSorcerer&n             &rWarrior&n              
+&YRanger&n               &RBarbarian&n            &mWarlock&n              
+&bShaman&n               &WNecromancer&n          &gPsionicist&n           
+&GThief&n                &BCleric&n               &MNinja&n                
+&n
+    &YVeja tambem:&y races, adv.races, skills, spells, remort, reborn
+&n
+
+#0
+races
+&y
+    Estas sao as racas do Wardome, veja o help de cada uma para obter detalhes
+sobre as caracteristicas e atributos iniciais de cada uma.
+&n
+&yHuman&n                &CDrow&n                 &rDwarf&n                
+&YElf&n                  &ROgre&n                 &mOrc&n                  
+&bTroll&n                &WGith&n                 &gGnome&n                
+&GLizardman&n            &BSea Elf&n              &MGorak&n                
+&n
+    &YVeja tambem:&y classes, adv.races, remort, reborn
+&n
+
+#0
+adv.races
+&y
+    As racas avancadas sao uma evolucao das racas normais, e so podem ser
+alcancadas atraves do reborn. Cada raca avancada possui seus proprios bonus,
+veja o help de cada uma para mais detalhes.
+&n
+&yDunedain&n             &CAncient Drow&n         &rNaugrim&n              
+&YHigh Elf&n             &RHill Ogre&n            &mBugBear&n              
+&bCave Troll&n           &WLich&n                 &gTinker&n               
+&GDraconian&n            &BHigh Sea Elf&n         &MArchon&n               
+&n
+    &YVeja tambem:&y races, classes, remort, reborn
+&n
+
+#0
+revive
+&y
+    Aqui no Mud, como em qualquer RPG, voce pode morrer. Isto pode acontecer
+de duas formas: caso voce atinja uma sala com armadilhas, tambem chamada de
+sala DT (Death Trap), ou se durante uma luta, seus hit points tornem-se
+negativos. Caso isto aconteca, sua alma ira para o purgatorio, onde voce podera
+reviver... porem, com um alto custo.
+    Digite &Yrevive&y neste momento, e voce retornara ao seu templo. Voce estara
+praticamente sem hit points, mana points e move points, perdera uma certa
+quantidade de experiencia, e caso sua experiencia se torne negativa, voce sera
+amaldicoado por 6hr (DAMNED CURSE), perdendo preciosos pontos de HITROLL e
+DAMROLL durante este tempo.
+    Caso sua morte tenha sido durante uma luta, voce tambem nao tera nenhum
+equipamento ou item... eles estarao em seu corpo, no local em que voce morreu.
+    Vale lembrar que, pelo policy, nenhum player pode lootear o corpo de outro
+player, a nao ser que o tenha matado... entao, caso alguem roube algo de seu
+corpo, entre em contato com algum god!
+&n
+    &YVeja tambem:&y dt, policy, pk, kill, damned curse
+&n
+
+#0
+dt (death trap)
+&y
+    DTs, ou Death Traps, sao salas que, quando atingidas, causam a morte
+instantanea do player desafortunado. Caso alguem caia em uma, nao ha nada o que
+fazer, alem de reviver e decorar sua localizacao, para evitar cair nela
+novamente. Contudo, ha uma diferenca com relacao a uma morte ocorrida durante
+uma luta: voce nao perdera seus itens e equipamentos, eles estarao com voce
+quando reviver.
+&n
+    &YVeja tambem:&y revive
+&n
+
+
+#0
+brew
+BREW
+Skill de Ranger que usa uma erva para criar uma pocao.
+Exemplo:
+	> brew erb
+Obs:. Cada erva tem a possibilidade de criar tal pocao.
+A mana gasta para fazer uma pocao depende do Level do player e do Remort.
+
+#0
+paths
+Ligar o comando no toggle ou escrevendo NOPATH
+Assim quando voce passar por um inicio de zona o path sera mostrado.
+
+Zhantar
+
+#0
+spellbook
+SPELLBOOK SPELLBOOKS
+Spellbooks are a way of learning spells that might not otherwise be
+available to you.  Some spellbooks can be found in the Library in
+<YOUR TOWN HERE>, while others may be scattered throughout the game.  There 
+are typically two things you can do with a spellbook:  read it, or study it.
+Reading a spellbook gives you a simple description of the spell (or spells)
+it contains.  Any character can read a spellbook.
+Studying a spellbook causes your character to learn the spell (or spells)
+it contains.  Only characters of the proper class and level will be able to
+study a spellbook.  Once you have learned a spell, you are can improve your
+proficiency at it by practicing in your guild.  Studying a spellbook will
+destroy the book.
+See also: STUDY
+
+
+#0
+study
+STUDY
+Usage: study <spellbook>
+Used to learn new spells from a spellbook.  Once it has been studied, the
+spellbook disintegrates.  You must be holding the book to study it.
+See also: SPELLBOOKS
+
+
+#0
+atributos
+STR: Forca serve para as skills throw e drown, para aumentar o dano 
+fisico, para definir o peso maximo que um player pode carregar e o 
+peso maximo da arma que o player pode empunhar.
+OBS: Todas as habilidades usam a forca temporaria.
+
+DEX: Destreza serve para as skills backstab, bash, gut, drown, chop, 
+kickflip, sneak, hide, steal, gas, agility, second_attack, 
+third_attack, fourth_attack, dual wield, haste, para o spell fear, 
+para a recuperacao de move, para nao escorregar em marbles e para 
+o ganho de move points.
+Destreza NAO influencia no hitroll, Thac0 ou AC.
+OBS: Todas as habilidades usam a destreza temporaria, exceto pelo ganho 
+de move points que usa a destreza real.
+
+CON: Constituicao serve para as skills knockout (para evita-la), para a
+recuperacao de hit points, para a recuperacao de ox e para o ganho de
+hit points.   
+OBS: Todas as habilidades usam a con temporaria, exceto pelo ganho de 
+hit points que usa a con real.
+
+INT: Inteligencia serve para aumentar o dano das magias de ataque (como 
+fireball por exemplo), para dar improve em skills/spells e para a 
+quantidade de mana points ganhos.
+OBS: Todas as habilidades usam a int temporaria, exceto pelo ganho 
+de mana points que usa a int real.
+
+WIS: Sabedoria serve para recuperacao de mana points, para a qtidade de 
+mental points ganhos, para dar improved em skills/spells e para a 
+quantidade de mana points ganhos.
+OBS: Todas as habilidades usam a wis temporario, exceto pelo ganho de
+mana points e ganho de mental points que usa a wis real.
+
+CHA: Carisma serve para o dano das magias de ataque e para o maximo de 
+mobs followers possiveis (embora com cha > 17 esse maximo ja eh 
+atingido).
+OBS: Todas as habilidades usam o cha temporario.
+
+Tabela de hit points, move points ou mana points ganhos por meta:
+A divisao (int + wis)/2 eh arredondada para baixo. Assim, se
+o cara tiver 18 de int e 21 de wis ele vai ganhar 19 mana points. 
+
+Con/Dex/(Int+Wis/2)     Ganho
+ateh 15                   15
+16                        16
+17                        17
+18			  18	
+19			  19	
+20			  20
+21-29                     21
+30-39                     22
+40-49                     23 	
+50-59                     24 
+60-69                     25                  
+70-80                     26
+81-89                     27 
+90-99                     28 
+100                       29 
+
+
+
+#0
+msp
+
+1.Baixe o cliente do mud em www.geocities.com/wardome2004.
+2.Instale o cliente em qualquer pasta.
+3.Crie um diretorio chamado: audio (no mesmo local de wardome.exe)
+4.Baixe regularmente os Sons .wav na pagina do Mud.
+5.Descompacte os sons(.wav) dentro da pasta 'audio' .
+6.Digite 'msp' no mud para ligar a opcao.
+
+Obs:. Os arquivos .wav devem estar soltos na pasta 'audio', e nao dentro de diretorios.
+
+
+
+#0
+paladin
+
+&yPALADIN&n
+
+<descricao da classe>
+
+&RSendo um &yPALADIN&R, voce aprendera as seguintes &Gskills&R e &Yspells&R, nos niveis indicados:&n
+
+&Y[&y  3&Y]&y cure light&n          &Y[&y 10&Y]&y create water&n        &Y[&y 15&Y]&y create food&n        
+&Y[&y 21&Y]&y bless&n               &G[&g 28&G]&g sting&n               &Y[&y 36&Y]&y protection from evil&n
+&Y[&y 51&Y]&y sacrifice&n           &Y[&y 55&Y]&y cure critic&n         &G[&g 64&G]&g crush&n              
+&G[&g 66&G]&g rescue&n              &G[&g 78&G]&g second attack&n       &Y[&y 81&Y]&y concentration&n      
+&Y[&y 91&Y]&y armor&n               &Y[&y 92&Y]&y revitalize&n          &G[&g 97&G]&g stroke&n             
+&Y[&y103&Y]&y peace&n               &Y[&y105&Y]&y dispel evil&n         &Y[&y112&Y]&y conviction&n         
+&G[&g120&G]&g slash&n               &G[&g125&G]&g third attack&n        &Y[&y126&Y]&y champion strenght&n  
+&Y[&y136&Y]&y holy mace&n           &G[&g139&G]&g shield block&n        &G[&g141&G]&g thrash&n             
+&Y[&y145&Y]&y holy shout&n          &Y[&y146&Y]&y god pact&n            &Y[&y153&Y]&y holy shield&n        
+&Y[&y159&Y]&y sanctuary&n           &G[&g160&G]&g combo&n               &Y[&y166&Y]&y lay on hands&n       
+&Y[&y171&Y]&y holy word&n           &Y[&y184&Y]&y holy fury&n           &Y[&y190&Y]&y holy bolt&n
+
+
+#0
+rescue
+
+&BRESCUE
+
+&b- Classes que aprendem: &rWarrior&b(&r31&b), &yPaladin&b(&y66&b)&n
+&b- Descricao: Esta skill permite defender um amigo em uma luta. O player que a  &n
+&b utiliza passa a proteger heroicamente o amigo, recebendo o dano que este   &n
+&b receberia.&n
+&b- Numero de rounds necessarios para recuperacao do controle: 2&n
+&b- Exemplo de uso:   > rescue kefren&n
+&b                      Banzai!  To the rescue...&n
+&b- Observacoes: Esta skill so funciona em players dentro do PK Range e desde que&n
+&b a flag de PK seja a mesma para os dois, ou seja, ambos sejam PKs ou ambos&b
+&b sejam NOPKs.&n
+
+
+#0
+clan_policy
+
+                               Clan Policy
+I) Membros do mesmo clan nao podem se Pklizar ou se ofender em canal publico;
+II) Um membro expulso nao pode mais regressar ao clan;
+III) Eh de responsabilidade de todo o clan atos de membros;
+IV) Todo Membro deve seguir primeiro seu BG depois o Bg de seu clan;
+V) Devem zelar pelo seu guardiao, em caso de invasao ele precisa viver!
+VI) Alincas entre so clans sao mantidas atraves dos Bgs e nao poderah
+haver clan war sem motivo, ou aviso previo (e-mail, com o relato).
+ 
+Faltas, e infracoes sao punidas com desconto no Clan Points.
+ 
+          Clan Points podem ser conseguidos em ordem:
+ 
+1) Seguir a risca o BG do clan
+2) Conquistar objetivos propostos pelo clan
+3) Conquistar objetivos impostos pelo Guardiao.
+4) Vitoria em clan War (player x mobs ) (player x players)
+5) Vitorias em Clan Tournaments.
+6) Vitorias em Clan Quests.
+ 
+Cada clan tem seu proprio objetivo, e farah uso conforme o planejado de seus
+pontos. Os objetivos e e premios sao secretos e nao sao comparaveis.
+
+
+Caso voce esteja banido:
+Mande um relato de como, por que e quando voce saiu do clan ou foi expulso.
+Fale do novo clan, jure obediencia ao novo regimento e peca para o lider do
+seu futuro clan mandar um mudmail para entity.
+Voce deve escrever para hyoga@mail.ru com o subject: Banimento de XXXX
+
+#0
+area
+
+&gNUM. &yAREA                             &RLEVEL   REMORT&n
+&g266  &yLearning Zone                     &R0&Y-&R1      0&n
+&g186  &yNewbie Zone                       &R1&Y-&R9      0&n
+&g 60  &yHaon-Dor, Light Forest            &R1&Y-&R9      0&n
+&g 61  &yHaon-Dor, Dark Forest             &R1&Y-&R9      0&n
+&g 54  &yNew Thalos                        &R1&Y-&R40     0&n
+&g  3  &yThe Plains of the North           &R5&Y-&R20     0&n
+&g  5  &yThe WarDome City                  &R1&Y-&R40     0&n
+&g 40  &yMoria, Levels 1-2                 &R5&Y-&R15     0&n
+&g 35  &yMiden'Nir                         &R5&Y-&R15     0&n
+&g 70  &yThe Sewer, First Level            &R5&Y-&R15     0&n
+&g 71  &yThe Second Sewer                  &R5&Y-&R15     0&n
+&g 91  &yThe Dylan's Area                 &R10&Y-&R15     0&n
+&g 38  &yHatchet The Rats Lair            &R10&Y-&R20     0&n
+&g 41  &yMoria, Level 3                   &R10&Y-&R20     0&n
+&g 50  &yThe Great Eastern Desert         &R10&Y-&R20     0&n
+&g 72  &yThe Sewer Maze                   &R10&Y-&R25     0&n
+&g 31  &ySouthern part of Midgaard        &R10&Y-&R25     0&n
+&g 73  &yThe Tunnels In The Sewer         &R15&Y-&R20     0&n
+&g120  &yRome                             &R15&Y-&R35     0&n
+&g176  &yThe New Ofcol                    &R20&Y-&R45     0&n
+&g 51  &yDrow City                        &R25&Y-&R40     0&n
+&g178  &yGnome Village                    &R35&Y-&R50     0&n
+&g 34  &yThe Chapel Catacombs             &R40&Y-&R60     0&n
+&g 65  &yThe Dwarven Kingdom              &R45&Y-&R60     0&n
+&g 20  &yCastle of Desire                 &R50&Y-&R75     0&n
+&g190  &yThe Elven woods                  &R55&Y-&R75     0&n
+&g 62  &yThe Orc Enclave                  &R70&Y-&R80     0&n
+&g  2  &yThe Lizard Lair Safari           &R75&Y-&R90     0&n
+&g284  &yAbysmal Sea                      &R80&Y-&R120    0&n
+&g 77  &yThe Astral Universe              &R85&Y-&R105    0&n
+&g  9  &yRiver Island Of Minos            &R85&Y-&R100    0&n
+&g 64  &yRand's Tower                     &R90&Y-&R105    0&n
+&g 18  &yThe Little Haven                 &R95&Y-&R115    0&n
+&g 79  &yRedferne's Residence            &R100&Y-&R110    0&n
+&g 53  &yThe Great Pyramid               &R110&Y-&R130    0&n
+&g 36  &yThe Chessboard of Midgaard      &R115&Y-&R140    0&n
+&g 63  &yArachnos                        &R120&Y-&R140    0&n
+&g150  &yKing Welmar's Castle            &R120&Y-&R145    0&n
+&g 92  &yThe Elemental Canyon            &R120&Y-&R160    0&n
+&g173  &yCamelot                         &R125&Y-&R145    0&n
+&g 25  &yThe High Tower Of Magic         &R135&Y-&R165    0&n
+&g 67  &ySundhaven                       &R140&Y-&R160    0&n
+&g100  &yCastle of the Vampire           &R155&Y-&R170    0&n
+&g  1  &yThe Realm of Lord Ankou         &R160&Y-&R180    0&n
+&g 30  &yUndead Midgaard                 &R170&Y-&R190    0&n
+&g 66  &yThe Dark Mansion                &R170&Y-&R190    0&n
+&g285  &yCity of Atlantis                &R180&Y-&R200    0&n
+&g 97  &yThe Olympus                     &R185&Y-&R200    0&n
+&g 95  &yMaze of DTs                       &R200      0&n
+&g141  &yUltima                          &RVariable   1&n
+&g 99  &yGhenna                           &R10&Y-&R40     1&n
+&g104  &yDescent to Hell                  &R70&Y-&R100    1&n
+&g151  &WMordecai's Village								&R90&Y-&R110    1&n
+&g 29  &yNirrad Land of the Fire Newts   &R110&Y-&R150    1&n
+&g131  &ySamurai Temple                  &R130&Y-&R140    1&n
+&g 90  &yWasteland                       &R170&Y-&R200    1&n
+&g130  &yThieve's Lair                    &R50&Y-&R70     2&n
+&g 11  &yThe Shire                        &R80&Y-&R120    2&n
+&g245  &yArmageddon                      &R110&Y-&R130    2&n
+&g 52  &WThe City Of Thalos              &R130&Y-&R160    2&n
+&g 23  &yThe Keep of Mahn-Tor            &R180&Y-&R200    2&n
+&g251  &yOld Camelot                     &R190&Y-&R200    2&n
+&g215  &yWardome - Abyssal's Pit          &R10&Y-&R80     3&n
+&g220  &yThe Infernal Pit of Kerjim       &R40&Y-&R60     3&n
+&g 78  &yThe Valley of the Elves          &R70&Y-&R100    3&n
+&g 37  &yThe Alfa Graveyard              &R100&Y-&R130    3&n
+&g200  &yWerith's Wayhouse               &R130&Y-&R170    3&n
+&g 33  &yThe Three Of Swords             &R170&Y-&R200    3&n
+&g122  &yRolindar Asgard                  &R10&Y-&R50     4&n
+&g 47  &yThe Kingdom of Juargan           &R60&Y-&R100    4&n
+&g295  &yThe Ilium                       &R110&Y-&R140    4&n
+&g 82  &yNotre Dame                      &R140&Y-&R200    4&n
+&g  7  &yKerofk                           &R80&Y-&R120    5&n
+&g 98  &yShalyzaar Temple                &R160&Y-&R200    5&n
+&g 96  &yMysterious Cave                 &R160&Y-&R200    5&n
+&g286  &yDragon Village                    &R200          5&n
+&g 15  &yThe Straight Path               &R170&Y-&R200    6&n
+&g201  &yShaolin Temple                   &R60&Y-&R90     7&n
+&g132  &yThe Cloudy Mountain              &R10&Y-&R40     8&n
+&g 22  &yThe Dragon Tower                &R165&Y-&R185    8&n
+&g135  &yAncalador/Necromancers' Guild    &R10&Y-&R30     9&n
+&g112  &yVillage of Hochenyana            &R30&Y-&R60     9 [&CSOON&R]&n
+&g143  &yEgypt                            &R60&Y-&R80     9 [&CSOON&R]&n
+&g 10  &yThe Abandoned Cathedral          &R10&Y-&R80    10 [&CSOON&R]&n
+&g205  &yThe Termite Hill                 &R40&Y-&R100   10&n
+&g204  &yAnthill                         &R160&Y-&R200   10&n
+&g 57  &yThe Firetop Mountain             &R10&Y-&R50    11 [&CSOON&R]&n
+&g 81  &yOfingia and the Goblin Town     &R140&Y-&R175   11 [&CSOON&R]&n
+&g 16  &yWyvern's Tower                  &R170&Y-&R200   11 [&CSOON&R]&n
+&g&n
+&R************ &YL O R D S &R* &YO F &R* &YR I N G S &R************&n
+&g300  &yGrey Havens                      &R50&Y-&R120    4&n
+&g 27  &yShire                            &R50&Y-&R80     5&n
+&g 27  &yBree                            &R100&Y-&R130   5-6&n
+&g101  &yRivendell                       &R120&Y-&R140    6&n
+&g298  &yMoria                           &R110&Y-&R140    7&n
+&g299  &yLothlorien                      &R120&Y-&R200    8&n
+&g299  &yAnduin                          &R190&Y-&R200    8&n
+&g202  &yDimrill Dale                     &R40&Y-&R70     9&n
+&gXxX  &yFangorn                         &R100&Y-&R180    9 [&CSOON&R]&n
+&g202  &yEmyn Muil                       &R160&Y-&R200    9&n
+&gXxX  &yMorannon - The Black Gate       &R100&Y-&R170   10 [&CSOON&R]&n
+&gXxX  &yCirith Ungol                    &R150&Y-&R200   10 [&CSOON&R]&n
+&g&n
+&R******** &WA R E A S &R* &WN A O &R* &WL I N K A D A S &R********&n
+&g170  &yXvarts Caves       &cRooms: &R11 &gObjs: &R8 &yMobs: &R1&n
+&g303  &yCastle Fields      &cRooms: &R13 &gObjs: &R0 &yMobs: &R1&n
+&g305  &yArchAngel Abyss    &cRooms: &R 1 &gObjs: &R0 &yMobs: &R0&n
+
+
+#0
+clan_npc
+
+&r**********************************************************************************&n
+&Y                                     SISTEMA DE CLAN NPC:
+&w 
+&wExiste agora clans de NPCs (mobs) que podem ou nao aparecer durante as quests.&n
+&wCada clan possui suas caracteristicas e objetivos, elas apareceram nas quest&n
+&we para saber seu historico visite o livro do Merlin em Camelot.&n
+&wDetalhes de status podem ser vistos digitando &Rclan&n.
+&wO poder e Tesouro sao reais e compativel com as clans de players.&n
+&wNuma eventual clan war com algum dos clans de npcs seus stats serao atualizados&n
+&wO tesouro e eqs podem ser adiquiridos em confronto direto.
+&wAs Clans de Npcs tambem podem pilhar players e pegar seus pertences, menos unicos&n
+&wDescobrindo o local dos reinos dos NPCs pode haver invasao em sua clan house.&n
+&wEquipqmentos de NPCs dificilmente serao usados mas valem qps(valor variado)&n.
+&r**********************************************************************************&n
+
+
+#0
+recharge
+
+Se o level da wand for menor que 50, entao o preco da carga eh 50k.
+Caso contrario o valor da carga eh valor da wand * 1000.
+
+
+#0
+roleplay
+
+&nROLEPLAY RP ROLEPLAYPOINTS
+&n
+&n    Voce pode conseguir pontos de roleplay reportando bugs em geral, dando ideas
+&nuteis, participando de quest com uma boa interpretacao e etc...
+&n
+&n    Voce pode usa-los para comprar equipamentos especiais.
+
+
+#0
+religion_commands
+
+&y                          RELIGION COMMANDS&n
+&n
+&gPara usar os poderes dos deuses, execute os seguintes comandos:&n
+&n
+&WDeuses       &cComandos&n
+&CM&cuir       &w: &cHonor&n
+&YI&ylma&wna&yteu&Yr &w: &cHumility&n
+&CS&ce&Cl&cu&Cn&ce     &w: &cFreedom&n
+&YH&Welm       &w: &cLaw&n
+&YOhgma      &w: &cIdentify &w(&gObj&w|&yMob&w|&cPlayer&w)&n
+&WT&wempus     &w: &cWarrior&n
+&WB&wa&Wn&we       &w: &cOppression&n
+&MPa&mndo&Mra    &w: &cSeduction&n
+&RT&ra&wl&ro&Rs      &w: &cDestruction&n
+&n
+&n
+&WVEJA TAMBEM: &Yreligions&w, &Yalinhamento.&n
+
+
+#0
+alinhamento
+
+&Y                              ALINHAMENTO&n
+&n
+&gOs alinhamentos significam o seguinte:&n
+&n
+&BLawful good &W(&BOrdeiro &We &bBo&Bn&cd&Bo&bso&W)&w.  Esse eh o alinhamento dos&n
+&waventureiros que acham que ordem e bondade eh essencial para um mundo tao&n
+&wterrivel qto o do mud.  Pessoas desse alinhamento sempre buscam ajudar o&n
+&wproximo e obedecer as leis do mud.  Comum em reis justos e bondosos ou em&n
+&wherois honrados e de bom coracao.&n
+&n
+&WExemplo&w: Sir Lancelot e Rei Arthur (da tavola redonda), Deusa Athena&n
+&w(mitologia grega) e a maioria dos herois existentes no mundo.&n
+&n
+&n
+&wNeutral Good &W(&wN&Ce&Wut&Cr&wo e &bBo&Bn&cd&Bo&bso&W)&w.  Sao pessoas que gostam de fazer o bem&n
+&windependente de qq outra coisa.  Pessoas dessa alinhamento nao se preocupam com&n
+&wleis ou regras, se preocupam apenas em fazer o bem.&n
+&n&n
+&WExemplo&w: Homem-Aranha (marvel), Jesus Cristo, Dalai Lamma.&n
+&n
+&n
+&cChaotic Good &W(&WCaotico e &bBo&Bn&cd&Bo&bso&W)&w.  Sao pessoas que procuram fazer o bem, mas&n
+&wacham q as leis e regras das sociedades apenas beneficiam os mais fortes,&n
+&watrapalhando os mais fracos.  Pessoas assim, geralmente desrespeitam as leis e&n
+&wregras para ajudar os oprimidos e fracos ou para praticar o bem.&n
+&n
+&WExemplo&w: Robin Hood (que roubava dos ricos para dar aos pobres)&n
+&n
+&n
+&CLawful neutral &W(&COrdeiro e &wN&Ce&Wut&Cr&wo&W)&w.  Sao pessoas que acham q a lei deve sempre&n
+&wprevalecer, independente do bem e do mal que as leis possam causar nas pessoas.&n
+&wEsse alinhamento eh comum em juizes totalmente imparciais ou em soldados ou&n
+&wguerreiros que obedecem as ordens dos seus superiores sem pestanejar.&n
+&n
+&WExemplo&w: Saitoo (SamuraiX), rei Kashue (record of Lodoss War).&n
+&n
+&n
+&WTrue Neutral (Verdadeiramente &wN&Ce&Wut&Cr&wo&W)&w.  Sao pessoas totalmente neutras.  Essas&n
+&wpessoas acham que o equilibro entre bem e mal e entre caos X ordem eh o mais&n&n
+&wimportante a se obedecer.  Pessoas sem opiniao formada sobre o mundo tb sao&n
+&wtrue neutral.&n
+&n
+&WExemplo de busca de equilibro&w: Vigias (marvel), druidas em geral.&n
+&WExemplo de pessoas sem opiniao formada&w: Criancas ou animais.&n
+&n
+&n
+&wChaotic neutral &W(&wCaotico e &wN&Ce&Wut&Cr&wo&W)&w.  Sao pessoas que acreditam que o mal e bem&n
+&weh irrelevante mas que as leis servem apenas para atrapalhar as pessoas.&n
+&wAlinhamento bastante comum em pessoas egoistas mas nao malignas.  Esse&n
+&walinhamento eh comum em ladroes e comerciantes desonestos ou em guerreiros&n
+&windisciplinados.  Tb eh mais comum em individuos loucos.&n
+&n
+&WExemplo&w: Gambit (X-men)&n
+&n
+&n
+&yLawful evil &W(&yOrdeiro e &rM&Ral&Wi&Rgn&ro&W)&w.  Sao pessoas que usam as leis para se&n
+&wbeneficiar e oprimir os outros.  Pessoas lawful evil geralmente respeitam os&n
+&wfortes e menosprezam os fracos, obedecendo uma hierarquia onde o mais forte&n
+&wsempre deve oprimir o mais fraco.  Comum em reis tiranos ou em nobres&n
+&wexploradores.&n
+&n
+&WExemplo&w: Imperador Beld (record of Lodoss War), Imperador Palpatine (star&n
+&wwars), Imperador Cesar (roma).&n
+&n
+&n
+&rNeutral evil &W(&rNeutro e &rM&Ral&Wi&Rgn&ro&W)&w.  Sao pessoas que gostam de prazer imediato e&n
+&wpra adquirir esse prazer, maltratam as outras pessoas.  Para pessoas desse&n
+&walinhamento, a lei ou o caos apenas sao instrumentos para se beneficiar ou&n
+&wseja, se a lei ajudar, a pessoa segue a lei, caso contrario a pessoa se opoe a&n
+&wlei.  Alinhamento comum em assassinos sangui- nolentos ou em humanoides que&n
+&wapenas pensam em adquirir mais poder.&n
+&n
+&WExemplo&w: Hades (deus da morte grego), Wagnard (record of lodoss war)&n
+&n
+&n
+&RChaotic evil &W(&RCaotico e &rM&Ral&Wi&Rgn&ro&W)&w.  Sao pessoas que acham q a lei e a bondade&n
+&wsao coisas dos fracos.  Pessoas desse alinhamento tem prazer em desobecer a&n
+&wordem bem como subjulgar os mais fracos.  Geralmente sao pessoas q destroem&n
+&wtudo o que encontra, independente de tudo.  Alinhamento bastante comum em&n
+&wdemonios, dragoes vermelhos, mensageiros da destruicao e serial killers.&n
+&n
+&WExemplo&w: Ares (deus da guerra e destruicao grego), Demonio de Elru (xenogears),&n
+&wtiamat (o dragao de 5 cabecas).&n
+&n
+&n
+&WVEJA TAMBEM: &YReligions&w, &YReligion_Commands&n
+
+
+#0
+background_up
+
+ *******************************************************
+* PARA TODOS QUE TEM BACKGROUND E JA TENHAM PARTICIPADO *
+    DE PELO MENOS UMA QUEST DE CAMPANHA ATEH O FINAL
+  =====================================================
+ 
+  PARA MELHOR ATRELAR OS PERSONAIS OBJETIVOS NAS QUEST DE
+  CAMPANHA, CRIEI ESSE FORMULARIO COM O OBJETIVO DE
+  OTIMIZAR OS AVANCOS PESSOAIS, E INICIAR UM SISTEMA
+  VISIVEL DE ALIADOS E INIMIGOS.
+ 
+  RESPONDA ABAIXO CONFORME SEU PLAYER, SUA HISTORIA E SE
+  NAO HOUVER RESPOSTA MAQUE COM UM X (NAO EH MELHOR OU PIOR
+  PREENCHER TUDO)
+ 
+  NOME:
+  RASSA E CLASSE DO BACKGROUND:
+  CLAN:
+  ALIADOS (PLAYERS):
+  ALIADOS (MOBS):
+  ALINHAMENTO:
+  INIMIGOS (PLAYERS):
+  INIMIGOS (MOBS):
+   
+   
+  RELATE SUA QUEST PESSOAL (OBJETIVO PRINCIPAL):
+ 
+  RELATE SE HOUVE UPGRADES EM SEUS EQS, E COMO:
+ 
+  RELATE SE HOUVE AVANCOS EM SUA QUEST PESSOAL, E COMO:
+ 
+  FACA UM BREVE RESUMO DE SEU BACKGROUND (3 LINHAS):
+ 
+  QUAL VOCE CONSIDERA O SEU MAIOR FEITO NAS QUEST DE CAMPANHA:
+ 
+  USE ESSE ESPACO SE VOCE NAO POSSUI UM PERSONAL OBJETIVO E 
+  ESBOCE UM PROVAVEL, POR QUE? COM QUEM CONTARIA?:
+   
+  BASEANDO-SE NO MEU PERSONAGEM, CONSIDERO QUE A ESFERA MAGICA
+  DE BACKGROUND Q A QUAL MELHOR ME ADAPTO EH:
+ 
+  ( ) FOGO
+  ( ) AGUA
+  ( ) TERRA
+  ( ) AR
+  ( ) VIDA  <reis, clericos, bem feitores, avengers>
+  ( ) MORTE  
+ 
+  POR QUE ESOLHEU TAL ESFERA?
+ 
+ 
+  =============================================================
+  Envie para: 91107660@pucrs.br com o seguinte subject:
+              levantamento anual do presonagem (seu nome)
+ 
+  OBS: mantenha essa formatacao, nao ultrapassando o limite de
+       linha, faca em texto puro, num txt anexado.
+ 
+  ENTITY.
+
+
+#0
+esferas
+
+ *******************************************************
+* PARA TODOS QUE TEM BACKGROUND E JA TENHAM PARTICIPADO *
+    DE PELO MENOS UMA QUEST DE CAMPANHA ATEH O FINAL
+  =====================================================
+ 
+  PARA MELHOR ATRELAR OS PERSONAIS OBJETIVOS NAS QUEST DE
+  CAMPANHA, CRIEI ESSE FORMULARIO COM O OBJETIVO DE
+  OTIMIZAR OS AVANCOS PESSOAIS, E INICIAR UM SISTEMA
+  VISIVEL DE ALIADOS E INIMIGOS.
+ 
+  RESPONDA ABAIXO CONFORME SEU PLAYER, SUA HISTORIA E SE
+  NAO HOUVER RESPOSTA MAQUE COM UM X (NAO EH MELHOR OU PIOR
+  PREENCHER TUDO)
+ 
+  NOME:
+  RASSA E CLASSE DO BACKGROUND:
+  CLAN:
+  ALIADOS (PLAYERS):
+  ALIADOS (MOBS):
+  ALINHAMENTO:
+  INIMIGOS (PLAYERS):
+  INIMIGOS (MOBS):
+   
+   
+  RELATE SUA QUEST PESSOAL (OBJETIVO PRINCIPAL):
+ 
+  RELATE SE HOUVE UPGRADES EM SEUS EQS, E COMO:
+ 
+  RELATE SE HOUVE AVANCOS EM SUA QUEST PESSOAL, E COMO:
+ 
+  FACA UM BREVE RESUMO DE SEU BACKGROUND (3 LINHAS):
+ 
+  QUAL VOCE CONSIDERA O SEU MAIOR FEITO NAS QUEST DE CAMPANHA:
+ 
+  USE ESSE ESPACO SE VOCE NAO POSSUI UM PERSONAL OBJETIVO E 
+  ESBOCE UM PROVAVEL, POR QUE? COM QUEM CONTARIA?:
+   
+  BASEANDO-SE NO MEU PERSONAGEM, CONSIDERO QUE A ESFERA MAGICA
+  DE BACKGROUND Q A QUAL MELHOR ME ADAPTO EH:
+ 
+  ( ) FOGO
+  ( ) AGUA
+  ( ) TERRA
+  ( ) AR
+  ( ) VIDA  <reis, clericos, bem feitores, avengers>
+  ( ) MORTE  
+ 
+  POR QUE ESOLHEU TAL ESFERA?
+ 
+ 
+  =============================================================
+  Envie para: 91107660@pucrs.br com o seguinte subject:
+              levantamento anual do presonagem (seu nome)
+ 
+  OBS: mantenha essa formatacao, nao ultrapassando o limite de
+       linha, faca em texto puro, num txt anexado.
+ 
+#0
+religions
+
+&Y                                RELIGIONS&n
+&n
+&CM&cuir&n
+&wE a deusa da justica e dos paladinos. &BLawful good&w.&n
+&wPre-name dos seguidores : Justice Guardian.&n
+&wPossiveis alinhamentos de seguidores : &BLawful good&w, &cLawful neutral&w, &bNeutral Good&w.&n
+&WPontos divinos necessarios para se usar poder: &R50&n
+&WPontos divinos maximos que a deusa possui: &R100&n
+&WPoder Basico&w  : Combate ao mal&n
+&wFaz dano extra em criaturas malignas (level) e neutras (level/2) durante 6-7 minutos (da vida real).&n 
+&n
+&YI&ylma&wna&yteu&Yr&n
+&wE o deus do sofrimento e humildade. &bNeutral Good&w.&n
+&wPre-name dos seguidores : Pain Bearer.&n
+&wPossiveis alinhamento de seguidores : &bNeutral Good&w, &BLawful good&w, &CChaotic Good&w.&n
+&WPontos divinos necessarios para se usar poder: &R150&n
+&WPontos divinos maximos que o deus possui: &R200&n
+&WPoder Basico&w  : Escudo da fe&n
+&wReduz o dano sofrido a 50% do total por 6-8 minutos (vida real)&n
+&n
+&CS&ce&Cl&cu&Cn&ce&n
+&wE a deusa da lua e da criatividade. &CChaotic Good&w.&n
+&wPre-name dos seguidores: Moon Blade.&n
+&wPossiveis alinhamentos : &CChaotic Good&w, &bNeutral Good&w, &wChaotic neutral&w.&n
+&WPontos divinos necessarios para se usar poder: &R25&n
+&WPontos divinos maximos que a deusa possui: &R100&n
+&WPoder Basico&w  : Encanto de Selune&n
+&wPlayer nao eh atacado por mobs durante 10-12 minutos (vida real)&n
+&n
+&YH&Welm&n&n
+&wE o deus da lei e ordem. &cLawful neutral&w.&n
+&wPre-name dos seguidores: Law Keeper.&n
+&wPossiveis alinhamentos : &cLawful neutral&w, &yLawful evil&w, &BLawful good&w.&n
+&WPontos divinos necessarios para se usar poder: &R100&n
+&WPontos divinos maximos que o deus possui: &R150&n
+&WPoder Basico&w  : Invocar Inquisidor&n
+&wFunciona como a melhor magia de summon do mud.&n
+&n
+&YOghma&n
+&wE o deus do conhecimento. &WTrue Neutral&w.&n
+&wPre-name dos seguidores: Wisdom seeker.&n
+&wPossiveis alinhamentos : &WTrue Neutral&w.&n
+&WPontos divinos necessarios para se usar poder: &Rnao possui&n
+&WPontos divinos maximos que o deus possui: &Rirrelevante&n
+&WPoder Basico&w  : Identificar itens, mobs, players&n
+&n
+&WT&wempus&n
+&wE o deus da guerra e batalha. &wChaotic neutral&w.&n
+&wPre-name dos seguidores: Battle guard.&n
+&wPossiveis alinhamentos : &wChaotic neutral&w, &CChaotic Good&w, &WTrue Neutral&w.&n
+&WPontos divinos necessarios para se usar poder: &R55&n
+&WPontos divinos maximos que o deus possui: &R100&n
+&WPoder Basico&w  : Ordem de guerra&n
+&wFaz (level/3) a mais de dano em qq criatura durante 6-7 minutos.&n
+&n
+&WB&wa&Wn&we&n
+&wE o deus do mal e da tirania. &yLawful evil&w.&n
+&wPre-name dos seguidores: Dread master.&n
+&wPossiveis alinhamentos : &yLawful evil&w, &cLawful neutral&w, &rNeutral evil&w.&n
+&WPontos divinos necessarios para se usar poder: &R50&n
+&WPontos divinos maximos que o deus possui: &R200&n
+&WPoder Basico&w  : Ataque do mestre do terror&n
+&wFaz 1 ataque que causa (1000 + remort*200) de dano.&n
+&n
+&MPa&mndo&Mra&n
+&wE a deusa da mentira e falsidade. &rNeutral evil&w.&n
+&wPre-name dos seguidores: Killer Rose.&n
+&wPossiveis alinhamentos : &rNeutral evil&w, &yLawful evil&w, &RChaotic evil&w.&n
+&WPontos divinos necessarios para se usar poder: &R90&n
+&WPontos divinos maximos que a deusa possui: &R150&n
+&WPoder Basico&w  : Mao de Pandora.&n
+&wRetira 50% do life (atual, nao total) de qq player ou mob. Nao existe saving throw.&n
+&n
+&RT&ra&wl&ro&Rs&n
+&wE o deus da destruicao e das tempestades. &RChaotic evil&w.&n
+&wPre-name dos seguidores: Storm lord.&n
+&wPossiveis alinhamentos : &RChaotic evil&w, &rNeutral evil&w, &wChaotic neutral&w.&n
+&WPontos divinos necessarios para se usar poder: &R150&n
+&WPontos divinos maximos que o deus possui: &R200&n
+&WPoder Basico&w  : Tempestade de Talos&n
+&wFunciona como a melhor das magias de ataque de area.&n
+&n
+&n
+&WVEJA TAMBEM: &Yreligion_commands&w, &Yalinhamento.&n
+
+
+#0
+clan
+
+FUNDACAO CLAN
+
+Para fundar um clan o lider precisa dispor de 1 remort e aproximadamente
+20megas, estes somente para a fundacao do clan, nao incluindo sede, donation,
+board ou generos referentes as defesas do clan.
+
+Cada clan possui um limite de 20 membros - nao e um limite moral - travado
+por codigo. No momento da fundacao o clan precisa ter um minimo de 4
+jogadores online, nao tente comecar um clan sozinho, como o proprio nome diz,
+e uma familia que esta se formando.
+
+Quando um clan se cria para PK, seus membros tambem devem permanecer PK.
+Membros nopk em clans pk nao serao tolerados. O Aviso esta dado.
+
+Ate o momento serao somente essas as exigencias, poderao vir mais com o tempo.
+Veja Tambem: Clan_guerra.
+
+
+#0
+purple
+ &G-=- &wThe &MP&murple &BD&bragon &wClan &G-=-
+&WActive Members&R:&w Azoun, Mordred, Planta, Kazhisky, Mystic, Tiamat, Dwalin and Rozan. 
+&WHistory&R :&w
+ 
+     Not Send Yet.
+ 
+&RSymbol :&w
+ 
+&B              .m.&n
+&B              (;)&n
+&B              (;)&n
+&B              (;)&n
+&B           .  (;)  .&n
+&B           |\_(;)_/|&n
+&B        <==~:_###_:~==>&n
+&B           |/ )|( \|&n
+&B             ( o )&n
+&B              )8(&n
+&B             ( o )&n
+&B              )8(&n
+&Y         )   &M;&m|S|&M;&Y  (&n
+&Y          (  &M|&m|S|&M|&Y   (&n
+&Y         )   &M|&m|S|&M|&Y  )&n
+&Y          (  &M|&m|S|&M<&Y   (&n
+&Y         )   &M|&m|S|&M|&Y  )&n
+&Y          (  &M|&m|S|&M|&Y   (&n
+&Y         )   &M|&m|S|&M|&Y  )&n
+&Y          (  &M|&m|S|&M|&Y   (&n
+&Y         )   &M>&m|S|&M|&Y  )&n
+&Y          (  &M|&m|S|&M|&Y   (&n
+&Y         )   &M|&m|S|&M|&Y  )&n
+&Y          )  &M\&m\ /&M/&Y  (&n
+&Y           (  &M\&mV&M/&Y  )&n
+&Y               &MV&Y&n
+&Y             '&BP.&MD.&Y'&n
+
+
+#0
+background
+                         Items de BackGround
+ 
+Facam seu background e ganhe de 1 a 3 equipamentos personalizados baseado em
+suas historias.  Sao eqs unicos,  nao podendo ser usados por  outros players
+e sao  protegidos por crash. Os itens nao sao acima da media, e podem sofrer
+upgrades  ou piorar durante  as quets de campanha.  Com eles voce assume uma
+postura de interpretacao e seriedade no mud.
+ 
+                        Como montar sua historia
+ 
+Descreva  seu personagem, onde nasceu, raca, clan, pais, aventuras, personal
+quest, inimigos amigos,  realizacoes, caracteristicas, clase pontos fortes e
+fracos, etc...
+No minimo 20 linhasde bloco de notas. (nao faca uma lista de pedidos de qs!)
+Envie para: hyoga@mail.ru
+Subject: Background de XXXXXXXX
+ 
+                         BackGround Policy
+ 
+1) Todo player level +100 tem direito a adiquirir um equipamento pessoal.
+2) Todos os items de BackGround seram obrigatoriamente level 100.
+3) Direitos e deveres devem ser obedecidos, vide help background.
+4) Eh proibido a todos chars. (PK inclusive) usar equipamento de outro.
+5) Somente eh permitido o roubo desses equipamentos por Thieves.
+6) Equipamentos uniques sao intransferiveis e inegociaveis.
+7) O uso dos equipamentos de Backgrounds eh opcional, sendo obrigatorio em quests.
+8) Aquele player que faltar 5 quests seguidas ou agir de forma diferente de sua
+   e todos as Weapons poderam ser level 1 ou level 100.
+
+
+#0
+back_policy
+background back_policy policybg
+ 
+                          &WItems de BackGround&n
+ 
+Facam seu background e ganhe de 1 a 3 equipamentos personalizados baseado em
+suas historias.  Sao eqs unicos,  nao podendo ser usados por  outros players
+e sao  protegidos por crash. Os itens nao sao acima da media, e podem sofrer
+upgrades  ou piorar durante  as quets de campanha.  Com eles voce assume uma 
+postura de interpretacao e seriedade no mud.
+ 
+                        &WComo montar sua historia&n
+ 
+Descreva  seu personagem, onde nasceu, raca, clan, pais, aventuras, personal
+quest, inimigos amigos,  realizacoes, caracteristicas, clase pontos fortes e
+fracos, etc...
+&RNo minimo 20 linhasde bloco de notas.&n
+&WEnvie para: &R91107660@pucrs.br&n
+&WSubject: &RBackground de XXXXXXXX&n
+ 
+                         &WBackGround Policy&n
+ 
+&G1&c) &WTodo player level &R+100&W tem direito a adiquirir um equipamento pessoal.&n
+&G2&c) &WTodos os items de BackGround seram obrigatoriamente level 100.&n
+&G3&c) &WDireitos e deveres devem ser obedecidos, vide help background.&n
+&G4&c) &WEh proibido a todos chars. (PK inclusive) usar equipamento de outro.&n
+&G5&c) &WSomente eh permitido o roubo desses equipamentos por Thieves.&n
+&G6&C) &WEquipamentos uniques sao intransferiveis e inegociaveis.&n
+&G7&C) &WO uso dos equipamentos de Backgrounds eh opcional, sendo obrigatorio em quests.&n
+&G8&C) &WAquele player que faltar 5 quests seguidas ou agir de forma diferente de sua&n
+   &We todos as Weapons poderam ser level 1 ou level 100.&n
+
+
+#0
+pontos
+pontos cp_points
+                      CP Points Depois de 8 Capitulos:
+                    ==================================
+&r----------------------------------------------------------------------
+CAPITULO 1: A REVELACAO                       6h20min MaxCP:150  06/01
+CAPITULO 2: O FALSO MERLIN                    4h35min MaxCP:150  10/03
+CAPITULO 3: O RESGATE DE MERLIN               4h00min MaxCP:150  17/03
+CAPITULO 4: O ELEMENTO DA TERRA - TAERON'S    1h30min MaxCP:150  24/03
+CAPITULO 5: A ARMADILHA DO CRISTAL NEGRO      2h00min MaxCP:075  30/03
+CAPITULO 6: O PASSADO REVELA O FUTURO DO REI  2h30min MaxCP:150  08/04
+CAPITULO 7: O ELEMENTO DO AR - TYR'S          2h30min MaxCP:150  04/05
+CAPITULO 8: A MISTERIOSA CLAN 'D'             4h00min MaxCP:200  19/05&n
+&g----------------------------------------------------------------------
+EXTRA 1: O BAILE DAS PRINCESAS ELFICAS        3h00min MaxCP:075  12/01
+EXTRA 2: O DESAFIO DOS AVATARES DAS CORES     3h00min MaxCP:100  14/04
+EXTRA 3: EMBUSCA DOS EQUIPAMENTOS ROUBADOS    2h30min MaxCP:100  28/04
+EXTRA 4: THE MYSTICAL CLASSES RAGE AGAINST    2h00min MaxCP:100  05/05
+EXTRA 5: LOOKING FOR UNKNOW TIME ITENS        2h30min MAxCP:100  12/05
+EXTRA 6: GRISWOLD - THE CLANS EQ REQUEST      2h00min MaxCP:100  09/06
+EXTRA 7: 1 TO 10 - THE FASTER IS THE BEST     2h00min MaxCP:100  29/06
+EXTRA 8: CLASSE/RACE: THE KING OF CHAR        3h00min MaxCP:200  14/07   
+  
+                            &rPONTUACAO&n
+----------------------------------------------------------------------&n
+&cArngrin:90,0   Phoenix:266,5  Noahk:45,0  Rash:720,0   Beegod:503,0
+Drauglin:397,5 Squall:253,5   Slack:85,0   Mairon:378,0 Kenshim:20,0
+Corvo:35,0     Kazhisky:255,0 Boo:70,0     Azoun:840,0  Morion: 45,0
+Gradius:353,0  Mordred:100,0  Mordron:156  Ricther:46,0 Beowulf:37,5
+Campos:88,00   Mutante:122,5  Redwind:45,0 Goga: 135,0  Elrond:538,0
+Wolfrig:28,00  Maximus:161,0  Seifer: 41,0 Pharn: 70,0  Ricther:46,0
+----------------------------------------------------------------------&n
+
+
+#0
+cp_news
+cp_news background historia
+&M                           BackGround:
+
+Facam seu background e ganhe de 1 a 3 equipamentos personalizados
+baseado em suas historias. Sao eqs unicos, nao podendo ser usados
+por outros players e sao protegidos por crash.
+Os itens nao sao acima da media, e podem sofrer upgrades ou piorar
+durante as quets de campanha.
+Com eles voce assume uma postura de interpretacao e seriedade no mud.
+ 
+                   Como montar sua historia:
+ 
+Descreva seu personagem, onde nasceu, raca, clan, pais, aventuras,
+personal quest, inimigos amigos, realizacoes, caracteristicas, clase
+pontos fortes e fracos, etc... No minimo 20 linhasde bloco de notas.
+Envie para: 91107660@pucrs.br com o subject: background de XXXXXXXX&n
+
+
+#0
+cp
+                           Topicos Relacionados
+                    ==================================
+&r----------------------------------------------------------------------
+  Resumos: cp_cap1 cp_cap2 cp_cap3 cp_cap4 cp_cap5 cp_cap6,etc...
+   Uteis:  cp_news cp_points pontos background
+&r----------------------------------------------------------------------&n 
+
+
+#0
+cap2_cp
+&yTudo remocomeca quanado Merlin nos convoca para uma missao.
+Ele nos explica o que esta havendo, que um portal maligno c abriu para
+sugar toda mana de wardome.
+Merlin sozinho nao tem poderes suficientes para fecha-lo, entao nos fala
+sobre 5 objetos super poderosos q podem fecha-lo, curiosamente ele estava
+numa sala escura, pediu para guardar nossas luminarias e nao falava por
+enigmas como o de costume...
+Feito isso mandou agente ir procurar o Oraculo de Draconia, o criador dos
+objetos, um homem sabio q os criou para momentos criticos como este.
+&rEle nos explica que para conseguir os 5 objetos eh preciso enfrentar
+o desafio dos 5 demigods, entao o Oraculo nos levou ao tal desafio.
+O primeiro Demigod, O Honestidade,  nos explica que somente os de bom
+coracao, os valentes, os valoros, os que usam sua mente antes das armas
+teriam vantagens, que ninguem jamais havia vencido os 5 desafios e nos
+explicou as regras gerais do desafio. Como por exemplo, nos rescreveu
+que reconheceriamos os 5 objetos pelo seu brilho...
+&bO primeiro desafio, O Bondade, um enigmatico Avatar que usava um louro
+dourado na cabeca, oferece ao grupo um gigante escudo dourado
+mas para o possuirmos deveriamos derrotar os 5 escravos do escudo.
+Disse tambem que se tratava do Grande escudo da morte e da Destruicao,
+que terrota tudo e a todos, que a maldade vinda do escudo era seu
+poder.Ele perguntou quem era nosso campeao, quem era o mais apto entre
+aceitar o desafio...Elegemos Phoenix.
+Ao derrotar os 5 escravos Phoenix toca no escudo e some repentinamente.
+Entao o grupo escolhe Noahk como o segundo a desafiar os escravos do escudo.
+Ele vence todos com facilidade, inclusive o ultimo escravo, PHOENIX.
+Noahk tambem sumiu ao tocar no escudo....
+Reparamos que a vitoria se daria aquele que nao deixasse ser corrompido pelo
+escudo, entao abdicamos do escudo, assim o Demigod nos deu o verdadeiro objeto,
+O Louro Dourado da Bondade.Passamos assim para o segundo desafio...
+&wO Terceiro Demigod, O Valor, nos recebeu (Rash e Elrond) e disse que apenas um
+de nos poderia seguir o desafio.Elrond escolhe se matar para que Rash siga, mas
+isso nao era aceitavel... Apos pensar um pouco Rash diz que nao gostaria de se
+matar e nem matar seu amigo, pois um suicida nao tem VALOR, porem aceitaria
+morrer para ajudar o grupo. Essa era a resposta, e fomos ao desafio III.
+&cO quarto demigod, o Requisicao, nos deixa passar, nos entrega seu objeto e soh
+pede que nos voltassemos ateh ele apos reunir os 5 objetos, prometemos voltar e
+seguimos...
+&yO quinto Demigod, O Escolha, nos veio com um eniga:
+"Nem o mais forte dos guerreiros pode destrui-la,no importa quo poderoso for
+seu golpe.Ela pode ajudar alguns homens a ver, mas tambm pode cegar."
+havia 3 portais e em cada portal 3 objetos, mas apenas um objeto deveria ser pego
+e deveriamso entrar no portal correspondente.
+Rash achou que a resposta era o Oraculo e pegou o olho de crystal do Oraculo pois
+acreditava que ele era indestrutivel, porem entrou no portal errado, e foi parar
+no Deserto da Fome Infinita...
+Elrond, escolheu um pedaco de vidro e entrou no portal do Deserto da Fome Infinita,
+pois achava que o vidro erafeito de areia, que podia cegar, mas ajudava os outros
+ver (oculos), ele estava certo, e assim seguimos ao ultimo desafio...
+&rNo deserto nao se apresentou nenhum Avatar, apenas uma populacao de homens,
+mulheres e zumbis famintos que viviam em grande agonia...
+Nao havia saida, apenas corpos, famintos e umas adagas no chao.
+Um elfo, havia decifrado o eniga, e deixou uma nota para ajudar a todos, porem ali,
+ninguem sabia ler as escritas elficas. Depois de percorrer o deserto achamos uma
+maga faminta que decifrou a nota. Ela revelava que para sairmos do deserto deveriamos
+infrentar seu maior medo. A MORTE, de inicio nao intendemos, mas a Maga de pronto
+pegou uma das adagas e se matou...
+&cDecidimos fazer o mesmo, e ao morrermos fomos transportados VIVOS para o uma sala
+onde encontramos o Senhor da Vida e da Morte, onde haviam almas dos participantes
+mortos nos outros desafios, nos, os sobreviventes pedimos para voltar ao Avatar
+do request (como haviamos prometido) e os mortos receberam uma quest de reunir
+os 4 elementos, a vida e a morte, se eles assim o fizesem poderiam renascer...
+&bFomos ao Avatar do Request, ele advertiu que esses objetos nao poderiam cair em
+maos erradas, e quando ficou sabendo que era Merlin que havia pedido nos liberou
+para sairmos do Mundo dos Desafios...
+Os mortos reuniram os elementos e assim reviveram.
+Os vivos entregaram os 5 elementos ao Merlin (que pediu para por numa back pois
+seu brilho era demais para ele), assim o fizemos e ao entreger os itens Merlin
+sumiu.
+&wFicamos sabendo que Merlin era um Clone dos Espectros e que planejava usar os 5
+objetos para libertar o Senhor das Sombras, o verdadeiro Merlin estava sob custodia
+dos Espectros em algum lugar de Wardome...
+Assim depois de trabalhar para o Senhor da Morte, as coisas haviam piorado e nosso
+destino assim como de Wardome estava lancado...
+                                                                    Rash, O humano.
+-----------------------------------------------------------------------------------
+Cast of Heroes: Phoenix, Noahk, Rash, Elrond, Mairon e kenshin. 
+-----------------------------------------------------------------------------------
+
+
+#0
+cap1
+cap1 CP_cap1 CP1
+                             &RResumo do Capitulo I
+
+&gO mundo estava normal e estvel quando de repente aconteceram fatos
+estranhos...
+Magos que sempre participaram ativamente da historia do mud
+'renasceram' com um novo objetivo, que mudaria o destino do mundo...
+&bCinco magos da escuridao se viram com alguns baus contendo cristais
+negros, e com a missao capturar os 5 cristais brancos para reviver o
+Senhor do Escuro, uma criatura terrivel que poderia destruir o mundo...
+&yUm jovem priest que vive em WarDome City estava com duas caixas, uma
+para serem guardados os cristais pretos e outra para serem guardados
+os cristais brancos...
+&wThe Atlantis Avatar, um dos magos brancos, foi morto facilmente pelos
+espectros, (ajudantes dos magos negros) j que os aventureiros no
+sabiam o que estava acontecendo. Outros magos brancos eram:
+Froboz de Roma, Merlin de Camelot, Master of Goodness da grande Torre
+da Magia e Nystul de Ultima.
+&rOs magos negros eram The Temptation, do inferno, Master of Black Robes,
+da grande Torre da Magia,O grande balrog Kerjim das profundezas,
+o Mage de Draconia e um Necromante conhecido como Enchanter.
+&cVarios espectros foram mortos nas batalhas, foram feitos grupos para
+aniquilar os espectros e players de nivel inferior ficavam vigiando os
+magos brancos para nao serem atacados, a qual quer principio de tumulto,
+os grupos eram chamados para defender os magos brancos...
+&mAparentemente todos os Espectros estavam sendo aniquilados, mas Merlim
+evocou nossa ajuda pois estava sendo atacado. Apos salvar Merlin apelamos
+para sua sabedoria com o intuito de localizar o ultimo cristal negro para
+assim derrotarmos os espectros e os magos negros.
+&bMerlin atravez de enigmas (como de costume) fez uma magia com o corpo do
+dragao verde nos disse que:
+"Na terra onde os dragoes sao homens, ha um homem que quer ser dragao."
+Esse era nosso quinto mago negro e nosso ultimo cristal...
+&yDepois disso Drauglin foi transferido para a Draconia e com a ajuda dos
+outros conseguiu o quinto cristal, impedindo assim a volta do Senhor do
+Escuro...
+Com os 5 cristais negros introduzidos na mesa de Controle Negra evitamos
+que o Senhor da Escurido se libertasse de sua priso no espao-tempo.
+&cO mundo estava a salvo.
+Pelo menos por enquanto...
+                                               &wSlack, the human Sorcerer&N
+ 
+&r--------------------------------------------------------------------------
+Cast of Heros:
+Angelus, ARK, Arngrim, Beegod, Drauglin, Goga, Mutante, Noahk, Phoenix,
+Rash e Slack.  
+--------------------------------------------------------------------------&N
+
+
+#0
+cp_cap1
+cap1 CP_cap1 CP1
+                             &RResumo do Capitulo I
+
+&gO mundo estava normal e estvel quando de repente aconteceram fatos
+estranhos...
+Magos que sempre participaram ativamente da historia do mud
+'renasceram' com um novo objetivo, que mudaria o destino do mundo...
+&bCinco magos da escuridao se viram com alguns baus contendo cristais
+negros, e com a missao capturar os 5 cristais brancos para reviver o
+Senhor do Escuro, uma criatura terrivel que poderia destruir o mundo...
+&yUm jovem priest que vive em WarDome City estava com duas caixas, uma
+para serem guardados os cristais pretos e outra para serem guardados
+os cristais brancos...
+&wThe Atlantis Avatar, um dos magos brancos, foi morto facilmente pelos
+espectros, (ajudantes dos magos negros) j que os aventureiros no
+sabiam o que estava acontecendo. Outros magos brancos eram:
+Froboz de Roma, Merlin de Camelot, Master of Goodness da grande Torre
+da Magia e Nystul de Ultima.
+&rOs magos negros eram The Temptation, do inferno, Master of Black Robes,
+da grande Torre da Magia,O grande balrog Kerjim das profundezas,
+o Mage de Draconia e um Necromante conhecido como Enchanter.
+&cVarios espectros foram mortos nas batalhas, foram feitos grupos para
+aniquilar os espectros e players de nivel inferior ficavam vigiando os
+magos brancos para nao serem atacados, a qual quer principio de tumulto,
+os grupos eram chamados para defender os magos brancos...
+&mAparentemente todos os Espectros estavam sendo aniquilados, mas Merlim
+evocou nossa ajuda pois estava sendo atacado. Apos salvar Merlin apelamos
+para sua sabedoria com o intuito de localizar o ultimo cristal negro para
+assim derrotarmos os espectros e os magos negros.
+&bMerlin atravez de enigmas (como de costume) fez uma magia com o corpo do
+dragao verde nos disse que:
+"Na terra onde os dragoes sao homens, ha um homem que quer ser dragao."
+Esse era nosso quinto mago negro e nosso ultimo cristal...
+&yDepois disso Drauglin foi transferido para a Draconia e com a ajuda dos
+outros conseguiu o quinto cristal, impedindo assim a volta do Senhor do
+Escuro...
+Com os 5 cristais negros introduzidos na mesa de Controle Negra evitamos
+que o Senhor da Escurido se libertasse de sua priso no espao-tempo.
+&cO mundo estava a salvo.
+Pelo menos por enquanto...
+                                               &wSlack, the human Sorcerer&N
+ 
+&r--------------------------------------------------------------------------
+Cast of Heros:
+Angelus, ARK, Arngrim, Beegod, Drauglin, Goga, Mutante, Noahk, Phoenix,
+Rash e Slack.  
+--------------------------------------------------------------------------&N
+
+#0
+remort
+REMORT REMORTER
+
+    Quando vove remorta, voce recomeca sua vida novamente. Mas voce renasce mais forte que 
+antes... Quando voce renasce, voce pode manter 5 pericias/magias de sua escolha, e comeca 
+com 2% de HP/Mana/Move do total que possuia antes. Voce aprendera todas as habilidades da 
+sua nova classe, alem de outra vantagem: quando voce passar de nivel, voce ganha normalmente 
+seus 7 Holy Points MAIS um para cada remorte que voce ja teve. Por exemplo, quando voce 
+passa um nivel como um R1, voce ganha 8 holy points ao inves de 7. E quando voce passar um 
+nivel como R2, voce ganhara 9 holy points.
+    Quando estiver pronto para remortar digite 'remort', e uma lista de instrucoes 
+aparecera.Voce deve le-las com cuidado e segui-las.
+    Para passar para uma nova classe, voce precisara de 2,000,000 moedas de ouro, e para 
+cada pericia/magia que voce mantiver para sua proxima vida voce devera pagar 1,000,000 
+moedas de ouro.
+
+    Obs.: As pericias/magias que voce mantiver aparecerao no mesmo nivel em que voce as 
+aprendeu antes.
+
+
+#0
+
+remorter
+REMORT REMORTER
+
+    Quando vove remorta, voce recomeca sua vida novamente. Mas voce renasce mais forte que 
+antes... Quando voce renasce, voce pode manter 5 pericias/magias de sua escolha, e comeca 
+com 2% de HP/Mana/Move do total que possuia antes. Voce aprendera todas as habilidades da 
+sua nova classe, alem de outra vantagem: quando voce passar de nivel, voce ganha normalmente 
+seus 7 Holy Points MAIS um para cada remorte que voce ja teve. Por exemplo, quando voce 
+passa um nivel como um R1, voce ganha 8 holy points ao inves de 7. E quando voce passar um 
+nivel como R2, voce ganhara 9 holy points.
+    Quando estiver pronto para remortar digite 'remort', e uma lista de instrucoes 
+aparecera.Voce deve le-las com cuidado e segui-las.
+    Para passar para uma nova classe, voce precisara de 2,000,000 moedas de ouro, e para 
+cada pericia/magia que voce mantiver para sua proxima vida voce devera pagar 1,000,000 
+moedas de ouro.
+
+    Obs.: As pericias/magias que voce mantiver aparecerao no mesmo nivel em que voce as 
+aprendeu antes.
+
+
+#0
+lwield
++-------+-----+-------+-----+-------+-------+-----+-------+-----+-------+
+|Level  |Dano |Avr (1)|Dano |Avr (2)|Level  |Dano |Avr (1)|Dano |Avr (2)|
++=======+=====+=======+=====+=======+=======+=====+=======+=====+=======+
+|1-5    |1D4  |(2.5)  |1D9  |(5)    |5-10   |1D9  |(5)    |2D7  |(9)    |
+|10-15  |3D6  |(10.5) |2D12 |(13)   |15-20  |4D6  |(14)   |4D7  |(16)   |
+|20-25  |4D8  |(18)   |4D9  |(20)   |25-30  |5D7  |(20)   |6D7  |(24)   |
+|30-35  |5D9  |(25)   |6D8  |(27)   |35-40  |6D8  |(27)   |6D9  |(30)   |
+|40-45  |5D11 |(30)   |5D12 |(32.5) |45-50  |6D10 |(33)   |7D9  |(35)   |
+|50-55  |7D9  |(35)   |5D14 |(37.5) |60-65  |5D14 |(37.5) |7D12 |(45.5) |
+|65-70  |7D12 |(45.5) |8D11 |(48)   |70-75  |6D15 |(48)   |8D12 |(52)   |
+|75-80  |8D12 |(52)   |7D15 |(56)   |80-85  |6D18 |(57)   |9D12 |(58.5) |
+|85-90  |9D12 |(58.5) |6D19 |(60)   |90-95  |8D14 |(60)   |10D12|(65)   |
+|95-100 |10D12|(65)   |9D14 |(67.5) |100-105|8D16 |(68)   |11D12|(71.5) |
+|105-110|11D12|(71.5) |10D14|(75)   |110-115|10D14|(75)   |12D12|(78)   |
+|115-120|12D12|(78)   |10D15|(80)   |120-125|10D15|(80)   |13D12|(84.5) |
+|125-130|13D12|(84.5) |16D10|(88)   |130-135|16D10|(88)   |14D12|(91)   |
+|135-140|14D12|(91)   |10D18|(95)   |140-145|10D18|(95)   |15D12|(97.5) |
+|145-150|15D12|(97.5) |18D10|(99)   |150-155|18D10|(99)   |16D12|(104)  |
+|155-160|16D12|(104)  |12D17|(108)  |160-165|12D17|(108)  |17D12|(110.5)|
+|165-170|17D12|(110.5)|11D20|(115.5)|170-175|11D20|(115.5)|18D12|(117)  |
+|175-180|18D12|(117)  |12D19|(120)  |180-185|12D19|(120)  |19D12|(123.5)|
+|185-190|19D12|(123.5)|12D20|(126)  |190-195|12D20|(126)  |20D12|(130)  |
+|195-200|20D12|(130)  |15D17|(135)  |200-210|--D--|(---)  |--D--|(---)  |
++-------+-----+-------+-----+-------+-------+-----+-------+-----+-------+
+
+
+#0
+ranger
+
+&YRANGER
+&c
+&c    O RANGER e um guerreiro da natureza. Suas pericias veem da forca da mae natureza. Ele e
+&cum guerreiro e um homem de armas, mas ele tambem conhece algumas magias. O ranger tem uma
+&cpaixao especial pelas plantas e animais, mas tambem pode ser um guerreiro furioso empunhando
+&cuma montante ou outro tipo de arma.
+&c
+&W    Veja tambem: &wCLASS, &yPALADIN&n, &BCLERIC&n.
+
+
+
+#0
+shaman
+&bSHAMAN
+&c
+&c    O SHAMAN e um mago que obtem seus poderes da terra e dos antigos espiritos da natureza.
+&cEle pode usar esse poder para curar ou ferir, mas geralmente o shaman e uma pessoa de bom
+&ccoracao que e muito ligada a natureza, sua terra natal e seu povo. O shaman e fraco, mas sua
+&cmagia e poderosa.
+&c
+&W    Veja tambem: &wCLASS&n, &WNECROMANCER&n, &YRANGER&n.
+
+
+#0
+warlock
+&mWARLOCK
+&c
+&c    O WARLOCK e um tipo de mago que obtem seu poder bela forca de magias agressivas e
+&cperigosas. Podemos dizer que um warlock e um tipo de feiticeiro maligno que tenta adquirir
+&cpoder a qualquer custo. o warlock e fraco fisicamente, mas e forte em magias. Jogadores que
+&cpretendem ser inteligentes e crueis gostarao de escolher essa classe.
+&c
+&W    Veja tambem: &wCLASS, &CSORCERER&n, &YRANGER&n.
+
+
+#0
+ninja
+&cNINJA&n
+&n
+&c    Eles possuem grande pericia em desaparecer da vista de todos, mas nao tem habilidades
+&cmagicas.
+&n
+&W    Veja tambem: &wCLASS, &GTHIEF&n.
+
+
+#0
+color
+&CA&GN&BS&MI &RC&YO&WL&CO&MR
+&n
+&c    Utilizar cores e muito simples, so e necessario incluir um & e
+&c    a inicial da cor que voce pretende usar. veja o exemplo.
+&n
+&c    Exemplo:
+&c        &+BWarDome = &BWarDome
+&c        &RObs&W: Nao eh para colocar o "&R+&W"
+&c
+&c    Agora veja as cores que voce pode usar:
+&c
+&c   &+W = &W*&c    &+w = &w*&c    &+B = &B*&c    &+b = &b*&c
+&c   &+R = &R*&c    &+r = &r*&c    &+G = &G*&c    &+g = &g*&c
+&c   &+C = &C*&c    &+c = &c*&c    &+Y = &Y*&c    &+y = &y*&c
+&c              &+M = &M*&c    &+m = &m*&c
+&c
+&c    E nunca se esqueca de terminar o texto colorido com &+n e
+&c    lembre-se que nao e para colocar o "&R+&c".&n
+
+
+#0
+spells
+
+&nSPELLS SKILLS PRACTICES
+&n
+&n    Neste mundo, as pericias e magias que voce ganha apos um dia dura passando de nivel sao 
+&ndiferentes de outros Muds. Ao passar de nivel, nao e necessario ir ate o seu mestre para 
+&ntreinar. Quando voce passa de nivel, voce aprende 30% da pericia/magia, mas para chegar a 
+&n100%  voce precisa pratica-la durante o jogo.
+&n
+&n    Para ver uma lista de magias e pericias da sua classe, use: SLIST
+
+
+#0
+skills
+
+SPELLS SKILLS PRACTICES
+
+    Neste mundo, as pericias e magias que voce ganha apos um dia dura passando de nivel sao 
+diferentes de outros Muds. Ao passar de nivel, nao e necessario ir ate o seu mestre para 
+treinar. Quando voce passa de nivel, voce aprende 30% da pericia/magia, mas para chegar a 
+100%  voce precisa pratica-la durante o jogo.
+
+    Para ver uma lista de magias e pericias da sua classe, use: SLIST
+
+
+#0
+practices
+SPELLS SKILLS PRACTICES
+
+    Neste mundo, as pericias e magias que voce ganha apos um dia dura passando de nivel sao 
+diferentes de outros Muds. Ao passar de nivel, nao e necessario ir ate o seu mestre para 
+treinar. Quando voce passa de nivel, voce aprende 30% da pericia/magia, mas para chegar a 
+100%  voce precisa pratica-la durante o jogo.
+
+    Para ver uma lista de magias e pericias da sua classe, use: SLIST
+
+
+#0
+gemote
+GEMOTE
+
+    Uso: gemote <social> <player>
+    
+    Esta e uma acao social que todos no mud verao voce executando-a, nao e um canal 
+reservado. Voce precisa possuir no minimo um nivel igual a 3 para poder usa-la.
+
+Exemplos:
+     > John is going to left the world, so...
+     > gemote shake John
+     > Os outros verao desse modo: [GEMOTE] (your name) shakes John's hand.
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT, GOSSIP
+
+
+#0
+alias
+ALIAS ALIASES
+
+Uso: alias [nome do alias] [comando]
+
+    Um alias e um unico comando utilizado para representar um ou mais comandos diferentes. O 
+comando ALIAS pode ser utilizado para manipular os alias de seu personagem. Digite somente 
+alias para ver uma lista dos seus alias definidos atualmente.
+
+    > alias
+
+    Digite ALIAS <nome do alias> <comando> para criar um novo alias. O nome do alias deve 
+ser compusto de apenas uma palavra. O comando pode ser qualquer cadeia de caracteres. Alias 
+nao podem ser aninhados ou utilizados recursivamente. Qualquer comando pode ser substituido 
+por um alias (a nao ser o comando alias, e claro).
+
+    > alias gbb get bread bag
+    > alias gac get all corpse
+
+    Digite ALIAS <nome do alias> para excluir um alias definido.
+
+    > alias gbb
+
+    Um ponto e virgula (;) pode ser usado para definir acoes multiplas a serem tomadas com 
+um unico alias.
+
+    > alias eat get bread bag; eat bread
+
+    Note que o 'eat' contido dentro do alias eat e interpretado como o comando interno eat 
+do MUD.
+    As variaveis $1, $2, ... $9 podem ser usadas para representar argumentos passados com um 
+alias.
+
+Exemplos:
+
+    > alias killem cast 'fireball' $1; cast 'harm' $2
+    > killem fido mage
+
+    Lancaria uma fireball no fido, seguido por um harm no mago. Variaveis podem ser 
+utilizadas repetidamente e em qualquer ordem:
+
+    > alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+    A variavel especial $* representa toda a linha entrada apos um alias:
+
+    > alias tr tell rasmussen $*
+    > tr hi there, how are you today? 
+    You tell Rasmussen, 'hi there, how are you today?'
+
+    Veja tambem: ! ^
+
+
+#0
+assist
+ASSIST
+ 
+&CUso: &RASSIST &G<&BPessoa&G>&y 
+
+    Esse comando o ajudara a ajudar um amigo em uma luta. Voce so precisa digitar assist e o 
+nome do seu amigo, quando fizer isso, voce enfrenta quem quer que esteja lutando com seu 
+amigo.
+
+    &GVeja tambem: &RFLEE&G, &RKILL&G, &RRESCUE&n
+
+
+#0
+auction
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+chat
+&nAUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS NEWBIE
+&n
+&nUso: chat <mensagem>
+&n     gossip <mensagem>
+&n     grats <mensagem>
+&n     newbie <mensagem>
+&n
+&n    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+&nchegarao a qualquer um que os esteja monitorando.
+&n
+&nExemplos:
+&n    > chat Ola pessoal!
+&n    > grats LEVEL!!!!!!!!
+&n    > grats GRATS CATJE!!!!!!!!
+&n
+&n    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+gossip
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+grats
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+noauction
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+#0
+nogossip
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+nograts
+AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Uso: auction <mensagem>
+     gossip <mensagem>
+     grats <mensagem>
+
+    Esses sao canais reservados para propositos especificos. Mensagens nesses canais 
+chegarao a qualquer um que os esteja monitorando.
+
+Exemplos:
+    > auction short sword -- minimum bid 100k
+    > gossip Hey, is that a short sword on your belt or are you happy to see me?
+    > grats LEVEL!!!!!!!!
+    > grats GRATS CATJE!!!!!!!!
+
+    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+
+
+#0
+autoexit
+AUTOEXIT
+
+Uso: autoexit
+
+    Liga ou desliga a exibicao automatica das saidas disponiveis no momento. Nem todas as 
+saidas possiveis serao exibidas, somente as imediatamente disponiveis. Se uma porta esta 
+fechada ela nao aparecera como uma saida possivel.
+
+    Veja tambem: TOGGLE
+
+
+#0
+brief
+BRIEF
+
+Uso: brief
+
+    Liga ou desliga o modo de exibicao "brief". Quando esse modo esta ligado, voce nao vera 
+descricoes da sala na qual voce esta; somente o nome da sala e as pessoas e objetos nela. A 
+menos que voce esteja muito familiarizado com a area na qual voce esta viajando, no entanto, 
+nao e aconselhavel utilizar esse comando. frequantemente, voce encontrara dicas pequenas mas 
+vitais na descricao das salas: uma olhada extra ao seu redor pode ser a diferenca entre a 
+vida e a morte!
+
+    Se voce explicitamente digitar 'look', voce sempre vera a descricao completa da sala, 
+mesmo com esse modo ligado.
+
+    Veja tambem: COMPACT, LOOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+bug
+BUG TYPO IDEA
+
+Uso: bug <relato de erro>
+     idea <sua nova ideia>
+     typo <aquele erro chato>       
+
+    Para fazer sugestoes uteis e relatar problemas para os Poderes Superiores.
+
+Exemplos:
+
+  > bug the entire game crashes when I type 'put bag in bag'
+  > idea make a restaurant in Midgaard
+  > typo 'sence' should be spelled 'sense'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+buy
+&nBUY
+&n
+&nUso: buy <nome do item>
+&n     buy #<numero do item>
+&n     buy n.<nome do item>
+&n     buy n <nome do item>
+&n     buy n #<numero do item>
+&n
+&n    Se desejar comprar um item em uma loja e possuir o dinheiro para isso, voce pode 
+&ncomprar. Os itens podem ser comprados pelo nome ou pelo seu numero na listagem da loja, e 
+&npodem ser comprados em qualquer quantidade.
+&n
+&nExemplos:
+&n
+&n    > buy sword        (compra a primeira espada da lista)
+&n    > buy #3           (compra o terceiro item da lista)
+&n    > buy 4.sword      (compra a quarta espada da lista)
+&n    > buy 10 bread     (compra 10 paes)
+&n    > buy 10 #2        (compra 10 copias do segundo item da lista)
+&n
+&n    Veja tambem: LIST, SELL, SHOPS, VALUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+clear
+CLEAR CLS
+
+    Limpa a tela.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+cls
+CLEAR CLS
+
+    Limpa a tela.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+commands
+COMMANDS
+
+Uso: commands
+
+    O comando COMMANDS lhe fornece uma lista canonica de todos os verbos conhecidos.
+    Cada comando listado deve possuir um help disponivel digitando-se "HELP <comando>"
+
+    Veja tambem: SOCIAL, SOCIALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+compact
+COMPACT
+
+Uso: compact
+
+    Este comando liga ou desliga a aparicao da linha extra em branco na sua tela apos cada 
+comando. Util se voce possui uma tela pequena.
+
+    Veja tambem: BRIEF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+strenght
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+inteligence
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+wisdom
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+charisma
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+dexterity
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+constitution
+STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION
+
+    Em ordem: Str, Int, Wis, Cha, Dex e Con
+    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e 
+inteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce 
+possui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido 
+de ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.
+
+
+Int tambem pode aumentar ou diminuir o dano das magias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+consider
+CONSIDER
+
+Uso: consider <monstro>
+
+    Este comando comparara seu nivel com o nivel do <monstro>. Voce recebera, entao, uma 
+estimativa sobre sua chance de enfrentar esse inimigo. Consider leva em conta seu AC, seus 
+pontos de vida e seu nivel.
+
+Exemplo:
+
+    >consider fido
+
+    Veja tambem: HIT, KILL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+diagnose
+DIAGNOSE
+
+Uso: diagnose [personagem]
+
+    O comando DIAGNOSE lhe diz o quanto um personagem parece ferido. Se voce estiver em uma 
+luta, vc pode usar diagnose sem argumentos para diagnosticar seu adversario.
+
+Exemplos:
+
+    > diagnose
+    > diagnose rasmussen
+
+    Veja tambem: CONSIDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+display
+DISPLAY PROMPT
+
+Uso: display < H | M | V | MT | all | off >
+
+    Modifica seu prompt para mostrar seus hps, mana e/ou pontos de movimento.
+
+    > display hv          Mostra pontos de vida e movimento
+    > display off         Mostra o prompt normal
+    > display all         Mostra pontos de vida, mana e pontos de movimento
+
+    Veja tambem: TOGGLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+prompt
+DISPLAY PROMPT
+
+Uso: display < H | M | V | MT | all | off >
+
+    Modifica seu prompt para mostrar seus hps, mana e/ou pontos de movimento.
+
+    > display hv          Mostra pontos de vida e movimento
+    > display off         Mostra o prompt normal
+    > display all         Mostra pontos de vida, mana e pontos de movimento
+
+    Veja tambem: TOGGLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+donate
+DONATE
+Uso: donate <objeto>
+     donate <numero> coins
+
+Este comando toma um objeto que voce ja nao quer mais e o deposita na sala
+de doacoes de Wardome City para ajudar os novatos a comecarem suas carreiras. Ha 75% de chance
+dos objetos 
+doados irem para a sala de doacoes, e 25% de chance do item ser simplesmente
+destruido.
+
+> donate shield
+    > donate all.bread
+    > donate 500 coins
+
+Veja tambem: JUNK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+drop
+DROP
+
+Uso: drop <item>
+     drop all.<item>
+     drop all
+     drop <numero> coins
+
+    Se voce perder o interesse em um item carregado, voce pode joga-lo no chao.
+
+    > drop bottle
+    > drop all.bread
+    > drop all
+    > drop 1000 coins
+
+    Veja tambem: DONATE, GET, JUNK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+eat
+EAT DRINK SIP TASTE
+
+Uso: eat <item>
+     taste [from] <item>
+     drink [from] <item>
+     sip [from] <item>
+
+    Se voce esta com fome ou sede, estes sao os comandos ideais para voce!
+
+    > eat bread
+    > taste bread
+    > drink from cup
+    > sip fountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+drink
+EAT DRINK SIP TASTE
+
+Uso: eat <item>
+     taste [from] <item>
+     drink [from] <item>
+     sip [from] <item>
+
+    Se voce esta com fome ou sede, estes sao os comandos ideais para voce!
+
+    > eat bread
+    > taste bread
+    > drink from cup
+    > sip fountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+sip
+EAT DRINK SIP TASTE
+
+Uso: eat <item>
+     taste [from] <item>
+     drink [from] <item>
+     sip [from] <item>
+
+    Se voce esta com fome ou sede, estes sao os comandos ideais para voce!
+
+    > eat bread
+    > taste bread
+    > drink from cup
+    > sip fountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+taste
+EAT DRINK SIP TASTE
+
+Uso: eat <item>
+     taste [from] <item>
+     drink [from] <item>
+     sip [from] <item>
+
+    Se voce esta com fome ou sede, estes sao os comandos ideais para voce!
+
+    > eat bread
+    > taste bread
+    > drink from cup
+    > sip fountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+emote
+
+EMOTE :
+
+Uso: emote <mensagem>
+     : <mensagem>
+
+    Mostra as pessoas como voce esta se sentindo. O atalho e ":". "emote 
+<string>" mostrara seu nome e entao a string. 
+
+Exemplo:
+
+    Se seu nome e "Helt",
+
+      > emote is feeling very sad today.
+
+    mostrara:
+
+      Helt is feeling very sad today.
+
+    Veja tambem: SOCIALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+:
+EMOTE :
+
+Uso: emote <mensagem>
+     : <mensagem>
+
+    Mostra as pessoas como voce esta se sentindo. O atalho e ":". "emote 
+<string>" mostrara seu nome e entao a string. 
+
+Exemplo:
+
+    Se seu nome e "Helt",
+
+      > emote is feeling very sad today.
+
+    mostrara:
+
+      Helt is feeling very sad today.
+
+    Veja tambem: SOCIALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+enter
+ENTER
+
+Uso: enter [lugar]
+
+    Se voce digitar 'enter' enquanto voce estiver em lugar aberto, voce 
+entrara em um abrigo proximo. Voce tambem pode passar um argumento ao 
+'enter', por exemplo, 'enter window'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+equipment
+EQUIPMENT
+
+Uso: equipment
+
+    Fornece uma lista de todos os equipamentos que voce esta vestindo, 
+segurando ou empunhando.
+
+    Veja tambem: INVENTORY, REMOVE, WEAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+examine
+EXAMINE
+
+Uso: examine <coisa a ser examinada>
+
+    Pode te fornecer alguma imformacao importante sobre um item ou 
+monstro.
+
+    Veja tambem: LOOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+exits
+EXITS
+
+Uso: exits
+
+    Lhe da uma lista das saidas obvias da sua localidade. E claro que as 
+menos obvias nao serao mostradas - voce deve PENSAR para localizar essas.
+
+    Veja tambem: AUTOEXIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+fill
+FILL
+
+Uso: fill <item> <objeto que possui o liquido>
+
+    Se voce quer encher um recipiente que vc esta segurando com liquido de 
+uma fonte na mesma sala que voce.
+
+Exemplo:
+
+  > fill canteen fountain
+
+    Veja tambem: POUR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+flee
+FLEE ESCAPE
+ 
+    &cSe voce estiver em uma luta e as coisas comecarem a ficar 
+desconfortaveis (talvez voce esteja morrendo), digite 'flee' ou 
+'escape' e voce estara fora de perigo - isto e, SE houver uma saida 
+disponivel por perto, e SE essa saida nao mudar a sua situacao para 
+pior... mas, de qualquer modo, quem quer viver para sempre?
+
+&CExemplo:
+    &Yflee&c
+    &Yescape&c
+
+
+    &CVeja tambem: &rWIMPY&n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+escape
+FLEE ESCAPE
+ 
+    &cSe voce estiver em uma luta e as coisas comecarem a ficar 
+desconfortaveis (talvez voce esteja morrendo), digite 'flee' ou 
+'escape' e voce estara fora de perigo - isto e, SE houver uma saida 
+disponivel por perto, e SE essa saida nao mudar a sua situacao para 
+pior... mas, de qualquer modo, quem quer viver para sempre?
+
+&CExemplo:
+    &Yflee&c
+    &Yescape&c
+
+
+    &CVeja tambem: &rWIMPY&n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+follow
+FOLLOW
+
+Uso: follow <lider>
+
+    Use FOLLOW para seguir outra pessoa automaticamente.
+
+Exemplos:
+
+    > follow ras
+    > follow self
+
+    Veja tambem: GROUP, SNEAK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+get
+GET TAKE
+ 
+    &YGet&c e &YTake&c sao exatamente a mesma coisa e podem ser 
+intercambiados. Se voce encontrar algo interessante no chao, voce pode 
+usar 'get' para pega-la. 'get' tambem pode ser usado para extrair itens 
+de reciientes.
+
+&CExemplos:
+    &Yget &Rsword &Ccorpse
+    &Yget &R5 &Csword
+    &Yget &Rall &Ccorpse
+    &Yget &Rall &Call.bag
+    &Yget &Rall.bread &Call.bag
+
+    &Cveja tambem: &rDROP&G, &rPUT&n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+take
+GET TAKE
+ 
+    &YGet&c e &YTake&c sao exatamente a mesma coisa e podem ser 
+intercambiados. Se voce encontrar algo interessante no chao, voce pode 
+usar 'get' para pega-la. 'get' tambem pode ser usado para extrair itens 
+de reciientes.
+
+&CExemplos:
+    &Yget &Rsword &Ccorpse
+    &Yget &R5 &Csword
+    &Yget &Rall &Ccorpse
+    &Yget &Rall &Call.bag
+    &Yget &Rall.bread &Call.bag
+
+    &Cveja tambem: &rDROP&G, &rPUT&n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+give
+GIVE
+
+Uso: give <objeto> <vitima>
+     give <numero> coins <vitima>
+
+    Se voce se sentir benevolente, voce pode dar algo para alguem em 
+necessidade.
+
+  > give all ras
+  > give bread doctor
+  > give all.bronze mirlen
+  > give 40000 coins nia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+gold
+GOLD
+
+Uso: gold
+
+    Mostra quanto ouro voce esta carregando.
+
+    Veja tambem: BALANCE, DEPOSIT, WITHDRAW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+
+grab
+GRAB HOLD
+
+Uso: grab <objeto>
+     hold <objeto>
+
+    Para segurar algo, uma tocha, por exemplo.
+
+Exemplos:
+
+  > hold torch
+  > grab stone
+
+    Veja tambem: EQUIPMENT, REMOVE, WEAR, WIELD
+
+
+
+
+
+
+
+#0
+hold
+GRAB HOLD
+
+Uso: grab <objeto>
+     hold <objeto>
+
+    Para segurar algo, uma tocha, por exemplo.
+
+Exemplos:
+
+  > hold torch
+  > grab stone
+
+    Veja tambem: EQUIPMENT, REMOVE, WEAR, WIELD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+group
+GROUP
+
+Uso: group [jogador]
+     group all
+
+    GROUP sem argumentos mostra o estado do seu grupo. Group <jogador> 
+adiciona ou remove o <jogador> do seu grupo. GROUP ALL adiciona todos os 
+que estao te seguindo ao seu grupo.
+    Se voce e membro de um grupo, voce compartilhara os pontos de 
+experiencia por matar monstros igualmente entre os membros do grupo. A 
+experiencia sera dividida somente entre os membros do grupo que estao na 
+mesma localidade no momento do golpe final. A divisao de experiencia 
+ocorre a despeito de os membros estarem lutando ou nao.
+    Para criar um grupo, um "lider"deve ser selecionado e todos os membros 
+do grupo devem entao seguir o lider utilizando o comando follow. O lider 
+nao deve estar seguindo ninguem. O lider pode agora agrupar ou desagrupar 
+membros, usando "group <nome>". O lider deve tambem se lembrar de se 
+incluir no grupo
+
+Exemplo:
+
+    Quifael e Redferne desejam se agrupar com Dragon.
+
+  Quifael : "follow dragon"
+  Redferne: "follow dragon"
+  (Dragon nao pode seguir ninguem)
+  Dragon  : "group dragon"
+  Dragon  : "group redferne"
+  Dragon  : "group quifael"
+
+    Mais tarde Dragon se cansa de Quifael (porque ele fica dormindo o 
+tempo todo). Entao ele digita: "Group Quifael" para chutar Quifael para 
+fora do grupo.
+
+    Veja tambem: EXPERIENCE, UNGROUP, XP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+
+gsay
+GSAY GTELL
+
+Uso: gsay <mensagem>
+       gtell <mensagem>
+
+    Diz algo para todos os membros do seu grupo, mesmo que eles nao 
+estejam na sala.
+
+    Veja tambem: GROUP, TELL, SAY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+help
+HELP
+
+Uso: help [comando]
+
+    Help procura por uma palavra parecida, incluindo espacos, retornando 
+um texto explicativo sobre o comando. Help sem argumentos retornara uma 
+lista dos comandos mais comuns do jogo.
+
+Exemplos:
+
+  > help magic mis
+    encontrara um texto de ajuda para a magia magic missile.
+
+  > help mag
+    encontrara 'magic user' ou 'magic missile' dependendo de qual aparecer 
+primeiro no arquivo de help
+
+    Veja tambem: COMMANDS, SOCIALS
+
+
+
+
+
+
+#0
+house
+HOUSE
+
+    O comando HOUSE e usado para adicionar ou remover convidados da lista 
+de convidados da sua casa. Voce deve estar em sua casa para usar esse 
+comando. Somente o dono da casa (nao convidados) pode mudar a lista de 
+convidados usando o comando HOUSE.
+
+    Uso: house [<nome>]
+
+    Digitando 'house' sem argumentos retorna a lista de pessoas que estao 
+atualmente na sua lista de convidados. Digitando 'house' com o nome do 
+jogador adicionara esse jogador a sua lista de convidados se este jogador 
+nao estiver na lista, ou o removera da lista se ele ja estiver na lista. O 
+jogador especificado deve existir na base de dados do MUD, apesar de ele 
+nao precisar estar logado no momento.
+    Convidados da sua casa sao capazes de entrar nela ate que voce os 
+remova da lista de convidados.
+
+    Veja tambem: HOUSES
+
+    Houses possuem cantrole de acesso e protecao contra quedas do MUD. Se 
+voce quiser ua casa, voce precisa de 100,000,000 em ouro, 1,000 Holy 
+points e 100 Quest poins... Peca aos deuses.....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+
+info
+INFO NEWS POLICY VERSION
+
+    Estes comandos mostram informacoes importantes sobre o MUD. E uma boa 
+ideia verifica-los de vez em quando.
+
+   info     - informacoes uteis sobre o jogo para iniciantes
+   news     - ultimas mudancas no codigo e nas areas
+   policy   - politicas de topicos como matanca de players
+   credits  - as pessoas que tornaram o MUD possivel!
+   version  - mostra a versao atual do CircleMUD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#0
+news
+
+
+INFO NEWS POLICY VERSION
+
+    Estes comandos mostram informacoes importantes sobre o MUD. E uma boa 
+ideia verifica-los de vez em quando.
+
+   info     - informacoes uteis sobre o jogo para iniciantes
+   news     - ultimas mudancas no codigo e nas areas
+   policy   - politicas de topicos como matanca de players
+   credits  - as pessoas que tornaram o MUD possivel!
+   version  - mostra a versao atual do CircleMUD
+
+
+
+
+
+
+#0
+policy
+
+INFO NEWS POLICY VERSION
+
+    Estes comandos mostram informacoes importantes sobre o MUD. E uma boa 
+ideia verifica-los de vez em quando.
+
+   info     - informacoes uteis sobre o jogo para iniciantes
+   news     - ultimas mudancas no codigo e nas areas
+   policy   - politicas de topicos como matanca de players
+   credits  - as pessoas que tornaram o MUD possivel!
+   version  - mostra a versao atual do CircleMUD
+
+
+
+
+
+#0
+clanwar
+CLAN
+	Os clans se tornaram potencias no mundo de Wardome, em funcao disso
+a o odio, a inveja e a brigas comecaram a surgir, ou seja. GUUUUEEEERRAAA!!!!!
+	Aqui voce tera algumas informacoes de como funciona esse novo sistema
+desenvolvido pelos "coders" de Wardome.
+
+1 - Novos Comandos:
+1.1 - clan guerra
+	1.1a - clan aceitar
+	1.1b - clan rejeitar
+1.2 - clan serender
+1.3 - clan preco(custo de guerra)
+1.4 - clan alianca.
+1.5 - clan Status.
+2- Regras Principais
+3- Dinheiro Envolvido
+4- Fim de Guerra
+5- Informacoes Gerais
+
+
+**************************** CLAN WAR SYSTEM **********************************
+1.1 - Clan Guerra
+- Formato: Clan Guerra <num_clan>
+
+Exemplo: Clan 1- Wardome Angels; Clan 2- Son Of Orin.
+O clan 1 quer declarar guerra oa clan 2, comando a ser usado: 
+ " clan guerra 2". Isso nao quer dizer que a guerra comecou, vamos 
+`as opcoes.
+
+1.1a - Clan aceitar
+- O Lider do Son of Orin conversando com seus membros e outros lideres
+considera apto para uma guerra uma vez que tem otimos player e tem o 
+apoio de outro clan (abaixo "CLAN ALIANCA"), entao ele usa o comando:
+" clan aceitar 1". Ai sim SE PREPARE, A GUERRA COMECOU.
+
+1.1b - Clan rejeitar
+- Todavia, conversando com seus membros o Clan Son of Orin, acha que nao 
+estao prontos para uma guerra, entao usam
+" clan rejeitar 1". Todos Continuam em Paz.
+
+1.2 - Clan Serender
+- Apos o inicio da guerra, o clan 1-Wardome Angels acham que estao tendo
+muitas mortes e prejuizos com a guerra e querem desistir da guerra entao
+"clan serender 2". Com isso Seu ClanGold sera decrescido do !Custo de Guerra!
+anteriormente Setado pelo Clan 2, e terá 3 derrotas para o clan (independente
+do numero de jogadores mortos e mortes computadas).
+
+1.3 - Clan Custo
+- Toda guerra tem Gastos, para ambas as partes, o comando CLAN CUSTO
+set uma quantia X, essa quantia sera o valor para que um outro clan pague
+para se aliar ao Clan e tambem servira caso o clan adversario se renda.
+Por tanto faz parte da estrategia setar um bom preco, para que nao saia
+baroto para o clan rendido mas tambem nao saia caro para aliancas.
+"clan custo <valor>"
+
+1.4 - Clan Alianca
+- Guerra sem Alianca nao e guerra. Com isso bolamos a formula ideia para uma
+alianca. Guerra e' sinonimo de estrategia e alianca faz parte de uma. Para
+se aliar a um Clan voce tera que pagar o Custo De Guerra (anteriormente setado)
+do Clan com o qual voce pretende se aliar, a partir do momento que vcs acertaram 
+a negociacao, ambos os clans estaram em guerra com o mesmo clan. COVARDIA? Creio 
+que nao, Estrategia seria a palavra. Mas Com isso, o clan soh poderia ter 1 aliado?
+vejamos os Clans de Wardome
+[1] - Wardome Angels
+[2] - Son of Orin
+[3] - Master of War
+[4] - Lords Of Death
+[5] - Wardome Satan
+O Clan 1 esta em guerra com o Clan 2, o clan 3 quer se aliar ao clan 1, correto
+portem o clan 4 tambem nao gosto do clan 2 e quer se aliar ao clan 1, entao ele se
+aliara ao clan 3, e automaticamente sera aliado do clan 1. o Clan 5 se aliou ao clan 2
+entao a guerra ficara assim
+Clans 1, 3 e 4 X 2 e 5. Que a Matanca Comece.
+ATENCAO: se o Clan 3 e 4 se renderem o clan 1 tb se rende, portanto fique atento.
+
+1.5  - Clan Status
+- Caso voce esteja em Guerra, ele mostrara sua informacoes, vitorias, derrotas, rendicoes
+rejeicoes, aliados. Como as informacoes do Seu adversario.
+ 
+2- Regras principais
+- A Forma de Pk continua a mesma, porem caso 2 clans estejam em guerra
+nao existe o pkrange ou seja (ATENCAO), se um player level 1 for atacado 
+por outro level 200 r20 ele sera morto facilmente. Por isso a Estrategia
+e' fundamental em uma guerra.
+
+3- Dinheiro envolvido
+- para cada membro DIED menos (1,000 * Posicao_clan) gold do clan
+- para cada membro KILLED mais (1,000 * Posicao_clan)  gold pro clan
+- ambos os clans deverao pagar um preco de guerra por hora/REAL 
+  valor = 10000.
+
+4- Fim da Guerra
+4.1- Rendicao
+4.2- Fim do Clan_gold
+4.3- Sistema CAPTURE the Flag.
+
+4.1 - Rendicao
+- O clan que se render devera pagar o custo da guerra, e o mesmo serah depositado 
+no clan vencedor. E ao clan sera acrescido 3 derrotas, e ao clan vencedor 2 vitorias.
+Isso Inclui os Aliados.
+
+4.2- Fim do Clan_Gold 
+- Se um dos clans ficar com dinheiro 0, e nao tiver como pagar o custo da guerra,
+perderá a guerra, sendo, o outro clan,  consagrado o vencedor.
+Isso inclui os Aliados.
+
+4.3- Sistema Capture the Flag
+- A partir da Implementacao desse sistema de Guerra, todos os clans terao 
+chaves(numero de Chaves escolhido pelo lider) , chave essa, que dará acesso
+`a sede do clan. Dependendo da estrategia de cada clan ela podera ficar
+escondida em alguma zone do Mud, ou com o Lider do clan, nao importa, 
+o que importa e' caso o clan adversario ou um de seus aliados peguem 
+essa chave e cheguem ate a sede do clan, La estara a Flag do Clan, 
+o clan adversario a pega e quando coloca-la na sala certa da sede do seu clan,
+a guerra estara terminada. Com isso:
+Clan vencedor(e aliados):  + 5 vitorias e +100K Gold 
+Clan derrotado(e aliados): + 5 derrotas e -100K Gold 
+
+5- Informacoes Gerais
+Rendicao      			3wins + gold / 3losses - gold   
+Por Membro            		1win + gold /  1Losse - gold
+Capture de Flag                 5wins + gold/ 5losses - gold
+
+
+
+
+#0
+BACKSTAB
+
+- Classes que aprendem: Thief (26)
+- Descricao: Esta skill permite apunhalar um inimigo pelas costas, causando um alto dano.
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> backstab zombie
+			A zombie makes a strange sound as you place a dagger in its back!
+
+- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; so e possivel que ela seja executada antes da luta comecar.
+
+#0
+BASH
+
+- Classes que aprendem: Warrior (97)
+- Descricao: Esta skill permite desferir um poderoso golpe no inimigo, derrubando-o.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> bash zombie
+			Your bash at A zombie sends it sprawling!
+
+- Observacoes: E necessario estar empunhando uma arma de qualquer tipo para utilizar esta skill; quando o inimigo cai, ele recebe dano normal, mas nao pode atacar e so pode se levantar apos 2 rounds; caso o golpe falhe, seu executor perdera o equilibrio e caira.
+
+#0
+HIDE
+
+- Classes que aprendem: Thief (19), Ranger (59)
+- Descricao: Esta skill permite se esconder na sala.
+- Exemplo de uso:	> hide
+			You attempt to hide yourself.
+			You are hide on the room now.
+
+- Observacoes: Qualquer comando utilizado enquanto o player estiver escondido, ate mesmo um simples toque na tecla <ENTER>, o fara aparecer novamente; um player com HIDE pode ser visto com SENSE LIFE ou ser detectado (porem nao visto) com LISTEN; ele pode tambem ser atingido com qualquer skill ou spell de area.
+
+#0
+KICK
+
+- Classes que aprendem: Warrior (5), Ninja (11), Ranger (15), Barbarian (15)
+- Descricao: Esta skill permite chutar o inimigo.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> kick zombie
+			Your kick hits A zombie in the solar plexus!
+
+#0
+PICK LOCK
+
+- Classes que aprendem: Ninja (91), Thief (4)
+- Descricao: Esta skill permite que se abra certos objetos trancados, como portas e baus, sem a necessidade de chaves.
+- Exemplo de uso:	> pick chest
+			The lock quickly yields to your skills.
+
+#0
+STROKE
+
+- Classes que aprendem: Paladin (97)
+- Descricao: Esta skill permite acertar um poderoso golpe no inimigo, atordoando-o.
+- Dano: 0
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso: 	> stroke dragon
+			You hit him strongly forcing a gidiness.
+
+- Observacoes: Estando o inimigo tonto, o primeiro golpe que acerta-lo causara o dobro do dano normal; e necessario estar lutando para utilizar esta skill; e necessario estar empunhando uma arma de qualquer tipo para utilizar esta skill.
+
+#0
+RESCUE
+
+- Classes que aprendem: Warrior (31), Paladin (66)
+- Descricao: Esta skill permite defender um amigo em uma luta. O player que a utiliza passa a proteger heroicamente o amigo, recebendo o dano que este receberia.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> rescue kefren
+			Banzai!  To the rescue...
+
+- Observacoes: Esta skill so funciona em players dentro do PK Range e desde que a flag de PK seja a mesma para os dois, ou seja, ambos sejam PKs ou ambos sejam NOPKs.
+
+#0
+SNEAK
+
+- Classes que aprendem: Ninja (23), Thief (1)
+- Descricao: Esta skill permite andar em silencio, podendo-se entrar e sair de salas sem ser notado.
+- Exemplo de uso:	> sneak
+			Okay, you'll try to move silently for a while.
+
+#0
+STEAL
+
+- Classes que aprendem: Thief (13)
+- Descricao: Esta skill permite o furto de ouro, itens ou equipamento de outros players e mobs.
+- Exemplo de uso:	> steal gold zombie
+			Bingo!  You got 236 gold coins.
+
+- Observacoes: Para furtar um player, e necessario que o player que pretende roubar e o player a ser roubado sejam PKs e estejam dentro do PK Range; para furtar um equipamento vestido, seja de mob ou player, o alvo deve estar dormindo; o alvo nao pode estar lutando; caso o furto falhe, o alvo imediatamente atacara aquele que tentou rouba-lo; caso falhe com player, o ladrao ainda sera setado com a flag THIEF, podendo ser morto por qualquer player, mesmo fora do PK Range.
+
+#0
+TRACK
+
+- Classes que aprendem: Warrior (22), Ninja (78), Ranger (19), Thief (32)
+- Descricao: Esta skill permite localizar alguem que esteja nas redondezas, mostrando uma trilha ate o alvo.
+- Exemplo de uso:	> track elemental
+			You sense a trail west from here!
+
+#0
+COMBO
+
+- Classes que aprendem: Warrior (150), Paladin (160)
+- Descricao: Esta skill permite aplicar uma rapida sequencia de golpes durante uma luta.
+- Dano: De 0 a 8 golpes.
+- Numero de rounds necessarios para recuperacao do controle: 4
+
+#0
+SHIELD BLOCK
+
+- Classes que aprendem: Paladin (139)
+- Descricao: Primeira das 5 skills passivas de defesa; bloqueia com o escudo um dos golpes que seriam tomados em um round.
+- Exemplo de uso:	[Skill Passiva]: You skillfully shield block Tarrasque attack!
+
+- Observacoes: E necessario estar usando um escudo para que a skill funcione.
+
+#0
+SWIM
+
+- Classes que aprendem: Warrior (1), Barbarian (13), Ranger (1), Thief (11)
+- Descricao: Esta skill passiva permite nadar; assim, e possivel se locomover por areas aquaticas sem a necessidade de barcos.
+
+#0
+VITALIZE HEALTH
+
+- Classes que aprendem: Barbarian (4)
+- Descricao: Esta skill passiva aumenta levemente a taxa de recuperacao de HP.
+
+#0
+VITALIZE MANA
+
+- Classes que aprendem: Psionicist (5), Shaman (9), Warlock (3), Necromancer (13), Sorcerer (4)
+- Descricao: Esta skill passiva aumenta levemente a taxa de recuperacao de MP.
+
+#0
+SECOND ATTACK
+
+- Classes que aprendem: Warrior (45), Psionicist (105), Shaman (101), Cleric (90), Ninja (61), Barbarian (53), Warlock (108), Ranger (76), Necromancer (104), Thief (74), Sorcerer (108), Paladin (78)
+- Descricao: Esta skill passiva permite que se de um golpe a mais por round.
+
+#0
+THIRD ATTACK
+
+- Classes que aprendem: Warrior (95), Cleric (145), Ninja (185), Barbarian (105), Ranger (125), Thief (145), Paladin (125)
+- Descricao: Esta skill passiva permite que se de um golpe a mais por round.
+
+#0
+FOURTH ATTACK
+
+- Classes que aprendem: Barbarian (171)
+- Descricao: Esta skill passiva permite que se de um golpe a mais por round.
+
+#0
+SCAN
+
+- Classes que aprendem: Warrior (133), Thief (87)
+- Descricao: Esta skill permite verificar se ha alguem nas salas ao redor de seu executor, indicando seu nome, direcao e distancia que se encontra.
+- Exemplo de uso:	> scan
+			You quickly scan the area and see:
+			Luigi, right here
+			Seker, right here
+			the Immortal Innkeeper, immediately to the north
+			the wandering spirit, immediately to the east
+			the wandering spirit, immediately to the east
+			Zhantar, immediately to the east
+			the Immortal Postmaster, immediately to the west
+			Mordron, immediately downwards
+			the Questmaster Ashlandar, immediately downwards
+- Calculo da distancia ate o alvo: 
+			right here	se encontra na mesma sala
+			immediately	1 sala de distancia
+			nearby		2 salas de distancia
+			a ways		3 salas de distancia
+			far		4 salas de distancia
+			very far		5 salas de distancia
+			extremely far	6 salas de distancia
+			impossibly far	7 salas de distancia
+
+- Observacoes: O gasto, em pontos de movimento, e de (Nivel do player/9) pontos por uso do SCAN.
+#0
+SABRE
+
+- Classes que aprendem: Ninja (181), Ranger (191)
+- Descricao: Esta skill permite aplicar uma devastadora sequencia de cortes durante uma luta.
+- Dano: de 0 a 8 golpes.
+- Numero de rounds necessarios para recuperacao do controle: 3
+
+- Observacoes: E necessario estar empunhando uma arma cortante (tipo slash) para utilizar esta skill.
+
+#0
+HAND DAMAGE
+
+- Classes que aprendem: Ninja (1), Barbarian (1)
+- Descricao: Esta skill passiva melhora a habilidade na luta sem armas, utilizando apenas as maos.
+
+#0
+WHITE GAS
+
+- Classes que aprendem: Ninja (100)
+- Descricao: Esta skill permite que se faca uma cortina de fumaca na sala, ocultando o player.
+- Exemplo de uso:	> gas
+			You are hide on the room now.
+
+- Observacoes: Um player escondido com WHITE GAS pode ser detectado com LISTEN e atingido com qualquer skill ou spell de area, mas diferentemente de HIDE, nao pode ser visto com SENSE LIFE.
+
+#0
+HARAKIRI
+
+- Classes que aprendem: Ninja (50)
+- Descricao: Esta skill permite que o player se mate durante uma luta.
+- Exemplo de uso:	> harakiri
+			You slash yourself on the heart and you die.
+
+- Observacoes: E necessario estar lutando; utilizando esta skill, as punicoes (perda de xp, perda de equipamentos) acontecem como em uma morte normal; embora nao pareca, esta skill pode ser util em uma WAR, por exemplo, para que o inimigo nao ganhe mais um ponto ao matar o player.
+
+#0
+CIRCLE AROUND
+
+- Classes que aprendem: Thief (116)
+- Descricao: Esta skill permite apunhalar um inimigo pelas costas durante uma luta, causando um alto dano.
+- Numero de rounds necessarios para recuperacao do controle: 4
+- Exemplo de uso:	> circle zombie
+			A zombie makes a strange sound as you place a dagger in its back!
+
+- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; na verdade, esta skill consiste em um BACKSTAB no meio da luta.
+
+#0
+SECOND STAB
+
+- Classes que aprendem: Thief (186)
+- Descricao: Esta skill passiva permite apunhalar duplamente um inimigo pelas costas, causando um dano extremamente alto, muitas vezes letal.
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> backstab zombie
+			A zombie makes a strange sound as you place a dagger in its back!
+			A zombie makes a strange sound as you place a dagger in its back!
+
+- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; so e possivel que ela seja executada antes da luta comecar; na verdade, esta skill permite que o BACKSTAB acerte duas vezes seguidas.
+
+#0
+PARRY
+
+- Classes que aprendem: Warrior (149)
+- Descricao: Segunda das 5 skills passivas de defesa; segura um dos golpes que seriam tomados em um round.
+- Exemplo de uso:	[Skill Passiva]: You skillfully parry Tarrasque attack!
+
+#0
+DODGE
+
+- Classes que aprendem: Barbarian (150)
+- Descricao: Terceira das 5 skills passivas de defesa; esquiva de um dos golpes que seriam tomados em um round.
+- Exemplo de uso:	[Skill Passiva]: You skillfully dodge Tarrasque attack!
+
+#0
+TUMBLE
+
+- Classes que aprendem: Thief (155)
+- Descricao: Quarta das 5 skills passivas de defesa; evita, com o uso de acrobacias, um dos golpes que seriam tomados em um round.
+- Exemplo de uso:	[Skill Passiva]: You skillfully tumble Tarrasque attack!
+
+#0
+HIT
+
+- Classes que aprendem: Warrior (14), Ninja (86), Barbarian (8)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo hit.
+
+#0
+STING
+
+- Classes que aprendem: Ranger (13), Thief (68), Paladin (28)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo sting, como flechas.
+
+#0
+WHIP
+
+- Classes que aprendem: Warrior (161)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo whip, como chicotes.
+
+#0
+SLASH
+
+- Classes que aprendem: Warrior (65), Ninja (40), Barbarian (43), Paladin (120)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas cortantes, como espadas e machados.
+
+#0
+BITE
+
+- Classes que aprendem: Barbarian (78), Ranger (64)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo bite, como alguns tipos especiais de chicotes.
+
+#0
+BLUDGEON
+
+- Classes que aprendem: Barbarian (138), Ranger (151)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas de impacto, como martelos de guerra.
+
+#0
+CRUSH
+
+- Classes que aprendem: Warrior (41), Paladin (64)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo crush.
+
+#0
+POUND
+
+- Classes que aprendem: Warrior (143), Ranger (134) 
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo pound, como clavas.
+
+#0
+CLAW
+
+- Classes que aprendem: Barbarian (120)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo claw, como garras-de-aguia.
+
+#0
+MAUL
+
+- Classes que aprendem: Barbarian (100), Ranger (103)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo maul.
+
+#0
+THRASH
+
+- Classes que aprendem: Barbarian (26), Paladin (141)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo thrash.
+#0
+PIERCE
+
+- Classes que aprendem: Thief (41)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas perfurantes, como facas, adagas e lancas.
+
+#0
+BLAST
+
+- Classes que aprendem: Warrior (110)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo blast, como cetros magicos.
+
+#0
+PUNCH
+
+- Classes que aprendem: Warrior (94)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo punch (sim, por mais estranho que pareca, existem armas do tipo punch)
+
+- Observacoes: Este bonus nao e aplicado quando se luta com as maos nuas (neste caso, o que conta e HAND DAMAGE)
+
+#0
+STAB
+
+- Classes que aprendem: Thief (101)
+- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo stab.
+
+#0
+DISARM
+
+- Classes que aprendem: Ninja (73), Thief (82)
+- Descricao: Esta skill permite que se desarme o oponente durante uma luta, fazendo com que a arma dele caia no chao.
+- Dano: 0
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> disarm arkanis
+			You send its weapon flying.
+
+- Observacoes: E necessario estar lutando para utilizar a skill.
+
+#0
+BERZERK
+
+- Classes que aprendem: Barbarian (153)
+- Descricao: Esta skill permite deixar que a furia tome conta de seu corpo durante a luta, passando a lutar furiosamente ate a morte.
+- Dano: (dano normal)+25%
+- Numero de rounds necessarios para recuperacao do controle: 1
+- Exemplo de uso:	> berzerk
+			You work up a frenzy and will fight to death!
+
+- Observacoes: E necessario estar lutando; o wimpy e automaticamente setado para 0 quando se usa BERZERK, ate que a luta acabe.
+
+#0
+FIRST AID
+
+- Classes que aprendem: Barbarian (108), Ranger (131), Thief (132)
+- Descricao: Esta skill permite que se aplique primeiros socorros em um player ou mob, restaurando um pequeno numero de HP. E util em casos como, por exemplo, um amigo tenha tomado golpes demais e ficado stunned/incapacitated/mortally wounded.
+- Numero de rounds necessarios para recuperacao do controle: 
+- Exemplo de uso:	> aid mordron
+			You succeed to stop some of the bleeding.
+
+- Observacoes: Nao e possivel usar estar skill durante uma luta.
+
+#0
+HEADBASH
+
+- Classes que aprendem: Barbarian (135)
+- Descricao: Esta skill permite acertar um poderoso golpe no inimigo, fazendo com que este desmaie. Estando o inimigo desmaiado, os golpes que o atingirem causarao o dobro do dano normal.
+- Dano: 0
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> headbash arkanis
+			You hit its head forcing a fainting.
+
+- Observacoes: E necessario estar lutando para utilizar esta skill; e necessario estar empunhando uma arma de qualquer tipo para utiliza-la.
+
+#0
+ESCAPE
+
+- Classes que aprendem: Ninja (148), Thief (51)
+- Descricao: Esta skill permite que se escape de uma luta, escolhendo a direcao para a qual se deseja fugir.
+- Exemplo de uso:	> escape down
+			You skillfully escape from combat.
+
+#0
+DUAL WIELD
+
+- Classes que aprendem: Warrior (155), Ninja (115), Ranger (68)
+- Descricao: Esta skill permite empunhar uma segunda arma, para causar algum dano extra.
+- Dano: 1/2x o dano de um golpe normal
+- Exemplo de uso:	> wield excalibur
+			You wield as a secondary weapon Excalibur.
+
+- Observacoes: E necessario ja estar empunhando uma arma para que seja possivel empunhar a segunda; nao e possivel utilizar equipamentos na posicao “hold” quando se empunha duas armas; na verdade, com DUAL WIELD aplica-se mais um golpe por round, mas o dano deste e de 50% o dano normal.
+
+#0
+MEDITATE
+
+- Classes que aprendem: Psionicist (75), Shaman (62), Warlock (54), Sorcerer (100)
+- Descricao: Esta skill permite meditar, aumentando a taxa de recuperacao de MP.
+- Exemplo de uso:	> meditate
+			You try to start meditate.
+			You start to meditate.
+
+- Observacoes: E necessario estar sentado para utilizar esta skill; qualquer comando utilizado enquanto o player estiver meditando, ate mesmo um simples toque na tecla <ENTER>, o fara perder a concentracao e parar de meditar.
+
+#0
+LEVITATE
+
+- Classes que aprendem: Psionicist (66), Shaman (83), Warlock (79)
+- Descricao: Esta skill permite levitar um objeto, podendo usa-lo como equipamento na posicao “floating in the air”.
+- Exemplo de uso:	> wear stone
+			You levitate a clear stone and it stay floating around your head.
+
+- Observacoes: Apenas certos objetos, como pedras, podem ser levitados.
+
+#0
+LISTEN
+
+- Classes que aprendem: Ninja (55), Thief (34)
+- Descricao: Esta skill permite prestar atencao aos sons de uma sala, podendo-se detectar se ha alguem invisivel ou escondido ali.
+- Exemplo de uso:	> listen
+			You hear what might be 6 creatures invisible, or hiding.
+
+#0
+AGILITY
+
+- Classes que aprendem: Ninja (166)
+- Descricao: Quinta das 5 skills passivas de defesa; evita parcialmente, atraves da agilidade, um dos golpes que seriam tomados em um round.
+- Exemplo de uso:	[Skill Passiva]: You evade Tarrasque attack and suffer a lower damage!
+
+- Observacoes: O dano recebido e reduzido em 50%.
+
+#0
+WARSHOUT
+
+- Classes que aprendem: Barbarian (91)
+- Descricao: Esta skill permite, quando em um grupo, que se de um forte grito de guerra, estimulando ainda mais seus membros a lutar.
+- Exemplo de uso:	> warshout
+			You yell, 'WWWWWWAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR!'
+
+- Observacoes: E necessario ser o lider de um grupo para utilizar esta skill; quando utilizada, ela da +5 pontos de DAMROLL para todos os membros do grupo por 2 horas; seu gasto e de 75 pontos de movimento por utilizacao.
+
+#0
+KNOCKOUT
+
+- Classes que aprendem: Warrior (30), Ninja (28), Thief (24)
+- Descricao: Esta skill permite nocautear o inimigo.
+- Dano: 0
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> knockout zombie
+			A zombie sees stars, and slumps over, knocked out.
+			A zombie goes to sleep.
+
+- Observacoes: Nao e possivel utilizar esta skill durante uma luta; e necessario empunhar uma arma de impacto (tipo bludgeon) para utiliza-la; caso ela falhe, o inimigo ira contra-atacar imediatamente; caso acerte, o proximo golpe que acerta-lo (enquanto estiver dormindo) causara o dobro do dano normal e o fara acordar.
+
+#0
+THROW
+
+- Classes que aprendem: Warrior (140), Ninja (130), Barbarian (155), Ranger (109), Thief (124)
+- Descricao: Esta skill permite que se atire objetos e armas nos inimigos, causando algum dano.
+- Dano: ((STR do executor/2) + peso do objeto + level do executor)
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> throw stone zombie
+			You throw a pearly white stone at A zombie and hit it in the chest.
+
+- Observacoes: Uma vez atirado o objeto, este ira desaparecer.
+
+#0
+GUT
+
+- Classes que aprendem: Warrior (100)
+- Descricao: Esta skill permite eviscerar o inimigo, cortando-lhe a barriga e fazendo com que seus intestinos pulem pra fora.
+- Dano: 0
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> gut zombie
+			You gut A zombie!
+			A zombie looks down in horror as their intestines spill out!
+
+- Observacoes: E necessario empunhar uma arma cortante (tipo slash) para utilizar esta skill; o inimigo deve estar bastante ferido, possuindo menos de 5% de HP.
+
+#0
+DROWN
+
+- Classes que aprendem: Warrior (155), Ninja (147), Ranger (140), Thief (147)
+- Descricao: Esta skill permite afogar o inimigo.
+- Numero de rounds necessarios para recuperacao do controle: 1
+- Exemplo de uso:	> drown serpent
+			the sea serpent staggers back from the solid chop you deliver to him.
+
+- Observacoes: E necessario estar em uma sala do tipo aquatica, como nadando em um rio; nao e possivel afogar players da raca Sea Elf.
+
+#0
+CHOP
+
+- Classes que aprendem: Warrior (172), Barbarian (175), Thief (173)
+- Descricao: Esta skill permite dar um forte golpe de artes marciais no pescoco do inimigo.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> chop serpent
+			the sea serpent staggers back from the solid chop you deliver to him.
+
+- Observacoes: Caso o golpe falhe, seu executor tomara o dano.
+
+#0
+KICKFLIP
+
+- Classes que aprendem: Ninja (45)
+- Descricao: Esta skill permite aplicar um chute giratorio no inimigo, fazendo com que ele caia.
+- Numero de rounds necessarios para recuperacao do controle: 3
+- Exemplo de uso:	> kickflip zombie
+			You flip head over heels kicking A zombie onto its butt in the process!
+
+- Observacoes: Caso o golpe falhe, o inimigo derrubara seu executor no chao, e este levara 2 rounds para se levantar.
+
+#0
+WHIRLWIND
+
+- Classes que aprendem: Warrior (60), Barbarian (55), Ranger (78)
+- Descricao: Esta skill permite realizar um ataque giratorio com a arma, atingindo a todos na sala.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> whirlwind
+			You make a whirlwind attack, wounding ALL of your opponents!
+
+- Observacoes: E a única skill de ataque de area existente; gasta 30 pontos de movimento por inimigo que acertar.
+
+#0
+BLOOD RITUAL
+
+- Classes que aprendem: Necromancer (26)
+- Descricao: Esta skill permite evocar as forcas da escuridao e sacrificar o proprio sangue para obter poder, ou seja, perder HP para ganhar MP.
+- Exemplo de uso:	> blood
+			You called out the darkness.
+			Darkness answered your call. Your blood turns into power.
+
+- Observacoes: Nao e possivel utilizar esta skill durante uma luta.
+
+#0
+STYLE PRO
+
+- Classes que aprendem: Ninja (65)
+- Descricao: Esta skill permite lutar no estilo Pro, combinacao perfeita dos estilos Offensive e Defensive.
+- Exemplo de uso:	> style pro
+			You changed your style to pro.
+
+#0
+POWER KICK
+
+- Classes que aprendem: Barbarian (60)
+- Descricao: Esta skill permite chutar o inimigo com mais forca que em um chute normal.
+- Numero de rounds necessarios para recuperacao do controle: 2
+- Exemplo de uso:	> kick zombie
+			Your kick hits A zombie in the solar plexus!
+
+
+#0
+improved
+IMPROVED BERZERK
+
+- Classes que aprendem: Barbarian (198)
+- Descricao: Esta skill permite ficar ainda mais furioso durante a luta, aumentando ainda mais o dano causado por golpe.
+- Dano: (dano normal)+50%
+- Numero de rounds necessarios para recuperacao do controle: 1
+- Exemplo de uso:	> berzerk
+			You work up a frenzy and will fight to death!
+
+- Observacoes: E necessario estar lutando; o wimpy e automaticamente setado para 0 quando se usa IMPROVED BERZERK, ate que a luta acabe.
+
+
+#0
+$~

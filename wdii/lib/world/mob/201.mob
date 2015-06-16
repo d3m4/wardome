@@ -1,0 +1,267 @@
+#20101
+monk child~
+a monk child~
+A monk child is here sweeping the floor.
+~
+He is only a child, surely you will want to pick on someone your own size.
+~
+204 0 500 E
+60 -24 -9 1d1+5040 5d13+94
+900 950039 7
+8 8 1 -1 -1
+Att2: 90
+Att3: 30
+E
+#20102
+female prisoner~
+an imprisoned nun~
+A female prisoner cringes away from you in terror.
+~
+Judging from what is left of her clothes, she appears to be a nun.
+~
+76 0 0 E
+70 -29 -11 1d1+5880 5d15+98
+1050 1460869 7
+8 8 2 -1 -1
+Att2: 92
+Att3: 32
+E
+#20103
+disciple~
+a disciple~
+A disciple tries to impress you with his new skills.
+~
+One of the many who came here to learn the Shaolin martial skills. Like 
+many others, he seems quite hopeless.
+~
+142 128 100 E
+75 -31 -11 1d1+6300 5d15+100
+1125 1773389 7
+8 8 1 -1 -1
+Att2: 92
+Att3: 32
+E
+#20104
+monk~
+a monk~
+A monk is here practicing his skills. Watch it!
+~
+You take a step back to ensure you're out of the range of his deadly moves.
+~
+14 16777216 201 E
+80 -34 -12 1d1+6720 5d17+102
+1200 2127417 7
+8 8 1 -1 -1
+Att2: 92
+Att3: 36
+E
+#20105
+monk guard~
+a monk guard~
+A monk guard charges at you for intruding this room!
+~
+Armed and dangerous, you don't want to mess with him.
+~
+46 16778280 -100 E
+80 -34 -12 1d1+6720 5d17+102
+1200 2127417 7
+8 8 1 -1 -1
+Att2: 92
+Att3: 32
+E
+#20106
+demon~
+Your own inner demon~
+Your own inner demon screams and attacks!
+~
+This extremely ugly creature looks very familiar. Wait a minute, it looks
+exactly like you. In fact, it is you!
+~
+110 8389800 -201 E
+90 -39 -14 1d1+7560 5d19+106
+1350 2970309 7
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+#20107
+evil monk~
+an evil monk~
+An evil monk jumps from the ceiling and took you by surprise!
+~
+He looks about the same with the rest of the monks here.  In fact,he looks
+more friendly than the rest.  Too bad he doesn't like your face.
+~
+108 1192 -300 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20108
+wood wooden monk man machine~
+the wooden man~
+The wooden man fighting machine creaks and pummels you!
+~
+Made entirely of hard wood and controlled mechanically by chains and pulleys,
+this is one tough bugger.
+~
+42 1064 0 E
+80 -34 -12 1d1+6720 5d17+102
+1200 2127417 7
+8 8 0 -1 -1
+Att2: 92
+Att3: 36
+E
+#20109
+monk warrior~
+the monk warrior~
+A monk warrior struts proudly here.
+~
+Recently promoted to warrior status, he takes a look at your puny size and
+laughs in your face.
+~
+204 8396928 201 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20110
+luohan Luohan bronze monk~
+the Luohan~
+The Luohan stands motionlessly here, waiting for you to attack.
+~
+With skin as tough as bronze, these monks are among the most highly skilled.
+You don't want to mess with them.  Then again, do you have a choice?
+~
+14 1098915840 500 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20111
+Wuhua wuhua monk~
+Wuhua~
+Wuhua screams with a wild sense of joy as he pounces on you!
+~
+Looking every bit like a pervert, he just can't wait to lay his filthy
+claws on you.
+~
+108 25167016 -500 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20112
+master librarian monk~
+the Master of Books~
+A master sits here reading his books, oblivious to your intrusion.
+~
+He looks old and his eyes are failing him.  In one hand, he holds a lighted
+candle to help him read better.
+~
+10 25174016 500 E
+105 -46 -16 1d1+8820 5d21+112
+1575 4610408 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20113
+master monk drunken~
+The Drunken Master~
+A master is resting here, looking very intoxicated.
+~
+Hmm.. Are monks supposed to do this? You pondered as you look at this 
+pathetic excuse for a human being.
+~
+204 8396928 250 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20114
+master monk trainer~
+the Master Trainer~
+A master is here doing pushups with one finger.
+~
+Wow. What a amazing feat! Such demonstration of strength and control.
+Don't you wish you can do that.
+~
+204 25174146 500 E
+95 -41 -14 1d1+7980 5d19+108
+1425 3464329 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20115
+abbot Abbot monk~
+the Abbot of Shaolin~
+The Abbot of Shaolin nods in your direction, acknowledging your presence.
+~
+Looking strong and healthy even at this age, the Abbot cuts an impressive 
+figure.
+~
+204 1098915968 800 E
+100 -44 -15 1d1+8400 5d21+110
+1500 4010169 7
+8 8 1 -1 -1
+Att2: 98
+Att3: 44
+E
+#20116
+Jinshen jinshen~
+the Jinshen~
+A Jinshen sits here, undisturbed.
+~
+Covered from head to toe with gold flakes, this mortal shell of a former
+high monk has been perfectly preserved.
+~
+10 25698442 1000 E
+100 -44 -15 1d1+8400 5d21+110
+1500 4010169 7
+8 8 0 -1 -1
+Att2: 98
+Att3: 44
+E
+#20117
+guest visitor~
+the visiting guest~
+A visiting guest stands here.
+~
+Looking at his best in his fine clothing, he looks rather wealthy.
+~
+204 128 50 E
+85 -36 -13 1d1+7140 5d17+104
+1275 2525531 7
+8 8 1 -1 -1
+Att2: 94
+Att3: 38
+E
+#20118
+old man~
+a crazy old man~
+A crazy old man sits on the shore, staring at everything.
+~
+He keeps staring into space, and says 'I see you, KhyrhaZenin, you will die!
+I know your name, KhyrhaZenin, and I will come get you! HAHAHAHA'
+He must be crazy.'
+~
+42 0 0 E
+80 -34 -12 1d1+6720 5d17+102
+1200 2127417 7
+8 8 1 -1 -1
+Att2: 90
+Att3: 30
+E
+$

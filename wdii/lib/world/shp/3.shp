@@ -1,0 +1,50 @@
+CircleMUD v3.0 Shop File~
+#1~
+-1
+1.000000
+0.000000
+1
+10
+11
+19
+-1
+%s Text 1~
+%s Text 2~
+%s Text 3~
+%s Text 4~
+%s Text 5~
+%s Text 6~
+%s Text 7~
+0
+0
+306
+0
+331
+-1
+0
+23
+0
+0
+#2~
+-1
+1.000000
+1.000000
+-1
+%s Text 1~
+%s Text 2~
+%s Text 3~
+%s Text 4~
+%s Text 5~
+%s Text 6~
+%s Text 7~
+0
+0
+308
+0
+331
+-1
+0
+23
+0
+0
+$~

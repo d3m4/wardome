@@ -1,0 +1,634 @@
+#13100
+Floating In The Air~
+   You find yourself floating about 50 meters above the ground.  You see the
+soft ground below you and suddenly wish that you were firmly planted there.
+~
+131 4 9
+D4
+Above you can barely make out what seems to be a large structure reaching
+towards the heavens.
+~
+~
+0 0 13101
+D5
+Below you see the Mountain of the Gods.
+~
+~
+0 0 12047
+S
+#13101
+Flying in the Air~
+   You are flying quite high above the ground.  You think you can see your
+house off to the left!  Something very big is also directly above and to the
+south of you.
+~
+131 4 9
+D4
+Above you is a large, fluffy cloud. 
+~
+~
+0 0 13102
+D5
+Below will take you closer to the ground. . .it looks safer.
+~
+~
+0 0 13100
+S
+#13102
+A Fluffy Cloud~
+   You are standing on a fluffy cloud before a large structure of sorts.  You
+notice that the structure is covered in gold and some sort of writing covers
+the outside of the great doors.
+~
+131 4 9
+D2
+To the south lies a glowing temple.
+~
+~
+0 0 13103
+D4
+~
+~
+0 0 12200
+D5
+Below you is the path back towards land. . . you might better head that way.
+~
+~
+0 0 13101
+S
+#13103
+Entrance to Temple~
+   You find yourself standing in the entrance to the great Temple of the
+Samurai.  This temple glows golden and is a tribute to all of the great
+warriors of the past.  You feel as if you have entruded where mortals were
+never meant to tred.
+~
+131 16777224 0
+D0
+North of you is the exit to the temple.  
+~
+~
+0 0 13102
+D2
+South you notice a flower filled room.
+~
+~
+0 0 13104
+S
+#13104
+Ceremonial Gardens~
+   You find yourself in a brightly lit room.  All around you are flowers and
+wild herbs.  A message scribbled on the wall tells you that this is where the
+warriors prepared gifts for their sick companions.
+~
+131 8 0
+D0
+North of you is the entrance hall of the temple.
+~
+~
+0 0 13103
+D1
+East of you is another room in the temple.
+~
+~
+0 0 13105
+S
+#13105
+Hospital~
+   You are in a room filled with empty cots.  Elixirs and herbs line the walls.
+Books cover the shelves.  The room itself has an anticeptic smell and reminds
+you of a hospital.
+~
+131 8 0
+D0
+North is the abode of the shogun.
+~
+~
+0 0 13106
+D3
+You see the gardens back to the west.
+~
+~
+0 0 13104
+S
+#13106
+Shogun of Jin~
+   You find yourself in a peaceful abode.  Before you stands the Shogun of Jin.
+Although you don't know exactly what Jin means, you feel that this man can
+teach you much about people.  Stairs lead upward to the next level.
+~
+131 8 0
+D2
+To the south lies the hospital.
+~
+~
+0 0 13105
+D4
+A golden stairway leads you ever upward.
+~
+forcefield~
+1 13100 13107
+S
+#13107
+Homely Hallway~
+   You find yourself standing in a homely looking hallway.  This room reminds
+you of your youth and brings back images of your parents teaching you right
+from wrong.
+~
+131 8 0
+D2
+South lead to another room.
+~
+~
+0 0 13109
+D3
+To the west is another room.
+~
+~
+0 0 13108
+D5
+A golden stairway leads you downward.
+~
+forcefield~
+1 0 13106
+S
+#13108
+Another Room~
+   You find yourself in another room similar to that you just came from. You
+can't particularly tell any differences in this room at all.
+~
+131 8 0
+D1
+East leads back where you came from.
+~
+~
+0 0 13107
+S
+#13109
+Yet Another Room~
+   You find yourself standing in yet another room.  Your mind reels as you
+discover this room is the same as the one you just came from!
+~
+131 8 0
+D0
+North is where you came from.
+~
+~
+0 0 13107
+D1
+East leads to a room that LOOKS different.
+~
+~
+0 0 13110
+S
+#13110
+Shogun of Gi~
+   You finally find yourself in a different room!  You see the Shogun of Gi
+standing before you pointing his finger and lecturing you for killing his
+fellow Shogun.  Now you gonna get it!
+~
+131 8 0
+D1
+East is where you came from.
+~
+~
+0 0 13109
+D4
+A stairway leads upward.
+~
+forcefield~
+1 13101 13111
+S
+#13111
+Third Floor Landing~
+   You find yourself on a landing of the third floor of the temple.  Your legs
+ache from all the climbing and you wonder to yourself exactly how many floors
+this place has.
+~
+131 8 0
+D1
+To the east you see a slave chamber.
+~
+~
+0 0 13112
+S
+#13112
+Slave Chamber~
+   You find yourself in a room full of slaves.  The slaves, however, have no
+chains, shackles, or bondage devices of any kind.  These people are voluntary
+slaves to their master . . . the Shogun of Chu.  They don't feel worthy to be
+anything else.  Do you?
+~
+131 8 0
+D0
+To the north you hear sounds of metalworking.
+~
+~
+0 0 13113
+D3
+The west is where you were a minute ago!
+~
+~
+0 0 13111
+S
+#13113
+Metal Shop~
+   You are standing in a metalworking shop.  The trainees here are pounding
+their swords and other weapons into razor sharp tools of defense.  You watch
+as they continue to pound away and think to yourself  'Hmm...i wonder if they
+would temper my sword?'
+~
+131 8 0
+D2
+South leads to the slave chamber.
+~
+~
+0 0 13112
+D3
+You see another Shogun chamber to your west.
+~
+~
+0 0 13114
+S
+#13114
+Shogun of Chu~
+   You find yourself standing in the chamber of the Shogun of Chu.  All around
+him you notice warriors who are completely loyal to their master.  You better
+not try to mess with this guy . . .
+~
+131 8 0
+D1
+Sounds of metalworking come from the east.
+~
+~
+0 0 13113
+D4
+Stairs lead upward yet again.
+~
+forcefield~
+1 13102 13115
+S
+#13115
+Fourth Floor Landing~
+   You are standing on the fourth floor of the temple.  You have traveled much
+too far already, but feel that going onward is a must.  Something about this
+floor demands respect.
+~
+131 8 0
+D2
+You hear water to the south.
+~
+~
+0 0 13116
+D5
+Stairs lead down from here.
+~
+~
+1 0 13114
+S
+#13116
+The bath~
+   You are standing in a public bath.  Samurai's walk around in towels and
+glare at you for intruding.  You have a strange feeling that no one should
+ever interupt a samurai while he's bathing.
+~
+131 8 0
+D0
+A landing is to your north.
+~
+~
+0 0 13115
+D1
+The antechamber is to your east.
+~
+~
+0 0 13117
+S
+#13117
+The Antechamber of Ko~
+   You stand in the antechamber of the Shogun of Ko.  The room is brightly
+colored and the walls are filled with inscriptions honoring fathers and mothers
+of the samurai who abide here.
+~
+131 8 0
+D0
+To the north is the chamber of the Shogun.
+~
+~
+0 0 13118
+D3
+Water can be heard to the west.
+~
+~
+0 0 13116
+S
+#13118
+Shogun of Ko~
+   You are standing in the chamber of the Shogun of Ko.  This shogun looks
+exactly like your father.  In fact, he looks exactly like anyone's father.  You
+expect to see him pull his belt and whip you at any moment... then you notice
+his weapon.
+~
+131 8 0
+D2
+The antechamber lies to the south.
+~
+~
+0 0 13117
+D4
+A ladder leads upward.
+~
+forcefield~
+1 13103 13119
+S
+#13119
+Fifth Floor Landing~
+   You are on the landing of the fifth floor of this mammoth temple.  You have
+a feeling that you still have quite a ways to go, however.  You notice drawings
+on the wall telling of the respectful warriors of long ago.
+~
+131 8 0
+D2
+Grinding sounds come from the south.
+~
+~
+0 0 13120
+D3
+The antechamber lies to the west.
+~
+~
+0 0 13121
+S
+#13120
+Weapons Room~
+   You have entered the weapons room.  You see warriors standing before
+primitive, yet very effective, tools for putting a razor's edge on swords.  It
+looks like they could really put a hurtin' on someone with their weapons.
+~
+131 8 0
+D0
+A landing is to your north.
+~
+~
+0 0 13119
+S
+#13121
+The antechamber~
+   You are in the Antechamber of the Shogun.  This room is full of paintings of
+warriors, written declarations of respect for fellow Samurai, and what seems to
+be a grocery list.
+~
+131 8 0
+D1
+A landing is to your east.
+~
+~
+0 0 13119
+D2
+The Shogun's chamber is south of you.
+~
+~
+0 0 13122
+E
+list~
+The list reads:
+		Eggs
+		Flour
+		Condoms
+~
+S
+#13122
+Shogun of Rei~
+   You are in the chamber of the Shogun of Rei.  The Shogun here knows well of
+the value of other people.  In fact, he even respects your insignificant
+carcass.  Hmm . . . how odd, no one else does.
+~
+131 8 0
+D0
+The antechamber is north of you.
+~
+~
+0 0 13121
+D4
+A stairway leads up from here.
+~
+forcefield~
+1 13104 13123
+S
+#13123
+Sixth Floor Landing~
+   You are standing on the landing of the sixth floor.  The muscles in your
+body ache, you're thirsty, you haven't eaten for some time, and now would be a
+good time to rest some.
+~
+131 8 0
+D0
+A strange humming is north of you.
+~
+~
+0 0 13124
+D3
+Yet another antechamber is west.
+~
+~
+0 0 13125
+D5
+Stairs lead down from here.
+~
+~
+1 0 13122
+S
+#13124
+Machine Room~
+   You are standing in a large room filled with computers.  This room is where
+the samurai must learn word processing skills that they are known to have.
+Kewl huh?
+~
+131 8 0
+D2
+A landing is south of you.
+~
+~
+0 0 13123
+S
+#13125
+The antechamber~
+   You are in the antechamber of yet another Shogun.  You faintly remember
+hearing somewhere that there are about eight basic principles of the samurai.
+Only three more to go . . .
+~
+131 8 0
+D0
+The Shogun chamber is north.
+~
+~
+0 0 13126
+D1
+The landing is to your east.
+~
+~
+0 0 13123
+S
+#13126
+Shogun of Chi~
+   You stand before the Shogun of Chi.  His glowing aura tells you that he is
+not only extremely good, but VERY wise.  You think that this wise individual
+could indeed teach you quite a few things about life.
+~
+131 8 0
+D2
+The antechamber is to the south.
+~
+~
+0 0 13125
+D4
+A ladder leads upward.
+~
+forceshield~
+1 13105 13127
+S
+#13127
+The Seventh Floor Landing~
+   You are standing on the landing of the seventh floor of the temple.  The
+walls are very clean and the writings on the wall tell of crusades for truth.
+You wish you truthfully knew how many darn rooms were in this temple.
+~
+131 8 0
+D2
+South of you comes the sounds of scribes.
+~
+~
+0 0 13128
+S
+#13128
+Hall of Truth~
+   You stare at the scribes who seem oblivious to your presence.  But upon
+looking closer, you find that no scribes are in fact even in this room!  You
+notice that truth is not all within the realm of sight.  Nifty idea ain't it??
+~
+131 8 0
+D0
+A landing is to your north.
+~
+~
+0 0 13127
+D1
+To your east you hear cheers.
+~
+~
+0 0 13129
+S
+#13129
+Courtyard~
+   You are standing in the courtyard of the seventh floor.  You seemed to have
+come in during some form of compitition. Warriors are sparring against each
+other as the younger trainees look on with awe.
+~
+131 8 0
+D0
+North is the Shogun's chamber.
+~
+~
+0 0 13130
+D3
+Sounds of writing come from the west.
+~
+~
+0 0 13128
+S
+#13130
+Shogun of Shin~
+   You stand in the chamber dedicated to the Shogun of Shin.  His clothing is
+bright and powerful.  His eyes are piercing.  He glares at you, frowns, and
+draws his sword.  He knows why you are here.
+~
+131 8 0
+D2
+The courtyard is south of you.
+~
+~
+0 0 13129
+D4
+Stairs lead upward
+~
+forcefield~
+1 13106 13131
+S
+#13131
+Eighth Floor Landing~
+   You have finally reached the eighth floor, the final floor in this bizarre
+and twisted world that mirrors ancient Japan.  But wait a minute, you glance
+out a nearby window and find that you are not at the top yet.  You sigh and
+continue onward.
+~
+131 8 0
+D2
+South of here is something.
+~
+~
+0 0 13132
+D3
+West of here is something.
+~
+~
+0 0 13133
+S
+#13132
+Shogun of Tei~
+   You stand before the Shogun of Tei.  This Shogun is the man you always see
+in ancient pictures who is helping the aged and humble.  You find that this man
+looks at you with a caring glance and almost shows you pity before he draws his
+weapon.  
+~
+131 8 0
+D0
+A landing is north of you.
+~
+~
+0 0 13131
+D4
+Stairs lead upwards from here.
+~
+forcefield~
+1 13107 13135
+S
+#13133
+An Empty Room~
+   You are in an empty room.  There is nothing in the room.  Furniture is not
+here, lights are not here (although the walls DO glow).  It's rather odd.
+~
+131 8 0
+D1
+A landing is to your east.
+~
+~
+0 0 13131
+D2
+Something lies to your south.
+~
+~
+0 0 13134
+S
+#13134
+Musty Room~
+   You are in a musty room.  You see some older, more experienced samurai here
+in a semicircular group around a mark on the floor.  They glance up at you and
+scream death cries.  You kinda stumbled in on a private party . . .
+~
+131 8 0
+D0
+North of here is an empty room.
+~
+~
+0 0 13133
+S
+#13135
+The Top~
+   You have finally reached the top of the temple!  You find yourself staring
+face to face with the ultimate Samurai himself.  His presence is overwhelming!
+Many people have made guesses about death and dying.  Looks like your questions
+will soon be answered.
+~
+131 8 0
+S
+$~

@@ -1,0 +1,29 @@
+@Version: 2
+#39
+Wardome - Old Thalos Library~
+3999 30 2 1 -1
+M 0 3903 10 3920 	(The Library Mage)
+E 1 3902 10 0 	(a small ball of light )
+M 0 3906 1 3920 	(Denubis Manager)
+E 1 3905 1 22 	(the dirty key)
+M 0 3902 10 3920 	(a Scholar)
+O 0 3900 1 3920 	(a dirty chest)
+P 1 3904 1 3900 	(The Book of Blindness)
+M 0 3905 1 3902 	(Parlin Majere)
+E 1 3901 1 16 	(&bMajere&n Staff)
+M 0 3901 2 3901 	(The Metal Golem)
+E 1 3903 2 22 	(a soulrune Stone )
+M 0 3902 4 3901 	(a Scholar)
+M 0 3903 10 3901 	(The Library Mage)
+M 0 3903 10 3904 	(The Library Mage)
+E 1 3902 10 0 	(a small ball of light )
+M 0 3903 10 3905 	(The Library Mage)
+E 1 3902 10 0 	(a small ball of light )
+M 0 3904 1 3919 	(Sora, the thief)
+M 0 3903 10 3915 	(The Library Mage)
+M 0 3903 10 3906 	(The Library Mage)
+M 0 3903 10 3903 	(The Library Mage)
+M 0 3900 2 3900 	(the Library Guardian)
+M 0 3900 2 3900 	(the Library Guardian)
+S
+$

@@ -1,0 +1,80 @@
+#26600
+Galahar~
+Galahar, o feio~
+O feio Galahar esta aqui. Digite : kill galahar para ataca-lo.
+~
+Que bicho feio!!! Cruz credo Satanas!!!
+~
+10 0 0 E
+1 20 10 1d1+18 5d1+0
+15 196 0
+8 8 0 3 0
+E
+#26601
+orc~
+Um orc retardado~
+Um orc meio retardado esta aqui.
+~
+Eh um tipico orc : feio, fraco e burro.
+~
+8 0 0 E
+1 20 10 1d1+18 5d1+0
+15 215 0
+8 8 1 0 5
+E
+#26602
+astrain~
+Astrain, the ugly~
+Astrain, the ugly stands here. Type 'kill astrain' to kill him.
+~
+Astrain, how ugly!!! It is uglier than beating the mamma!!!
+~
+10 0 0 E
+1 20 10 1d1+18 5d1+0
+15 215 0
+8 8 1 0 0
+E
+#26603
+orc~
+a dumb orc~
+A dumb orc stands here.
+~
+It is a normal orc : Ugly, weak and dumb.
+~
+8 0 0 E
+1 20 10 1d1+18 5d1+0
+15 215 0
+8 8 1 0 5
+E
+#26604
+ajudante newbie~
+Ajudante~
+O Ajudante de Newbie esta aqui. qq duvida Digite 'Say Quero Ajuda'
+~
+
+~
+10 0 0 E
+1 20 10 1d1+18 5d1+0
+15 215 0
+8 8 0 0 0
+E
+T 26600
+T 26601
+T 26602
+T 26603
+T 26604
+T 26605
+T 26606
+T 26607
+T 26608
+T 26609
+T 26610
+T 26611
+T 26613
+T 26614
+T 26615
+T 26616
+T 26617
+T 26618
+T 26619
+$

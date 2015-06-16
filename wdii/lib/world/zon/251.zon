@@ -1,0 +1,22 @@
+@Version: 2
+#251
+Wardome - Old Camelot~
+25199 35 2 1 -1
+D 0 25105 0 1 	(The road to Camelot)
+M 0 25199 1 25111 	(King Arthur)
+E 1 25120 1 16 	(the sword Excalibur)
+D 0 25111 2 1 	(The Throne of King Arthur.)
+O 0 25101 1 25104 	(the golden chest)
+M 0 25101 1 25104 	(the thief)
+G 1 25102 100 -1 	(a golden key)
+P 1 17307 10 25101 	(the holy grail)
+D 0 25102 3 1 	(The road to Camelot)
+M 0 25102 25 25102 	(the Guardian of Camelot)
+M 0 25102 25 25102 	(the Guardian of Camelot)
+M 0 25102 25 25102 	(the Guardian of Camelot)
+M 0 25102 25 25102 	(the Guardian of Camelot)
+M 0 25110 1 25110 	(the weaponsmith of the village)
+G 1 25110 100 -1 	(a metal dagger)
+D 0 25103 1 1 	(Before the tree)
+S
+$

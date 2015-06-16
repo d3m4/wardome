@@ -1,0 +1,424 @@
+#9700
+oldstyle zeus god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+14 8362 1000 E
+200 -80 -20 1d1+5592 5d21+80
+3000 21657860 0
+8 8 1 5 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9701
+oldstyle prometheus~
+Prometheus~
+Prometheus is here, playing with a match.
+~
+This mortal risked the wrath of Zeus to give the gift of fire to humans.  He
+looks up at you and smiles.
+~
+14 8362 1000 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 1 3 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9702
+oldstyle hermes~
+Hermes~
+Hermes is busy, delivering a message.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+12 270506 1000 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 1 3 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9703
+oldstyle poseidon~
+Poseidon~
+Poseidon is dining here.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+14 8362 1000 E
+200 -80 -20 1d1+5592 5d21+80
+3000 23823646 0
+8 8 1 9 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9704
+oldstyle apollo~
+Apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is strumming on a lyre.  He smiles at you and asks you to
+join him.  You notice a dangerous looking bow by his side, however, and think
+that he knows more than music.
+~
+14 8362 1000 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 1 3 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#9705
+oldstyle ares~
+Ares~
+Ares is here, kicking your ass.
+~
+The God of War is here, studying some maps.  He scowls at you as you enter
+and says 'I am very busy.  What do you want?'
+~
+46 170 -1000 E
+190 -75 -18 1d1+5316 5d20+76
+2850 20508506 0
+8 8 1 8 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9706
+oldstyle athena~
+Athena~
+Athena is relaxing here.
+~
+Zeus' favorite daughter is sitting on a couch eating grapes.  She smiles at
+you and invites you to join her.
+~
+14 8362 1000 E
+195 -77 -19 1d1+5460 5d20+78
+2925 22124723 0
+8 8 2 11 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9707
+oldstyle hephaestus smith~
+Hephaestus~
+Hephaestus the Smith is here, crafting a fine weapon.
+~
+This God is the only one who is not physically perfect.  He is lame and very
+ugly.  You get the impression that he is kind, however, and would go out of his
+way to help you.  He is attended by three golden maidens.
+~
+14 8362 1000 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 1 10 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#9708
+oldstyle handmaid golden~
+a Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+14 8362 0 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 2 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9709
+oldstyle soldier~
+a Soldier~
+A soldier is here, assisting Ares.
+~
+This man is waiting on Ares.  Although he does not look very strong, you
+realize that Ares would not have any weaklings working for him.
+~
+46 170 0 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#9710
+oldstyle musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+14 170 1000 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9711
+oldstyle boy serving servant~
+a serving boy~
+A servant is here, feeding Athena her grapes.
+~
+This boy is truly lucky to be able to serve Athena herself.
+~
+14 170 1000 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9712
+oldstyle hound dog war~
+a hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+46 170 -600 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9713
+oldstyle Odin~
+Odin~
+Odin is resting here.
+~
+As you gaze at Odin, you realize how insignificant you truly are.  He towers
+over you, and is so intent on his activities that he barely recognizes your
+presence.
+~
+14 8362 1000 E
+200 -80 -20 1d1+5592 5d21+80
+3000 21657860 0
+8 8 1 5 -1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#9714
+oldstyle grocer greengrocer julius~
+Julius the Green Grocer~
+Julius the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+24590 8362 1000 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9715
+oldstyle alchemist~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the citizens here (but not you) with all manner of
+arcane supplies.
+~
+14 8362 1000 E
+185 -72 -17 1d1+5172 5d19+74
+2775 18972934 0
+8 8 1 9 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9716
+oldstyle clive~
+Clive the Weapons Master~
+Clive the Weapons Master is practicing with his bow and axe.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+14 8362 1000 E
+195 -77 -19 1d1+5460 5d20+78
+2925 20113385 0
+8 8 1 10 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#9717
+oldstyle armourer samuel~
+Samuel the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+46 8362 1000 E
+195 -77 -19 1d1+5460 5d20+78
+2925 20113385 0
+8 8 1 3 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#9718
+oldstyle ra sun god~
+Ra the Sun God~
+Ra the Egyptian Sun God is resting here.
+~
+Ra is very bright!  It hurts your eyes to look at him, so you can tell little
+about his appearance.  What you can tell, however, suggests that he is no one
+to be trifled with.
+~
+509966 1116741802 1000 E
+200 -80 -20 1d1+5592 5d21+80
+3000 23823646 0
+8 8 1 0 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#9719
+oldstyle chimera~
+a chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+46 170 -1000 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9720
+oldstyle hera~
+Hera~
+Hera is here.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+32782 8362 1000 E
+195 -77 -19 1d1+5460 5d20+78
+2925 22124723 0
+8 8 2 1 -1
+Att2: 100
+Att3: 98
+Att4: 69
+E
+#9721
+oldstyle roc~
+a roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+12 532650 0 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9722
+oldstyle citizen resident~
+a citizen~
+A citizen of this town is strolling down the street here.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+76 8362 1000 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+#9723
+oldstyle pegasus horse~
+a pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+76 8362 0 E
+190 -75 -18 1d1+5316 5d20+76
+2850 18644097 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 96
+Att4: 66
+E
+#9724
+oldstyle cook~
+a Cook~
+A cook is here, hard at work.
+~
+This man looks as is he has been spending WAY too much time in the kitchen.
+~
+14 8362 1000 E
+185 -72 -17 1d1+5172 5d19+74
+2775 17248122 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 92
+Att4: 63
+E
+#9725
+oldstyle jailer~
+the Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+14 8362 0 E
+180 -70 -17 1d1+5040 5d19+72
+2700 15923585 0
+8 8 1 -1 -1
+Att2: 100
+Att3: 90
+Att4: 60
+E
+$

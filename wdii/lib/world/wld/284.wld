@@ -1,0 +1,576 @@
+#28400
+Swiming...~
+  You are swiming about 15 meters above the surface.
+You see a cave over down.The water is so cold...
+~
+284 8 6
+D4
+~
+~
+0 -1 1803
+D5
+Below you see a big hole in the floor.
+~
+~
+0 0 28401
+S
+#28401
+The Bermude s Triangle~
+  You are swiming by a large hole in the floor, a ladder leads down into the  
+darkness and you feel frightened.
+~
+284 16777369 6
+D4
+Above you see a little more light. 
+~
+~
+0 0 28400
+D5
+Below will take you closer to the ground. . . it looks safer.  
+~
+~
+0 0 28402
+S
+#28402
+A hole~
+  You are by a hole in the floor, exits are up or south.
+~
+284 9 6
+D2
+To the south lies a dark fissure. 
+~
+~
+0 0 28403
+D4
+Above you is the path back towards waters... you might better head that way. 
+~
+~
+0 0 28401
+S
+#28403
+Entrance to Fissure~
+  You find yourself standing in the entrance to the ground between two
+enormous rocks.In the south you notice a hole.                              
+~
+284 9 6
+D0
+North of you is the exit to the fissure out. 
+~
+~
+0 0 28402
+D2
+South you notice a entrance between the enormous rocks. 
+~
+~
+0 0 28404
+S
+#28404
+Fissure~
+  You find yourself in a dark big fissure between rocks.the wather its
+so dark and cold.
+  You can go to east or flee as quick as you can.
+~
+284 9 6
+D0
+North of you is the exit to the fissure. 
+~
+~
+0 0 28403
+D1
+East if you wanna continue this way. 
+~
+~
+0 0 28405
+S
+#28405
+Still the Firrure~
+  The path proceeds to north, but is too dark to see something clear at all.
+You feel a strange vibrations...LOOK OUT!
+~
+284 9 6
+D0
+North to go on. 
+~
+~
+0 0 28406
+D3
+Its to dark to see. 
+~
+~
+0 0 28404
+S
+#28406
+The Cave Entrance~
+  You see a large cave filled with stalagmites and stalagtites immersed
+below. A big rock close this way.
+  You can diving to a corridor to the south. You get no more light!            
+~
+284 9 6
+D2
+To the south go back. 
+~
+~
+0 0 28405
+D5
+~
+rock~
+1 -1 28407
+S
+#28407
+The dark submersed cave~
+  You are in a giant cave, all the walls are shining with a soft golden light.
+The cave continues to the south and there is a small passage to west.
+~
+284 9 6
+D2
+South lead to another way. 
+~
+~
+0 0 28409
+D3
+To the west is another way. 
+~
+~
+0 0 28408
+D4
+A dark stairway leads you downward. 
+~
+~
+0 0 28406
+S
+#28408
+Another Cave~
+  You find yourself in another cave similar to that you just came from.
+You can't particularly tell any differences in this cave at all. 
+~
+284 8 6
+D1
+East leads back where you came from. 
+~
+~
+0 0 28407
+S
+#28409
+Yet Another Cave~
+  You find yourself standing in yet another cave. Your mind reels as you
+discover this cave is the same as the one you just came from! 
+~
+284 8 6
+D0
+North is where you came from. 
+~
+~
+0 0 28407
+D1
+East leads to a cave that LOOKS different. 
+~
+~
+0 0 28410
+S
+#28410
+The Entrance~
+  You are standing by a large entrance in the floor. The entrance measures
+ten meters in height and five meters in width.a Big rock obstruct your passage.
+  Maybe you should turn back while you can. 
+~
+284 8 6
+D1
+East is where you came from. 
+~
+~
+0 0 28409
+D5
+~
+entrance~
+1 -1 28411
+S
+#28411
+Another Dark Cave~
+  You find yourself on a dark landing of third floor down the surface.
+Your legs ache from all the swiming and you wonder to yourself exactly how
+many floors this place has.
+~
+284 8 6
+D1
+East: A tunel apears!
+~
+~
+0 -1 28412
+S
+#28412
+Large Tunel~
+  You find yourself in a enormous tunel full of water creatures.
+  No time to lose! Get your weapon and fight for your life!
+~
+284 257 6
+D0
+To the north you hear roars. 
+~
+~
+0 0 28413
+D3
+The west is where you were a minute ago! 
+~
+~
+0 0 28411
+S
+#28413
+Large Tunel~
+  So Many red eyes...Guess what?
+~
+284 257 6
+D2
+South to back to tunel . 
+~
+~
+0 0 28412
+D3
+You see a tunel continuation. 
+~
+~
+0 0 28414
+S
+#28414
+End of Tunel~
+  You find yourself in the Coral walls with a fissure below
+  You notice more creatures. You better get your COMBO ... 
+~
+284 257 6
+D1
+Sounds of roars come from the east. 
+~
+~
+0 0 28413
+D5
+~
+fissure~
+1 -1 28415
+S
+#28415
+A new awesome ambient~
+  You have come down into a new plane. The cold here isnt so intense.
+A huge coral wall with strange symbols is to the south.
+  It seems to radiate light from itself.
+~
+284 8 6
+D2
+You see a radiate light from itself.
+~
+~
+0 0 28416
+D4
+Back to tunel. 
+~
+~
+0 0 28414
+S
+#28416
+Strange Entryway~
+  Arcane symbols cover the coral wall.
+It looks like some magical place to another plane.
+~
+284 8 6
+D0
+A swiming is to your north. 
+~
+~
+0 0 28415
+D1
+The entryway is to your east. 
+~
+~
+0 0 28417
+S
+#28417
+Strange Entryway~
+  Arcane symbols cover the enormous two coral wall.
+It looks like some magical place to another plane.
+  All that you can see are the reds of their eyes...
+...and they are comming for you... 
+~
+284 8 6
+D0
+You can see more light to the north.
+~
+~
+0 0 28418
+D3
+To the weast is where you were a minute ago!  
+~
+~
+0 0 28416
+S
+#28418
+Unbelievable!!~
+  You are standing in front of a big sign:
+
+    DO NOT ENTER! ALL INTRUDERS MUST DIE!
+
+  You recognize this words...HUMANOID WORDS!
+~
+284 8 6
+D2
+Entryway lies to the south. 
+~
+~
+0 0 28417
+D5
+~
+rock~
+1 -1 28419
+S
+#28419
+The Lost City of Atlantis~
+  Thats the Legendary Lost submerce city of Atlantis.
+There is no monsters here.You cant see humanoids figures... with tridents.
+   Oh no...
+~
+284 16777224 6
+D2
+South: you can see a big coral reef. 
+~
+~
+0 0 28420
+D3
+You can hear shouts come from west. 
+~
+~
+0 0 28421
+S
+#28420
+The South Reef of Atlantis~
+  You are standing inside of the south reef of Atlantis. There are two tall
+walls, impossible to pass. From which the guards can see a whole north side
+of the city.
+~
+284 8 6
+D0
+A landing is to your north. 
+~
+~
+0 0 28419
+S
+#28421
+The Guard Post~
+  The hall here has been built into a guard post of sorts. It appears as      
+though it would be quite easy to defend in times of emergency. Obviously,      
+something important lies beyond. A small hall leads south, while the main hall 
+can be seen to the south.                                                      
+~
+284 8 6
+D1
+A landing is to your east. 
+~
+~
+0 0 28419
+D2
+The Security refuge  is south of you. 
+~
+~
+0 0 28422
+S
+#28422
+The Refuge Gates of the Atlantis~
+  You see a huge pair of gates. These gates appear to be carved almost
+completely out of coral reef. A huge city appears to be on the other side of
+these gates. There is also a impossibility of go ahead.
+  Many citizens look directly to you, "the killer!" - they say.
+From the other side,about 50 Guards are throw their tridents.
+They are completely save  behind the gates...  
+  There is a closed tunel on the ground thats looks like a Jail.FLEE!
+~
+284 8 6
+D0
+The guard post is north of you. 
+~
+~
+0 0 28421
+D2
+~
+~
+0 -1 28502
+D5
+~
+tunnel~
+1 0 28423
+S
+#28423
+The Aqua Hero Resistence~
+  Many legandary heroes are the Peacekeeper of this holy place.
+No one in.No one out.To watch de Prison Mosters. To kill all intruders...
+   
+~
+284 8 6
+D0
+A strange humming is north of you. 
+~
+~
+0 0 28424
+D3
+Yet another antechamber is west. 
+~
+~
+0 0 28425
+D4
+Up is where you came from. 
+~
+tunnel~
+1 0 28422
+S
+#28424
+The Aqua Hero Resistence~
+  Many legandary heroes are the Peacekeeper of this holy place.
+No one in.No one out.To watch de Prison Mosters. To kill all intruders...
+~
+284 8 6
+D2
+A landing is south of you. 
+~
+~
+0 0 28423
+S
+#28425
+The Aqua Hero Resistence~
+  Many legandary heroes are the Peacekeeper of this holy place.
+No one in.No one out.To watch de Prison Mosters. To kill all intruders...
+~
+284 8 6
+D0
+Too dark to tell. 
+~
+~
+0 0 28426
+D1
+The new path is to your east. 
+~
+~
+0 0 28423
+S
+#28426
+End of Aqua Hero Resistence~
+  Many legandary heroes are the Peacekeeper of this holy place.
+  No one in.No one out.To watch de Prison Mosters. To kill all intruders...
+~
+284 8 6
+D2
+The antechamber is to the south. 
+~
+~
+0 0 28425
+D5
+~
+entrance~
+2 -1 28431
+S
+#28431
+Poseidon Throne~
+  You have done it now. You are at the very most depths of Sea. Before
+you stands the altar of none other than the god of 7 seas himself.
+The Lord of Oceans, Poseidon. 
+~
+284 32768 6
+D2
+South of here is something. 
+~
+~
+0 0 28432
+D3
+~
+gate~
+2 28418 28433
+S
+#28432
+Monsters Prison~
+A Sign:
+  By the power of Poseidon,the god of gods,this cruel creatures now are here:
+          Seamon & Seagora who mutiled body of thousands.
+          Godzila who bring pain, agony e suffer to all lands in this world. 
+Sacifices are avaliable only when ground shakes and the terrible roars begins.
+~
+284 136 6
+D0
+A landing is north of you. 
+~
+~
+0 0 28431
+D5
+~
+gate~
+2 28418 28435
+S
+#28433
+SeaGora Prison~
+  Sign:
+       You better keep out! This is a SeaGora Prison.
+~
+284 9 6
+D1
+A landing is to your east. 
+~
+~
+0 0 28431
+D2
+~
+gate~
+2 28418 28434
+S
+#28434
+SeaMon Prison~
+  You can see huge bars who close a enormous cave.
+  Its possible though it, but its not a good idea.
+~
+284 9 6
+D0
+North of here is an empty room. 
+~
+~
+0 0 28433
+S
+#28435
+To live is To die~
+  Say what?
+IS THE KRA...KRAKEN!
+~
+284 9 6
+D4
+~
+~
+0 -1 28436
+D5
+~
+gate~
+2 28425 -1
+S
+#28436
+Bermude s Triangle~
+  You cant believe!
+Back to Bermude s Triangle way?
+  Thats the Awesome magic place.isnt it?
+~
+284 265 6
+D4
+~
+~
+0 -1 28437
+D5
+~
+~
+0 -1 28435
+S
+#28437
+Bermude s Triangle~
+  You still cant felling that strange sensation.
+You can not evoke your magic power.
+  This tunel continues above.
+~
+284 393 6
+D4
+~
+~
+0 -1 500
+D5
+~
+~
+0 -1 28436
+S
+$~
