@@ -28,7 +28,7 @@
 *.x86_64
 *.hex
 
-.DS_Store
+**/.DS_Store
 
 config.cache
 config.log
@@ -36,4 +36,4 @@ config.status
 
 # Debug files
 *.dSYM/
-bin/*
+wdii/bin/*
