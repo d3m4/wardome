@@ -30,6 +30,10 @@
 
 .DS_Store
 
+config.cache
+config.log
+config.status
+
 # Debug files
 *.dSYM/
 bin/*
