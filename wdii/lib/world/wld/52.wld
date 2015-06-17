@@ -5,8 +5,8 @@ steel gates have been forced open and have rusted in place.  A hollow
 gust of wind blows by you into the deserted, and seemingly destroyed,
 city.
 ~
-52 16777216 1
-D1
+52 0 1
+D1 
 The desert sands stretch on for miles and miles.
 ~
 ~
@@ -488,7 +488,7 @@ the floor as if some massive battle had taken place here.  Draped along
 the back wall is a tattered, jet-black banner with the symbol of the
 Darkside set upon it.
 ~
-52 8 1
+52 d 1
 D1
 A small side street runs past the building.
 ~
@@ -519,7 +519,7 @@ The Smithy~
 and items.  The walls have been stripped clean and only a few incomplete
 pieces of armor and weaponry are left.
 ~
-52 8 1
+52 d 1
 D1
 A small side street runs past the building.
 ~
@@ -609,7 +609,7 @@ A Ruined Clay Dwelling~
 and a bed.  A cold fireplace suggests that the city has been abandoned
 for quite a while.  Almost nothing remains of this humble abode.
 ~
-52 8 1
+52 d 1
 D1
 Outside is a small side street.
 ~
@@ -651,7 +651,7 @@ but inside these cramped quarters you discover what used to be a shop
 filled with armor, weapons, and various other goods.  A small sign
 flutters in the wind.
 ~
-52 8 1
+52 d 1
 D3
 A small side street runs past the shop.
 ~
@@ -682,7 +682,7 @@ and most of the valuable items have been taken, leaving worthless debris.
 A few chairs have survived, as well as a large curved desk.  To the east
 is a vine-covered archway leading out into a private courtyard.
 ~
-52 8 1
+52 d 1
 D0
 The long hallway leads back to the main reception area of the city hall.
 ~
@@ -701,7 +701,7 @@ A large gaping hole in the west wall allows you to see out to one of
 the city's side streets.  Obviously no one will be seeing you through today.  
 Hallways lead south and east.
 ~
-52 8 1
+52 d 1
 D0
 Main street runs past the city hall.
 ~
@@ -722,7 +722,7 @@ D3
 ~
 0 -1 5212
 S
-#5233
+#5233 
 The East Wing Of The City Hall~
    Here lies the remnants of a fancy office, possibly the mayor's.  A few
 withered plants and broken pieces of furniture make this place anything
@@ -730,7 +730,7 @@ but fancy, though.  The only thing remaining intact here is a large
 glass cabinet.  A long hallway leads west back to the reception area and
 an ivy-covered archway leads south into a private courtyard.
 ~
-52 8 1
+52 d 1
 D2
 ~
 ~
@@ -766,7 +766,7 @@ A Small Guard House~
 shell, this small shack still stands guarding the entrance both to the
 city and to the city hall.
 ~
-52 8 1
+52 d 1
 D0
 Main street runs by this building.
 ~
@@ -795,7 +795,7 @@ entrance into another building through yet another collapsed wall.
 Between the two buildings are a few blast craters and boulders.  An old
 set of wooden steps leads up to a creaking second floor.
 ~
-52 8 1
+52 d 1
 D1
 ~
 ~
@@ -820,7 +820,7 @@ find broken shelves and workbenches with various vials and pouches spilling
 contents all across the floor.  This was possibly the magic shop of the
 city.  The doorway to the east is blocked, making the only exit back west.
 ~
-52 8 1
+52 d 1
 D3
 ~
 ~
@@ -891,7 +891,7 @@ yields a dead body floating around in it, skin melted away from months
 of floating in there.  The west wall has collapsed revealing another
 collapsed house.
 ~
-52 8 1
+52 d 1
 D0
 ~
 ~
@@ -932,7 +932,7 @@ Except for the massive hole in the east wall, everything else looks
 intact, including the windows.  Great amounts of steam issue forth from
 the hole in the east wall.
 ~
-52 8 1
+52 d 1
 D1
 ~
 ~
@@ -949,7 +949,7 @@ On The Second Floor~
 The old rotted floorboards suddenly give way and you fall down, impaling
 yourself on jagged boards below.
 ~
-52 10 1
+52 bd 1
 S
 #5246
 The North-West Watchtower~
@@ -985,7 +985,7 @@ from here and you the desert sand stretches to the horizon.  No wonder
 this place stood for so long.  The ladder leading down seems rotted in
 some places!
 ~
-52 4 1
+52 c 1
 D5
 The city lies below... far, far below.
 ~
@@ -997,7 +997,7 @@ Under A Watchtower~
    As you descend the ladder, the rotted rungs break, sending you quickly
 to your demise far below on the city street.  Splat.
 ~
-52 10 1
+52 bd 1
 S
 #5250
 The Temple Of Thalos~
@@ -1010,9 +1010,8 @@ you.  A few books lie about, conveying to you a holy message in a
 strange tongue.  
      Wind gusts through the four archways and howls and screams can be
 heard from all parts of the city.
-    Looking up, you can see many shelfs, its looks like a library.
 ~
-52 12 1
+52 cdh 1
 D0
 A side street leads to the northern half of the city.
 ~
@@ -1033,66 +1032,5 @@ The market place lies this way.
 ~
 ~
 0 -1 5205
-D4
-~
-~
-0 0 3900
 S
-#5251
-The Entrance to the great library~
-   You stand now where one day was the entrance hall for the great library of
-Thalos.  Looking around you find some statues with different forms, which vary
-from lions to something you remember as from a nightmare.  All around you can
-notice that this place is not used for years, thick layers of dust gather here,
-some statues are broken, the remaining statues look so alive...  You can go
-inside by north or go back to the city.    
-~
-52 5 9
-D5
-~
-~
-0 0 5250
-S
-#5252
-The Main Hall~
-   You stand in a huge room, with smooth white walls, burned in some places,
-some kind of light iluminates this place, you can't really see from where it
-comes from, scary...  This must be the First Hall considering all the chairs
-and tables, and also this light...  Here you hear the scholars warcry, this
-horrible sound seems to go forever....  You see shadows moving near the walls.
-The room becomes a corridor to the north, and to small rooms to east and west.
-~
-52 32 9
-S
-#5253
-A Transcription room~
-   The room is really plain..  The only things you see around are chairs and
-small tables, something special about this room you can notice is the fact
-there is not dust on the floor, nor in the tables.  In here you can breath a
-pure and smooth air, first time since you came in...  After a while you notice
-a robed figure in one of the tables, staring at you.  You can leave to west
-trough the door.    
-~
-52 32 9
-S
-#5254
-Study Room~
-   The room is very plain...  This room is illuminated by some glowing
-fireballs, the room is not destroyed at all, some chairs are broken...  And
-some tables are turned upside down but that is all, the same dust you saw back
-there is here...  Some mages, or shadows, gather here studing, they dont seem
-aware of your presence.  You can only leave the room by the entrance.    
-~
-52 32 9
-S
-#5255
-A Narrow Way~
-   You walk in a very dark and narrow corridor, this corridor takes you
-straight ahead in a slimy path.  Oh, its really slippery.  The walls are quite
-plain.  No much to see around, just a corridor, just a corridor...  You can
-keep straight and find to where the corridor leads or back to the Main Hall in
-the south..    
-~
-52 33 9
-S
-$~
+$

@@ -1,0 +1,286 @@
+#7000
+mudmonster mud monster~
+the horrifying Mudmonster~
+A horrifying Mudmonster is slowly evolving from the mud...
+~
+It sure looks like something out of a horror movie.  It strongly resembles
+a huge figure made up from mud alone, and it sure looks like it had human 
+flesh for breakfast and is strongly intent on having the same for dinner
+- Perhaps you?
+~
+196680 263168 -250 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+6 8 0 -1 -1
+Att2: 15
+E
+#7001
+bat small fierce~
+the small bat~
+The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
+~
+You have never in your entire life seen such a mean looking small creature,
+though it looks rather peaceful, hanging there, sleeping.  The thought of 
+arousing this cruel creature doesn't sit well in your bones.
+~
+131176 263168 -500 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+4 8 0 -1 -1
+Att2: 6
+E
+#7002
+rat sewer~
+the sewer rat~
+The huge hungry-looking sewer rat sits here.
+~
+This creature is fairly large for a rat, but not so big that it could
+be called a giant rat.  Sewer water drips off of its grey fur as it
+looks at you with black glistening eyes.
+~
+40 1024 -1000 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#7003
+spider small hairy~
+the small Spider~
+The small hairy Spider is here, busy with its web.
+~
+This small spider seems to pay you no attention at all as it builds
+its intricately designed web.
+~
+40 263168 -700 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+8 8 0 -1 -1
+Att2: 6
+E
+#7004
+beetle giant earth~
+the giant earth beetle~
+The giant, mean-looking earth beetle is here.
+~
+Now, you've seen beetles, but this one is enormous.  It stretches
+perhaps two feet from head to tail.  As it notices you, it waves
+its six legs about and makes some strange skittering noises at you.
+~
+8 1024 -300 E
+12 14 8 1d1+252 5d2+4
+180 10839 0
+4 8 0 -1 -1
+Att2: 12
+E
+#7005
+maggot giant~
+the maggot~
+The giant maggot is here, simply existing.
+~
+This large mound of grotesque flesh is just lying here quivering,
+almost as if it can sense your warm blood nearby.
+~
+196616 1024 300 E
+8 16 8 1d1+162 5d1+2
+120 4344 0
+8 8 0 -1 -1
+Att2: 9
+E
+#7006
+snake~
+the snake~
+The snake slithers towards you. It looks very mean.
+~
+This snake is of a variety that you do not recall seeing recently.
+It has near black skin with small white diamond shaped spots all
+over its head and upper body.  A thin green stripe stretches along
+each side of its body.
+~
+41 1024 -500 E
+8 16 8 1d1+162 5d1+2
+120 4344 0
+8 8 0 -1 -1
+Att2: 9
+E
+#7007
+wanderer evil~
+the evil wanderer~
+The evil wanderer stares at you with a piercing gaze.
+~
+The evil wanderer is very thin.  He is dressed in a grey cloak.  He
+doesn't look like he'd be your first choice as a travelling companion.
+~
+140 32 -1000 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 1 -1 -1
+Att2: 9
+E
+#7008
+homunculus creature~
+the creature homunculus~
+The creature homunculus is here, looking at you with an evil look.
+~
+The homunculus appears in a man-like form, about eighteen inches tall,
+has a greenish, reptilian skin, leathery wings, and a batlike mouth,
+with teeth dripping with a greenish sludge.
+~
+57352 40 -780 E
+11 15 8 1d1+225 5d2+4
+165 8859 0
+8 8 0 -1 -1
+Att2: 12
+E
+#7009
+morkoth shadowy~
+the shadowy morkoth~
+The morkoth are standing here, waiting for someone to KILL!
+~
+It is a five foot tall, shadow monster.  This has the shape between
+a human and a rat.  It breaths very heavily while staring at you.
+~
+169 32 -900 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 0 -1 -1
+Att2: 15
+E
+#7010
+chr-eff'n chreffn~
+the evil chr-eff'n~
+The chr-eff'n are crawling here, looking around with its yellow eyes.
+~
+The head and torso of a chr-eff'n is copper-covered, with yellow,
+glowing eyes.  The lower body is in an orange shading.
+~
+140 263176 -830 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 0 -1 -1
+Att2: 15
+E
+#7040
+dragon red~
+the red dragon~
+The fierce-looking red dragon stares at you angrily.
+~
+The red dragon stares at you, angrily, as it wakes when you arrive.
+It says 'Oh, human YOU woke me up... Hsssss', while it moves closer,
+'Can one NEVER sleep in peace... Hssss... '
+~
+90170 33928 -1000 E
+50 -5 2 1d1+1044 5d6+20
+750 459442 0
+8 8 0 0 -1
+Att2: 54
+Att3: 12
+E
+#7041
+hag sea~
+the sea hag~
+A sea hag is here, swimming around.
+~
+The sea hag is so ghastly looking that you feel the deepest fear:  Big
+yellow eyes and sharp teeth.  Its ears are very big, and it has small
+sharp horns.  This beast is obviously a hater of beauty.
+~
+40 1024 -800 E
+14 13 7 1d1+288 5d2+4
+210 15601 0
+8 8 2 -1 -1
+Att2: 15
+E
+#7042
+naga guardian~
+the guardian naga~
+The guardian naga looks kindly at you.
+~
+The naga are a snake-liked creature.  She is covered in green-gold scales
+with silvery triangles along her back.  Her eyes are golden.  She notices
+that you are staring at her, and she says 'Watch out.  This way leads to
+some evil creatures.'
+~
+10 1024 700 E
+12 14 8 1d1+252 5d2+4
+180 10839 0
+8 8 2 3 -1
+Att2: 12
+E
+#7043
+basilisk scaled~
+the scaled basilisk~
+The scaled basilisk crawls towards you slowly.
+~
+The basilisk is a reptilian monster.  It has eight legs, and a strong,
+toothy jaws.  It is dull brown with yellowish underbelly.  Its eyes are
+glowing pale green.
+~
+12 1064 -250 E
+13 14 8 1d1+270 5d2+4
+195 13081 0
+8 8 0 -1 -1
+Att2: 12
+E
+#7044
+lemure blob~
+the lemure~
+The lemure blob slithers towards you for an attack!
+~
+This looks like a vaguely human blob.  Big black yellow eyes, and a mouth
+going a little bit out from the face.  The lemure does not look interested
+in you at all, but it attacks anyway.  It looks like its mind has been
+burned out.
+~
+73768 1024 -500 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+8 8 0 -1 -1
+Att2: 6
+E
+#7045
+jones cruncher ettin~
+Jones 'cruncher' ettin~
+Jones is standing here glaring at you.
+~
+At the first sight you thought Jones was an Orc, but when he came closer you
+see his second head.  He wears an animal skin dress, filthy and moth eaten. 
+Jones really stinks...
+~
+12 1024 -480 E
+20 10 7 1d1+414 5d3+8
+300 41126 0
+5 5 1 1 -1
+Att2: 21
+E
+#7046
+herald mouse killer ettin~
+Herald 'the mouse-killer' ettin~
+Herald is standing here looking confused at you.
+~
+When you look at Herald, you feel pity.  His clothes are really poor, and
+one of his heads hangs down.  At the rope around his stomach hangs dead
+mice and rats.  He does not smell good.
+~
+12 1024 200 E
+20 10 7 1d1+414 5d3+8
+300 37388 0
+5 5 1 3 -1
+Att2: 21
+E
+#7050
+slave zombie~
+a Slave looking zombie~
+A slave looking zombie attacks you ordened by someone.
+~
+A common zombie
+~
+520232 177180 0 E
+200 -80 -20 1d1+5592 5d21+80
+3000 21657860 0
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+$

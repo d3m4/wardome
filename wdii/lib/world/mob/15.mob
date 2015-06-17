@@ -7,14 +7,10 @@ The sight is for each man a different, a mirror into the true nature of
 each person's body and soul.  At first a proud, bitter old man, but just
 as easily a gentle extended hand, a smile, and gardens... gardens.
 ~
-256282 16777344 1000 E
-180 -82 -26 1d1+13680 5d37+132
-2700 23354591 6
-8 8 0 1 1
-Att2: 100
-Att3: 85
-Att4: 50
-E
+beilnopqr h 1000 S
+30 -10 -10 1d1+2999 8d8+9
+0 400000
+8 8 1
 #1501
 michael angel archangel~
 Michael~
@@ -24,14 +20,10 @@ At first you see nothing but a bright and comforting glow; then the
 image sharpens suddenly, and you see a face, eyes, hands, but then
 that too fades, and you see nothing.
 ~
-2058 128 1000 E
-170 -77 -24 1d1+12912 5d35+128
-2550 19772606 6
-8 8 1 1 -1
-Att2: 100
-Att3: 80
-Att4: 40
-E
+bl h 1000 S
+29 -6 -7 1d100+1900 6d7+7
+0 280000
+8 8 1
 #1502
 gabriel angel archangel~
 Gabriel~
@@ -41,14 +33,10 @@ Known as the Messenger, it is this angel that has brought the Divine Word
 to the chosen prophets, and in turn brought the Seal of the Prophets on a
 miraculous journey to the holy city of Jerusalem.
 ~
-2058 16777384 1000 E
-170 -77 -24 1d1+12912 5d35+128
-2550 19772606 6
-8 8 1 1 -1
-Att2: 100
-Att3: 80
-Att4: 40
-E
+bl h 1000 S
+29 -6 -7 1d100+1900 6d7+7
+0 280000
+8 8 1
 #1503
 raphael angel archangel~
 Raphael~
@@ -58,15 +46,10 @@ It is impossible to get a solid glance at the archangel.  He is nothing
 that is human, and with a mere whisper, he dispels every image that you
 attempt to create in your mind.
 ~
-256414 17568942 1000 E
-160 -72 -23 1d1+12156 5d33+124
-2400 16576721 6
-8 8 1 1 -1
-BareHandAttack: 7
-Att2: 100
-Att3: 80
-Att4: 30
-E
+bl h 1000 S
+29 -6 -7 1d100+1900 6d7+7
+0 280000
+8 8 1
 #1504
 uriel angel archangel~
 Uriel~
@@ -76,14 +59,10 @@ After the Fall of the bringer of light, the Lord had need for the
 service of a fourth, and it was this angel, Uriel, that rose to the
 highest ranks.
 ~
-2058 128 1000 E
-160 -72 -23 1d1+12156 5d33+124
-2400 16576721 6
-8 8 1 1 -1
-Att2: 100
-Att3: 70
-Att4: 25
-E
+bl h 1000 S
+29 -6 -7 1d100+1900 6d7+7
+0 280000
+8 8 1
 #1505
 cherub cherubin cherubim~
 the cherubin~
@@ -93,14 +72,10 @@ The monster before you seems to be nothing more than a baby or young
 child, wrapped in a glowing white cloth, but as you try to walk past,
 the beast grins and cackles, drawing its sword and blocking the way.
 ~
-10 128 0 E
-150 -67 -21 1d1+11400 5d31+120
-2250 13744937 6
-8 8 2 1 -1
-Att2: 100
-Att3: 60
-Att4: 20
-E
+bf h 0 S
+17 1 0 10d5+260 3d6+4
+0 40000
+8 8 0
 #1506
 jester~
 the jester~
@@ -110,14 +85,10 @@ He is dimly aware of your gaze.  Chuckling softly, you hear him mutter
 something obscure: dragons, the temple, the falling of great empires.
 He laughs at you and takes another drink.
 ~
-10 0 -300 E
-155 -69 -22 1d1+11772 5d31+122
-2325 15116691 6
-6 6 1 1 -1
-Att2: 100
-Att3: 65
-Att4: 36
-E
+b 0 -300 S
+13 6 1 10d2+180 2d8+2
+3450 21000
+6 6 1
 #1507
 jinn sprite~
 the jinn~
@@ -128,14 +99,10 @@ said to be trapped in lamps and bottles, capable of granting all kinds of
 powerful wishes.  To you, it looks like nothing more than an annoying little
 sprite.
 ~
-76 2 0 E
-155 -69 -22 1d1+11772 5d31+122
-2325 15116691 6
-8 8 0 1 -1
-Att2: 100
-Att3: 59
-Att4: 6
-E
+cg b 0 S
+23 0 -2 25d2+400 3d9+3
+0 70000
+8 8 0
 #1508
 man old~
 the slumped old man~
@@ -146,31 +113,23 @@ slackened jaws and pasty white bags sagging under his ugly, hating eyes.
 A tuft of reckless dark hair scatters across his forehead, and his right
 hand shakes and shakes.
 ~
-42 1032 -1000 E
-156 -70 -22 1d1+11856 5d31+122
-2340 15401547 6
-8 8 1 11 -1
-Att2: 100
-Att3: 59
-Att4: 9
-E
+bf dk -1000 S
+26 -4 -5 4d10+840 4d9+6
+34000 180000
+8 8 1
 #1509
 caliph hakim al-hakim~
-Al-Hakim~
+al-Hakim~
 The mad Caliph al-Hakim is here, dissecting a young boy.
 ~
 The darkest skin, and eyes so white.  Covered only in a shoddy woolen
 tunic, he has not bathed in months nor eaten in days, and yet his smile,
 so charming.
 ~
-42 1032 -1000 E
-164 -74 -23 1d1+12456 5d33+124
-2460 16191047 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 80
-Att4: 40
-E
+bf dk -1000 S
+26 -4 -5 4d10+840 4d9+6
+34000 180000
+8 8 1
 #1510
 judas escariot apostle~
 Judas Escariot~
@@ -178,14 +137,10 @@ The wayward apostle approaches slowly, extending his arms in a hug.
 ~
 You see nothing but the sadness of a man who would sell his own God.
 ~
-14 1032 -1000 E
-165 -74 -23 1d1+12540 5d33+126
-2475 16479797 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 74
-Att4: 30
-E
+bc dk -1000 S
+25 -3 -4 5d10+650 4d6+5
+1 145000
+8 8 1
 #1511
 pharoah~
 Pharoah~
@@ -194,14 +149,10 @@ Pharoah has been sent here in retribution for a lifetime of evils.
 Richly clothed and postured in arrogance and love of power, he looks at
 you with nothing more than a smirk of contempt.
 ~
-10 1032 -1000 E
-166 -75 -23 1d1+12612 5d33+126
-2490 16771957 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 77
-Att4: 30
-E
+b dk -1000 S
+25 -3 -4 5d10+650 4d6+5
+25000 145000
+8 8 1
 #1512
 abu bakr first caliph~
 Abu Bakr~
@@ -210,14 +161,10 @@ Abu Bakr, first of the Rashidun, mourns over the death of the Prophet.
 You see a simple man, dressed in dark and unadorned robes, bent over and
 pensive, reliving the memories of a man he never thought would die.
 ~
-10 1032 1000 E
-160 -72 -23 1d1+12156 5d33+124
-2400 15069747 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 68
-Att4: 30
-E
+b dk 1000 S
+25 -3 -4 5d10+650 4d6+5
+25000 145000
+8 8 1
 #1513
 umar second caliph~
 Umar~
@@ -227,14 +174,10 @@ You are amazed at the piety of the man.  He looks at you in sadness,
 saying: "I do not wish to fight you, but if you refuse the truth of
 the Word, then I must."
 ~
-10 1032 1000 E
-170 -77 -24 1d1+12912 5d35+128
-2550 17975097 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 77
-Att4: 24
-E
+b dk 1000 S
+25 -3 -4 5d10+650 4d6+5
+25000 145000
+8 8 1
 #1514
 uthman third caliph~
 Uthman~
@@ -245,14 +188,10 @@ upon no other.  The memory of the Prophet fading quickly from the minds
 of the faithful, he could do little, and was in the end killed by his
 enemies.
 ~
-42 1032 1000 E
-170 -77 -24 1d1+12912 5d35+128
-2550 17975097 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 80
-Att4: 30
-E
+bf dk 1000 S
+26 -4 -5 4d10+840 4d9+6
+34000 180000
+8 8 1
 #1515
 ali fourth last caliph~
 Ali~
@@ -263,14 +202,10 @@ most deserving of our respect and reverence.  Still others saw him as
 a schismatic, a heretic, one to be killed and forgotten.  To look at
 him now is for you to decide for yourself.
 ~
-42 8389768 1000 E
-170 -77 -24 1d1+12912 5d35+128
-2550 19772606 6
-8 8 1 4 0
-Att2: 100
-Att3: 82
-Att4: 36
-E
+bf dk 1000 S
+26 -4 -5 4d10+840 4d9+6
+34000 180000
+8 8 1
 #1516
 angel beautiful iblis~
 Iblis~
@@ -281,30 +216,22 @@ kneel, would not prostrate himself before the first human beings.  And
 then he gestures at you, smiling, and conjures an image of all the 
 temptations that will be yours if you in turn but follow him.
 ~
-46 1032 -1000 E
-165 -74 -23 1d1+12540 5d33+126
-2475 16479797 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 84
-Att4: 42
-E
+bcf dk -1000 S
+25 -3 -4 10d5+650 4d6+5
+25000 145000
+8 8 1
 #1517
 iblis satan devil voice~
-The Temptation~
+the Temptation~
 You pause nervously as a voice whispers at you from over your shoulder.
 ~
 There is no physical figure attached to the presence that dominates this
 place, just tormented laughter, moaning, screaming, and begging.
 ~
-46 25167008 -1000 E
-175 -79 -25 1d1+13296 5d35+130
-2625 21513961 6
-8 8 1 1 -1
-Att2: 100
-Att3: 84
-Att4: 39
-E
+bcf dk -1000 S
+25 -3 -4 10d5+650 4d6+5
+25000 145000
+8 8 1
 #1518
 serpent dragon devil iblis~
 the raging dragon~
@@ -314,14 +241,10 @@ The serpent of babylon, the aged and violet hued monster that has
 watched all of mankind succumb before its power, turns to you as
 its last victim.
 ~
-46 1032 -1000 E
-175 -79 -25 1d1+13296 5d35+130
-2625 19558147 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 84
-Att4: 39
-E
+bcf dk -1000 S
+27 -4 -5 75d2+825 4d8+5
+40000 180000
+8 8 1
 #1519
 demon fire~
 the demon~
@@ -330,30 +253,22 @@ The hell-fire around you is dominated by a massive, burning demon.
 You see nothing but the inexorably red and burning anger of the 
 lord of the underworld that you fear to be your fate.
 ~
-46 1032 -1000 E
-175 -79 -25 1d1+13296 5d35+130
-2625 19558147 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 84
-Att4: 45
-E
+bcf dk -1000 S
+27 -4 -5 75d2+825 4d8+5
+40000 180000
+8 8 1
 #1520
 baby innocent~
-The innocent baby~
+the innocent baby~
 Lying on the ground wrapped in blankets is the most innocent of babies.
 ~
 The baby is barely aware of your presence, lost in a sleepy and
 contented yawn.
 ~
-10 1032 1000 E
-150 -67 -21 1d1+11400 5d31+120
-2250 12495398 6
-4 4 1 -1 -1
-Att2: 100
-Att3: 60
-Att4: 30
-E
+b dk 1000 S
+22 -3 -4 5d10+150 4d6+4
+20000 145000
+4 4 1
 #1521
 boy teenage~
 the teenage boy~
@@ -363,14 +278,10 @@ He is young, and has not yet seen the bloodiness of this world.  You follow
 his gaze and notice that he is gazing in wonderment at the fullness of the
 moon.
 ~
-10 1032 1000 E
-157 -70 -22 1d1+11928 5d31+122
-2355 14263597 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 70
-Att4: 34
-E
+b dk 1000 S
+24 -3 -4 5d10+680 4d6+5
+22000 145000
+8 8 1
 #1522
 man~
 the man~
@@ -379,14 +290,10 @@ A middle-aged man is here, kneeling in prayer.
 He is tired, the lines of age marking his face, but in his robe, 
 kneeling, he is the image of perfect contentment.
 ~
-2058 1032 1000 E
-158 -71 -22 1d1+12000 5d31+122
-2370 14529037 6
-5 5 1 -1 -1
-Att2: 100
-Att3: 72
-Att4: 35
-E
+bl dk 1000 S
+26 -4 -5 75d2+820 4d8+5
+40000 180000
+5 5 1
 #1523
 soul~
 the bodyless soul~
@@ -395,12 +302,8 @@ You are overwhelmed by the presence of a soul that has transcended its body.
 You sense certain tastes and smells, the winds through the gardens.
 Nothing can explain or describe this perfection, this utter bliss.
 ~
-42 1032 1000 E
-161 -72 -23 1d1+12228 5d33+124
-2415 15345057 6
-8 8 1 -1 -1
-Att2: 100
-Att3: 75
-Att4: 35
-E
+bf dk 1000 S
+28 -4 -5 100d2+820 4d8+5
+0 190000
+8 8 1
 $

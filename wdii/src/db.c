@@ -720,13 +720,13 @@ void index_boot(int mode)
   }
 
   /* Exit if 0 records, unless this is shops */
-  if (!rec_count) {
-    if (mode == DB_BOOT_SHP)
-      return;
-    log("SYSERR: boot error - 0 records counted in %s/%s.", prefix,
-        index_filename);
-    exit(1);
-  }
+//  if (!rec_count) {
+//    if (mode == DB_BOOT_SHP)
+//      return;
+//    log("SYSERR: boot error - 0 records counted in %s/%s.", prefix,
+//        index_filename);
+//    exit(1);
+//  }
 
   rec_count++;
 
@@ -930,11 +930,11 @@ void parse_room(FILE * fl, int virtual_nr)
     log("SYSERR: Room #%d is below zone %d.", virtual_nr, zone);
     exit(1);
   }
-  while (virtual_nr > zone_table[zone].top)
-    if (++zone > top_of_zone_table) {
-      log("SYSERR: Room %d is outside of any zone.", virtual_nr);
-      exit(1);
-    }
+//  while (virtual_nr > zone_table[zone].top)
+//    if (++zone > top_of_zone_table) {
+//      log("SYSERR: Room %d is outside of any zone.", virtual_nr);
+//      exit(1);
+//    }
   world[room_nr].zone = zone;
   world[room_nr].number = virtual_nr;
   world[room_nr].name = fread_string(fl, buf2);

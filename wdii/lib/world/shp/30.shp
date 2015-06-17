@@ -5,15 +5,13 @@ CircleMUD v3.0 Shop File~
 3052
 3053
 3054
-3090
 -1
 1.15
 0.15
-2
-3
-4
-10
-24
+SCROLL
+WAND
+STAFF
+POTION
 -1
 %s Sorry, I haven't got exactly that item.~
 %s You don't seem to have that.~
@@ -33,14 +31,12 @@ CircleMUD v3.0 Shop File~
 0
 0
 #3001~
+3009
 3010
 3011
-18620
-3009
 -1
-1.40
-1.00
-19
+1.4
+1.0
 -1
 %s Haven't got that on storage - try list!~
 %s I don't buy!~
@@ -48,7 +44,7 @@ CircleMUD v3.0 Shop File~
 %s I don't buy!~
 %s If you have no money, you'll have to go!~
 %s That'll be %d coins.~
-%s I'll give you %d coins for that.~
+%s Oops - %d a minor bug - please report!~
 0
 2
 3001
@@ -66,12 +62,11 @@ CircleMUD v3.0 Shop File~
 3033
 3036
 -1
-1.50
-0.40
-1
-8
-15
-12
+1.5
+0.4
+LIGHT
+TREASURE
+CONTAINER
 -1
 %s Haven't got that on storage - try list!~
 %s You don't seem to have that.~
@@ -97,12 +92,10 @@ CircleMUD v3.0 Shop File~
 3023
 3024
 3025
-3026
-3027
 -1
-1.30
-0.40
-5
+1.3
+0.4
+WEAPON
 -1
 %s I haven't got that kind of a weapon!~
 %s You don't carry that weapon!~
@@ -138,10 +131,9 @@ CircleMUD v3.0 Shop File~
 3085
 3086
 -1
-1.00
-0.50
-9
-11
+1.0
+0.5
+ARMOR
 -1
 %s Haven't got that on storage - try list!~
 %s You don't seem to have that.~
@@ -164,9 +156,9 @@ CircleMUD v3.0 Shop File~
 3060
 3061
 -1
-1.20
-0.90
-22
+1.2
+0.9
+BOAT
 -1
 %s Sorry pal, I have not got that kind of ship.~
 %s Ok, but let me see it first.~
@@ -180,7 +172,6 @@ CircleMUD v3.0 Shop File~
 3006
 0
 3049
-547
 -1
 6
 22
@@ -188,8 +179,8 @@ CircleMUD v3.0 Shop File~
 0
 #3007~
 -1
-1.00
-1.00
+1.0
+1.0
 -1
 %s Sorry, you aren't on my list of people I can sell to.~
 %s Sorry, I don't buy from outsiders.~
@@ -200,34 +191,9 @@ CircleMUD v3.0 Shop File~
 %s Oops - %d a minor bug - please report.~
 2
 2
-0
+3007
 1
 3050
--1
-0
-28
-0
-0
-#3008~
-3012
-3013
-3014
--1
-1.00
-1.00
--1
-%s No tengo - try list!~
-%s No buying, compadre.~
-%s No buying, compadre.~
-%s No buying, compadre.~
-%s No dinero!  Hit the road!~
-%s That'll be %d coins, compadre.~
-%s Oops - %d a minor bug - please report.~
-0
-2
-3008
-0
-3056
 -1
 0
 28
@@ -238,8 +204,8 @@ CircleMUD v3.0 Shop File~
 3103
 3104
 -1
-1.00
-1.00
+1.0
+1.0
 -1
 %s Sorry, I don't have that -- try list!~
 %s Sorry, I don't buy waters from outsiders.~
@@ -262,24 +228,24 @@ CircleMUD v3.0 Shop File~
 3000
 3001
 3002
-3004
 3003
+3004
 -1
-1.10
-0.80
+1.1
+1.0
 -1
 %s It's very noisy in here, what did you say you wanted to buy?~
-%s You are selling WHAT??~
-%s I don't buy that!~
-%s I don't have any money!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
 %s Are you drunk or what?? - NO CREDIT!~
-%s That'll be... let's say %d coins.~
+%s That'll be - say %d coins.~
 %s Oops - %d a minor bug - please report!~
 0
 2
 3040
 0
-546
+3007
 -1
 0
 28
@@ -289,8 +255,8 @@ CircleMUD v3.0 Shop File~
 3002
 3003
 -1
-1.00
-1.00
+1.0
+1.0
 -1
 %s Haven't got that on storage - try list!~
 %s I don't buy!~
@@ -313,8 +279,8 @@ CircleMUD v3.0 Shop File~
 3002
 3004
 -1
-1.10
-1.00
+1.1
+1.0
 -1
 %s Haven't got that on storage - try list!~
 %s I don't buy!~
@@ -337,8 +303,8 @@ CircleMUD v3.0 Shop File~
 3003
 3004
 -1
-1.70
-1.00
+1.7
+1.0
 -1
 %s Haven't got that on storage - try list!~
 %s I don't buy!~
@@ -362,8 +328,8 @@ CircleMUD v3.0 Shop File~
 3003
 3004
 -1
-1.50
-1.00
+1.5
+1.0
 -1
 %s Haven't got that on storage - try list!~
 %s I don't buy!~
@@ -386,8 +352,8 @@ CircleMUD v3.0 Shop File~
 3004
 3003
 -1
-1.00
-1.00
+1.0
+1.0
 -1
 %s It's very noisy in here, what did you say you wanted to buy?~
 %s I don't buy!~
@@ -401,52 +367,6 @@ CircleMUD v3.0 Shop File~
 3046
 0
 3048
--1
-0
-28
-0
-0
-#3049~
-3061
--1
-1.00
-1.00
--1
-%s Sorry, I don't stock that item.~
-%s You don't seem to have that.~
-%s I don't trade in such items.~
-%s I can't afford that!~
-%s You are too poor!~
-%s That'll be %d coins, thanks.~
-%s I'll give you %d coins for that.~
-0
-0
-2015
-0
--1
-0
-28
-0
-0
-#3067~
-3087
-3088
--1
-1.00
-1.00
--1
-%s Sorry, I don't stock that item.~
-%s You don't seem to have that.~
-%s I don't trade in such items.~
-%s I can't afford that!~
-%s You are too poor!~
-%s That'll be %d coins, thanks.~
-%s I'll give you %d coins for that.~
-0
-2
-3028
-0
-3067
 -1
 0
 28

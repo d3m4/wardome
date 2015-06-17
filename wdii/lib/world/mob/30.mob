@@ -7,13 +7,10 @@ The wizard looks old and senile, and yet he looks like a very powerful
 wizard.  He is equipped with fine clothing, and is wearing many fine
 rings and bracelets.
 ~
-26635 8 900 E
-200 -80 -20 1d1+5592 5d21+80
-50000 28826611 0
-8 8 1 0 0
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 2 2 1d1+30000 2d8+18
+30000 160000
+8 8 1
 #3001
 baker~
 the baker~
@@ -22,13 +19,10 @@ The baker looks at you calmly, wiping flour from his face with one hand.
 A fat, nice looking baker.  But you can see that he has many scars on his
 body.
 ~
-26635 8 900 E
-200 -80 -20 1d1+5592 5d21+80
-3000 21657860 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+100 160000
+8 8 1
 #3002
 grocer~
 the grocer~
@@ -36,13 +30,10 @@ A grocer stands at the counter, with a slightly impatient look on his face.
 ~
 A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
 ~
-26635 8 900 E
-200 -80 -20 1d1+5592 5d21+80
-50000 21657860 0
-8 8 1 2 1
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
 #3003
 weaponsmith~
 the weaponsmith~
@@ -51,13 +42,10 @@ A weaponsmith is standing here.
 He is a young weaponsmith, who still has lots to learn but he is still
 eager to sell you his latest implements of carnage and destruction.
 ~
-26635 8 900 E
-200 -80 -20 1d1+5592 5d21+80
-50000 21657860 0
-8 8 1 10 5
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
 #3004
 armourer~
 the armourer~
@@ -66,29 +54,22 @@ An armourer stands here displaying his new (and previously owned) armours.
 An old but very strong armourer.  He has made more suits of armour in his
 life than you have ever seen.
 ~
-26635 8 900 E
-200 -80 -20 1d1+5592 5d21+80
-50000 28826611 0
-8 8 1 4 8
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+28500 160000
+8 8 1
 #3005
 receptionist~
-undead receptionist~
-A undead receptionist is standing behind the counter here, smiling at you.
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
 ~
 You notice a tired look in her face.  She looks like she isn't paid well
 enough to put up with any crap from mud players with attitudes.
-She still thinks that is alive......
 ~
-59418 32808 -1000 E
-150 -55 -12 1d1+4200 5d16+60
-2250 9371548 0
-8 8 2 -1 -1
-Att2: 33
-Att3: 3
-E
+abelnop dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
 #3006
 captain stolar~
 Captain Stolar~
@@ -96,28 +77,21 @@ A retired captain stands here, selling boats.
 ~
 This captain has eaten more sharks than you have killed peas.
 ~
-26635 8 900 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+ablno d 900 S
+33 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1
 #3007
-vampire sailor~
-a vampire sailor~
-A vampire sailor is here, ready to suck your blood.
+sailor~
+the sailor~
+A sailor stands here, waiting to help you.
 ~
-He looks like strong and a fit vampire sailor.
+He looks like a strong, fit sailor.
 ~
-26632 0 -1000 E
-170 -65 -15 1d1+4752 5d18+68
-2550 13481323 0
-8 8 0 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+blno 0 900 S
+33 0 -10 1d1+30000 2d8+12
+2000 160000
+8 8 1
 #3008
 uncle juan~
 Uncle Juan~
@@ -125,13 +99,10 @@ Uncle Juan is here ready to take your order.
 ~
 He looks like he may or may not have a green card.
 ~
-26635 0 900 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+ablno 0 900 S
+33 0 -10 1d1+30000 2d8+18
+2000 160000
+8 8 1
 #3009
 wally watermaster~
 Wally the Watermaster~
@@ -141,138 +112,24 @@ Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
 Natural Spring Water in his hand.  When he notices you, he proudly
 displays his fine collection of contemporary waters.
 ~
-26635 8 800 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+ablno d 800 S
+33 0 -10 1d1+30000 1d8+18
+1000 160000
+8 8 1
 #3010
 postmaster post master~
 the postmaster~
 The head postmaster is standing here, waiting to help you with your mail.
 ~
 The Postmaster seems like a happy old man, though a bit sluggish.  He
-worries about the reputation of the WMS (Wardome Mail Service), as many
+worries about the reputation of the MMS (Midgaard Mail Service), as many
 people seem to think that it is slow.  Perhaps if he were to brush the
 cobwebs from his uniform it would help to make a better impression.
 ~
-190475 32776 1000 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
-#3011
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3012
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3013
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3014
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3015
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3016
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3017
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3018
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3019
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
+ablnopr dp 1000 S
+33 0 -10 1d1+30000 1d8+18
+2000 0
+8 8 1
 #3020
 guildmaster master mage~
 the mages' guildmaster~
@@ -282,13 +139,10 @@ Even though your guildmaster looks old and tired, you can clearly see the
 vast amount of knowledge she possesses.  She is wearing fine magic clothing,
 and you notice that she is surrounded by a blue shimmering aura.
 ~
-59418 136 1000 E
-34 3 4 1d1+711 5d4+12
-510 147376 0
-8 8 2 -1 -1
-Att2: 33
-Att3: 3
-E
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+24
+18794 100000
+8 8 2
 #3021
 guildmaster master priest~
 the priests' guildmaster~
@@ -298,13 +152,10 @@ You are in no doubt that this guildmaster is truly close to your God; he
 has a peaceful, loving look.  You notice that he is surrounded by a white
 aura.
 ~
-59418 136 1000 E
-34 3 4 1d1+711 5d4+12
-510 147376 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+24
+18794 100000
+8 8 1
 #3022
 guildmaster master beggar thief~
 the thieves' guildmaster~
@@ -314,13 +165,10 @@ You realize that whenever your guildmaster moves, you fail to notice it -
 the way of the true thief.  She is to be dressed in poor clothing, having
 the appearance of a beggar.
 ~
-59418 136 1000 E
-34 3 4 1d1+711 5d4+12
-510 147376 0
-8 8 2 -1 -1
-Att2: 33
-Att3: 3
-E
+abelnop dh 1000 S
+34 0 -10 6d10+640 1d8+34
+18794 100000
+8 8 2
 #3023
 guildmaster master~
 the fighters' guildmaster~
@@ -330,13 +178,10 @@ This is your master. Big and strong with bulging muscles. Several scars
 across his body proves that he was using arms before you were born. He
 has a calm look on his face.
 ~
-59418 0 1000 E
-34 3 4 1d1+711 5d4+12
-510 147376 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+abelnop 0 1000 S
+34 0 -10 6d10+740 1d8+34
+18794 100000
+8 8 1
 #3024
 sorcerer~
 the sorcerer~
@@ -346,222 +191,52 @@ He is an experienced mage who has specialized in the field of Combat Magic.
 He is here to guard the Mage's Guild and his superior knowledge of offensive
 as well as defensive spells make him a deadly opponent.
 ~
-59402 136 900 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
+ablnop dh 900 S
+33 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
 #3025
-knight zombie~
-a zombie knight~
-A zombie knight is guarding the entrance.
+knight templar~
+the knight templar~
+A knight templar is guarding the entrance.
 ~
 He is a specially trained warrior belonging to the military order of the
 Faith.  His duty is to protect the faithful from persecution and infidel
 attacks and his religious devotion combined with his superior skill makes
 him a deadly opponent.
-But now, he is skilled to KILL YOU.
 ~
-59402 136 -1000 E
-180 -70 -17 1d1+5040 5d19+72
-2700 15923585 0
-8 8 0 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+ablnop dh 1000 S
+33 0 -5 6d10+990 1d8+22
+2000 160000
+8 8 1
 #3026
-assassin skeleton~
-the assassin skeleton~
-An assassin is ready to kill you...
+assassin~
+the assassin~
+An assassin is guarding the entrance.
 ~
 He is a thief who has specialized in killing others as effectively as
 possible, using all sorts of weapons.  His superior knowledge of how
 and where to use them combined with his extraordinary stealth makes
 him a deadly opponent.
 ~
-59402 786600 190 E
-167 -63 -14 1d1+4668 5d17+66
-2505 12800660 0
-8 8 0 2 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+ablnop dfhst 400 S
+33 0 -10 6d10+990 1d8+25
+2000 160000
+8 8 1
 #3027
-undead knight~
-an undead knight~
-An undead knight guards the entrance.
+knight~
+the knight~
+A knight is guarding the entrance.
 ~
 He is an expert warrior who has attained knighthood through countless
 chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
 extreme skill combined with his experience in warfare makes him a deadly
 opponent.
-But now, he is skilled to KILL YOU.
 ~
-59402 136 -1000 E
-190 -75 -18 1d1+5316 5d20+76
-2850 18644097 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3028
-scientist~
-the scientist~
-A scientist is standing before the counter.
-~
-He looks very interested... In your money.
-~
-256031 66728 666 E
-100 -30 -5 1d1+2796 5d11+40
-1500 2916487 0
-8 8 1 -1 -1
-BareHandAttack: 13
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3029
-priest~
-the Priest of Midgaard~
-The Priest of Midgaard is here, looking at you.
-~
-He seems to be praying.
-~
-26650 69672 666 E
-100 -30 -5 1d1+2796 5d11+40
-1500 2916487 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3030
-black smith blacksmith~
-the Blacksmith~
-The large blacksmith is standing here.
-~
-It is a blacksmith, you genius :)
-~
-256011 152 0 E
-100 -30 -5 1d1+2796 5d11+40
-1500 2916487 0
-8 8 1 -1 -1
-Att2: 96
-Att3: 40
-E
-#3031
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3032
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3033
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3034
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3035
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3036
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3037
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3038
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3039
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
+ablnop dh 800 S
+33 0 -8 6d10+990 1d8+40
+2000 160000
+8 8 1
 #3040
 bartender~
 the bartender~
@@ -569,12 +244,10 @@ A bartender watches you calmly, while he skillfully mixes a drink.
 ~
 A tired looking Bartender who hates trouble in his bar.
 ~
-24586 0 900 E
-24 8 6 1d1+504 5d3+8
-360 59363 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 900 S
+24 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3041
 waiter~
 the waiter~
@@ -582,12 +255,10 @@ A waiter is going around from one place to another.
 ~
 A tired looking waiter.
 ~
-24586 0 900 E
-23 9 6 1d1+477 5d3+8
-345 53243 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 900 S
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3042
 waiter~
 the waiter~
@@ -596,12 +267,10 @@ A man now leads a quiet, peaceful life as a waiter is standing here.
 This man was obviously a famous sorcerer in his younger days as you
 instantly recognize his face.
 ~
-24586 0 600 E
-23 9 6 1d1+477 5d3+8
-345 53243 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3043
 waiter~
 the waiter~
@@ -610,12 +279,10 @@ A waiter who seems to have reached contact with his God is standing here.
 This waiter almost makes you feel like you should drop to your knees
 and begin to worship your God.  Naaah.
 ~
-24586 0 600 E
-23 9 6 1d1+477 5d3+8
-345 53243 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3044
 waiter~
 the waiter~
@@ -623,12 +290,10 @@ A waiter who knows where all his customers keep their money is standing here.
 ~
 Hmmm... wonder where he got that coin he is playing with.
 ~
-24586 0 600 E
-23 9 6 1d1+477 5d3+8
-345 53243 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3045
 waiter~
 the waiter~
@@ -637,12 +302,10 @@ A waiter is here.
 This guy looks like he could easily kill you while still carrying
 quite a few firebreathers.
 ~
-24586 0 600 E
-23 9 6 1d1+477 5d3+8
-345 53243 0
-8 8 1 -1 -1
-Att2: 24
-E
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
 #3046
 filthy~
 Filthy~
@@ -651,192 +314,70 @@ Filthy is standing here, eager to serve you a special drink.
 Filthy looks real, ehm, dirty.  He likes to keep his customers happy,
 but do not mess with him or else he'll get upset.
 ~
-26650 8 600 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 1 -1 -1
-Att2: 33
-Att3: 3
-E
-#3050
-blood golem~
-a blood golem~
-A blood golem is covered in blood!!
-~
-This creature is quite strange. Blood all over the corpse, strong
-muscles and evil face.
-~
-403466 520 -1000 E
-160 -60 -14 1d1+4476 5d17+64
-2400 11302310 0
-8 8 0 3 6
-BareHandAttack: 6
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3051
-Granite Golem~
-Granite Golem~
-Granite Golem
-~
-undefined~
-493674 33554952 0 E
-90 -25 -3 1d1+2520 5d10+36
-1350 2160224 0
-8 8 0 10 4
-BareHandAttack: 6
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3052
-Diamond Golem~
-Diamond Golem~
-Diamond Golem
-~
-undefined~
-465002 33554444 0 E
-100 -30 -5 1d1+2796 5d11+40
-1500 2916487 0
-8 8 0 10 4
-BareHandAttack: 6
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3053
-Mithril Golem~
-Mithril Golem~
-Mithril Golem
-~
-undefined~
-493674 570425864 0 E
-140 -50 -11 1d1+3912 5d15+56
-2100 7674036 0
-8 8 0 10 4
-BareHandAttack: 6
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3054
-Master Elemental Earth~
-the Elemental Master of Earth~
-The Elemental Master of Earth
-~
-undefined~
-6250 33554588 0 E
-150 -55 -12 1d1+4200 5d16+60
-2250 12473529 0
-8 8 1 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3055
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3056
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
+belno d 600 S
+33 1 -10 1d1+30000 1d8+22
+2000 80000
+8 8 1
 #3059
-skeleton warrior~
-the Skeleton Warrior~
-A skeleton is here, he seems to be moving!
+keeper peacekeeper~
+the Peacekeeper~
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
 ~
-He looks like a old and crumpy skeleton...
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
 ~
-6232 8 -1000 E
-170 -65 -15 1d1+4752 5d18+68
-2550 13481323 0
-8 8 1 -1 -1
+aeglm d 1000 E
+17 3 0 5d6+225 3d3+13
+2500 30000
+8 8 1
 BareHandAttack: 10
-Att2: 100
-Att3: 92
-Att4: 60
 E
 #3060
-skeleton warrior~
-a skeleton warrior~
-A skeleton warrior stands here.
+cityguard guard~
+the cityguard~
+A cityguard stands here.
 ~
 A big, strong, helpful, trustworthy guard.
-A big, strong, helpful, trustworthy skeleton guard.
 ~
-6216 8 -1000 E
-170 -65 -15 1d1+4752 5d18+68
-2550 13481323 0
-8 8 0 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+aglm d 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
 #3061
-devil eater~
-the eater devil~
-A eater devil is here, eating everything he can see.
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
 ~
-He seems dirty.
+What a tough job he has.
 ~
-2120 0 -1000 E
-180 -70 -17 1d1+5040 5d19+72
-2700 15923585 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+agl 0 800 S
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1
 #3062
-hell dog~
-the hell's dog~
-A dog that seems like a little demon from hell is here, starving.
+fido dog~
+the beastly fido~
+A beastly fido is mucking through the garbage looking for food here.
 ~
-The dog comes from hell, and stinks like someone who just escaped from there.
+The fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
 ~
-65768 32768 -1000 E
-170 -65 -15 1d1+4752 5d18+68
-2550 13481323 0
-8 8 1 -1 -1
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 25
+8 8 1
 BareHandAttack: 4
-Att2: 100
-Att3: 92
-Att4: 60
 E
 #3063
-Banshee~
-the Banshee~
-A horror Banshee stands here.
+mercenary~
+the mercenary~
+A mercenary is waiting for a job here.
 ~
-He looks pretty mean, dark cloth, dark cloak and dark face. Thin arms
-and legs. No single enemy....
+He looks pretty mean, and you imagine he'd do anything for money.
 ~
-2056 0 -1000 E
-190 -75 -18 1d1+5316 5d20+76
-2850 18644097 0
-8 8 0 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+bl 0 -330 S
+5 15 5 2d6+60 1d6+1
+87 900
+8 8 1
 #3064
 drunk~
 the drunk~
@@ -844,288 +385,69 @@ A singing, happy Drunk.
 ~
 A drunk who seems to be too happy, and to carry too much money.
 ~
-10 0 400 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-T 22
+b 0 400 S
+2 19 8 2d6+22 1d6+0
+53 200
+8 8 1
 #3065
-sucubus demon~
-the sucubus~
-A very delicious sucubus stands here(and your stick stands too).
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
 ~
-It is a very delicious sucubus. If you are a man, this creature
-is the perfect creature for sex. If you can stand still, you 'd better
-leave now.
+The beggar looks like she is fed up with life.
 ~
-10 0 -1000 E
-160 -60 -14 1d1+4476 5d17+64
-2400 11302310 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+b 0 400 S
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 2
 #3066
-undead wolf~
-an undead wolf~
-An undead wolf is here, it has sharp tooth.
+odif yltsaeb~
+the odif yltsaeb~
+An odif yltsaeb is here, walking backwards.
 ~
-This wolf is completely black, has a black ugly skin and
-some very BIG SHARP TOOTH.
+The odif is a small god that has been reversed by some dog.
 ~
-65768 32768 -1000 E
-160 -60 -14 1d1+4476 5d17+64
-2400 11302310 0
-8 8 0 -1 -1
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 25
+8 8 1
 BareHandAttack: 4
-Att2: 100
-Att3: 92
-Att4: 60
 E
 #3067
-zombie cityguard~
-the zombie cityguard~
-A zombie is here, he seems to have been a cityguard some years ago.
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.
 ~
-He was a cityguard, but now he's just a big pile of puditry skin.
+A big, strong, helpful, trustworthy guard.
 ~
-6218 0 -1000 E
-155 -57 -13 1d1+4332 5d16+62
-2325 10306835 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
+abglm 0 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
 #3068
-blood blob~
-the red blood blob~
-A grossy blood blob is here, slurking around
+green gelatinous blob~
+the green gelatinous blob~
+An oozing green gelatinous blob is here, sucking in bits of debris.
 ~
-A horrid looking thing; it is huge, red, and looks like a blood blob.
+A horrid looking thing; it is huge, greenish, and looks like the blob.
 ~
-256216 8 -1000 E
-175 -67 -16 1d1+4896 5d18+70
-2625 14668610 0
-8 8 0 -1 -1
+aeghlnopqr d 0 E
+20 0 0 1d11+325 3d6+5
+1000 40000
+8 8 0
 BareHandAttack: 6
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3069
-raven~
-the raven~
-A raven is flying here.
-~
-It looks powerful.
-~
-81930 67108864 -1000 E
-6 17 9 1d1+126 5d1+2
-90 2371 0
-8 8 0 -1 -1
-BareHandAttack: 14
-Att2: 1
-E
-#3070
-The Exosqueleton Necromancer Guard~
-the Exosqueleton Necromancer Guard~
-The Exosqueleton Necromancer Guard
-~
-   Hey YOU...  Yeah YOU that is looking at ME...  Stay cool...  Don't move...
-And Don't do anything wrong i will be watching you every time...  If you make a
-false step, i will kick ur BUT..  Me and MY EXQUELETON Army....  We
-Necromancers dont like you bastards...    
-~
-256010 263324 -1000 E
-30 5 5 1d1+630 5d4+12
-450 105901 0
-8 8 0 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3071
-Owner of Necronomicon Manuscript~
-Owner of Necronomicon Manuscript~
-Owner of Necronomicon Manuscript, Your Master
-~
-   Those who fight for an ideal is the most fool, the fool of the fools, they
-want the world to became such a peacefull place, THEY NEVER GOING TO THIS
-TARGET" Destruction is the end of the world, any other think is an illusion,
-Necronomicon will save us...  Stay with me...  Became a NECROMANCER, and
-destroy these FOOLS HUMAN BEINGS !!!!    
-~
-253962 1192 -1000 E
-40 0 4 1d1+837 5d5+16
-600 227663 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3072
-shadow~
-the cursed shadow~
-A cursed shadow stands here.
-~
-It is a shadow. It serves the black monster until DEATH!!!
-~
-8 0 -1000 E
-160 -60 -14 1d1+4476 5d17+64
-2400 15043374 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3073
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3074
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3080
-young boy apprendice priest~
-the priest apprendice~
-A young boy is here, practicing the cure.
-~
-He seems to be blessed!
-~
-256075 16789644 0 E
-70 -15 0 1d1+1956 5d8+28
-1050 1062450 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3081
-power blue avatar~
-&BThe Power Blue Avatar&n~
-&BThe Power Blue Avatar&n
-~
-&BThe Power Blue Avatar&n
-~
-10 0 0 E
-200 -80 -20 1d1+5592 5d21+80
-3000 21657860 0
-8 8 0 10 0
-Att2: 100
-Att3: 100
-Att4: 100
-E
-#3082
-The White Avatar of Brotherhood~
-&WThe White Avatar of Brotherhood&n~
-&WThe White Avatar of Brotherhood&n
-~
-&WThe White Avatar of Brotherhood&n
-~
-10 0 0 E
-200 -80 -20 1d1+5592 5d21+80
-3000 28826611 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3083
-Black Avatar of Darkness~
-&nBlack Avatar of Darkness~
-&nBlack Avatar of Darkness
-~
-&nBlack Avatar of Darkness
-~
-10 0 0 E
-200 -80 -20 1d1+5592 5d21+80
-3000 28826611 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3084
-The Red DragonSlayer Avatar~
-&RThe Red DragonSlayer Avatar&n~
-&RThe Red DragonSlayer Avatar&n
-~
-&RThe Red DragonSlayer Avatar&n
-~
-10 0 0 E
-200 -80 -20 1d1+5592 5d21+80
-3000 28826611 0
-8 8 0 0 0
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3085
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#3086
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
 E
 #3089
-zombie pet shop boy~
-the zombie pet shop boy~
+pet shop boy~
+the Pet Shop Boy~
 There is a Pet Shop Boy standing here cuddleing something furry in his hands.
 ~
-As you look at him, he opens his hands to reveal a dead rat!
+As you look at him, he opens his hands to reveal a rat!
 ~
-26634 0 -500 E
-180 -70 -17 1d1+5040 5d19+72
-2700 21194290 0
-8 8 1 9 19
-Att2: 9
-E
+blno 0 1000 S
+10 10 1 1d1+30000 20d4+10
+500 9000
+8 8 1
 #3090
 kitten~
 the kitten~
@@ -1133,10 +455,10 @@ A small loyal kitten is here.
 ~
 The kitten looks like a cute, little, fierce fighter.
 ~
-14 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
+bco 0 0 E
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
 BareHandAttack: 8
 E
 #3091
@@ -1146,10 +468,10 @@ A small loyal puppy is here.
 ~
 The puppy looks like a cute, little, fierce fighter.
 ~
-14 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
+bco 0 0 E
+1 20 9 1d6+13 1d4+0
+0 125
+8 8 0
 BareHandAttack: 8
 E
 #3092
@@ -1159,12 +481,11 @@ A small, quick, loyal beagle is here.
 ~
 The beagle looks like a fierce fighter.
 ~
-14 0 0 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
+bco 0 0 E
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
 BareHandAttack: 4
-Att2: 3
 E
 #3093
 rottweiler~
@@ -1173,12 +494,11 @@ A large, loyal rottweiler is here.
 ~
 The rottweiler looks like a strong, fierce fighter.
 ~
-14 0 0 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 0 -1 -1
+bco 0 0 E
+3 18 7 1d12+35 1d7+0
+0 800
+8 8 0
 BareHandAttack: 4
-Att2: 3
 E
 #3094
 wolf~
@@ -1187,12 +507,11 @@ A large, trained wolf is here.
 ~
 The wolf looks like a strong, fearless fighter.
 ~
-14 0 0 E
-4 18 9 1d1+81 5d1+0
-60 1089 0
-8 8 0 -1 -1
+bco 0 0 E
+4 17 6 1d12+47 1d8+0
+0 1600
+8 8 0
 BareHandAttack: 4
-Att2: 3
 E
 #3095
 cryogenicist cryo~
@@ -1202,61 +521,8 @@ The cryogenicist is here, playing with a canister of liquid nitrogen.
 You notice a tired look in her face.  She looks like she isn't paid well
 enough to put up with any crap from mud players with attitudes.
 ~
-26635 32808 900 E
-33 4 5 1d1+693 5d4+12
-495 136156 0
-8 8 2 -1 -1
-Att2: 33
-Att3: 3
-E
-#3096
-assassin~
-the master of the assassins~
-the master of the assassins
-~
-   It looks unfinished.  He is a thief who has specialized in killing others as
-effectively as possible, using all sorts of weapons.  His superior knowledge of
-how and where to use them combined with his extraordinary stealth makes him a
-deadly opponent.    
-~
-257832 295976 -1000 E
-15 13 7 1d1+315 5d2+6
-225 18413 0
-8 8 1 -1 -1
-BareHandAttack: 14
-Att2: 100
-Att3: 92
-Att4: 60
-E
-#3097
-black dragon ancient creature thalasyxant~
-Thalasyxant, the black dragon~
-One of the most ancient creatures of the realms stands here.
-~
-It is a giant black dragon with power black scales, sharp tooth and
-a very powerful breath. This dragon is a great wyrm and one 
-of the oldest and most powerful creature of the realms.
-~
-518155 1132466344 -1000 E
-200 -130 -20 1d1+100000 25d35+150
-50000 150000000 10
-8 8 0 -1 -1
-Att2: 100
-Att3: 100
-Att4: 100
-E
-#3098
-black monster~
-the black monster~
-The terrible Black monster stands here.
-~
-This mob is the great leader of the undead army who invaded midgaard.
-it is said that he controls a great wyrm dragon, one of the most
-powerful and old creatures of the realm.
-~
-507931 545259520 -1000 E
-200 -80 -20 1d1+5592 5d21+80
-3000 28826611 0
-8 8 0 4 0
-E
+ablno dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
 $

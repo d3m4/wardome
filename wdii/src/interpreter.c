@@ -39,8 +39,8 @@ extern char *motd;
 extern char *imotd;
 extern char *background;
 extern char *policies;
-//extern char *MENU;
-extern char *WELC_MESSG; 
+extern char *MENU;
+extern char *WELC_MESSG;
 extern char *START_MESSG; 
 extern struct char_data *character_list;
 extern struct descriptor_data *descriptor_list;
@@ -1952,8 +1952,9 @@ void nanny(struct descriptor_data *d, char *arg)
                 "You are using a ANSI Terminal or a Normal Terminal? ", d);
       return;
     }
-    SEND_TO_Q("\r\nDid You Have a Master? (Y/n)?", d);
-    STATE(d) = CON_MASTER;
+      GET_MASTER(d->character) = -1;
+      SEND_TO_Q("\r\nWhat is your sex (M/F)? ", d);
+      STATE(d) = CON_QSEX;
     break;
     
     case CON_MASTER:

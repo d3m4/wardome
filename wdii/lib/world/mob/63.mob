@@ -1,15 +1,3 @@
-#6300
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
 #6301
 spider young~
 the young spider~
@@ -18,28 +6,21 @@ The young spider is ballooning by you.
 He looks freshly hatched and sprightly.  His young fangs are just
 growing in as of late.
 ~
-76 1032 0 E
-103 -31 -5 1d1+2880 5d11+40
-1545 3173542 0
-8 8 1 -1 -1
-Att2: 96
-Att3: 42
-E
+cg dk 0 S
+3 18 7 1d12+40 1d7+0
+80 350
+8 8 1
 #6302
 yevaud dragon usurper~
 Yevaud~
-Yevaud, the Usurper of Undead Midgaard is here, grinning evilly at you.
+Yevaud, the Usurper of Midgaard is here, grinning evilly at you.
 ~
 Old, scaly, but still with a lot of bite in him left.
 ~
-3631 1032 -1000 E
-124 -42 -8 1d1+3468 5d13+48
-1860 5405736 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 56
-Att4: 6
-E
+abcjkl dk -1000 S
+24 0 -3 5d4+450 4d7+7
+20000 120000
+8 8 1
 #6303
 spider wolf~
 the wolf spider~
@@ -47,13 +28,10 @@ The wolf spider is here, licking its bloody fangs.
 ~
 The wolf spider is hairy, very hairy.
 ~
-42 0 -300 E
-106 -33 -5 1d1+2964 5d11+42
-1590 3445244 0
-8 8 2 -1 -1
-Att2: 98
-Att3: 44
-E
+bf 0 -300 S
+6 12 6 3d8+70 2d5+3
+1250 6000
+8 8 2
 #6304
 orc~
 the orc~
@@ -62,13 +40,10 @@ The orc is stuck in the web and he can't get out.
 You notice an evil look in his eyes, but he seems quite drained of life,
 and all he can do is glare at you while he's stuck in this web.
 ~
-10 0 -400 E
-102 -31 -5 1d1+2856 5d11+40
-1530 3086249 0
-6 6 1 -1 5
-Att2: 96
-Att3: 42
-E
+b 0 -400 S
+2 19 8 2d10+10 2d3+0
+10 300
+6 6 1
 #6305
 wasp queen~
 the queen wasp~
@@ -76,13 +51,10 @@ The queen wasp is here, thinking how tasty you look.
 ~
 You notice a glazed look in her eyes.
 ~
-42 128 -800 E
-114 -37 -7 1d1+3192 5d12+44
-1710 4244474 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 48
-E
+bf 0 -800 S
+14 7 1 1d12+172 2d8+1
+2000 18000
+8 8 2
 #6306
 spider drone~
 the drone spider~
@@ -90,13 +62,10 @@ A drone spider walks around doing its master's bidding.
 ~
 An ordinary drone spider.
 ~
-76 0 -200 E
-106 -33 -5 1d1+2964 5d11+42
-1590 3445244 0
-8 8 0 -1 -1
-Att2: 98
-Att3: 44
-E
+cg 0 -200 S
+6 14 4 3d8+70 2d4+1
+200 1600
+8 8 0
 #6307
 spider ethereal~
 the ethereal spider~
@@ -105,13 +74,10 @@ An ethereal spider strides here, traveling to different worlds.
 She winks in and out of reality.  It looks like it'd be difficult to hit her
 without a magical weapon.
 ~
-76 262246 300 E
-113 -36 -6 1d1+3156 5d12+44
-1695 4138454 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 48
-E
+cg bcfgs 300 S
+13 9 -2 1d12+163 2d4+4
+1250 16000
+8 8 2
 #6308
 slave human~
 the slave~
@@ -121,13 +87,10 @@ The slave does not mind you, but will fight like a warrior if attacked.
 He serves the spider Empress, Arachnos, though whether it is by choice
 or because he was beguiled, you are not fully certain.
 ~
-2124 0 -50 E
-111 -35 -6 1d1+3108 5d12+44
-1665 3931731 0
-8 8 1 -1 -1
-Att2: 98
-Att3: 48
-E
+cgl 0 -50 S
+11 8 4 1d12+130 2d7+1
+1000 13500
+8 8 1
 #6309
 quasit~
 the quasit~
@@ -136,13 +99,10 @@ A quasit blinks in and out, grinning at you.
 Demoniac in nature, but more mischievous.  He twiddles his thumbs
 and creates a magical treasure!
 ~
-205 262186 -300 E
-110 -35 -6 1d1+3072 5d12+44
-1650 3830999 0
-8 8 1 -1 -1
-Att2: 98
-Att3: 46
-E
+acgh bdfs -300 S
+10 1 -10 1d12+47 1d8+0
+1500 11000
+8 8 1
 #6310
 spider bird~
 the bird spider~
@@ -150,13 +110,10 @@ The bird spider snaps its powerful jaws.
 ~
 The Bird Spider has very powerful jaws.
 ~
-42 1032 -800 E
-114 -37 -7 1d1+3192 5d12+44
-1710 4244474 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 48
-E
+bf dk -800 S
+14 7 1 1d8+100 2d9+2
+1750 18000
+8 8 2
 #6311
 hermit~
 the hermit~
@@ -165,13 +122,10 @@ The hermit sits here and warns, 'Go back before it is too late!'
 A dishevelled veteran warrior in disguise is what he is, but he
 means well.
 ~
-2062 1032 750 E
-107 -33 -5 1d1+2988 5d11+42
-1605 3539136 0
-8 8 1 -1 -1
-Att2: 98
-Att3: 44
-E
+bcl dk 750 S
+7 13 4 3d10+90 2d5+2
+750 2500
+8 8 1
 #6312
 donjonkeeper keeper~
 the Donjonkeeper~
@@ -180,14 +134,10 @@ The Donjonkeeper eyes you and wonders how pure your soul is.
 He delves deeper into you as you stare at him.  Only those free of taint
 will be allowed to remain here safely.
 ~
-2351 1032 1000 E
-125 -42 -8 1d1+3492 5d13+50
-1875 5532299 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 59
-Att4: 6
-E
+abcil dk 1000 S
+25 0 -1 1d12+600 2d8+8
+16000 125000
+8 8 1
 #6313
 guardian~
 the guardian~
@@ -195,13 +145,10 @@ The guardian is obviously not doing his job.
 ~
 He looks like a lazy bum who sleeps half the time.
 ~
-104 263176 250 E
-117 -38 -7 1d1+3276 5d12+46
-1755 4573349 0
-4 4 1 -1 -1
-Att2: 100
-Att3: 53
-E
+fg dks 250 S
+17 4 1 1d12+200 2d8+8
+1000 24000
+4 4 1
 #6314
 arachnos spider empress~
 Arachnos~
@@ -212,14 +159,10 @@ into being one of her many slaves.  She does not possess the venomous
 fangs of normal spiders, but then, as you realize, she does not need
 them.
 ~
-92719 33960 -1000 E
-126 -43 -8 1d1+3528 5d13+50
-1890 5660819 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 59
-Att4: 6
-E
+abcjnolq dfhkp -1000 S
+26 0 -2 6d10+650 1d8+25
+30000 155000
+8 8 2
 #6315
 ki-rin~
 the Ki-Rin~
@@ -231,14 +174,10 @@ time eternal, and now the evil power of Arachnos feeds upon her intense
 magical energies.  She will never give up here fight against evil,
 though, and will continue her work in whatever manner presents itself.
 ~
-26927 1032 1000 E
-126 -43 -8 1d1+3528 5d13+50
-1890 5660819 0
-8 8 2 -1 -1
-Att2: 100
-Att3: 59
-Att4: 6
-E
+abcilno dk 1000 S
+26 0 -4 10d8+2500 4d4+22
+15000 170000
+8 8 2
 #6316
 dragon wormkin young~
 the young wormkin~
@@ -246,13 +185,10 @@ A wormkin with no teeth plays here.
 ~
 It is a rather small dragon, and you almost feel sad about killing it.
 ~
-10 1032 50 E
-109 -34 -6 1d1+3048 5d11+42
-1635 3731999 0
-8 8 1 -1 -1
-Att2: 98
-Att3: 46
-E
+b dk 50 S
+9 12 3 5d4+110 2d5+2
+1000 6500
+8 8 1
 #6317
 dragon wormkin elder~
 the elder wormkin~
@@ -261,11 +197,8 @@ A wormkin that has grown a bit stares at you inquisitively.
 A medium-sized dragon -- seems it hasn't killed anything yet by itself, 
 though there is a first time for everything...
 ~
-10 1032 -300 E
-116 -38 -7 1d1+3240 5d12+46
-1740 4461906 0
-8 8 1 -1 -1
-Att2: 100
-Att3: 50
-E
+b dk -300 S
+16 5 1 5d4+210 2d6+4
+5000 24000
+8 8 1
 $

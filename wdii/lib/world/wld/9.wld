@@ -1,6 +1,6 @@
 #900
 On The Swift Flowing River~
-As the river exits the city of Wardome it picks up speed and whisks
+   As the river exits the city of Midgaard it picks up speed and whisks
 you along high banks flanked by the trees of Haon-Dor.  As the city
 fades in the east, you approach a gloomy forest to the west.
 ~
@@ -8,7 +8,7 @@ fades in the east, you approach a gloomy forest to the west.
 D1
 ~
 ~
-0 -1 555
+0 -1 3200
 D3
 ~
 ~
@@ -50,10 +50,6 @@ D2
 ~
 ~
 0 -1 903
-D3
-~
-~
-0 0 -1
 S
 #903
 The Scenic Route~
@@ -62,10 +58,6 @@ The river continues in a westerly direction toward the river delta,
 where you can just make out a large island.
 ~
 9 0 7
-D0
-~
-~
-0 0 902
 D1
 ~
 ~
@@ -74,10 +66,6 @@ D3
 ~
 ~
 0 -1 904
-D4
-~
-~
-0 0 -1
 S
 #904
 The Swift River Delta~
@@ -198,32 +186,25 @@ D1
 ~
 ~
 0 -1 908
-D2
-~
-~
-0 0 1801
 S
 #910
 The Beach Head~
-   This is a secluded looking beach on the southern tip of the island.  There
-isn't much to see here, only a flight of stairs carved onto the mountain wall.
+   This is a secluded looking beach on the southern tip of the island.
+There isn't much to see here and there is no way to cross the steep
+rocky cliffs that wall in this place.
 ~
 9 0 2
 D2
 ~
 ~
 0 -1 909
-D4
-~
-~
-0 0 20101
 S
 #911
 The North Channel~
    The river splits as runs up against the island and a navigatble
 channel slips off to the north and west.
 ~
-9 4 7
+9 c 7
 D0
 ~
 ~
@@ -262,7 +243,7 @@ Near The Isle~
 appears to be nothing more than a short path that leads to the
 side of a hill.
 ~
-9 4 7
+9 c 7
 D1
 ~
 ~
@@ -279,7 +260,7 @@ will not hear you call here.  Hence they will not answer you.  To the
 south the path ends at a dark cave entrance.
 A sign has been posted beside the entrance.
 ~
-9 16777216 1
+9 0 1
 D0
 ~
 ~
@@ -303,7 +284,7 @@ The First Trial Of Minos~
 Minos loves to torture his people through these places.  He
 collects the monsters of the world and puts them here.
 ~
-9 9 1
+9 ad 1
 D1
 ~
 ~
@@ -317,7 +298,7 @@ the next monster in my playground.  Or are you strong enough?'
    To the south is the entrance to the next challenge of Minos'
 stronghold.
 ~
-9 9 1
+9 ad 1
 D2
 ~
 ~
@@ -329,7 +310,7 @@ The Third Trial Of Minos~
 them to disembowel his guests.  The path continues eastward.  You
 see blue lights in that direction.
 ~
-9 9 0
+9 ad 0
 D1
 ~
 ~
@@ -340,7 +321,7 @@ The Fourth Trial Of Minos~
    Minos must be a monster hacking machine.  You see a blue light
 flicker on and off.  A voice crackles, 'WHY ARE YOU HERE!'
 ~
-9 9 0
+9 ad 0
 D2
 ~
 ~
@@ -352,7 +333,7 @@ The Fifth Trial Of Minos~
 corpses of rabbits lie scattered about this hell-hole.  The General
 is not a very neat person as you can tell.
 ~
-9 9 0
+9 ad 0
 D1
 ~
 ~
@@ -366,7 +347,7 @@ voice bellows another warning: 'Leave now or face my wrath!'
 There is a crawlway leading upwards at the far end of the room and
 there is a fresh breeze comming from there.
 ~
-9 9 0
+9 ad 0
 D2
 ~
 ~
@@ -383,7 +364,7 @@ decorated for this bovine king.  Everything is so opulent that it makes
 your eyes bulge.  Survive and reap his fortune!  The only exit is a large
 oak door in the east wall.
 ~
-9 9 0
+9 ad 0
 D1
 You see a rather large oak door bound with iron and securely locked.
 ~
@@ -396,7 +377,7 @@ The Royal Chamber~
 Hopefully it has not been looted yet by the many legendary thieves
 of Midgaard.  A clever looking secret passage leads upward from here.
 ~
-9 521 0
+9 adj 0
 D4
 ~
 ~
@@ -414,4 +395,4 @@ D5
 ~
 0 -1 910
 S
-$~
+$

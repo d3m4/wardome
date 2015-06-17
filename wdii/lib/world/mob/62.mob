@@ -5,11 +5,10 @@ A deer looks at you with fear in its eyes.
 ~
 That is one nice looking deer!
 ~
-136 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
-E
+h 0 0 S
+3 18 10 3d5+33 1d7+0
+0 350
+8 8 0
 #6201
 rabbit~
 the rabbit~
@@ -17,11 +16,10 @@ A small rabbit nibbles at a leaf here.
 ~
 It is a small, furry rodent with big ears.
 ~
-136 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
-E
+h 0 0 S
+0 20 30 1d5+3 1d3+0
+0 25
+8 8 0
 #6202
 squirrel~
 the squirrel~
@@ -30,11 +28,10 @@ A squirrel spots you and runs around a tree!
 It is a small, brown squirrel.  Kind of like a
 fuzzy high-tension spring.
 ~
-136 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
-E
+h 0 0 S
+0 20 -10 1d3+0 1d1+1
+0 10
+8 8 0
 #6203
 orc hunter~
 the orc hunter~
@@ -44,13 +41,10 @@ He looks angry, desperate, and maybe a little sick.
 His green skin is definitely mottled, and he seems to
 limp a little bit...
 ~
-4136 1024 -350 E
-78 -19 -1 1d1+2184 5d8+30
-1170 1440480 0
-8 8 1 3 5
-Att2: 87
-Att3: 30
-E
+fm k -350 S
+7 14 50 3d5+83 2d3+2
+0 2250
+8 8 1
 #6204
 orc chief~
 the orc chief~
@@ -60,13 +54,10 @@ He wears a crown of oak leaves to show he is a leader.  He
 carries a club to show he is a warrior.  You wonder how good
 he is at both.
 ~
-6186 1024 -600 E
-79 -19 -1 1d1+2208 5d8+30
-1185 1493212 0
-8 8 1 3 5
-Att2: 87
-Att3: 30
-E
+bflm k -600 S
+10 11 20 3d5+120 2d7+2
+17 9000
+8 8 1
 #6205
 orc woman~
 the orc woman~
@@ -75,13 +66,10 @@ An orc woman stands here, frightened of you.
 As you stare her down, she raises her hands slowly, as if to
 say, 'Don't kill me'.
 ~
-136 1024 -50 E
-73 -16 0 1d1+2040 5d8+28
-1095 1195305 0
-8 8 2 3 5
-Att2: 81
-Att3: 27
-E
+h k -50 S
+5 16 70 3d5+58 2d4+0
+0 900
+8 8 2
 #6206
 orc child~
 the orc child~
@@ -89,13 +77,10 @@ An orc child frantically searches for her mother.
 ~
 She is raggedy, and seems to be covered with sores.
 ~
-136 1024 50 E
-72 -16 0 1d1+2016 5d8+28
-1080 1149862 0
-8 8 2 3 5
-Att2: 81
-Att3: 24
-E
+h k 50 S
+3 18 90 3d5+30 1d7+0
+0 350
+8 8 2
 #6207
 orc woman~
 the orc woman~
@@ -104,13 +89,10 @@ A pregnant orc woman tries to stand to flee from you.
 She is too far gone to move very quickly.  You could
 kill her easily.
 ~
-138 1024 -50 E
-73 -16 0 1d1+2040 5d8+28
-1095 1195305 0
-6 6 2 3 5
-Att2: 81
-Att3: 27
-E
+bh k -50 S
+5 16 100 3d5+58 1d4+0
+0 750
+6 6 2
 #6208
 orc mutant mutated~
 the mutant orc~
@@ -119,13 +101,10 @@ A mutant orc lies here, barely alive.
 Its body has been twisted beyond all hope.  It is dying, and
 nothing will stop that.
 ~
-8 1024 0 E
-77 -18 -1 1d1+2148 5d8+30
-1155 1389000 0
-5 5 0 7 5
-Att2: 87
-Att3: 27
-E
+0 k 0 S
+6 20 100 1d1+0 1d1+0
+0 1
+5 5 0
 #6209
 orc mutant mutated~
 the mutant orc~
@@ -135,13 +114,10 @@ It doesn't even appear to have registered your arrival... it is
 just talking to itself.  Its body is a twisted wreck of orc, man,
 beast, and what-not.
 ~
-8 1024 0 E
-77 -18 -1 1d1+2148 5d8+30
-1155 1389000 0
-8 8 0 7 5
-Att2: 87
-Att3: 27
-E
+0 k 0 S
+6 20 100 3d5+60 1d1+0
+0 10
+8 8 0
 #6210
 wizard elf elven Elstar~
 Elstar~
@@ -151,13 +127,10 @@ He looks at you archly as he wonders why you have
 invaded his domain.  No matter... it shouldn't be
 too hard for him to destroy you, no?
 ~
-2090 1032 -1000 E
-105 -32 -5 1d1+2940 5d11+42
-1575 3688326 0
-8 8 1 0 3
-Att2: 98
-Att3: 44
-E
+bfl dk -1000 S
+15 6 -75 3d5+183 2d8+2
+10000 21000
+8 8 1
 #6211
 child elf elven apprentice~
 the elven child~
@@ -165,13 +138,10 @@ An elven child casts his fishing pole into the river.
 ~
 He looks young and innocent.  You wonder what he is doing here.
 ~
-10 1024 600 E
-70 -15 0 1d1+1956 5d8+28
-1050 1062450 0
-8 8 1 2 3
-Att2: 78
-Att3: 24
-E
+b k 600 S
+3 18 60 3d5+35 2d4+0
+0 400
+8 8 1
 #6212
 mutant thing~
 the mutant thing~
@@ -180,13 +150,10 @@ A mutant... thing rushes at you!
 It might've been an orc, once.  Now it is a living terror,
 pushing everything out of its way to get at you.
 ~
-2088 1024 -800 E
-75 -17 -1 1d1+2100 5d8+30
-1125 1289737 0
-8 8 0 3 5
-Att2: 84
-Att3: 27
-E
+fl k -800 S
+12 9 -20 3d5+170 2d7+4
+0 15000
+8 8 0
 #6213
 mutant thing~
 the mutant thing~
@@ -195,11 +162,9 @@ A mutant... thing tries to get you, but cannot move into range!
 It might have been an orc, once.  Now it is a living terror,
 pushing everything out of its way to get at you.
 ~
-2058 1024 -800 E
-75 -17 -1 1d1+2100 5d8+30
-1125 1289737 0
-8 8 0 3 5
-Att2: 84
-Att3: 27
-E
+bl k -800 S
+12 9 -20 3d5+170 2d7+4
+0 15000
+8 8 0
 $
+

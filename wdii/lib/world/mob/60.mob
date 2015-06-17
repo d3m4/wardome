@@ -7,12 +7,10 @@ He is six feet tall and looks quite strong, muscles bulging under his heavy,
 chequered shirt.  His features are worn with hard work and his expression is
 one of a peaceful man leading a simple life.
 ~
-6220 32 370 E
-5 18 9 1d1+99 5d1+2
-75 1651 0
-8 8 1 3 -1
-Att2: 6
-E
+cglm f 370 S
+5 15 6 1d12+60 1d4+3
+100 1050
+8 8 1
 #6001
 rabbit small~
 the rabbit~
@@ -20,13 +18,10 @@ A small rabbit is foraging in the bushes here.
 ~
 It is a small, furry creature with long ears and big feet.
 ~
-72 0 0 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
-T 22260
+g 0 0 S
+0 20 6 1d4+1 1d4+0
+0 60
+8 8 0
 #6002
 bear brown~
 the brown bear~
@@ -35,12 +30,10 @@ A big, brown, angry-looking bear is here.
 The bear is a big, brown, furry animal with very large claws and very sharp
 teeth.  It doesn't resemble those cute little dolls from toy shops at all.
 ~
-1128 0 -50 E
-8 16 8 1d1+162 5d1+2
-120 4344 0
-4 8 0 -1 -1
-Att2: 9
-E
+fg 0 -50 S
+8 13 3 1d12+98 2d6+2
+0 4000
+4 8 0
 #6003
 rabbit ferocious~
 the ferocious rabbit~
@@ -50,12 +43,10 @@ This small, furry creature with long ears and big feet has been attacked
 by the dreaded rabbit rabies, a horrible disease that turns helpless and
 innocent rabbits into ferocious and bloodthirsty monsters.
 ~
-104 0 -150 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-4 8 0 -1 -1
-Att2: 3
-E
+fg 0 -150 S
+3 17 6 1d4+26 1d8+0
+0 350
+4 8 0
 #6004
 deer fallow~
 the fallow deer~
@@ -64,12 +55,10 @@ A fallow deer is grazing peacefully here.
 She is a graceful creature on long, slender legs, and with large, brown eyes
 looking back at you with an air of watchful interest.
 ~
-200 8 350 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 2 -1 -1
-Att2: 3
-E
+gh d 350 S
+2 19 5 2d8+8 1d6+0
+0 230
+8 8 2
 #6005
 fox brown~
 the brown fox~
@@ -77,12 +66,10 @@ A brown fox is stalking rabbits through the underbrush here.
 ~
 It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.
 ~
-72 0 -50 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+g 0 -50 S
+2 18 6 1d4+18 1d6+0
+0 225
+8 8 0
 #6006
 bird large~
 the bird~
@@ -90,12 +77,10 @@ A large bird with a broken wing has been cornered here.
 ~
 The bird isn't going to live much longer, by the looks of it.
 ~
-10 0 0 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+b 0 0 S
+0 17 10 2d3+1 1d2+1
+0 25
+8 8 0
 #6007
 bobcat cat~
 the bobcat~
@@ -104,12 +89,10 @@ A medium sized bobcat is stalking a bird here.
 The bobcat has sharp claws and teeth, and will probably eat you instead of
 the bird if you give it the chance.
 ~
-42 1032 -150 E
-4 18 9 1d1+81 5d1+0
-60 1089 0
-8 8 0 -1 -1
-Att2: 3
-E
+bf dk -150 S
+5 15 5 1d12+60 2d4+3
+0 1100
+8 8 0
 #6008
 sparrow~
 the sparrow~
@@ -117,12 +100,10 @@ A sparrow is flapping around by the ground.
 ~
 The sparrow looks like it is enjoying life.
 ~
-72 0 200 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+g 0 200 S
+0 20 9 3d3+1 1d4+0
+0 25
+8 8 0
 #6009
 robin~
 the robin~
@@ -130,12 +111,10 @@ A robin is hopping around looking for bugs to eat.
 ~
 The robin looks quite intent on finding a bug or worm to eat.
 ~
-72 0 200 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+g 0 200 S
+0 20 9 3d3+1 1d4+0
+0 25
+8 8 0
 #6010
 squirrel~
 the squirrel~
@@ -144,12 +123,10 @@ A squirrel is here seeking refuge in its nest.
 It peers out of its nest at you anxiously, seeming to plead silently with
 you to leave it alone.
 ~
-10 786432 200 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+b st 200 S
+1 20 8 1d7+9 1d5+0
+0 120
+8 8 0
 #6011
 badger~
 the sleepy badger~
@@ -159,12 +136,10 @@ The badger is slowly awakening and peering up at you from its burrow. You
 know that it won't be moving this slow for long.  Its sharp claws and teeth
 catch your attention when you consider killing it.
 ~
-10 524288 50 E
-4 18 9 1d1+81 5d1+0
-60 1089 0
-8 8 0 -1 -1
-Att2: 3
-E
+b t 50 S
+4 17 5 1d5+48 2d3+2
+0 650
+8 8 0
 #6012
 grey squirrel~
 the grey squirrel~
@@ -173,12 +148,10 @@ A grey squirrel with a bushy tail is foraging for nuts here.
 This happy creature seems to pay you no heed as it goes about its search for
 nuts among the leaves and twigs on the ground here.
 ~
-72 262144 150 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+g s 150 S
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
 #6013
 chipmunk~
 the small chipmunk~
@@ -188,12 +161,10 @@ The absolute zenith of hyperactivity, this small rodent seems to never tire
 of running up, down, and around the trees in this area.  If you could ever
 catch it, you imagine it would make an easy meal.
 ~
-72 262144 170 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+g s 170 S
+0 20 5 2d5+3 1d4+0
+0 40
+8 8 0
 #6014
 crow black bird~
 the large black crow~
@@ -201,12 +172,10 @@ A large black bird flits about here, picking at bits of carrion.
 ~
 The bird eyes you warily, but continues with its meal.
 ~
-142 0 -20 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 0 -1 -1
-Att2: 3
-E
+bch 0 -20 S
+2 19 8 1d12+22 1d5+1
+3 200
+8 8 0
 #6015
 grotesque vulture~
 the grotesque vulture~
@@ -216,12 +185,10 @@ It sickens you to even look at this foul bird.  Bits of dried gore stick to
 its beak, and unidentifiable organs hang from its talons and feathers.  
 It sees you and attacks, protecting its horrible feast!
 ~
-46 1160 -700 E
-6 17 9 1d1+126 5d1+2
-90 2371 0
-8 8 0 -1 -1
-Att2: 6
-E
+bcf dhk -700 S
+6 15 4 1d12+68 2d3+2
+14 1750
+8 8 0
 #6016
 buck deer~
 the young buck~
@@ -231,12 +198,10 @@ This young male deer is drinking from the edge of the lake and watching you
 warily.  His antlers are not full size yet, and will no doubt be quite 
 impressive in a few years.
 ~
-74 136 350 E
-4 18 9 1d1+81 5d1+0
-60 1089 0
-8 8 1 3 -1
-Att2: 3
-E
+bg d 350 S
+4 17 4 1d12+48 1d5+3
+0 750
+8 8 1
 #6017
 fish~
 the fish~
@@ -244,12 +209,10 @@ A fish is swimming about here.
 ~
 The fish looks about the right size for a meal.
 ~
-10 64 100 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
+b g 100 S
+0 20 10 2d5+0 1d3+0
+0 30
+8 8 0
 #6018
 duckling~
 the duckling~
@@ -257,35 +220,19 @@ A duckling is swimming around in the pond.
 ~
 The duckling is adorable, it looks most of all like a tiny furball.
 ~
-10 0 1000 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
-#6019
+b 0 1000 S
+0 20 10 1d1+0 1d1+0
+0 1
+8 8 0
+#6019 
 duck~
 the duck~
 A duck is here, quacking happily.
 ~
 The duck is quite fat.  It looks like it is enjoying life.
 ~
-72 0 1000 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 0 -1 -1
-Att2: 3
-E
-#6020
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-1 20 10 1d1+18 5d1+0
-15 215 0
-8 8 0 0 0
-E
+g 0 1000 S
+1 20 10 2d6+5 1d4+0
+0 75
+8 8 0
 $

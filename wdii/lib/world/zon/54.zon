@@ -1,408 +1,414 @@
-@Version: 2
 #54
 New Thalos~
-5699 20 2 1 -1
-M 0 5419 1 5425 	(the foreman)
-E 1 5485 10 16 	(&wA &Wf&Co&Wu&Cn&Wt&Ca&Wi&Cn &cpen&n)
-M 0 5420 2 5425 	(the construction worker)
-E 1 5486 2 16 	(a sledge hammer)
-M 0 5420 2 5425 	(the construction worker)
-E 1 5486 2 16 	(a sledge hammer)
-M 0 5446 1 5551 	(Lugh the Librarian)
-G 1 9824 1 -1 	(&WTales From Wardome&n (Tome II))
-M 0 5400 1 5548 	(the guildmaster)
-M 0 5401 1 5503 	(the guildmaster)
-M 0 5402 1 5534 	(the guildmaster)
-M 0 5403 1 5546 	(the guildmaster)
-M 0 5404 1 5401 	(the receptionist)
-M 0 5405 1 5402 	(the old withered man)
-G 1 5467 900 -1 	(a glass)
-G 1 5468 900 -1 	(a glass)
-G 1 5469 900 -1 	(a bottle of grog)
-M 0 5406 1 5402 	(Brother John)
-M 0 5407 1 5403 	(the panhandler)
-M 0 5408 1 5404 	(the panhandler)
-M 0 5409 20 5410 	(the beggar)
-M 0 5410 1 5535 	(the baker)
-G 1 5440 888 -1 	(a hunk of cheese)
-G 1 5441 888 -1 	(some bread)
-G 1 5442 888 -1 	(some dry rations)
-G 1 5443 888 -1 	(some iron rations)
-G 1 5445 888 -1 	(some nuts)
-G 1 5491 888 -1 	(a sesame seed)
-M 0 5411 1 5528 	(the shopkeeper)
-G 1 5434 888 -1 	(a sack)
-G 1 5435 888 -1 	(an oil lamp)
-G 1 5436 888 -1 	(a backpack)
-G 1 5437 888 -1 	(a basket)
-G 1 5438 888 -1 	(a belt pouch)
-G 1 5439 888 -1 	(A candle)
-M 0 5412 1 5521 	(the banker)
-M 0 5413 1 5514 	(Ahkeem the tailor)
-G 1 5446 999 -1 	(a belt)
-G 1 5447 999 -1 	(a pair of hiking boots)
-G 1 5448 999 -1 	(a fur cloak)
-G 1 5449 999 -1 	(a girdle)
-G 1 5450 999 -1 	(a pair of hose)
-G 1 5451 999 -1 	(a common robe)
-G 1 5452 999 -1 	(an embroidered robe)
-G 1 5453 999 -1 	(a pair of sandals)
-G 1 5454 999 -1 	(a sash)
-G 1 5455 999 -1 	(a silk jacket)
-E 1 5483 999 16 	(a pair of sewing shears)
-M 0 5414 1 5515 	(Vera the veggie lady)
-G 1 5456 999 -1 	(an egg)
-G 1 5457 999 -1 	(a carrot)
-G 1 5458 999 -1 	(a tomato)
-G 1 5459 999 -1 	(a fig)
-G 1 5460 999 -1 	(some dates)
-M 0 5415 1 5522 	(Butch the meatcutter)
-G 1 5461 888 -1 	(a leg of lamb)
-G 1 5462 888 -1 	(a side of beef)
-G 1 5463 888 -1 	(a whole chicken)
-E 1 5484 888 16 	(a meat cleaver)
-M 0 5416 1 5529 	(Abdul the armorer)
-G 1 5415 998 -1 	(a suit of banded mail)
-G 1 5416 998 -1 	(a suit of brigandine)
-G 1 5417 998 -1 	(a suit of field plate)
-G 1 5418 998 -1 	(a suit of ringmail)
-G 1 5419 998 -1 	(a suit of splintmail)
-G 1 5420 998 -1 	(a wooden shield)
-G 1 5421 888 -1 	(A splinted shield)
-M 0 5417 1 5536 	(Igor the weaponsmith)
-G 1 5403 998 -1 	(a morningstar)
-G 1 5404 998 -1 	(an awl-pike)
-G 1 5405 998 -1 	(a bardiche)
-G 1 5406 998 -1 	(a bec de corbin)
-G 1 5407 998 -1 	(a bill-guisarme)
-G 1 5408 998 -1 	(a fauchard)
-G 1 5409 998 -1 	(A glaive)
-G 1 5410 998 -1 	(a guisarme)
-G 1 5411 998 -1 	(a sickle)
-G 1 5412 998 -1 	(a two-handed bastard sword)
-G 1 5413 998 -1 	(a scimitar)
-G 1 5414 998 -1 	(a rapier)
-M 0 5418 1 5432 	(Cassandra)
-G 1 5464 20 -1 	(a salted herring)
-G 1 5465 20 -1 	(a muscle)
-M 0 5421 1 5511 	(the statue of Brahman)
-M 0 5422 1 5511 	(the statue of Siva)
-M 0 5423 1 5511 	(the statue of Indra)
-M 0 5424 1 5511 	(the statue of Yama)
-M 0 5425 1 5516 	(the statue of Surya)
-M 0 5426 1 5516 	(the statue of Kali)
-M 0 5427 1 5516 	(the statue of Brihaspati)
-M 0 5428 1 5516 	(the statue of Puchan)
-M 0 5429 1 5466 	(Aziz)
-M 0 5430 1 5466 	(Mustafah)
-M 0 5431 1 5466 	(Fatima)
-M 0 5432 1 5466 	(Kareem)
-M 0 5433 12 5406 	(the nomad merchant)
-M 0 5433 12 5509 	(the nomad merchant)
-M 0 5433 12 5414 	(the nomad merchant)
-M 0 5433 12 5426 	(the nomad merchant)
-M 0 5433 12 5449 	(the nomad merchant)
-M 0 5433 12 5462 	(the nomad merchant)
-M 0 5434 4 5589 	(the Sultan's Bodyguard)
-M 0 5434 4 5589 	(the Sultan's Bodyguard)
-M 0 5434 4 5589 	(the Sultan's Bodyguard)
-M 0 5434 4 5589 	(the Sultan's Bodyguard)
-M 0 5435 3 5468 	(the skinny kid)
-M 0 5435 3 5468 	(the skinny kid)
-M 0 5435 3 5468 	(the skinny kid)
-M 0 5436 8 5433 	(the dockworker)
-M 0 5436 8 5433 	(the dockworker)
-M 0 5436 8 5433 	(the dockworker)
-M 0 5436 8 5434 	(the dockworker)
-M 0 5436 8 5434 	(the dockworker)
-M 0 5436 8 5435 	(the dockworker)
-M 0 5436 8 5443 	(the dockworker)
-M 0 5436 8 5443 	(the dockworker)
-M 0 5437 2 5406 	(the taxcollector)
-G 1 5400 1 -1 	(the palace key of New Thalos)
-M 0 5438 1 5415 	(Gord)
-M 0 5439 1 5405 	(Chulainn)
-E 1 5492 1 16 	(Gae Bolg)
-E 1 5415 60 5 	(a suit of banded mail)
-M 0 5440 1 5406 	(Daghdha)
-M 0 5441 1 5415 	(Curley GreenLeaf)
-M 0 5442 21 5410 	(the wandering prophet)
-M 0 5442 21 5424 	(the wandering prophet)
-M 0 5442 21 5508 	(the wandering prophet)
-M 0 5442 21 5509 	(the wandering prophet)
-M 0 5442 21 5513 	(the wandering prophet)
-M 0 5442 21 5513 	(the wandering prophet)
-M 0 5442 21 5514 	(the wandering prophet)
-M 0 5442 21 5631 	(the wandering prophet)
-M 0 5442 21 5631 	(the wandering prophet)
-M 0 5443 14 5465 	(the alley cat)
-M 0 5443 14 5467 	(the alley cat)
-M 0 5443 14 5469 	(the alley cat)
-M 0 5443 14 5473 	(the alley cat)
-M 0 5443 14 5514 	(the alley cat)
-M 0 5443 14 5569 	(the alley cat)
-M 0 5443 14 5617 	(the alley cat)
-M 0 5444 24 5429 	(the vulture)
-M 0 5444 24 5430 	(the vulture)
-M 0 5444 24 5453 	(the vulture)
-M 0 5444 24 5463 	(the vulture)
-M 0 5444 24 5507 	(the vulture)
-M 0 5444 24 5522 	(the vulture)
-M 0 5444 24 5523 	(the vulture)
-M 0 5444 24 5524 	(the vulture)
-M 0 5444 24 5532 	(the vulture)
-M 0 5444 24 5549 	(the vulture)
-M 0 5444 24 5555 	(the vulture)
-M 0 5444 24 5567 	(the vulture)
-M 0 5444 24 5568 	(the vulture)
-M 0 5444 24 5692 	(the vulture)
-M 0 5445 2 5455 	(the old man)
-E 1 5490 2 17 	(The Apocaliptikal Banner)
-M 0 5445 2 5455 	(the old man)
-E 1 5490 2 17 	(The Apocaliptikal Banner)
-M 0 5447 1 5411 	(the dirt devil)
-M 0 5448 1 5411 	(the lamia)
-M 0 5449 1 5411 	(the raggety dervish)
-M 0 5450 1 5589 	(the Sultan)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5451 8 5587 	(a harem girl)
-M 0 5452 1 5591 	(the jailer)
-G 1 5493 1 -1 	(the jail key)
-M 0 5453 4 5587 	(a eunich)
-M 0 5453 4 5587 	(a eunich)
-M 0 5453 4 5587 	(a eunich)
-M 0 5453 4 5587 	(a eunich)
-M 0 5454 1 5587 	(Nichole, the Sultan's favorite)
-M 0 5455 1 5566 	(Allah)
-E 1 5496 2 16 	(the wrath of Allah)
-M 0 5456 1 5525 	(the guildguard)
-M 0 5457 1 5512 	(the guildguard)
-M 0 5458 1 5526 	(the guildguard)
-M 0 5459 1 5532 	(the guildguard)
-M 0 5460 2 5561 	(the servant boy)
-M 0 5460 2 5561 	(the servant boy)
-M 0 5461 20 5412 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 53 5 	(a suit of field plate)
-E 1 5421 52 11 	(A splinted shield)
-M 0 5461 20 5418 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5461 20 5419 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5461 20 5420 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5461 20 5444 	(the Sultan's Guard)
-M 0 5461 20 5445 	(the Sultan's Guard)
-M 0 5461 20 5446 	(the Sultan's Guard)
-M 0 5461 20 5447 	(the Sultan's Guard)
-M 0 5461 20 5572 	(the Sultan's Guard)
-M 0 5461 20 5581 	(the Sultan's Guard)
-M 0 5461 20 5582 	(the Sultan's Guard)
-M 0 5461 20 5588 	(the Sultan's Guard)
-M 0 5462 12 5413 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 53 5 	(a suit of field plate)
-E 1 5421 72 11 	(A splinted shield)
-M 0 5462 12 5413 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 53 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5422 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5422 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5423 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5423 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5431 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5462 12 5431 	(the Sultan's Guard)
-E 1 5413 100 16 	(a scimitar)
-E 1 5417 43 5 	(a suit of field plate)
-E 1 5421 42 11 	(A splinted shield)
-M 0 5463 1 5406 	(the Chief Guard)
-M 0 5464 1 5531 	(the mercenary)
-M 0 5465 1 5542 	(the shipwright)
-G 1 3060 100 -1 	(a raft)
-G 1 3061 100 -1 	(a canoe)
-M 0 5466 1 5544 	(the blacksmith)
-G 1 5487 989 -1 	(a horse shoe)
-G 1 5488 989 -1 	(a saddle)
-G 1 5489 989 -1 	(a riding crop)
-M 0 5467 6 5545 	(the horse)
-M 0 5467 6 5545 	(the horse)
-M 0 5467 6 5545 	(the horse)
-M 0 5467 6 5545 	(the horse)
-M 0 5467 6 5545 	(the horse)
-M 0 5467 6 5545 	(the horse)
-M 0 5468 8 5427 	(the tourist)
-M 0 5468 8 5428 	(the tourist)
-M 0 5469 1 5699 	(the ixitxachitl)
-M 0 5470 1 5600 	(the cryohydra)
-M 0 5471 1 5604 	(the minotaur lizard)
-M 0 5472 5 5599 	(the death dog)
-M 0 5472 5 5599 	(the death dog)
-M 0 5472 5 5599 	(the death dog)
-M 0 5472 5 5599 	(the death dog)
-M 0 5472 5 5599 	(the death dog)
-M 0 5473 1 5603 	(the spotted lion)
-M 0 5474 1 5598 	(the behir)
-M 0 5475 1 5597 	(the chimera)
-M 0 5476 1 5602 	(the couatl)
-M 0 5477 1 5601 	(the giant hornet)
-M 0 5478 1 5583 	(the pegasus)
-M 0 5479 1 5523 	(Elriva)
-G 1 5470 888 -1 	(a glowing blue vial)
-G 1 5471 888 -1 	(a deep-green potion)
-G 1 5472 888 -1 	(a crystal clear potion)
-G 1 5473 888 -1 	(an off-white potion)
-G 1 5474 888 -1 	(a dark blue potion)
-M 0 5480 1 5524 	(Braheem)
-G 1 5478 888 -1 	(a scroll of recall)
-G 1 5479 888 -1 	(a grey-silver wand)
-G 1 5480 888 -1 	(a wand of glinting yellow)
-G 1 5481 888 -1 	(an oak wand)
-G 1 5482 888 -1 	(a pink wand)
-M 0 5481 1 5504 	(the high priest)
-M 0 5482 15 5407 	(the Royal Guard)
-M 0 5482 15 5408 	(the Royal Guard)
-M 0 5482 15 5414 	(the Royal Guard)
-M 0 5482 15 5416 	(the Royal Guard)
-M 0 5482 15 5444 	(the Royal Guard)
-M 0 5482 15 5445 	(the Royal Guard)
-M 0 5482 15 5450 	(the Royal Guard)
-M 0 5482 15 5452 	(the Royal Guard)
-M 0 5483 1 5538 	(Patch the bartender)
-G 1 5475 989 -1 	(a flaming scorpion)
-G 1 5476 989 -1 	(a barrel)
-G 1 5477 989 -1 	(a shot)
-M 0 5484 1 5537 	(Stitch, the leather dude)
-G 1 5422 989 -1 	(a buckler)
-G 1 5423 989 -1 	(a leather jacket)
-G 1 5424 989 -1 	(a pair of leather sleeves)
-G 1 5425 989 -1 	(a leather cap)
-G 1 5426 989 -1 	(a pair of leather pants)
-G 1 5427 989 -1 	(a pair of leather gloves)
-G 1 5428 989 -1 	(a pair of padded leather boots)
-G 1 5429 989 -1 	(a studded leather jacket)
-G 1 5430 989 -1 	(a pair of studded leather sleeves)
-G 1 5431 989 -1 	(a pair of studded leather pants)
-G 1 5432 989 -1 	(a pair of studded leather gloves)
-G 1 5433 989 -1 	(a leather shield)
-M 0 5485 1 5578 	(the gardener)
-M 0 5486 1 5583 	(the nightmare)
-M 0 5487 1 5596 	(the wolverine)
-E 1 5495 1 16 	(the wolverine claw)
-M 0 5488 1 5580 	(the mimic)
-M 0 5489 1 5554 	(the mayor)
-G 1 5401 1 -1 	(the Key to the City of New Thalos)
-M 0 5490 1 5561 	(the chef)
-R 0 5521 3034 -1 	(an automatic teller machine)
-O 0 3034 10 5521 	(an automatic teller machine)
-R 0 5406 5402 -1 	(the large central fountain)
-O 0 5402 1 5406 	(the large central fountain)
-D 0 5413 2 2 	(Inside The South Gate Of New Thalos)
-D 0 5411 0 2 	(Outside The Southern Gate Of New Thalos)
-D 0 5422 0 2 	(Inside The Northern Gate Of New Thalos)
-D 0 5567 2 2 	(Outside The Northern Gate Of New Thalos)
-D 0 5423 3 2 	(Inside The West Gate Of New Thalos)
-D 0 5569 1 2 	(Outside The West Gate Of New Thalos)
-D 0 5431 1 2 	(Inside the Eastern Gate of New Thalos)
-D 0 5568 3 2 	(Outside The Eastern Gate Of New Thalos)
-D 0 5444 2 2 	(West Casbah)
-D 0 5553 0 2 	(The Jail)
-D 0 5459 5 1 	(Alley)
-D 0 5475 4 1 	(Underground)
-D 0 5470 5 1 	(Alley)
-D 0 5478 4 1 	(Underground)
-D 0 5474 5 1 	(Alley)
-D 0 5481 4 1 	(Underground)
-D 0 5483 3 1 	(River Ishtar)
-D 0 5484 1 1 	(River Ishtar)
-D 0 5487 3 1 	(River Ishtar)
-D 0 5623 1 1 	(River Ishtar)
-D 0 5491 4 1 	(A Dark Passage)
-D 0 5503 1 1 	(Clerics' Sanctum)
-D 0 5517 2 1 	(The Base Of The Tower)
-D 0 5530 1 1 	(The Mercenaries' Guild)
-D 0 5532 3 1 	(Entrance To The Thieves' Guild)
-D 0 5534 1 1 	(The Tournament And Practice Yard)
-D 0 5546 2 1 	(The Secret Yard)
-D 0 5558 3 2 	(The Palace Gate)
-D 0 5550 1 2 	(The Grand Entrance)
-D 0 5563 2 1 	(A Hall)
-D 0 5561 0 1 	(The Kitchen)
-D 0 5565 0 1 	(A Hall)
-D 0 5566 2 1 	(The Shrine Of Allah)
-D 0 5572 2 1 	(A Hall)
-D 0 5571 0 1 	(The Grand Dining Hall)
-D 0 5574 0 1 	(A Hall)
-D 0 5575 2 1 	(The Entrance To The Dungeon)
-D 0 5575 5 1 	(The Entrance To The Dungeon)
-D 0 5591 4 1 	(The Jailer's Room)
-D 0 5577 2 1 	(A Hall)
-D 0 5576 0 1 	(A Guest Room)
-D 0 5579 0 1 	(A Hall)
-D 0 5580 2 1 	(The Art Exhibit)
-D 0 5582 2 1 	(A Hall)
-D 0 5581 0 1 	(A Guest Room)
-D 0 5582 3 2 	(A Hall)
-D 0 5587 1 2 	(The Harem)
-D 0 5584 0 1 	(A Hall)
-D 0 5585 2 1 	(The Guard Room)
-D 0 5584 3 1 	(A Hall)
-D 0 5589 1 1 	(The Throne Room)
-D 0 5588 0 1 	(A Small room)
-D 0 5589 2 1 	(The Throne Room)
-D 0 5588 2 1 	(A Small room)
-D 0 5587 0 1 	(The Harem)
-D 0 5589 0 2 	(The Throne Room)
-D 0 5590 2 2 	(The Treasure Room)
-D 0 5591 1 1 	(The Jailer's Room)
-D 0 5592 3 1 	(A Tunnel In The Dungeon)
-D 0 5592 0 2 	(A Tunnel In The Dungeon)
-D 0 5597 2 2 	(The Cell)
-D 0 5592 2 2 	(A Tunnel In The Dungeon)
-D 0 5601 0 2 	(The Cell)
-D 0 5593 0 2 	(A Tunnel In The Dungeon)
-D 0 5598 2 2 	(The Cell)
-D 0 5593 2 2 	(A Tunnel In The Dungeon)
-D 0 5602 0 2 	(The Cell)
-D 0 5594 0 2 	(A Tunnel In The Dungeon)
-D 0 5599 2 2 	(The Cell)
-D 0 5594 2 2 	(A Tunnel In The Dungeon)
-D 0 5603 0 2 	(The Cell)
-D 0 5595 0 2 	(A Tunnel In The Dungeon)
-D 0 5600 2 2 	(The Cell)
-D 0 5595 1 2 	(A Tunnel In The Dungeon)
-D 0 5596 3 2 	(The Secret Cell)
-D 0 5595 2 2 	(A Tunnel In The Dungeon)
-D 0 5604 0 2 	(The Cell)
-D 0 5653 1 1 	(In The Mountains)
-D 0 5698 3 1 	(Under The dock)
-D 0 5699 1 1 	(The Lair Of The Ixitxachitl)
+5400 5699 20 2
+*
+* Created by Duke and Conner of SillyMud
+*
+* Edited and modified for CircleMUD by Furry
+*
+* Mobiles
+M 0 5400 1 5548         Mage Guildmaster
+M 0 5401 1 5503         Cleric Guildmaster
+M 0 5402 1 5534         Warrior Guildmaster
+M 0 5403 1 5546         Thief Guildmaster
+M 0 5404 1 5401         Receptionist
+M 0 5405 1 5402         Old Withered Mage/Bartender - Shopkeeper
+G 1 5467 100                    Glass Of Blue Oasis
+G 1 5468 100                    Glass Of Wine
+G 1 5469 100                    Bottle Of Grog
+M 0 5406 1 5402         Brother John
+M 0 5407 1 5403         Panhandler
+M 0 5408 1 5404         Panhandler
+M 0 5409 20 5410        Beggar
+M 0 5410 1 5535         Baker - Shopkeeper
+G 1 5440 100                    Hunk Of Cheese
+G 1 5441 100                    Bread
+G 1 5442 100                    Some Dry Rations
+G 1 5443 100                    Some Iron Rations
+G 1 5445 100                    Some Nuts
+G 1 5491 100                    Sesame Seed
+M 0 5411 1 5528         Shopkeeper - Shopkeeper
+G 1 5434 100                    Sack
+G 1 5435 100                    Oil Lamp
+G 1 5436 100                    Backpack
+G 1 5437 100                    Basket
+G 1 5438 100                    Belt Pouch
+G 1 5439 100                    Candle
+M 0 5412 1 5521         Banker
+M 0 5413 1 5514         Ahkeem The Tailor - Shopkeeper
+G 1 5446 100                    Belt
+G 1 5447 100                    Hiking Boots
+G 1 5448 100                    Fur Cloak
+G 1 5449 100                    Girdle
+G 1 5450 100                    Pair Of Hose
+G 1 5451 100                    Common Robe
+G 1 5452 100                    Embroidered Robe
+G 1 5453 100                    Sandals
+G 1 5454 100                    Sash
+G 1 5455 100                    Silk Jacket
+E 1 5483 100 16                 Sewing Shears
+M 0 5414 1 5515         Vera The Veggie Lady - Shopkeeper
+G 1 5456 100                    Egg
+G 1 5457 100                    Carrot
+G 1 5458 100                    Tomatoe
+G 1 5459 100                    Fig
+G 1 5460 100                    Some Dates
+M 0 5415 1 5522         Butch The Meatcutter - Shopkeeper
+G 1 5461 100                    Leg Of Lamb
+G 1 5462 100                    Side Of Beef
+G 1 5463 100                    Whole Chicken
+E 1 5484 100 16                 Meat Cleaver
+M 0 5416 1 5529         Abdul The Armorer - Shopkeeper
+G 1 5415 100                    Suit Of Banded Mail
+G 1 5416 100                    Suit Of Brigandine
+G 1 5417 100                    Suit Of Field Plate
+G 1 5418 100                    Suit Of Ringmail
+G 1 5419 100                    Suit Of Splintmail
+G 1 5420 100                    Wooden Shield
+G 1 5421 100                    Splinted Shield
+M 0 5417 1 5536         Igor The Weaponsmith - Shopkeeper
+G 1 5403 100                    Morningstar
+G 1 5404 100                    Awl-Pike
+G 1 5405 100                    Bardiche
+G 1 5406 100                    Bec De Corbine
+G 1 5407 100                    Bill-Guisarme
+G 1 5408 100                    Fauchard
+G 1 5409 100                    Glaive
+G 1 5410 100                    Guisarme
+G 1 5411 100                    Sickle
+G 1 5412 100                    Two-Handed Bastard Sword
+G 1 5413 100                    Scimitar
+G 1 5414 100                    Rapier
+M 0 5418 1 5432         Cassandra - Shopkeeper
+G 1 5464 20                     Salted Herring
+G 1 5465 20                     Muscle
+M 0 5419 1 5425         Foreman
+E 1 5485 1 16                   Fountain Pen
+M 0 5420 2 5425         Construction Worker
+E 1 5486 2 16                   Sledge Hammer
+M 0 5420 2 5425         Construction Worker
+E 1 5486 2 16                   Sledge Hammer
+M 0 5421 1 5511         Statue Of Brahman
+M 0 5422 1 5511         Statue Of Siva
+M 0 5423 1 5511         Statue Of Indra
+M 0 5424 1 5511         Statue Of Yama
+M 0 5425 1 5516         Statue Of Surya
+M 0 5426 1 5516         Statue Of Kali
+M 0 5427 1 5516         Statue Of Brihaspati
+M 0 5428 1 5516         Statue Of Puchan
+M 0 5429 1 5466         Aziz
+M 0 5430 1 5466         Mustafah
+M 0 5431 1 5466         Fatima
+M 0 5432 1 5466         Kareem
+M 0 5433 12 5406        Nomad Merchant
+M 0 5433 12 5509        Nomad Merchant
+M 0 5433 12 5414        Nomad Merchant
+M 0 5433 12 5426        Nomad Merchant
+M 0 5433 12 5449        Nomad Merchant
+M 0 5433 12 5462        Nomad Merchant
+M 0 5434 4 5589         Sultan's Bodyguard
+M 0 5434 4 5589         Sultan's Bodyguard
+M 0 5434 4 5589         Sultan's Bodyguard
+M 0 5434 4 5589         Sultan's Bodyguard
+M 0 5435 3 5468         Skinny Kid
+M 0 5435 3 5468         Skinny Kid
+M 0 5435 3 5468         Skinny Kid
+M 0 5436 8 5433         Dockworker
+M 0 5436 8 5433         Dockworker
+M 0 5436 8 5433         Dockworker
+M 0 5436 8 5434         Dockworker
+M 0 5436 8 5434         Dockworker
+M 0 5436 8 5435         Dockworker
+M 0 5436 8 5443         Dockworker
+M 0 5436 8 5443         Dockworker
+M 0 5437 2 5406         Taxcollector
+G 1 5400 1                      The Palace Key Of New Thalos
+M 0 5438 1 5415         Gord 
+M 0 5439 1 5405         Chulainn
+E 1 5492 1 16                   Gae Bolg
+E 1 5415 60 5                   Banded Mail
+M 0 5440 1 5406         Daghdha
+M 0 5441 1 5415         Curley GreenLeaf
+M 0 5442 21 5410        Wandering Prophet
+M 0 5442 21 5424        Wandering Prophet
+M 0 5442 21 5508        Wandering Prophet
+M 0 5442 21 5509        Wandering Prophet
+M 0 5442 21 5513        Wandering Prophet
+M 0 5442 21 5513        Wandering Prophet
+M 0 5442 21 5514        Wandering Prophet
+M 0 5442 21 5631        Wandering Prophet
+M 0 5442 21 5631        Wandering Prophet
+M 0 5443 14 5465        Alley Cat
+M 0 5443 14 5467        Alley Cat
+M 0 5443 14 5469        Alley Cat
+M 0 5443 14 5473        Alley Cat
+M 0 5443 14 5514        Alley Cat
+M 0 5443 14 5569        Alley Cat
+M 0 5443 14 5617        Alley Cat
+M 0 5444 24 5429        Vulture
+M 0 5444 24 5430        Vulture
+M 0 5444 24 5453        Vulture
+M 0 5444 24 5463        Vulture
+M 0 5444 24 5507        Vulture
+M 0 5444 24 5522        Vulture
+M 0 5444 24 5523        Vulture
+M 0 5444 24 5524        Vulture
+M 0 5444 24 5532        Vulture
+M 0 5444 24 5549        Vulture
+M 0 5444 24 5555        Vulture
+M 0 5444 24 5567        Vulture
+M 0 5444 24 5568        Vulture
+M 0 5444 24 5692        Vulture
+M 0 5445 2 5455         Old Man
+E 1 5490 2 17                   Chessboard
+M 0 5445 2 5455         Old Man
+E 1 5490 2 17                   Chessboard
+M 0 5446 1 5551         Lugh The Librarian
+M 0 5447 1 5411         Dirt Devil
+M 0 5448 1 5411         Lamia
+M 0 5449 1 5411         Raggety Dervish
+M 0 5450 1 5589         Sultan
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5451 8 5587         Harem Girl
+M 0 5452 1 5591         Jailor
+G 1 5493 1                      Jail Key
+M 0 5453 4 5587         Eunich
+M 0 5453 4 5587         Eunich
+M 0 5453 4 5587         Eunich
+M 0 5453 4 5587         Eunich
+M 0 5454 1 5587         Nichole, The Sultan's Favorite
+M 0 5455 1 5566         Allah
+E 1 5496 2 16                   The Wrath Of Allah
+M 0 5456 1 5525         Mage Guildguard
+M 0 5457 1 5512         Cleric Guildguard
+M 0 5458 1 5526         Warrior Guildguard
+M 0 5459 1 5532         Thief Guildguard
+M 0 5460 2 5561         Servant Boy
+M 0 5460 2 5561         Servant Boy
+M 0 5461 20 5412        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 53 5                   Suit Of Field Plate
+E 1 5421 52 11                  Splinted Shield
+M 0 5461 20 5418        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5461 20 5419        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5461 20 5420        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5461 20 5444        Sultan's Guard
+M 0 5461 20 5445        Sultan's Guard
+M 0 5461 20 5446        Sultan's Guard
+M 0 5461 20 5447        Sultan's Guard
+M 0 5461 20 5572        Sultan's Guard
+M 0 5461 20 5581        Sultan's Guard
+M 0 5461 20 5582        Sultan's Guard
+M 0 5461 20 5588        Sultan's Guard
+M 0 5462 12 5413        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 53 5                   Suit Of Field Plate
+E 1 5421 72 11                  Splinted Shield
+M 0 5462 12 5413        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 53 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5422        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5422        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5423        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5423        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5431        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5462 12 5431        Sultan's Guard
+E 1 5413 100 16                 Scimitar
+E 1 5417 43 5                   Suit Of Field Plate
+E 1 5421 42 11                  Splinted Shield
+M 0 5463 1 5406         Chief Sultan's Guard
+M 0 5464 1 5531         Mercenary
+M 0 5465 1 5542         Shipwright - Shopkeeper
+G 1 3060 100                    Raft
+G 1 3061 100                    Canoe
+M 0 5466 1 5544         Blacksmith - Shopkeeper
+G 1 5487 100                    Horse Shoe
+G 1 5488 100                    Saddle
+G 1 5489 100                    Riding Crop
+M 0 5467 6 5545         Horse
+M 0 5467 6 5545         Horse
+M 0 5467 6 5545         Horse
+M 0 5467 6 5545         Horse
+M 0 5467 6 5545         Horse
+M 0 5467 6 5545         Horse
+M 0 5468 8 5427         Tourist
+M 0 5468 8 5428         Tourist
+M 0 5469 1 5699         Ixitxachitl
+M 0 5470 1 5600         Cryohydra
+M 0 5471 1 5604         Minotaur Lizard
+M 0 5472 5 5599         Death Dog
+M 0 5472 5 5599         Death Dog
+M 0 5472 5 5599         Death Dog
+M 0 5472 5 5599         Death Dog
+M 0 5472 5 5599         Death Dog
+M 0 5473 1 5603         Spotted Lion
+M 0 5474 1 5598         Behir
+M 0 5475 1 5597         Chimera
+M 0 5476 1 5602         Couatl
+M 0 5477 1 5601         Giant Hornet
+M 0 5478 1 5583         Pegasus
+M 0 5479 1 5523         Elvria - Shopkeeper
+G 1 5470 100                    Glowing Blue Vial
+G 1 5471 100                    Deep-Green Potion
+G 1 5472 100                    Crystal Clear Potion
+G 1 5473 100                    Off White Potion
+G 1 5474 100                    Dark Blue Potion
+M 0 5480 1 5524         Braheem - Shopkeeper
+G 1 5478 100                    Scroll Of Recall
+G 1 5479 100                    Grey-Silver Wand
+G 1 5480 100                    Wand Of Glinting Yellow
+G 1 5481 100                    Wand Of Oak
+G 1 5482 100                    Pink Wand
+M 0 5481 1 5504         High Priest
+M 0 5482 15 5407        Royal Guard
+M 0 5482 15 5408        Royal Guard
+M 0 5482 15 5414        Royal Guard
+M 0 5482 15 5416        Royal Guard
+M 0 5482 15 5444        Royal Guard
+M 0 5482 15 5445        Royal Guard
+M 0 5482 15 5450        Royal Guard
+M 0 5482 15 5452        Royal Guard
+M 0 5483 1 5538         Patch The Bartender - Shopkeeper
+G 1 5475 100                    Flaming Scorpion
+G 1 5476 100                    Barrel Of Beer
+G 1 5477 100                    Shot Of Whisky
+M 0 5484 1 5537         Stitch, The Leather Dude - Shopkeeper
+G 1 5422 100                    Buckler
+G 1 5423 100                    Leather Jacket
+G 1 5424 100                    Leather Sleeves
+G 1 5425 100                    Leather Cap
+G 1 5426 100                    Leather Pants
+G 1 5427 100                    Leather Gloves
+G 1 5428 100                    Padded Leather Boots
+G 1 5429 100                    Studded Leather Jacket
+G 1 5430 100                    Studded Leather Sleeves
+G 1 5431 100                    Studded Leather Pants
+G 1 5432 100                    Studded Leather Gloves
+G 1 5433 100                    Leather Shield
+M 0 5485 1 5578         Gardener
+M 0 5486 1 5583         Nightmare
+M 0 5487 1 5596         Wolverine
+E 1 5495 1 16                   Wolverine Claw
+M 0 5488 1 5580         Mimic
+M 0 5489 1 5554         Mayor
+G 1 5401 1                      Key To The City Of New Thalos
+M 0 5490 1 5561         Chef
+* Objects
+R 0 5521 3034
+O 0 3034 10 5521        ATM
+R 0 5406 5402
+O 0 5402 1 5406         Large Central Fountain
+* Doors
+D 0 5413 2 2            The South Gate
+D 0 5411 0 2
+D 0 5422 0 2            The North Gate
+D 0 5567 2 2
+D 0 5423 3 2            The West Gate
+D 0 5569 1 2
+D 0 5431 1 2            The East Gate
+D 0 5568 3 2
+D 0 5444 2 2            Jail
+D 0 5553 0 2
+D 0 5459 5 1            Underground
+D 0 5475 4 1
+D 0 5470 5 1            Underground
+D 0 5478 4 1
+D 0 5474 5 1            Underground
+D 0 5481 4 1
+D 0 5483 3 1            Grating On River Ishtar
+D 0 5484 1 1
+D 0 5487 3 1            Grating On River Ishtar
+D 0 5623 1 1
+D 0 5491 4 1            Outside The Wall
+D 0 5503 1 1            Alley
+D 0 5517 2 1            Braheem's Magic Shop
+D 0 5530 1 1            The Thieves' Guild
+D 0 5532 3 1
+D 0 5534 1 1            Alley
+D 0 5546 2 1            Alley
+D 0 5558 3 2            The Palace Gate
+D 0 5550 1 2
+D 0 5563 2 1            The Kitchen
+D 0 5561 0 1
+D 0 5565 0 1            The Shrine Of Allah
+D 0 5566 2 1
+D 0 5572 2 1            Dining Hall
+D 0 5571 0 1
+D 0 5574 0 1            Entrance To The Dungeon
+D 0 5575 2 1
+D 0 5575 5 1            Jailer's Room
+D 0 5591 4 1
+D 0 5577 2 1            Guest Room
+D 0 5576 0 1
+D 0 5579 0 1            Art Exhibit
+D 0 5580 2 1
+D 0 5582 2 1            Guest Room
+D 0 5581 0 1
+D 0 5582 3 2            Harem
+D 0 5587 1 2
+D 0 5584 0 1            Guard Room
+D 0 5585 2 1
+D 0 5584 3 1            Throne Room
+D 0 5589 1 1
+D 0 5588 0 1            Throne Room
+D 0 5589 2 1
+D 0 5588 2 1            Harem
+D 0 5587 0 1
+D 0 5589 0 2            Treasury
+D 0 5590 2 2
+D 0 5591 1 1            Tunnel In The Dungeon
+D 0 5592 3 1            
+D 0 5592 0 2            Cell
+D 0 5597 2 2            
+D 0 5592 2 2            Cell
+D 0 5601 0 2            
+D 0 5593 0 2            Cell
+D 0 5598 2 2            
+D 0 5593 2 2            Cell
+D 0 5602 0 2            
+D 0 5594 0 2            Cell
+D 0 5599 2 2            
+D 0 5594 2 2            Cell
+D 0 5603 0 2            
+D 0 5595 0 2            Cell
+D 0 5600 2 2            
+D 0 5595 1 2            Secret Cell
+D 0 5596 3 2
+D 0 5595 2 2            Cell
+D 0 5604 0 2            
+D 0 5653 1 1            Boulder To River
+D 0 5698 3 1            Lair Of The Ixitxachitl
+D 0 5699 1 1            
 S
 $

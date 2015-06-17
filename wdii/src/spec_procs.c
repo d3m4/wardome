@@ -184,8 +184,8 @@ void actualize_splskl(struct char_data *ch)
 				if(GET_LEVEL(ch) >= spell_info[x].min_level[(int) GET_CLASS(ch)] || check_remort_sk(ch, x))
 				{
 					SET_SKILL(ch, x, 20);
-					sprintf(skillbuf, "&GYou learn the &gnew&G %s &Y%s&G.&n\r\n", (x >= MAX_SPELLS ? "skill" : "spell"), spells[x]);
-					send_to_char(skillbuf, ch);
+//					sprintf(skillbuf, "&GYou learn the &gnew&G %s &Y%s&G.&n\r\n", (x >= MAX_SPELLS ? "skill" : "spell"), spells[x]);
+//					send_to_char(skillbuf, ch);
 				}
 		}
 	}

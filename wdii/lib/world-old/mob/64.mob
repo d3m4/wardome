@@ -1,0 +1,143 @@
+#6400
+goat mountain~
+the mountain goat~
+A mountain goat nibbles at a piece of grass here.
+~
+This goat is acclimated to the rugged terrain of the 
+mountains.  It looks at you and shies away a little.
+~
+200 1024 0 E
+108 -44 -13 1d1+7344 5d21+92
+1620 4725131 5
+8 8 1 -1 -1
+BareHandAttack: 4
+Att2: 98
+Att3: 46
+E
+#6401
+demon decay~
+the Demon of Decay~
+A cloaked and clawed demon of decay comes at you viciously!
+~
+This demon has pure malevolence for anything living.  
+Oops!  You're living!  I guess that means you!
+~
+194618 1160 -1000 E
+102 -41 -12 1d1+6936 5d21+90
+1530 4012124 5
+8 8 0 -1 -1
+BareHandAttack: 8
+Att2: 96
+Att3: 42
+E
+#6402
+book monster guardian~
+the Book Monster~
+A mound of books rise up into a human shape and tries to hit you!
+~
+Ironically enough, the book-monster's head is War and
+Peace.  Hmm.
+~
+260154 1032 0 E
+115 -47 -14 1d1+7812 5d23+96
+1725 5657972 5
+8 8 0 -1 -1
+Att2: 100
+Att3: 50
+E
+#6403
+bad feeling~
+a Bad Feeling~
+A bad feeling chokes your throat.
+~
+It resembles a lot of other bad feelings you've had,
+but a lot more tangible... magic?
+~
+260154 1032 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 3791433 5
+8 8 0 -1 -1
+Att2: 96
+Att3: 40
+E
+#6404
+nightmare~
+Your Worst Nightmare~
+Your worst nightmare coalesces in front of you and attacks!
+~
+It looks like you deepest, darkest fears personified.
+Wait a minute!  It IS your deepest, darkest fears
+personified!
+~
+260154 1032 0 E
+105 -42 -13 1d1+7140 5d21+92
+1575 4358931 5
+8 8 0 -1 -1
+Att2: 98
+Att3: 44
+E
+#6405
+guardian~
+the Guardian~
+A guardian guards the door.  It looks at you and attacks!
+~
+The guardian guards the door.  That's about all its
+brain can handle: guarding.
+~
+194618 1032 0 E
+105 -42 -13 1d1+7140 5d21+92
+1575 4358931 5
+8 8 0 -1 -1
+BareHandAttack: 9
+Att2: 98
+Att3: 44
+E
+#6410
+strange magician human mage~
+the human mage~
+You see a strange magician standing here.
+~
+
+~
+133130 128 0 E
+100 -40 -12 1d1+6792 5d21+90
+1500 4170576 5
+8 8 1 0 0
+E
+#6411
+bones skeleton mage~
+the skeleton mage~
+A huge amount of bones is standing here.
+~
+
+~
+139306 536870912 -400 E
+110 -45 -14 1d1+7476 5d23+94
+1650 5478328 5
+8 8 0 0 0
+E
+#6412
+wizard powerfull~
+a powerfull wizard~
+You see a powerfull wizard preparing to attack you.
+~
+
+~
+163850 545260674 -500 E
+120 -50 -15 1d1+8160 5d25+98
+1800 7033829 5
+8 8 1 0 0
+E
+#6431
+mob unfinished~
+the Matron Mother~
+The Matron Mother of the house is standing here.
+~
+She looks really and truly annoyed that you have found your way here.
+~
+2059 33928 0 E
+40 -10 -3 1d1+2712 5d9+66
+600 325558 5
+8 8 2 0 1
+E
+$

@@ -1,0 +1,253 @@
+#6100
+warg vicious~
+the vicious warg~
+A vicious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+104 1024 -350 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#6101
+warg ferocious~
+the ferocious warg~
+A ferocious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+104 1024 -350 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#6102
+wolf grey~
+the large, grey wolf~
+A large, grey wolf is here, glaring hungrily at you.
+~
+The large, grey wolf eyes you with interest while licking its lips.
+~
+104 1024 -150 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+8 8 0 -1 -1
+Att2: 6
+E
+#6103
+wolf black~
+the large, black wolf~
+A large, black wolf is here, glaring hungrily at you.
+~
+The large, black wolf eyes you with interest while licking its lips.
+~
+104 1024 -150 E
+5 18 9 1d1+99 5d1+2
+75 1651 0
+8 8 0 -1 -1
+Att2: 6
+E
+#6104
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6105
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6106
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6107
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6108
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6109
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 5d1+0
+0 0 0
+8 8 0 0 0
+E
+#6110
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you
+~
+Its roots are extremely big and large parts of them are above ground.  
+Something about it makes you think that this is not a normal oak tree.  The
+enormous grey trunk shivers slightly, as if sighing deeply.    
+~
+256072 820264 0 E
+30 5 5 1d1+630 5d4+12
+450 105901 0
+8 8 0 -1 -1
+Att2: 30
+E
+#6111
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you.
+~
+Its roots are extremely big and large parts of them are above ground.
+Something about it makes you think that this is not a normal oak tree.
+
+The enormous grey trunk emits a deep, moaning sound.
+~
+256072 820264 0 E
+30 5 5 1d1+630 5d4+12
+450 105901 0
+8 8 0 -1 -1
+Att2: 30
+E
+#6112
+dragon green~
+the green dragon~
+A huge green dragon is here, its narrow yellow eyes glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of its
+colossal body.  Numerous holes in its heavy wings tell of many fights as
+does the nicks in the horns on its head.  It smells as disgusting as only
+dragons do.
+~
+90217 1032 -1000 E
+30 5 5 1d1+630 5d4+12
+450 105901 0
+8 8 0 -1 -1
+Att2: 30
+E
+#6113
+spider poisonous~
+The huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface
+and sharp poisonous fangs to paralyze or kill its prey.
+~
+107 1032 -350 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 0 -1 -1
+Att2: 9
+E
+#6114
+queen spider~
+the Queen spider~
+The huge, bulky Queen spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+2667 33832 -1000 E
+15 13 7 1d1+315 5d2+6
+225 18413 0
+8 8 2 -1 -1
+Att2: 15
+E
+#6115
+shargugh brownie~
+Shargugh~
+Shargugh the Forest Brownie is here, grinning broadly at you.
+~
+This little fellow is only three foot tall with wild matted brown hair and
+long tangled brown beard.  He wears ragged brown and green clothing and looks
+as if he is having great fun.
+~
+2253 820330 1000 E
+10 15 8 1d1+207 5d2+4
+150 7126 0
+8 8 1 -1 -1
+Att2: 9
+E
+#6116
+elder druid~
+the Elder druid~
+The Elder druid is here.  He looks very upset about your presence in his home.
+~
+The druid looks quite old.  You would think of him as venerable but yet you
+know he would be a tough foe.
+~
+11 1064 0 E
+19 11 7 1d1+396 5d2+6
+285 36176 0
+8 8 1 1 3
+Att2: 18
+E
+T 22258
+T 22259
+#6117
+isha elf~
+Isha the Dark Elf~
+Isha the Dark Elf is here, observing you silently.
+~
+She is no less than beautiful, skin as dark as the night and hair
+shining like silver in the moonlight.  Her slender body is adorned
+with a sleeveless shirt and a short skirt made from black scales
+joined with silver threads.  Her back is covered by a large, hooded
+cloak as black as her skin and in her broad silver belt hangs a long,
+slender sword in a silver scabbard.
+~
+6155 263176 -1000 E
+20 10 7 1d1+414 5d3+8
+300 37388 0
+8 8 2 3 3
+Att2: 21
+E
+$

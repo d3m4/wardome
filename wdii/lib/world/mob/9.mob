@@ -5,13 +5,10 @@ The homba flits about.
 ~
 Part kestrel, part bear, part wolf.  Parts is parts, and makes an ugly whole.
 ~
-6186 33866 -100 E
-10 1 -2 1d1+840 5d3+74
-150 9798 7
-8 8 0 -1 -1
-Att2: 45
-Att3: 10
-E
+bflm bdgkp -100 S
+4 16 5 2d10+40 1d8+4
+100 1500
+8 8 0
 #901
 swordsman~
 the swordsman~
@@ -19,13 +16,10 @@ The greatest swordsman in the land is standing here with a sneer on his face.
 ~
 This is the ultimate swordsman.
 ~
-6186 33800 -400 E
-30 -9 -5 1d1+2520 5d7+82
-450 145613 7
-8 8 1 -1 -1
-Att2: 50
-Att3: 15
-E
+bflm dkp -400 S
+7 12 3 3d10+80 2d5+2
+250 3000
+8 8 1
 #902
 mummy rabscuttle~
 the Mummy of Rabscuttle~
@@ -33,13 +27,10 @@ The Mummy of Rabscuttle wanders here, hands aloft, walking towards you.
 ~
 All bandages, no personality.
 ~
-6154 33800 -780 E
-20 -4 -3 1d1+1680 5d5+78
-300 51409 7
-8 8 0 -1 -1
-Att2: 47
-Att3: 8
-E
+bflm dkp -780 S
+11 10 1 6d3+130 2d6+2
+750 10500
+8 8 0
 #903
 lizard giant~
 the giant lizard~
@@ -48,13 +39,10 @@ A giant lizard is here.
 This scaly creature looks like it is well adapted to its underground
 habitat.  He looks very powerful.
 ~
-6186 33800 100 E
-25 -6 -4 1d1+2100 5d5+80
-375 90648 7
-8 8 1 -1 -1
-Att2: 45
-Att3: 10
-E
+bflm dkp 100 S
+16 6 2 10d2+220 3d4+5
+1200 26000
+8 8 1
 #904
 woundwort general demon~
 General Woundwort~
@@ -62,13 +50,10 @@ General Woundwort, the dark demon of Minos, awaits to maul you to shreds.
 ~
 He looks vaguely like a rabbit, but sure doesn't act like one.
 ~
-6186 33928 -1000 E
-15 -1 -2 1d1+1260 5d3+76
-225 25319 7
-8 8 1 -1 -1
-Att2: 45
-Att3: 6
-E
+bflm dhkp -1000 S
+25 0 -1 10d8+520 3d5+12
+10000 120000
+8 8 1
 #905
 franz henchman~
 Franz the Henchman~
@@ -77,13 +62,10 @@ Franz, Minos' henchman, is here ready to pump you up.
 Franz is no girlie man.  He is very muscular and looks as if he could
 squeeze your head like a grapefruit.
 ~
-6186 33928 -300 E
-25 -6 -4 1d1+2100 5d5+80
-375 90648 7
-8 8 1 -1 -1
-Att2: 45
-Att3: 10
-E
+bflm dhkp -300 S
+12 7 4 5d10+120 2d8+4
+1000 14000
+8 8 1
 #906
 hanz henchman~
 Hanz the Henchman~
@@ -92,13 +74,10 @@ Hanz is here flexing his muscles and squeezing grapefruits.
 Hanz is no girlie man.  He is very muscular and looks as if he could
 lift a large dragon.
 ~
-6186 33928 -300 E
-10 1 -2 1d1+840 5d3+74
-150 9798 7
-8 8 1 -1 -1
-Att2: 45
-Att3: 7
-E
+bflm dhkp -300 S
+12 7 4 5d10+120 2d8+4
+1000 14000
+8 8 1
 #907
 minos king minotaur~
 King Minos the Minotaur~
@@ -106,13 +85,10 @@ King Minos the Minotaur is ready and waiting to gore you to death.
 ~
 He smells something awful.
 ~
-96298 33960 -1000 E
-30 -9 -5 1d1+2520 5d7+82
-450 145613 7
-8 8 1 -1 -1
-Att2: 55
-Att3: 15
-E
+bflmnoq dfhkp -1000 S
+26 0 -2 12d8+590 4d6+10
+0 160000
+8 8 1
 #908
 turtle dragon~
 the dragon turtle~
@@ -120,13 +96,10 @@ A large dragon turtle breaks the surface churning the water into huge waves.
 ~
 The turtle's shell is the size of a small house and looks as hard as rock.
 ~
-65640 33800 -200 E
-30 -9 -5 1d1+2520 5d7+82
-450 145613 7
-8 8 1 -1 -1
-Att2: 55
-Att3: 10
-E
+fgq dkp -200 S
+22 4 -5 12d6+350 1d20+5
+10000 80000
+8 8 1
 #909
 hag sea~
 the sea hag~
@@ -134,13 +107,10 @@ You notice the face of an ugly hag in the sea weeds.
 ~
 The sea hag is terribly fightful and has razor sharp teeth.
 ~
-104 33800 -700 E
-10 1 -2 1d1+840 5d3+74
-150 9798 7
-8 8 2 -1 -1
-Att2: 45
-Att3: 10
-E
+fg dkp -700 S
+4 16 6 4d4+35 2d5+0
+100 750
+8 8 2
 #910
 merman~
 the merman~
@@ -148,39 +118,19 @@ There is a merman swimming here brandishing his trident at you!
 ~
 The merman has a powerful tail fin instead of legs.
 ~
-96298 820232 350 E
-20 -4 -3 1d1+1680 5d5+78
-300 51409 7
-8 8 1 -1 -1
-Att2: 50
-Att3: 10
-E
+bflmnoq dkpst 350 S
+5 14 5 5d5+65 2d4+2
+1500 1000
+8 8 1
 #911
 crab crusty~
 the crusty crab~
 A crusty looking crab is crawling around here searching for food.
 ~
-It looks like a carb... what more can be said?
+It looks like a crab... what more can be said?
 ~
-65704 33800 0 E
-23 -5 -3 1d1+1932 5d5+78
-345 73210 7
-8 8 0 -1 -1
-Att2: 50
-Att3: 10
-E
-#912
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-100 -44 -15 1d1+8400 5d21+110
-1500 4010169 7
-8 8 0 -1 -1
-Att2: 96
-Att3: 40
-E
+hfq dkp 0 S
+2 18 4 5d2+25 1d5+0
+0 150
+8 8 0
 $

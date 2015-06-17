@@ -61,14 +61,10 @@ You see a fairly large road leading towards a grand castle in the distance.
 ~
 ~
 0 -1 15000
-D2
-~
-~
-0 0 18600
 D3
 ~
 ~
-0 502 527
+0 -1 3503
 D5
 The well trodden path leads down to the northeast towards a small bustling
 village.
@@ -83,7 +79,7 @@ this land.  The road leads east into the peace and quiet - and dangers -
 of the forest; and to the west it becomes the main street of the town;
 surrounded by a confusion of shops, bars, and market places.
 ~
-35 4 1
+35 c 1
 D1
 ~
 ~
@@ -91,26 +87,21 @@ D1
 D3
 ~
 ~
-0 -1 -1
+0 -1 3053
 S
 #3504
-The Gates of Miden'nir~
-You are standing on a small, dusty path leading away from Wardome City,
-to the forest of Miden'Nir (Goblinic for 'Green Blood'). You can still
-see the road to the city to the north, but if you go south,
-there is fresh air and greenery.
+The South Gate~
+   You are standing on a small, dusty path leading away from the south
+gate of Midgaard, to the forest of Miden'Nir (Goblinic for 'Green Blood').
+You can still see the city to the east, but if you go south, there is
+fresh air and greenery.
 ~
-35 16777216 3
-D0
-The road thought the plains is in that way.
-~
-~
-0 0 6091
+35 0 3
 D1
 You can see the walls of the South Gate.
 ~
 ~
-0 -1 -1
+0 -1 3127
 D2
 If you go south, you will enter the Miden'Nir.
 ~
@@ -123,7 +114,7 @@ The Trail To Miden'Nir~
 the east is easy enough.  To the west, smoke can be seen rising above
 the treetops.  The sprawl of Midgaard lies north of here.
 ~
-35 4 3
+35 c 3
 D0
 To the north, you see the South Gate of Midgaard.
 ~
@@ -364,10 +355,6 @@ More trees and some small hills.
 ~
 ~
 0 -1 3518
-D4
-~
-~
-0 0 6700
 S
 #3516
 Some Muddy Ground~
@@ -586,7 +573,7 @@ but mountains block further exploration in all other directions,
 except south, where you notice a small tunnel dug into the
 mountainside.
 ~
-35 1 3
+35 a 3
 D2
 The tunnel leads into the mountainside.
 ~
@@ -604,7 +591,7 @@ A Tunnel In The Mountains~
 of this forest.  The floor is well worn, and continues south, into the
 mountain, or back north out into the forest.
 ~
-35 1 1
+35 a 1
 D0
 Outside, you see the forest of Miden'nir.
 ~
@@ -622,7 +609,7 @@ A Tunnel In The Mountains~
 the south the passage gets smaller and smaller.  A small alcove has been
 carved into the east wall.
 ~
-35 1 1
+35 a 1
 D0
 The tunnel gets wider in this direction.
 ~
@@ -644,7 +631,7 @@ A Small Alcove~
    A small alcove has been carved out here.  There are a bunch of twigs
 and leaves thrown into a pile here, probably serving as a bed.
 ~
-35 1 1
+35 a 1
 D3
 You see the main passageway.
 ~
@@ -662,7 +649,7 @@ A Tunnel In The Mountains~
 and smaller to the south.  You almost have to hunch over to make your way
 through this area.  A small archway to the south leads into a large chamber.
 ~
-35 1 1
+35 a 1
 D0
 The tunnel continues north.
 ~
@@ -681,7 +668,7 @@ serves as the living quarters for the goblins of Miden'nir.  The bones of
 numbers woodland creatures are strewn about the room, the remanents of a
 recent meal.
 ~
-35 1 1
+35 a 1
 D0
 The tunnel heads north.
 ~
@@ -732,7 +719,7 @@ from this angle.  The air here is filled with smells of smoke and cooking.
 South, the front porch is waiting for you... or you can see if there is
 a back door.
 ~
-35 0 3
+4 0 3
 D2
 You see the front of the Inn.
 ~
@@ -790,7 +777,7 @@ overrun by goblins as of late, and it is no longer safe in these parts.
 The bar is just north of here.  If you'd rather have your own table, one
 is empty to the south.
 ~
-35 12 1
+35 cd 1
 D0
 The bar is here, manned by the Innkeeper.
 ~
@@ -838,7 +825,7 @@ hospitality of the Innkeeper, but as of late, he only serves the
 few adventurers that manage to survive a trip through the forest.
 You can leave south and return to the common room.
 ~
-35 40 1
+35 df 1
 D2
 You may retreat south back to the common room.
 ~
@@ -851,7 +838,7 @@ The Bard's Table~
 wooden chairs sits here.  There is a large stain on the table, the remnants
 of a spilled drink.
 ~
-35 8 1
+35 d 1
 D1
 You see the main floor of the Inn to the east.
 ~
@@ -864,10 +851,6 @@ You stand knee deep in garbage.  YECCH!!!  It smells terrible and who knows
 what vermin live in these piles of filth...
 ~
 35 0 3
-D0
-~
-~
-0 0 3200
 D1
 You can return to cleaner lands this way.
 ~
@@ -879,7 +862,7 @@ A Quieter Section Of The Inn~
 There seems to be no one in this end of the Woodsman, probably a safe place
 to rest and lick your wounds...
 ~
-35 8 0
+35 d 0
 D0
 You see the common room.
 ~
@@ -950,4 +933,5 @@ Back to along the trail.
 ~
 0 -1 3583
 S
-$~
+$
+

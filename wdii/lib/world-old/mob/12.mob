@@ -1,0 +1,966 @@
+#1200
+innkeeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+11 32768 0 E
+30 6 5 1d1+630 10d4+12
+450 105901 0
+8 8 2 -1 -1
+Att2: 30
+E
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 32768 0 E
+30 6 5 1d1+630 10d4+12
+450 105901 0
+8 8 2 -1 -1
+Att2: 30
+E
+#1202
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+65609 295944 0 E
+30 6 5 1d1+630 10d4+12
+450 105901 0
+8 8 0 -1 -1
+Att2: 30
+E
+#1203
+Picollo~
+Picollo~
+The Greater Sr. Picollo stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+2 20 9 1d1+36 10d1+0
+30 376 0
+8 8 0 -1 -1
+Att2: 3
+E
+#1204
+Freeza~
+Freeza~
+Freeza stands here looking to you.
+~
+It looks unfinished.
+~
+8 0 0 E
+2 20 9 1d1+36 10d1+0
+30 376 0
+8 8 0 -1 -1
+Att2: 3
+E
+#1205
+Cell~
+Cell~
+The great Cell stands here, as your total power
+~
+It looks unfinished.
+~
+8 0 -1000 E
+65 -12 0 1d1+1359 10d7+26
+975 863475 0
+8 8 0 -1 -1
+Att2: 72
+Att3: 21
+E
+#1206
+Veditta~
+Veditta~
+The Super Veditta Stans here.
+~
+It looks unfinished.
+~
+8 0 0 E
+2 20 9 1d1+36 10d1+0
+30 376 0
+8 8 0 -1 -1
+Att2: 3
+E
+#1207
+Gohan~
+Gohan~
+Gohan stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+2 20 9 1d1+36 10d1+0
+30 376 0
+8 8 0 -1 -1
+Att2: 3
+E
+#1208
+Dr. Maki~
+Dr. Maki~
+The Great Makigero stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+200 20 10 1d1+0 0d0+0
+30 50000000 1
+8 8 0 -1 -1
+E
+#1209
+Trunks~
+Trunks~
+Trunk coming from the future is here to help us.
+~
+It looks unfinished.
+~
+8 0 0 E
+2 20 9 1d1+36 10d1+0
+30 376 0
+8 8 0 -1 -1
+Att2: 3
+E
+#1210
+Korn~
+the God~
+The Most power Mob of Wardome Land
+~
+It looks unfinished.
+~
+8 0 1000 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 0 -1 -1
+Att2: 100
+Att3: 100
+Att4: 75
+E
+#1212
+papai noel~
+um &Rpapai noel&n~
+&RNatal&y! Um &RPapai Noel&y gordo e preguicoso esta' aqui.&n
+~
+Voce ja viu um de verdade???
+Pede algo pra ele! :)
+~
+8 0 -100 E
+10 16 8 1d1+207 10d2+4
+150 7126 0
+6 6 0 6 5
+E
+#1230
+Celestial Dragon~
+the Holy Celestial Dragon~
+The Holy Celestial Dragon
+~
+It looks unfinished.
+~
+3668042 67110588 0 E
+199 -78 -19 1d1+5568 10d20+78
+2985 25824860 0
+8 8 1 0 19
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1231
+Egregora possessor~
+Egregora, The Possessor~
+Egregora, The Possessor
+~
+It looks unfinished.
+~
+3668040 101713596 -1000 E
+199 -78 -19 1d1+5568 10d20+78
+2985 25824860 0
+8 8 1 4 0
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1232
+Rash~
+the Materialization of &rRash&y, the brutal.~
+The Materialization of &rRash&y, The brutal.
+~
+It looks unfinished.
+~
+3668042 34604732 -1000 E
+199 -78 -19 1d1+5568 10d20+78
+2985 21342860 0
+8 8 1 2 19
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1233
+enigma mage dark~
+Enigma, The Dark Mage~
+Enigma, The Dark Mage
+~
+It looks unfinished.
+~
+3668042 605095612 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 9 19
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1234
+Ichyrrad, The Borg Clonator~
+Ichyrrad, The Borg Clonator~
+Ichyrrad, The Borg Clonator
+~
+It looks unfinished.
+~
+3668042 1724 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 9 20
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1235
+Gambler hell~
+the Gambler of Hell~
+The Gambler of Hell
+~
+It looks unfinished.
+~
+3668042 34604732 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 8 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1236
+The Card Master~
+&WThe &RAvatar &Wof &RWar&W: The &rC&ba&cr&gd&W Master&n~
+&WThe &RAvatar &Wof &RWar&W: The &rC&ba&cr&gd&W Master&n
+~
+It looks unfinished.
+~
+3663946 647038652 0 E
+200 -200 -22 1d1+19000 20d25+150
+9 -2147483648 10
+8 8 1 9 23
+BareHandAttack: 12
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1240
+Human world guardian~
+Blind Guardian~
+The Blind Guardian of Human Samsara is here, to open your eyes.
+~
+This is a blind human.
+That is all you can see.
+~
+4188234 13372 0 E
+0 -180 -30 20d10+5000 1d1+100
+0 0 5
+8 8 0 8 -1
+BareHandAttack: 14
+Att2: 100
+Att3: 80
+Att4: 60
+E
+#1241
+rash~
+Rash~
+The Reborned Rash, a old friend under dark forces
+~
+Specter of Rash
+~
+3534890 9446460 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1242
+Phoenix~
+Phoenix~
+The Reborned Phoenix, a old friend under dark forces
+~
+Specter of Phoenix
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1243
+Goga~
+Goga~
+The Reborned Goga, a old friend under dark forces
+~
+Specter of Goga
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1244
+Drauglin~
+Drauglin~
+The Reborned Drauglin, a old friend under dark forces
+~
+Specter of Drauglin
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1245
+Argrim~
+Argrim~
+The Reborned Argrim, a old friend under dark forces
+~
+Specter of Argrim
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1246
+Mutante~
+Mutante~
+The Reborned Mutante, a old friend under dark forces
+~
+Specter of Mutante
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1247
+MasK~
+MasK~
+The Reborned MasK, a old friend under dark forces
+~
+Specter of MasK
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1248
+Melvus~
+Melvus~
+The Reborned Melvus, a old friend under dark forces
+~
+Specter of Melvus
+~
+3668014 76587044 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+3000 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1249
+Borgon~
+Borgon~
+The Reborned Reinhardt, a old friend under dark forces
+~
+Specter of Reinhardt
+~
+3665962 1183950012 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+1500 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1250
+The Lady of Exuberance~
+the Lady of Exuberance~
+The Lady of Exuberance
+~
+It looks unfinished.
+~
+16410 0 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 2 1 3
+Att2: 100
+Att3: 100
+Att4: 75
+E
+T 74
+#1251
+Dannel~
+Dannel~
+Dannel
+~
+It looks unfinished.
+~
+3663946 34636860 0 E
+200 -230 -40 1d1+30000 90d90+250
+0 0 10
+8 8 0 -1 -1
+BareHandAttack: 6
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1252
+Giskard~
+Giskard~
+Giskard
+~
+
+~
+3663946 1082428 0 E
+200 -230 -35 1d1+30000 1d1+250
+0 0 10
+8 8 0 -1 -1
+BareHandAttack: 6
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1253
+Ark~
+Ark~
+The Reborned Ark, a old friend under dark forces
+~
+Specter of Ark
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1254
+Pharn~
+Pharn~
+The Reborned Pharn, a old friend under dark forces
+~
+Specter of Pharn
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1255
+Beowulf~
+Beowulf~
+The Reborned Beowulf, a old friend under dark forces
+~
+Specter of Beowulf
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1256
+Morlock~
+Morlock~
+The Reborned Morlock, an old friend under dark forces
+~
+Specter of Rash
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1257
+Bagdemagus~
+Bagdemagus~
+The Reborned Bagdemagus, a old friend under dark forces
+~
+Specter of Bagdemagus
+~
+3665962 76588092 -1000 E
+200 -130 -60 1d1+50000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1258
+Death Master~
+Death Master~
+The Death Master, The Lord of Death Samsara
+~
+Death Master
+~
+3665962 76588092 0 E
+200 -180 -70 1d1+60000 40d40+150
+0 900000000 10
+8 8 1 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1260
+Phoenix~
+Phoenix~
+Phoenix
+~
+.
+~
+1042442 9404 -200 E
+200 -230 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 2 4
+BareHandAttack: 6
+Att3: 90
+Att4: 80
+E
+#1261
+Diadoras~
+&gDiagoras&n~
+&gDiagoras&n
+~
+The drow infront of you is quite good looking and robust build (for an drow).
+This dark drow is cleaning out his flaming bow.
+~
+1046538 34612412 -200 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 7 1
+BareHandAttack: 11
+Att2: 100
+Att3: 90
+Att4: 90
+E
+#1262
+mortifera vampire~
+&gMortifera&n~
+&gMortifera&n
+~
+This vampire woman is a living incarnation of evil. She radiates a dark aura,
+and a cold chill runs down your spine.
+
+~
+1042440 36775100 -1000 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 2 9 0
+Att2: 100
+Att3: 50
+Att4: 40
+E
+#1263
+butcher mino~
+&gButcher&n~
+&gButcher&n
+~
+Butcher is HUGE. His bulging muscles are confined beneath green heavy armor.
+He is the master of minotaur warrior guild of Mahn-Tor.
+~
+944138 9404 -1000 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 3 -1
+BareHandAttack: 6
+Att2: 100
+Att3: 50
+Att4: 20
+E
+#1264
+undefined~
+undefined~
+hh
+~
+&wHe is covered with a thick ice skin radiating a with cold aura,
+and it certainly looks ready for battle.&n
+~
+1042442 1212 -1000 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 10 -1
+BareHandAttack: 12
+Att2: 100
+Att3: 60
+Att4: 40
+E
+#1265
+repturn lizard~
+&gRepturs&n~
+] &gRepturs&n
+~
+This lizardman is a living incarnation of evil. He radiates a dark aura,
+and a cold chill runs down your spine.
+~
+1042442 537134268 -100 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 0 9
+BareHandAttack: 2
+Att2: 100
+Att3: 40
+Att4: 40
+E
+#1266
+emissary teste~
+&gEmissary&n~
+] &gEmissary&n
+~
+The grey and strained eyes of the courier look at you with ill-concealed
+lack of interest. The scars on his face are an indication that he has
+seen foul weather of all sorts on the roads, and nothing you could
+request would surprise him.
+~
+1042440 33563708 -10 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 7 1
+Att2: 100
+Att3: 40
+Att4: 20
+E
+#1270
+Godzilla~
+Godzilla~
+&gGodzilla&Y, The T-REX&n
+~
+Biotech! Say What?
+GODZILLA
+~
+4179976 104 0 E
+199 -480 -70 1d1+20000 20d20+600
+0 500000000 0
+8 8 1 -1 9
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1271
+bahamut~
+Bahamut, The Supreme Dragon~
+&gBahamut &W, The Supreme Dragon&n
+~
+&gBahamut &W, The Supreme Dragon&n
+~
+4188168 603979832 0 E
+199 -530 -45 1d1+15000 20d10+150
+0 0 10
+8 8 1 -1 9
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1272
+Tarrasque~
+&gTarrasque &w, the Fatality&n~
+&gTarrasque &w, the Fatality&n
+~
+&gTarrasque &w, the Fatality&n
+~
+4188168 0 0 E
+199 -30 -70 1d1+50000 30d30+500
+0 0 10
+8 8 1 -1 -1
+BareHandAttack: 10
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1273
+Phoenix~
+&rPhoenix&n~
+&RThe &WImmortal &RPhoenix&n
+~
+&RThe &WImmortal &RPhoenix&n
+~
+4190216 537920637 0 E
+199 -580 -55 1d1+15000 30d30+200
+0 500000000 10
+8 8 2 -1 -1
+BareHandAttack: 8
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1280
+air avatar~
+&cThe Avatar of Air Element&n~
+Its just a materialization of a air warrior
+~
+Its just a materialization of a air warrior
+~
+8 67108872 0 E
+200 -80 -30 1d1+10000 10d10+100
+0 0 10
+8 8 0 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1281
+avatar earth~
+&gThe Avatar of Earth Element&n~
+Its just a materialization of a warrior made some stones...
+~
+5
+Its just a materialization of a warrior made some stones...
+~
+8 67108872 0 E
+200 -80 -30 1d1+10000 10d10+0
+0 0 10
+8 8 0 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1282
+avatar water~
+&bThe Avatar of Water Element&n~
+Its just a warrior made from holy water.
+~
+ Its just a warrior made from holy water.
+~
+8 67108872 0 E
+200 -80 -30 1d1+10000 10d10+100
+0 0 10
+8 8 0 10 0
+BareHandAttack: 14
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1283
+avatar fire~
+&rThe Avatar of Fire Element&n~
+Its just some flames...
+~
+Its just flames...
+~
+8 67108872 0 E
+200 -80 10 1d1+10000 10d10+100
+0 0 10
+8 8 0 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1284
+avatar Life~
+&W The Avatar of Life Element&n~
+Its a life ecense who looks like a warrior.
+~
+Its a life ecense who looks like a warrior.
+~
+8 67108872 0 E
+200 -80 -30 1d1+10000 10d10+100
+0 0 10
+8 8 0 10 0
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1285
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 10
+8 8 0 0 0
+E
+#1290
+Golden Dragon~
+the Ancient Golden Dragon~
+The Ancient Golden Dragon
+~
+Golden Dragon is an enormous beast, with two wings widely opened. He looks  
+covered with several dark spliters, that are spread all around when the 
+dragon moves. You cannot see her eyes, or whatever details of his face  
+and body because of the darkness of his splinters. You note that his    
+red mouth is oponed and her tongue moves frantically.                   
+The dragon looks quite ansious.
+~
+518152 605028508 0 E
+200 -80 -60 1d1+20000 60d30+80
+3000 21657860 0
+8 8 1 3 9
+BareHandAttack: 8
+Att2: 80
+Att3: 60
+Att4: 40
+E
+#1291
+Mystic Shaman~
+&CThe Mystical Shaman&n~
+The Mystic Shaman
+~
+undefined~
+518152 662713512 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 11 0
+Att2: 100
+Att3: 50
+E
+#1292
+Mystical Sorcerer~
+&B The Mystical Sorcerer&n~
+&B The Mystical Sorcerer&n
+~
+undefined~
+516104 595604648 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 1 0 0
+Att2: 100
+Att3: 50
+E
+#1293
+Mystical Gladiator~
+&RThe Mystical Gladiator&n~
+&RThe Mystical Gladiator&n
+~
+undefined~
+516104 51392680 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 10 0
+Att2: 100
+Att3: 50
+Att4: 25
+E
+#1294
+Azoun's Knight Servant~
+&MAzoun's Knight Servant&n~
+&MAzoun's Knight Servant&n
+~
+undefined~
+520200 59781288 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 5 0
+Att2: 100
+Att3: 50
+Att4: 25
+E
+#1295
+manequim~
+Rash's Manequim~
+Rash's Manequim
+~
+It looks unfinished.
+.
+~
+8 0 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 21657860 0
+8 8 1 2 -1
+BareHandAttack: 1
+Att2: 100
+Att3: 100
+Att4: 100
+E
+#1296
+ManequimS~
+Squall Manequim~
+Squall Manequim
+~
+It looks unfinished.
+Squall Manequim
+~
+8 0 0 E
+200 -80 -20 1d1+5592 10d21+80
+3000 26206010 0
+8 8 0 11 9
+Att2: 100
+Att3: 100
+E
+#1298
+Black Orc Commander~
+Black Orc Commander~
+An Orc Commander is here
+~
+It looks unfinished.
+~
+350328 536870952 0 E
+90 -24 -3 1d1+2520 10d10+36
+1350 2160224 0
+8 8 1 3 5
+Att2: 92
+Att3: 36
+E
+#1299
+general zork~
+General Zork is here to order his orcs.~
+General Zork is here to order his orcs.
+~
+A Enormous Black Orc.
+~
+342090 0 0 E
+100 -30 -5 1d1+2796 10d11+40
+1500 2916487 0
+8 8 1 3 5
+E
+$

@@ -6,7 +6,7 @@ humans.  You begin to wonder about what lies ahead.  The air is
 damp here, and even the little light that shines through the
 canopy seems to be absorbed into the webbing.
 ~
-63 4 1
+63 c 1
 D0
 ~
 ~
@@ -23,7 +23,7 @@ limbs are coated with cobwebs and seem unusually strong for tree
 branches.  Paths lead in four directions.  The eastward path goes
 down a bit.
 ~
-63 16777216 2
+63 0 2
 D0
 ~
 ~
@@ -182,7 +182,7 @@ The Tree Trunk~
    You feel that you can rest here safely.  There is evidence of
 webbing here, but it is of a finer quality.
 ~
-63 4 2
+63 c 2
 D1
 ~
 ~
@@ -258,7 +258,7 @@ D5
 ~
 ~
 0 -1 6322
-S
+S 
 #6322
 The Rainbow Web~
    This is the rainbow web -- each strand, each link, a hue of violently
@@ -567,7 +567,7 @@ D5
 ~
 ~
 0 -1 6132
-S
+S 
 #6347
 On The Web~
    RRRRRRRRRRROOOOOOOOOOOOOAAAAAAAAAAAAAARR!  You hear the roar
@@ -617,9 +617,9 @@ D2
 S
 #6360
 Yevaud's Lair~
-Yevaud, the Usurper of Undead Midgaard, resides here.  A voice cries out,
-'BEWARE, the usurper of Undead Midgaard lives here!  FLEE while you can!  '.  
-But even Yevaud has his master...  Or so you deduce
+   Yevaud, the Usurper of Midgaard, resides here.  A voice cries
+out, 'BEWARE, the Usurper of Midgaard lives here!  FLEE while you can!'
+But even Yevaud has his master... or so you deduce.
 ~
 63 0 2
 D2
@@ -779,7 +779,7 @@ Mahatma's Inescapable Trap~
 have.  He says 'Here, have a quick trip to the Temple of Midgaard.'
 He plunges a black dagger into your back...
 ~
-63 10 0
+63 bd 0
 S
 #6390
 The Entrance To The Arachnos' Lair~
@@ -816,7 +816,7 @@ The Great Door~
 of ancient runes and names of Midgaard heroes are etched into
 the webwork.  Perhaps lists of victims?  You can't tell.  
 ~
-63 8 2
+63 d 2
 D0
 ~
 door~
@@ -835,10 +835,10 @@ Prime Material Plane.  Coffers upon coffers of gold, magical
 jewels and gems await.  Unfortunately Arachnos is a baggy spider
 too, and webs all her treasures to her beautiful silken body.
 ~
-63 64 2
+63 g 2
 D2
 ~
 door~
 2 6300 6392
 S
-$~
+$

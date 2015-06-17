@@ -1,9 +1,9 @@
-@Version: 2
 #0
 Limbo - Internal~
-99 10 2 0 -1
-M 0 1 1 1 	(Puff)
-M 0 99 1 99 	(Death)
-E 1 99 1 16 	(the Scythe of Death)
+0 99 10 2
+*
+* Mobiles
+M 0 1 1 1               Puff
+*
 S
 $

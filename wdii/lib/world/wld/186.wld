@@ -2,37 +2,29 @@
 The Entrance To The Newbie Zone~
    Ahhh... the entrance to the newbie zone!  Just the place you have
 been looking for.  Well, when you've readied yourself you can enter
-to the east.
+to the north.
 ~
-186 1048580 1
+186 c 1
 D0
 You see the start of the newbie zone.
 ~
 ~
-0 -1 3502
-D1
-~
-~
-0 0 18601
+0 -1 18601
 D3
 Back to the road that way... chickening out already?
 ~
 ~
-0 -1 -1
-D4
-~
-~
-0 0 -1
+0 -1 3061
 S
 #18601
 The Beginning Of The Passage~
-You find yourself entering a long corridor.  You can hear the sound
+   You find yourself entering a long corridor.  You can hear the sound
 of creatures roaming about, but you can't tell where the sound emanates
 from exactly.
    Exits lead to the east along the hallway, and south back to the
 entrance.
 ~
-186 8 0
+186 d 0
 D1
 More of the hallway there... how exciting!
 ~
@@ -42,11 +34,7 @@ D2
 The entrance to the newbie zone... how dull
 ~
 ~
-0 -1 -1
-D3
-~
-~
-0 0 18600
+0 -1 18600
 S
 #18602
 The Dirty Hallway~
@@ -56,7 +44,7 @@ coming from the east.  The walls are a bit slimy and moldy here... yeech,
 couldn't they hire someone to clean this place?  What will the newbies
 think?  Oh well, you can continue along the hallway to the east or west.
 ~
-186 8 0
+186 d 0
 D1
 More of the hallway there... how exciting!
 ~
@@ -79,7 +67,7 @@ A Nexus~
 and east, the passage brightens, while the darker hallway continues to
 the south.
 ~
-186 8 0
+186 d 0
 D0
 A brighter hallway leads off that way.
 ~
@@ -107,7 +95,7 @@ A Narrow Passage~
 ends abruptly to the south at a small oak door, behind which you here
 movement...
 ~
-186 9 0
+186 ad 0
 D0
 A large domed room.
 ~
@@ -126,7 +114,7 @@ dirty thing looking at you from the corner?  Ewww... maybe you should
 go back up where it is a bit safer, unless you think you can tackle
 that thing in the corner.
 ~
-186 9 0
+186 ad 0
 D4
 You see a ladder leading up
 ~
@@ -142,7 +130,7 @@ east, or you can stay and annoy him a bit more.  There also appears
 to be some type of well down here also, but it has a rather secure
 grate covering it.
 ~
-186 8 0
+186 d 0
 D0
 More of the hallway there... how exciting!
 ~
@@ -165,7 +153,7 @@ More Of The Hallway~
 more exciting through that door to the west?  Or you can keep searching
 the hallways to the north or south.
 ~
-186 8 0
+186 d 0
 D0
 More of the hallway there... how exciting!
 ~
@@ -185,14 +173,14 @@ S
 An Open Field By The Great Field~
    Finally, you are in an open field... it is so nice to breathe fresh air
 again!  You can return to that dank, smelly place to the east, or take the
-exit to the north wich appears to a laneway.
+exit to the north which appears to lead into a large field.
 ~
-186 4 0
+186 c 0
 D0
 There appears to be a field road to the north.
 ~
 ~
-0 -1 3502
+0 -1 3061
 D1
 The end of that darn hallway lies back to the east.
 ~
@@ -205,7 +193,7 @@ The End Of The Passage~
 air to the west,or return to the east and make sure you didn't miss
 anything.
 ~
-186 8 0
+186 d 0
 D1
 More of the hallway there... how exciting!
 ~
@@ -216,17 +204,13 @@ An open field near The Great Field of Midgaard can be seen.
 ~
 ~
 0 -1 18608
-D4
-~
-~
-0 0 18648
 S
 #18610
 A Brighter Hallway~
    The hallway continues on in a east-west direction... and it seems to
 be brightening up to the west.
 ~
-186 8 0
+186 d 0
 D1
 A corner in the passage lies to the east.
 ~
@@ -245,7 +229,7 @@ this place (maybe more so?).  There is a door to the east though...
 wonder where that leads?  Oh, and the hallway continues west and
 north.
 ~
-186 8 0
+186 d 0
 D0
 More of the hallway there... how exciting!
 ~
@@ -271,7 +255,7 @@ written on the walls too... couldn't he buy some paper?  There is a door
 to the north, and also a dark stairway in the corner leading down, with a
 large sign next to it that you probably should read...
 ~
-186 8 0
+186 d 0
 D0
 A nice shiny hallway!
 ~
@@ -301,7 +285,7 @@ A Turn In The Passage~
    This corner is much like all the others... except you see a strange
 glow coming from the south.  Could be an exit... you hope.
 ~
-186 9 0
+186 ad 0
 D1
 The passage continues east quite a ways.
 ~
@@ -319,7 +303,7 @@ A T-Intersection In The Passage~
 leading south.  The air seems a bit clearer here though, as if you were
 approaching an exit.
 ~
-186 9 0
+186 ad 0
 D1
 ~
 ~
@@ -339,7 +323,7 @@ Another Corner~
 covered with the same disgusting green fungus you have seen all
 along, and you hear sounds of creatures moving all around you...
 ~
-186 9 0
+186 ad 0
 D2
 ~
 ~
@@ -356,7 +340,7 @@ a comforting sound at all.  The furnishing is nothing to speak of
 either, plain grey brick walls with green fungus (or something)
 growing on them.
 ~
-186 9 0
+186 ad 0
 D1
 ~
 ~
@@ -372,7 +356,7 @@ Another Turn~
 can easily lose your bearings if you aren't careful, and you don't think
 you would like spending too much time here...
 ~
-186 9 0
+186 ad 0
 D2
 ~
 ~
@@ -387,7 +371,7 @@ A Large Room~
    The passage opens into a large oval room.  There really isn't much of
 interest here though.
 ~
-186 9 0
+186 ad 0
 D1
 ~
 ~
@@ -403,7 +387,7 @@ A Long East-West Passage~
 damp and covered with mildew and fungus.  There is a very unhealthy air
 about this place and you're beginning to want out of here... soon.
 ~
-186 9 0
+186 ad 0
 D1
 ~
 ~
@@ -419,7 +403,7 @@ A Crossing Of Corridors~
 north and south.  The air is dank, and has an odor of decay and debris.
 Not a nice place at all really...
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -443,7 +427,7 @@ A Corner Room~
 slight breeze wafting down the passage to the north though, but it smells
 altogether bad...
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -457,11 +441,11 @@ S
 The Red Room~
    It takes you a moment to realize that the red glow here is coming
 from a round portal on the floor.  It looks almost as if someone had
-painted a picture of a dirt running through a laneway on the floor of
+painted a picture of a dirt running through a field on the floor of
 this room.  Oddly enough, it is so realistic you can feel the wind in
-the laneway coming out of the picture.
+the field coming out of the picture.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -473,7 +457,7 @@ D1
 D5
 ~
 ~
-0 -1 3502
+0 -1 3061
 E
 portal floor~
 It looks as if you could go down into it... but you can't be sure of where
@@ -485,7 +469,7 @@ A Branching Passage~
    The north-south passage branches to the east here.  There is a queer red
 glow coming from that way as well, along with a faint breeze.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -507,7 +491,7 @@ walls, but the passage is so narrow you keep bumping them anyway.  You
 are almost convinced that the fungus coating the walls is grabbing at
 you too.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -528,7 +512,7 @@ sounds of creatures all around you... and somehow they don't sound
 friendly.  It is probably wise to exercise some degree of caution
 here... no telling what you may run into here.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -551,7 +535,7 @@ Another Corner~
    Well... what is there to say.  More fungus, more weird sounds, and a
 slight breeze from the north.  Bet you want to sign a lease, don't ya...
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -567,7 +551,7 @@ An Intersection Of Passages~
 left-overs.  Furthermore you want nothing to do with either, you just
 want out right now.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -588,7 +572,7 @@ something (or someone) died in here.  You hope you aren't next, but
 from the sounds you hear all around you, it seems as if something has
 other ideas about that.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -605,7 +589,7 @@ is the odour of death.  Actually, the mold and fungus on the walls is
 doing great, but otherwise... well... you don't want to think about what
 else lives here.
 ~
-186 9 0
+186 ad 0
 D1
 ~
 ~
@@ -625,7 +609,7 @@ Yet Another Corner~
 that way, but you aren't sure what.  You aren't sure if you want to know
 what either at this point.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -642,7 +626,7 @@ walls on either side of you makes you a bit nervous.  Suddenly you are
 vulnerable on all sides.  You can't even tell how big a room this is,
 because it extends to the east farther than you light will reach...
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -661,7 +645,7 @@ room extends beyond the reach of your light, and the dark shadows make you
 paranoid... anything could be hiding there.  You are painfully aware of
 how exposed you are without walls around you.
 ~
-186 9 0
+186 ad 0
 D0
 ~
 ~
@@ -672,13 +656,13 @@ The room extends as far as (and farther than) you can see...
 ~
 0 -1 18638
 E
+writing words~
+The writing appears to says 'beware the Minotaur...'
+~
+E
 wall~
 There is a crude picture of a man with the head of a bull with some writing
 next to it.
-~
-E
-writing words~
-The writing appears to says 'beware the Minotaur...'
 ~
 S
 #18640
@@ -686,28 +670,28 @@ The Statue's Room~
    Here, the passage enters a small room.  Exits lead to the east and south,
 and you notice a wonderful, large (and tastefully done) statue to the north.
 ~
-186 9 0
+186 ad 0
 D1
 A long hallway, ending in a set of steps.
 ~
 ~
 0 -1 18641
 D2
-The hall extends to the south where it seems to darken somewhat.
+The hall extends to the south where it seems to lighten somewhat.
 ~
 ~
-0 -1 18603
+0 -1 18644
+E
+statue~
+Upon closer inspection you see that the statue has a small plaque affixed
+to it.  The face looks remarkably familiar also.
+~
 E
 plaque nameplate name~
 It says:
 
 Maynard, Death Jester of the Harlequins
 
-~
-E
-statue~
-Upon closer inspection you see that the statue has a small plaque affixed
-to it.  The face looks remarkably familiar also.
 ~
 S
 #18641
@@ -717,7 +701,7 @@ pictures, and other fine decorations adorning the walls all along
 this passage.  It seems very different from the dismal passage where
 you entered.
 ~
-186 9 0
+186 ad 0
 D1
 The hallway ends at a grand marble staircase.
 ~
@@ -737,7 +721,7 @@ leads upward to an open air balcony overlooking the area.  To the south the
 room continues, and another stair is visible matching the one in front of
 you.
 ~
-186 9 0
+186 ad 0
 D2
 You see another staircase and two passages leading west and south.
 ~
@@ -766,7 +750,7 @@ out in almost any direction.  Wandering to the north end, you can see that
 the Great Fields north of Midgaard continue off towards the Dragonhelm
 Mountains to the north.
 ~
-186 9 0
+186 ad 0
 D2
 The south end of the balcony.
 ~
@@ -789,7 +773,7 @@ keeps this room up must really like newbies.  The walls and floor are
 clean, and tastefully decorated.  You also notice an interesting design
 on the floor.
 ~
-186 9 0
+186 ad 0
 D0
 A small room with a statue in it.
 ~
@@ -812,7 +796,7 @@ semi-circle around the dome of the room, the balcony allows you to look out
 in almost any direction.  Wandering to the south end, you can see the great
 city of Midgaard off to the south-west.
 ~
-186 9 0
+186 ad 0
 D0
 The north end of the balcony.
 ~
@@ -834,7 +818,7 @@ A Bright Hallway~
 this  room up must really like newbies.  The walls and floor are clean, and
 tastefully decorated.  You also notice an interesting design on the floor.
 ~
-186 9 0
+186 ad 0
 D1
 The passage opens into a domed room with a grand marble staircase.
 ~
@@ -858,7 +842,7 @@ leads upward to an open air balcony overlooking the area.  to the north the
 room continues, and another stair is visible matching the one in front of
 you.
 ~
-186 9 0
+186 ad 0
 D0
 Another stairway is to the north, as well as a passage to the west.
 ~
@@ -884,64 +868,4 @@ staircase stair stairs~
 They are constructed of smooth, beautiful marble.
 ~
 S
-#18648
-Newbie Zone Top level~
-The forest here is more dense giving you a impression that you will
-find more powerful monsters but a good warrior know that
-big monsters carry big rewards.
-~
-186 1048580 3
-D1
-~
-~
-0 0 18649
-D5
-~
-~
-0 0 18609
-S
-#18649
-The newbie dense forest~
-Here it is a continuation of the forest where we can find some creatures
-strange and brave but remember if you are afraid it is better to return.
-To west is the exit.
-~
-186 65 3
-D1
-~
-~
-0 0 18650
-D3
-~
-~
-0 0 18648
-S
-#18650
-Entrance to dark cave~
-Here it is the entrance for the most sinister cave than you already
-saw in all your life, what you will find inside is a mystery
-but accept an advice: only the strongs will survive.
-~
-186 136 0
-D1
-~
-~
-0 0 18651
-D3
-~
-~
-0 0 18649
-S
-#18651
-Inside the cave~
-Here inside it is very dark and dangerous, the humidity makes you wet
-this atmosphere type and great for a trool, then be careful because
-you can end up finding one.For west it is the exit.
-~
-186 264 0
-D3
-~
-~
-0 0 18650
-S
-$~
+$

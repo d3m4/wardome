@@ -5,7 +5,7 @@ hope you don't fall down, because that would hurt, hurt,
 hurt!  The trail continues to the east, and you can go
 back down to the small hidden valley to the west.
 ~
-64 16777216 5
+64 0 5
 D1
 ~
 ~
@@ -140,7 +140,7 @@ the light of day around its edges.  To the south is a
 wooden door, preserved through the ages by means 
 unknown.  To the west is a short hall.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 door~
@@ -168,7 +168,7 @@ freshly washed and folded.  You wonder what sort of
 mage could wield so much power to waste on such little
 things.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -185,7 +185,7 @@ A Corridor~
 stairwell to the east, and has doors leading to other
 rooms to the north and south.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -206,7 +206,7 @@ before...  Water appliances leading from nowhere deliver
 hot and cold running water to basins that drain to...
 where?  How strange!
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -220,19 +220,19 @@ spilling over its surface from the window it once looked
 out at.  A nice, spacious closet is filled with clothes
 just cleaned and pressed.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 door~
 1 -1 6409
 E
-closet~
-Nice clothes, but not your size at all.
-~
-E
 desk~
 The desk is basically uninteresting, as are the papers 
 on top of it...
+~
+E
+closet~
+Nice clothes, but not your size at all.
 ~
 S
 #6412
@@ -242,7 +242,7 @@ the tower.  You feel you could learn anything you wanted
 to if you only looked and read long enough.  A door
 opens up back on the stairwell to the east.
 ~
-64 8 0
+64 ad 0
 D1
 ~
 door~
@@ -262,7 +262,7 @@ The Stairwell~
    This stairwell continues up and down, and there is
 a door to the west.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 door~
@@ -282,7 +282,7 @@ A Hidden Hall~
 library on the north end of the west wall, and a trapdoor 
 on the south end.
 ~
-64 9 0
+64 ad 0
 D1
 The backside of a movable bookcase.
 ~
@@ -298,7 +298,7 @@ A Stairwell~
    This stairwell continues up and down, and there is a door
 to the west opening up onto this level.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 door~
@@ -316,7 +316,7 @@ S
 The Hidden Treasure Room~
    Jackpot!  A small room filled with treasure chests!  Go get them!
 ~
-64 9 0
+64 ad 0
 D4
 ~
 trapdoor trap~
@@ -328,7 +328,7 @@ A Hallway~
 the west, and doors to your north and south.  A door to
 the east leads back to the stairwell.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -352,7 +352,7 @@ A Servant's Room~
 decorated and outfitted with a bed, nightstand, chair
 and table, etc.  Nothing real important here.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -364,7 +364,7 @@ A Servant's Room~
 decorated and outfitted with a bed, nightstand, chair
 and table, etc.  Nothing real important here.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 door~
@@ -376,11 +376,11 @@ A Hallway~
 the north.  You could swear that the way this level is
 arranged... nah, couldn't be.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
-1 6354 6421
+1 -1 6421
 D1
 ~
 ~
@@ -392,7 +392,7 @@ A Servant's Room~
 decorated and outfitted with a bed, nightstand, chair
 and a table, etc.  Nothing real important here.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 door~
@@ -403,7 +403,7 @@ The Stairwell~
    This stairwell leads up and down, and there is a big
 open room to your west.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -427,7 +427,7 @@ The cooled lava that had poured in the windows makes the place
 seem eerie somehow .  There is a door to the north, and
 the stairwell is to the east.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 door~
@@ -448,7 +448,7 @@ The Kitchen Area~
 and full as if by magic.  Perhaps this would be a good
 place to take a break.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 door~
@@ -459,7 +459,7 @@ The Stairwell~
    The stairwell leads up and down here, and there is a hall
 you can enter to the west.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -479,7 +479,7 @@ A Hall~
 hall runs north-south, and there is an empty cell to your
 west.  The stairwell is to your east.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 ~
@@ -502,7 +502,7 @@ A Hall~
    This is the northern end of the hall.  There are cells to
 your right and left, empty and awaiting occupants.
 ~
-64 9 0
+64 ad 0
 D2
 ~
 ~
@@ -517,7 +517,7 @@ A Hall~
    This is the southern end of the hall.  There are cells to
 your right and left, empty and awaiting occupants.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 ~
@@ -532,7 +532,7 @@ A Stairwell~
    The stairwell continues up and down here.  A large room
 opens up to the west.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -552,16 +552,11 @@ A Mage's Office~
 papers and documents.  None seem of value, except perhaps
 to a historian.  This place seems vaguely uninteresting...
 ~
-64 9 0
+64 ad 0
 D1
 ~
 ~
 0 -1 6429
-E
-desk~
-It is cluttered with all sorts of papers.  Some look
-half interesting, actually.
-~
 E
 paper papers documents document~
 Well, one of the papers relate a story about how the mage
@@ -569,13 +564,18 @@ of this tower, Rand, angered many kings, and relates how
 they set his armies on him.  You wonder if the lava
 outside was a failed attempt to destroy the armies...
 ~
+E
+desk~
+It is cluttered with all sorts of papers.  Some look
+half interesting, actually.
+~
 S
 #6431
 The Stairwell~
    The stairs go up and down here, and there is a room to the
 west...
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -596,7 +596,7 @@ A fireplace is inset into an inner wall, the chimney
 undoubtedly directed by magic...
    This would be a nice place to rest awhile...
 ~
-64 12 0
+64 cd 0
 D1
 ~
 ~
@@ -607,7 +607,7 @@ The Stairwell~
     This is where the stairwell finally ends.  There is a hall
 to your west.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -625,7 +625,7 @@ the shadowy recesses of the tower.  To the west is the
 entrance way to the tower.  The north is completely blocked
 off by lava, and the way south is still clear.
 ~
-64 9 0
+64 ad 0
 D1
 ~
 ~
@@ -648,7 +648,7 @@ with sculptures and tapistries everywhere.  The doors seem
 impenetrable... you don't think you'd be able to get through
 them if you really had to...
 ~
-64 9 0
+64 ad 0
 D1
 ~
 ~
@@ -672,7 +672,7 @@ doors.  He was blasted into the doors, and died instantly,
 but his skeleton still clutches a staff in perfect 
 condition...
 ~
-64 9 0
+64 ad 0
 D1
 These double doors have the outline of a man blasted into them...
 ~
@@ -685,7 +685,7 @@ The Hallway~
 a door to the west, barred with gleaming bands of lights.
 To the north is more hallway.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 ~
@@ -693,14 +693,14 @@ D0
 D3
 ~
 door~
-1 6453 6438
+1 -1 6438
 S
 #6438
 The Stairs~
    Stairs lead down here into the tower's basement, or you
 can head east into the main floor of the tower.
 ~
-64 9 0
+64 ad 0
 D1
 ~
 door~
@@ -715,7 +715,7 @@ The Stairs~
    Stairs lead up here to the main level, or you can go east
 to the basement of the tower.
 ~
-64 9 0
+64 ad 0
 D1
 ~
 ~
@@ -731,7 +731,7 @@ An Alcove~
 to stairs leading down to the east, and stairs going 
 up to your west.
 ~
-64 9 0
+64 ad 0
 D0
 ~
 ~
@@ -753,17 +753,17 @@ with normal things, jars filled with abnormal things, jars
 filled with things you'd rather not think about...
 A search could reveal many things...
 ~
-64 9 0
+64 ad 0
 D2
 ~
 ~
 0 -1 6440
 E
-mortar mortars pestle pestles jar jars~
+beaker beakers flask flasks burner burners tong tongs~
 Looks like normal, fragile lab equipment to you.
 ~
 E
-beaker beakers flask flasks burner burners tong tongs~
+mortar mortars pestle pestles jar jars~
 Looks like normal, fragile lab equipment to you.
 ~
 S
@@ -772,7 +772,7 @@ The Stairs~
    Stairs lead down here to the second level of the basement,
 or back west to the alcove.
 ~
-64 9 0
+64 ad 0
 D3
 ~
 ~
@@ -787,7 +787,7 @@ The Stairs~
    Stairs lead up here to the first level of the basement, or
 you can go east to another big room.
 ~
-64 9 0
+64 ad 0
 D1
 ~
 ~
@@ -804,7 +804,7 @@ the center of the room.  Bands of force encircle some
 sort of being trapped inside.  You think that going
 inside would be an EXTREMELY BAD idea...
 ~
-64 8 0
+64 d 0
 D0
 ~
 ~
@@ -814,15 +814,15 @@ D3
 ~
 0 -1 6443
 E
+pentagram~
+It is centuries old.  You don't think standing close by
+would be a good idea.
+~
+E
 being~
 You can't see it clearly through the energy field of the
 pentagram, but you sense that whatever it is, it is very,
 very, very, very angry.
-~
-E
-pentagram~
-It is centuries old.  You don't think standing close by
-would be a good idea.
 ~
 S
 #6445
@@ -830,11 +830,16 @@ Inside A Pentagram~
    The small god entrapped by the wizard looks at you with
 an insane expression.  Four hundred years of imprisonment
 doesn't do much for one's...
+
+   OOPS!
+
+   He killed you!
+   You are dead, R.I.P.
 ~
-64 9 0
+64 bd 0
 D2
 ~
 ~
 0 -1 6444
 S
-$~
+$

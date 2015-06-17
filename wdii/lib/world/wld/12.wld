@@ -1,25 +1,16 @@
 #1200
 The Meeting Room Of The Gods~
-   The meeting room is plain and very simple.  A circular table sits in
-the middle of the room, lit by some unseen light source. There are many
-chairs around the table, all empty.  The Immortal Board Room  is to the
-north, the Sugestion's Place is to the east and  the Builder's Place is
-to the west.
+   The meeting room is plain and very simple.  A circular table sits
+in the middle of the room, lit by some unseen light source.  There
+are many chairs around the table, all empty.  The Immortal Board Room
+is to the north.
 ~
-12 8 0
+12 d 0
 D0
 The Immortal Board Room can be seen to the north.
 ~
-door~
-1 -1 1204
-D1
 ~
-~
-0 0 1209
-D3
-~
-~
-0 0 1208
+0 -1 1204
 S
 #1201
 The Inn Of The Gods~
@@ -28,7 +19,7 @@ small precious stones on it.  When a God comes to rent his belongings,
 his essence is stored in the stones.  The Immortal Board Room is to
 the south.
 ~
-12 8 0
+12 dj 0
 D2
 The Immortal Board Room can be seen to the south.
 ~
@@ -40,9 +31,7 @@ The Ice Box Of The Gods~
    The Ice Box is for little boys and girls that cannot play nice. Be good
 and maybe someone will come and get you.
 ~
-12 6815997 0
-T
-1202 0 2 0
+12 defh 0
 S
 #1203
 The Gods' Mortal Board Room~
@@ -50,7 +39,7 @@ The Gods' Mortal Board Room~
 room.  Any God can easily post and read messages from the mortal board room
 without being seen by any mortals.  The Immortal Board Room is to the west.
 ~
-12 8 0
+12 d 0 
 D3
 The Immortal Board Room can be seen to the west.
 ~
@@ -63,10 +52,10 @@ The Immortal Board Room~
 be.  Gods exchange messages here most every day.  The mortal board room is
 to the east and the meeting room for the gods is to the south.  To the north
 is the Gods' Inn and to the west is a post office for Gods.  There is a large
-staircase leading down to the Fountain of the WarDome City.  In the
+staircase leading down to the main temple in the city of Midgaard.  In the
 northeast corner you spot a small staircase leading upwards.
 ~
-12 8200 0
+12 d 0
 D0
 The Gods' Inn can be seen just to the north.
 ~
@@ -94,9 +83,11 @@ the Gods.
 ~
 0 -1 1206
 D5
+You see the hustle and bustle of the Temple of Midgaard at the bottom of
+the stairs.
 ~
 ~
-0 -1 503
+0 -1 3001
 S
 #1205
 The Post Office Of The Gods~
@@ -105,7 +96,7 @@ it is not as slow.  Even the Postal service knows not to anger the Gods.
 Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
 The Immortal Board Room is to the east.
 ~
-12 8 0
+12 d 0
 D1
 The Immortal Board Room is just to the east.
 ~
@@ -117,11 +108,7 @@ The Social Gathering Room~
    This elegantly decorated room has one simple purpose.  To socialize with
 everyone else around in one central location.
 ~
-12 8 0
-D0
-~
-~
-0 0 1215
+12 d 0
 D5
 The Immortal Board Room is just down through the floor.  Funny how you
 didn't notice that exit before isn't it?
@@ -129,61 +116,4 @@ didn't notice that exit before isn't it?
 ~
 0 -1 1204
 S
-#1207
-The Idea Board~
-This elegantly decorated room has on simple purpouse, record the wardome player's idea.
-~
-12 0 0
-S
-#1208
-The Builder's Place~
-If you are a builder, here is the right place but if you aren't GET OUT!!!
-~
-12 8 0
-D1
-~
-~
-0 0 1200
-S
-#1209
-The Sugestion's Place - Only GODS allowed~
-If you have a sugestion, here is the right place but if you don't GET OUT!!!
-~
-12 0 0
-D3
-~
-~
-0 0 1200
-S
-#1210
-The Explanation Room.~
-   If you were transfered to this room, you may have something to explain to someone.
-   Be careful! Your judgement may be here and now, so keep cool, answer the questions and you will get out of here soon. And don't you forget: We really can read your thoughts, and be polite.
-~
-12 524456 0
-T
-1210 0 2 0
-S
-#1215
-test~
-You are in an unfinished room.
-~
-12 0 0
-D2
-~
-~
-0 0 1204
-S
-#1298
-test~
-You are in an unfinished room.
-~
-12 0 0
-S
-#1299
-test~
-You are in an unfinished room.
-~
-12 0 0
-S
-$~
+$

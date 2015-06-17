@@ -5,16 +5,12 @@ wind here is absolutely quiet and the sun is shining warmly upon you.
 From under the cloud you can hear the faint sounds of Midgaard.  Right
 before you to the north lies the grand Mansion of Naris.
 ~
-79 4 0
+79 cj 0
 D0
 You see an enormous arched gate leading into this magnificent building.
 ~
 gate huge arched~
 2 7901 7901
-D2
-~
-~
-0 0 9101
 D5
 You see a Huge Chain that anchors the Mansion of Naris to the ground.
 ~
@@ -33,7 +29,7 @@ further north from here.  To the south you can see a huge, and VERY
 heavy-looking iron-wrought door.  It looks like this is the only exit
 from this magnificent old house.
 ~
-79 524 0
+79 cdj 0
 D0
 The hallway continues that way.  You can see more doorways under the
 wooden staircase in that direction.
@@ -97,7 +93,7 @@ enormous crystal chandelier hanging down from the ceiling approximately
 10 feet off the floor.  To the east there is a great old ashen door.  A
 large glass window is set in the west wall.
 ~
-79 524 0
+79 cdj 0
 D1
 You can see an old ashen door, painted in a peculiar yellow color.
 ~
@@ -150,7 +146,7 @@ walls.  A bunch of funny-looking items fill the center of the room.  There
 is no furniture here what-so-ever.  The only way out seems to be west,
 through the low steel door.
 ~
-79 524 0
+79 cdj 0
 D3
 You see only the back of a safe's steel door.
 ~
@@ -166,7 +162,7 @@ lies the kitchen.  To the south lies the southern end of the hall.  To
 the east there is a huge metal door.  To the west there is a large
 aspenwood door.
 ~
-79 524 0
+79 cdj 0
 D0
 ~
 ~
@@ -199,7 +195,7 @@ most attractive picture is one of a Prince in shining armour.  By one
 of the walls there is an old armchair.  The only exit is through the
 aspenwood door to the east.
 ~
-79 524 0
+79 cdj 0
 D1
 The door seems to be a very HEAVY door, carved completely from the trunk of
 an Aspen tree.
@@ -218,7 +214,7 @@ of rats feasting on meat and bread from somewhere undeterminable.  The sound
 makes you feel the agony of HUNGER.  The only visible exit is south to the
 Northern end of the hall.
 ~
-79 524 0
+79 cdj 0
 D0
 It is dark in there.  But the sounds from there are unmistakable.  The rats
 are here for your information.
@@ -241,7 +237,7 @@ The Larder~
    You can see food all over.  Among the heaps of food you notice HUGE rats
 scuttling around, nibbling pieces off the heaps here and there.
 ~
-79 524 0
+79 cdj 0
 D2
 ~
 door wooden larder~
@@ -251,7 +247,7 @@ S
 The Fridge~
    This place is LOADED with drink, water and booze.
 ~
-79 524 0
+79 cdj 0
 D3
 ~
 door fridge~
@@ -264,7 +260,7 @@ going up OR down.  It is just a seemingly insurmountable climb, either way.
 Up is the bedroom of Redferne, and down leads to the southern end of the
 hall.
 ~
-79 524 0
+79 cdj 0
 D4
 ~
 ~
@@ -279,7 +275,7 @@ The Treasure Room~
    This place is gloomy.  A HUGE safe is cemented into the west wall.  The
 only visible exit is west, through the oak door.
 ~
-79 524 0
+79 cdj 0
 D1
 ~
 safe steel~
@@ -299,7 +295,7 @@ HALF of this great room.  The room stretches at least 140 feet, so can
 you imagine the BED?  A large staircase leads down to the hall.  A couple
 of doors open up to a broad balcony to the south.
 ~
-79 524 0
+79 cdj 0
 D2
 The sun seems to shine out there, warmly and comforting.
 ~
@@ -317,7 +313,7 @@ far as the eye reaches to the south from here.  Down below you can see
 the entrance of this magnificent building.  To the north are the doors
 to Redferne's bedroom.
 ~
-79 516 0
+79 cj 0
 D0
 You see the comfortable bedroom of Naris.
 ~
@@ -337,7 +333,7 @@ Judging by the state the walls are in, this could very well be a large
 AGGRESSIVE animal.  This makes you pretty insecure, this stating your
 feeling about the place quite mildly.
 ~
-79 520 0
+79 dj 0
 D3
 This looks like the only exit from here.
 ~
@@ -351,7 +347,7 @@ movement seem to extend only to the up and down directions.  Unless you
 want to let go of the secure and seemingly unmovable chain, then those are
 the directions you should take from here.
 ~
-79 16777220 5
+79 c 5
 D4
 Upwards, you see the chain disappearing into the clouds above.
 ~
@@ -362,7 +358,7 @@ Down below, you see the huge chain anchored to the ground at the Road
 Crossing of southern Midgaard.
 ~
 ~
-0 -1 -1
+0 -1 3120
 S
 #7915
 The Chain Where It Is Too Windy~
@@ -372,7 +368,7 @@ seems like a totally impossible task.  The ascend is the only way ahead
 for you.  Otherwise you would risk death by falling to the hard ground
 below.  DO NOT DESCEND NOW OR YOU WILL SURELY DIE!!!!
 ~
-79 4 5
+79 c 5
 D4
 That way seems to be the only way away from here.
 ~
@@ -394,7 +390,7 @@ and down.  No way are you going to descend now... You've only just begun
 your climb.  Besides it could cost you your life.  Look down and you'll
 see why.
 ~
-79 4 5
+79 c 5
 D4
 There seems to be only one way from here and that's up.
 ~
@@ -416,7 +412,7 @@ originating from within the Chain *ITSELF*.  It says 'Welcome back some
 other time, stranger.  Your company is always... hmmm... interesting.  God
 Speed.'  The chain extends further down through the now spreading clouds.
 ~
-79 4 5
+79 c 5
 D4
 It seems to you that the Chain is dissolving again.  Maybe it is just an 
 illusion, but still...
@@ -437,7 +433,7 @@ you can now see the Mansion of Naris, Residence of the Greater God Redferne.
 The chain beneath you seems to evaporate in the mustering clouds that
 surround you by now.
 ~
-79 4 5
+79 c 5
 D4
 You see the sunny top of the clouds.  Beyond these, the Mansion towers before
 your eyes.  Beautiful!!
@@ -469,7 +465,7 @@ and fall
 and HIT THE GROUND WITH SUCH A *SPLUTCH* that you die horribly, but instantly.
 Good-bye cruel world.
 ~
-79 10 0
+79 bd 0
 D0
 ~
 ~
@@ -493,6 +489,6 @@ D4
 D5
 ~
 ~
-0 -1 -1
+0 -1 3120
 S
-$~
+$

@@ -2,7 +2,7 @@
 The Edge Of The Forest~
    You are standing at the end of a dusty road, near the eastern edge of the
 large forest of Haon-Dor.  To the east you see the road heading back to the
-walled city, WarDome City, and to the west is a narrow trail leading through the
+walled city, Midgaard, and to the west is a narrow trail leading through the
 forest.
 ~
 60 0 2
@@ -12,10 +12,6 @@ west gate.
 ~
 ~
 0 -1 6090
-D2
-~
-rock~
-1 0 2900
 D3
 You see a narrow forest trail winding westward in between the trees.
 ~
@@ -91,10 +87,6 @@ You see the narrow forest trail winding westwards into the dense forest.
 ~
 ~
 0 -1 6003
-D5
-~
-~
-0 0 2001
 E
 path paths~
 The narrow path is probably used by the animals living in the forest.
@@ -111,15 +103,10 @@ lightly in the wind.
 S
 #6003
 A Trail Through The Dense Forest~
-   You are on a trail winding east and west through the dense forest.  To the
-east, the forest gradually seems to become lighter.  There is a Cathedral to
-the north.    
+   You are on a trail winding east and west through the dense forest.  To
+the east, the forest gradually seems to become lighter.
 ~
 60 0 3
-D0
-~
-~
-0 0 1055
 D1
 The trail continues eastwards to the younger part of the forest.
 ~
@@ -324,10 +311,6 @@ The small path leads west through the light forest.
 ~
 ~
 0 -1 6008
-D4
-~
-~
-0 0 7914
 E
 cabin logs log~
 It looks simple but comfortable and the slender trees make the whole place seem
@@ -348,7 +331,7 @@ Inside The Cabin~
 It is very sparsely furnished, containing only the most basic housekeeping
 equipment, such as a bed, a chair and a table.
 ~
-60 8 0
+60 d 0
 D2
 The wooden door leads south.
 ~
@@ -702,7 +685,7 @@ Inside The Cave~
 emitting a rather unpleasant smell that makes the air thick and hard to
 breathe.  The only obvious exit is east.
 ~
-60 9 0
+60 ad 0
 D1
 The cave opening is to the east.
 ~
@@ -903,10 +886,6 @@ you can see fish swimming around below you.  The bank is clear to the
 south, providing a safe place to get back to the field.
 ~
 60 0 7
-D0
-~
-~
-0 0 9900
 D2
 Some animals have gathered on the bank to watch you, curious about what you
 are doing.
@@ -965,7 +944,7 @@ crowns of the old trees leave the forest in an unreal twilight illumination.
 This rough clearing is dominated by a very large oak tree, probably the
 largest in this part of the forest.  The path leads back to the north.
 ~
-60 4 3
+60 c 3
 D0
 ~
 ~
@@ -1076,7 +1055,7 @@ approach, leaving you alone and swaying slightly with the wind.  To your north
 you can see a small log cabin through the trees, and to the southeast there
 seems to be some sort of clearing, with many birds circling above it.
 ~
-60 4 3
+60 c 3
 D1
 Back to the east you see the tree trunk.  It is much less precarious there
 compared to here... perhaps you should go back.
@@ -1177,9 +1156,13 @@ is that you see pacing on one of the upper limbs.
 S
 #6033
 High In The Large Oak~
-   The tree top gently sways in the wind, and you think you are as high as you can safely go in the tree.  The limbs here show evidence of a small battle, with ripped bark and loose feathers scattered everywhere.  Looking around, you can
-see the forest stretching out below you in all directions.  To the east you see Wardome city, and to the south the river runs though a deep chasm. North and west of here you can see another small village, and on the western horizon you see
-a large mountain.
+   The tree top gently sways in the wind, and you think you are as high as
+you can safely go in the tree.  The limbs here show evidence of a small battle,
+with ripped bark and loose feathers scattered everywhere.  Looking around, you
+can see the forest stretching out below you in all directions.  To the east you
+see Midgaard, and to the south the river runs through a deep chasm.  North and
+west of here you can see another small village, and on the western horizon you
+see a large mountain.
 ~
 60 0 5
 D5
@@ -1500,10 +1483,6 @@ The path winds its way between the trees.
 ~
 ~
 0 -1 6064
-D3
-~
-~
-0 0 14100
 E
 path paths shaded shadowy~
 The shadowy path is probably used by the animals living in the forest.
@@ -1733,7 +1712,7 @@ you.  The ground is very rough and rocky here, and only the most hardy plants
 survive.  The crowns of the old trees leave the hills in an unreal twilight
 illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -1776,7 +1755,7 @@ you.  The ground is very rough and rocky here, and only the most hardy plants
 survive.  The crowns of the old trees leave the hills in an unreal twilight
 illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -1818,24 +1797,11 @@ forest is quite thick here, and the ground is very rough and hilly, halting
 your progress.  The path lies to the south.
 ~
 60 0 4
-D1
-~
-~
-0 0 8200
 D2
 The path winds its way between the trees.
 ~
 ~
 0 -1 6075
-D4
-~
-~
-0 0 9700
-D5
-You see a big stone blocking the entrance.
-~
-stone~
-1 0 22000
 E
 path paths shaded~
 The shaded path is probably used by the animals living in the forest.
@@ -1858,7 +1824,7 @@ you.  The ground is very rough and rocky here, and only the most hardy plants
 survive.  The crowns of the old trees leave the hills in an unreal twilight
 illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -1901,7 +1867,7 @@ you.  The ground is very rough and rocky here, and only the most hardy plants
 survive.  The crowns of the old trees leave the hills in an unreal twilight
 illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -1944,7 +1910,7 @@ you.  The ground is very rough and rocky here, and only the most hardy plants
 survive.  The crowns of the old trees leave the hills in an unreal twilight
 illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -1985,7 +1951,7 @@ In The Dense Forest Between The Hills~
 dense forest spreads out all around you, and the crowns of the old trees leave
 the hills in an unreal twilight illumination.
 ~
-60 4 4
+60 c 4
 D0
 All you see are trees and hillsides.
 ~
@@ -2014,10 +1980,10 @@ S
 A Road Through The Plains~
    You are on a dust covered east-west road through the western plains.  An
 occasional hunter or adventurer can be seen, heading to or from the forest.
-To the east is the walled city, Wardome City, and to the west the road ends at
+To the east is the walled city, Midgaard, and to the west the road ends at
 the head of a narrow trail into a large forest.
 ~
-60 4 2
+60 c 2
 D1
 Far to the east you see the large walls guarding Midgaard.
 ~
@@ -2046,20 +2012,15 @@ S
 A Road Through The Plains~
    You are on a dust covered east-west road through the western plains.  An
 occasional hunter or adventurer can be seen, heading to or from the forest.
-To the east is the walled city, Wardome City, and to the west the road
-continues towards a large forest.
+To the east is the walled city, Midgaard, and to the west the road continues 
+towards a large forest.
 ~
-60 4 2
+60 c 2
 D1
 Far to the east you see the walls and western gate of Midgaard.
 ~
 ~
 0 -1 6092
-D2
-You see the Gates of Miden'nir.
-~
-~
-0 0 3504
 D3
 You see the large forest, Haon-Dor, stretching out far to the west, and to the
 northwest you the forest gives way to hills.
@@ -2084,16 +2045,16 @@ S
 #6092
 A Road Through The Plains~
    You are on a dust covered east-west road crossing the grassy plains between
-WarDome City the forest of Haon-Dor.  An occasional hunter or adventurer can be
-seen, heading to or from the forest.  To the east is the WarDome City, and to 
-the west the road continues towards a large forest.
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
 ~
-60 0 1
+60 c 1
 D1
 To the east you see the walls and West Gate of Midgaard.
 ~
 ~
-0 502 523
+0 -1 3052
 D3
 To the west the road continues towards the forest.
 ~
@@ -2109,4 +2070,4 @@ road dust dusty~
 The road is well used, and quite dusty.
 ~
 S
-$~
+$

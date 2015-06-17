@@ -1,30 +1,21 @@
 #3600
-The Great ChessBoard of Wardome~
-You Stand in the archway of the Chessboard of Wardome. The Giant
+The Great Chessboard Of Midgaard~
+   You stand in the archway of the Chessboard of Midgaard.  The giant
 wooden gate is rusted open.
    A narrow dirt path leads eastwards into the thick grass and the
 chessboard opens up to the west.
-This area is better for players on remort 7
 ~
-36 16777220 1
-D0
-~
-~
-0 0 -1
+36 c 1
 D1
 A dirt path leads away through the great field north of Midgaard.
 ~
 ~
-0 -1 -1
+0 -1 3066
 D3
 The huge chessboard opens up to the west.
 ~
-gates~
-2 -1 3632
-D4
 ~
-trapdoor~
-1 0 15004
+0 -1 3632
 S
 #3601
 A White Square~
@@ -784,7 +775,7 @@ A White Square~
    You are standing on a white marble square.  There is a large rusty
 gate to the east.
 ~
-36 16777216 1
+36 0 1
 D0
 A black square lies to the north.
 ~
@@ -1584,7 +1575,7 @@ The Black Treasury~
    You are standing in the treasury of the Black Court.  Hopefully no one 
 has looted the Crown's treasure.
 ~
-36 521 0
+36 adj 0
 D4
 A small staircase rises above you.
 ~
@@ -1596,11 +1587,11 @@ The White Treasury~
    You are standing in the treasury of the White Court.  Hopefully no one 
 has looted the Crown's treasure.
 ~
-36 521 0
+36 adj 0
 D4
 A small staircase rises above you.
 ~
 marble square~
 2 3615 3660
 S
-$~
+$

@@ -6,8 +6,8 @@ CircleMUD v3.0 Shop File~
 3309
 3310
 -1
-1.10
-0.90
+1.1
+0.9
 -1
 %s We didn't grow any of those this year.~
 %s You don't have that!~
@@ -32,8 +32,8 @@ CircleMUD v3.0 Shop File~
 3038
 3039
 -1
-1.10
-0.90
+1.1
+0.9
 -1
 %s Could you repeat that please?~
 %s I don't buy!~
@@ -57,8 +57,8 @@ CircleMUD v3.0 Shop File~
 3320
 3321
 -1
-1.20
-1.00
+1.2
+1.0
 -1
 %s I don't know how to make one of those!~
 %s We don't *buy* drinks... we sell 'em!~
@@ -73,29 +73,8 @@ CircleMUD v3.0 Shop File~
 0
 3357
 -1
-0
-28
-0
-28
-#3357~
--1
-1.00
-1.00
--1
-%s Sorry, I don't stock that item.~
-%s You don't seem to have that.~
-%s I don't trade in such items.~
-%s I can't afford that!~
-%s You are too poor!~
-%s That'll be %d coins, thanks.~
-%s I'll give you %d coins for that.~
-0
-0
-3314
-0
--1
-0
-28
-0
-0
+20
+2
+11
+18
 $~

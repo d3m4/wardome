@@ -34,7 +34,7 @@ SPECIAL(master);
  #define SKILL	1
  
  
- #define MENU \
+ #define TROLOLO_MENU \
 "&YW&yE&YL&yC&YO&YM&yE&Y &yT&YO&y &YW&yA&YR&yM&YA&yS&YT&yE&YR&y G&YU&yI&YL&yD&n\r\n" \
 "\r\n" \
 "&yHere you can learn new &Yskills &yor &Yspells.&n\r\n" \
@@ -44,15 +44,15 @@ SPECIAL(master);
 "&Y[&yCost&Y] &Y[&yName&Y]              &Y[&yCost&Y] &Y[&yName&Y]              &Y[&yCost&Y] &Y[&yName&Y]&n\r\n" \
 
 // karl: comentar para compilar
-/*
-int prac_params[4][NUM_CLASSES] = {
 
-  { 10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10   },	// learned level
-  { 15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15	},	// max per practice
-  { 25,	 25,  25,  25,	25,  25,  25,  25,  25,	 25,  25,  25   },	// min per practice
-  {  1,   0,   1,   0,   1,   1,   0,   1,   1,   0,   1,   0   },	// prac name
-};
-*/
+//int prac_params[4][NUM_CLASSES] = {
+//
+//  { 10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10   },	// learned level
+//  { 15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15	},	// max per practice
+//  { 25,	 25,  25,  25,	25,  25,  25,  25,  25,	 25,  25,  25   },	// min per practice
+//  {  1,   0,   1,   0,   1,   1,   0,   1,   1,   0,   1,   0   },	// prac name
+//};
+
 
 int prac_params[4][NUM_CLASSES];
 #define LEARNED(ch) (prac_params[LEARNED_LEVEL][(int)GET_CLASS(ch)])

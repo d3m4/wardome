@@ -1,15 +1,3 @@
-#18600
-newbie janitor~
-newbie janitor~
-The newbie janitor is here cleaning area stuff.
-~
-
-~
-12 263176 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
-E
 #18601
 pitbeast pit-beast~
 the pit beast~
@@ -18,12 +6,10 @@ The big, ugly pit-beast is standing here sizing you up.
 Ick... what a disgusting creature!  It is black and green and slimy
 and it is drooling everywhere... looks mean too.
 ~
-14 0 -750 E
-4 18 9 1d1+81 5d1+0
-60 1089 0
-8 8 1 -1 -1
-Att2: 3
-E
+6 0 -750 S
+5 17 5 4d6+42 1d5+1
+100 1200
+8 8 0
 #18602
 newbie monster~
 the newbie monster~
@@ -33,12 +19,10 @@ What an odd looking little beast.  He looks harmless, but you never can
 tell.  He is only about 4 feet tall, but he pretty muscular looking...
 maybe you should ask if he needs help?  Nah... kill him.
 ~
-76 0 -10 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 1 -1 -1
-Att2: 3
-E
+68 0 0 S
+2 19 9 2d4+16 1d4+1
+250 400
+8 8 1
 #18603
 dragon baby~
 the baby dragon~
@@ -48,12 +32,10 @@ Awwww... how cute!  A little baby dragon.  He's about 3 feet long and you
 just want to cuddle him to death... no, you really want to kill him to tell
 the truth.  But, remember, even a little dragon can be a big problem.
 ~
-8 0 -100 E
-5 18 9 1d1+99 5d1+2
-75 1651 0
-8 8 1 -1 -1
-Att2: 6
-E
+0 0 100 S
+4 17 6 1d4+50 1d6+1
+0 1000
+8 8 1
 #18604
 keeper guard monster~
 the Newbie Guard~
@@ -64,12 +46,10 @@ but he doesn't seem to be doing a good job of it.  He looks at you and
 says, 'Have you seen that dragon?  Master will have my head if I don't find
 him.'
 ~
-10 0 -30 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 1 -1 -1
-Att2: 3
-E
+2 0 0 S
+3 18 7 2d6+34 1d7+0
+500 800
+8 8 1
 #18605
 alchemist newbie~
 the Newbie Alchemist~
@@ -78,12 +58,10 @@ The Newbie Alchemist is here trying to make something.
 He is a funny looking, furry little dude.  He looks really busy trying to
 mix up a batch of something or other.
 ~
-10 0 -40 E
-5 18 9 1d1+99 5d1+2
-75 1651 0
-8 8 0 -1 -1
-Att2: 6
-E
+2 0 0 S
+5 16 5 4d6+38 2d4+0
+1000 1200
+8 8 0
 #18606
 crawler creepy bug thing~
 the creepy crawler~
@@ -92,11 +70,10 @@ A creepy little crawling thing is scuttling along the floor at your feet.
 Yuck!  If they'd ever clean this place maybe it wouldn't attract vermin
 like this disgusting, little, six-legged, brown bug.
 ~
-72 0 -250 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 0 -1 -1
-E
+64 0 -250 S
+1 20 10 1d4+8 1d4+0
+0 100
+8 8 0
 #18607
 newbie zombie~
 the zombiefied newbie~
@@ -105,12 +82,10 @@ A VERY gaunt looking newbie... it looks like a zombie!
 This guy has been lost in here too long... it is more zombie than man
 now.  You would feel sorry for it, but it is moving in to attack!
 ~
-108 0 -500 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 0 -1 -1
-Att2: 3
-E
+100 0 -500 S
+4 17 5 1d8+46 2d4+0
+300 600
+8 8 0
 #18608
 quasit imp thing~
 the quasit~
@@ -120,12 +95,10 @@ Little green, vaguely humoniod shaped creature, with a long pointed tail.
 It is hard to say because before you ever get a good look at it, it darts
 back into the shadows.
 ~
-236 0 -800 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 1 -1 -1
-Att2: 3
-E
+228 0 -800 S
+3 19 7 1d10+30 1d4+1
+0 300
+8 8 1
 #18609
 minotaur~
 the massive Minotaur~
@@ -136,12 +109,10 @@ but not nearly as smart.  Actually, now that you consider it... he looks
 a heck of a lot meaner than any bull you have ever seen... and he is
 coming this way!
 ~
-1608 0 -1000 E
-8 16 8 1d1+162 5d1+2
-120 4344 0
-8 8 1 -1 -1
-Att2: 9
-E
+1600 0 -1000 S
+7 15 5 3d5+85 2d4+1
+1000 3000
+8 8 1
 #18610
 spectre ghost~
 the dark spectre~
@@ -150,12 +121,10 @@ The dark spectre is lurking in the shadows.
 The soul of a long since passed on adventurer... it lurks here waiting for
 a chance to bring death to any who cross its path.
 ~
-2154 33554442 -850 E
-6 17 9 1d1+126 5d1+2
-90 2371 0
-8 8 0 -1 -1
-Att2: 6
-E
+2122 524298 -850 S
+6 16 3 3d5+62 2d4+0
+0 1600
+8 8 0
 #18611
 newbie annoying jerk~
 the annoying newbie~
@@ -165,12 +134,10 @@ What a jerk!  He won't shut up, and he keeps making the most irritating
 comments about everything.  Better silence him with cold, tempered steel
 MUHAHAHAHAHAHAHAHAHAHA!
 ~
-76 0 -500 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 1 -1 -1
-Att2: 3
-E
+68 0 -500 S
+2 18 10 2d4+20 1d3+1
+250 500
+8 8 1
 #18612
 newbie clueless moron~
 the clueless newbie~
@@ -180,11 +147,10 @@ What a moron!  Every question that is answered in the help files, he will
 ask and he will probably ask 2 or 3 times too.  This guy just doesn't get
 it, best put him out of his misery.
 ~
-76 0 0 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 1 -1 -1
-E
+68 0 0 S
+1 20 10 1d1+19 1d3+1
+50 220
+8 8 1
 #18613
 newbie talkative~
 the talkative newbie~
@@ -194,12 +160,10 @@ Well, at least this gal seems pretty cool.  Talks a lot, but she's a
 friendly, interesting sort.  Seems to have a clue what she's doing also,
 unlike some others you might see.
 ~
-72 0 -100 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 2 -1 -1
-Att2: 3
-E
+64 0 100 S
+3 18 8 6d5+22 1d7+1
+700 600
+8 8 2
 #18614
 newbie lost~
 the lost newbie~
@@ -209,12 +173,10 @@ Hmmm... looks like he has been around a while, but he wandered a little
 too far from home this time.  Don't think he knows quite where he is,
 maybe you should help him out?
 ~
-72 0 -300 E
-2 19 9 1d1+36 5d1+0
-30 376 0
-8 8 1 -1 -1
-Att2: 3
-E
+64 0 300 S
+4 17 6 8d5+20 1d6+1
+250 500
+8 8 1
 #18615
 newbie smart~
 the smart newbie~
@@ -223,167 +185,8 @@ A newbie is here, and he looks quite sure of himself.
 Here is a guy who has it all together.  Nice equipment too, must have read
 the help files, Eh?
 ~
-76 0 -500 E
-6 17 9 1d1+126 5d1+2
-90 2371 0
-8 8 1 -1 -1
-Att2: 6
-E
-#18616
-witch~
-a old witch~
-A old witch stands here.
-~
-The old witch is very ugly and she pretends to be sleeping
-but don't believe witches they are treacherous
-~
-24650 2130976 -600 E
-10 15 8 1d1+207 5d2+4
-150 7126 0
-8 8 2 -1 -1
-BareHandAttack: 12
-Att2: 9
-E
-#18617
-servant~
-the witch's servant~
-The witch's servant stands here.
-~
-This small one is very curious and funny but don't touch the witch 
-if you doesn't  want to see him angry.
-~
-88072 1280 -200 E
-3 19 9 1d1+63 5d1+0
-45 669 0
-8 8 0 -1 -1
-BareHandAttack: 13
-Att2: 3
-E
-#18618
-man~
-the cave's man~
-The caveman stands here
-~
-Nothing.
-He is a very thin and dirty man that earns his life bringing things
-of the interior of the cave to sell here.
-~
-26634 8 0 E
-9 16 8 1d1+189 5d1+2
-135 5626 0
-8 8 1 -1 -1
-Att2: 9
-E
-#18619
-newbie guardian~
-a newbie guardian~
-A newbie guardian stand here.
-~
-He is a strange newbie.
-In his eyes you see that he is a very dangerous guardian.
-~
-2120 8 -500 E
-5 18 9 1d1+99 5d1+2
-75 1651 0
-8 8 1 3 -1
-Att2: 9
-E
-#18620
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
-#18621
-newbie thief~
-a newbie thief~
-A newbie thief stand here.
-~
-He is a strange newbie.
-In his eyes you see that he is a very dangerous thief.
-~
-104 262144 -800 E
-1 20 10 1d1+18 5d1+0
-15 196 0
-8 8 1 2 -1
-E
-#18622
-tarnesh~
-Tarnesh~
-Tarnesh, the cardinal, is standing here.
-~
-You look at Tarnesh and see in his eyes an evil cardinal, ready to pratice
-his priests lessons in anyone who is in his way.
-~
-16458 32768 -400 E
-5 18 9 1d1+99 5d1+2
-75 1816 0
-8 8 1 1 0
-Att2: 6
-E
-#18623
-thalantyr~
-Thalantyr~
-Thalantyr, the supreme of the sages stands here. 
-~
-You look at Thalantyr, the great one of all the sages. He is not strong nor tall
-but his wisdom and intelligence compensate all of this. With all his knowledge
-he will be able to make a rat kill a lion.
-~
-16394 32768 400 E
-200 -80 -20 1d1+5592 5d21+80
-3000 23823646 0
-8 8 1 8 0
-Att2: 100
-Att3: 100
-Att4: 75
-E
-#18624
-kenshin~
-Kenshin~
-Kenshin, an old samurai, is here ready to die.
-~
-You look for Kenshin, an old samurai, waiting for someone who can help him.
-He is an experienced man, and always killed in name of justice and freedom.
-Now this elder wants somebody to recompensate him for all that he made.
-~
-81930 32768 800 E
-150 -55 -12 1d1+4200 5d16+60
-2250 9371548 0
-8 8 1 6 0
-Att2: 100
-Att3: 77
-Att4: 24
-E
-#18625
-newbie priest~
-the Great Newbie Priest~
-A newbie priest is walking around here.
-~
-He seems to be a great priest (for a newbie of course)... You see a belt around his waist.
-~
-8 524288 0 E
-13 14 8 1d1+270 5d2+4
-195 14389 0
-8 8 1 9 -1
-Att2: 12
-E
-#18626
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks unfinished.
-~
-8 0 0 E
-0 20 10 1d1+0 5d1+0
-0 0 0
-8 8 0 0 0
-E
+68 0 500 S
+5 15 9 10d5+20 2d3+2
+1100 1000
+8 8 1
 $

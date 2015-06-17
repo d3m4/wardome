@@ -1,21 +1,23 @@
-@Version: 2
 #70
 The Sewer, First Level~
-7099 15 2 1
-O 0 1903 999 7014 	(&nThe &RHe&rlls Ang&Rels&n Key.)
-M 0 7001 9 7041 	(The small bat)
-M 0 7001 9 7025 	(The small bat)
-M 0 7001 9 7004 	(The small bat)
-M 0 7001 9 7004 	(The small bat)
-M 0 7002 3 7049 	(the sewer rat)
-M 0 7002 3 7031 	(the sewer rat)
-M 0 7003 8 7039 	(the small Spider)
-M 0 7003 8 7039 	(the small Spider)
-M 0 7003 8 7039 	(the small Spider)
-M 0 7003 8 7037 	(the small Spider)
-M 0 7003 8 7037 	(the small Spider)
-M 0 7003 8 7050 	(the small Spider)
-D 0 7047 1 1 	(The Pool In The Sewer)
-D 0 7053 3 1 	(The South End Of The Grand Pipe)
+7000 7099 15 2
+*
+* Mobiles
+M 0 7001 9 7041         The Mean Bat
+M 0 7001 9 7025         The Mean Bat
+M 0 7001 9 7004         The Mean Bat
+M 0 7001 9 7004         The Mean Bat
+M 0 7002 3 7049         The Sewer Rat
+M 0 7002 3 7031         The Sewer Rat
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7039         The Small Hairy Spider
+M 0 7003 8 7037         The Small Hairy Spider
+M 0 7003 8 7037         The Small Hairy Spider
+M 0 7003 8 7050         The Small Hairy Spider
+* Doors
+D 0 7047 1 1            South End Of The Grand Sewer
+D 0 7053 3 1
+* 
 S
 $

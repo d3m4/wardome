@@ -127,7 +127,7 @@ void list_skills(struct char_data *ch)
     send_to_char("You have no practice sessions remaining.\r\n", ch);
     return;
   }
-       send_to_char(MENU, ch);	
+       send_to_char(TROLOLO_MENU, ch);
 	for (j = 1; j < LVL_IMMORT; j++) 
  	{
  	 for (i = 1; i < MAX_SKILLS+1; i++)

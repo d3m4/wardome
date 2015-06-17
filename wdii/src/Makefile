@@ -1,5 +1,6 @@
 # Generated automatically from Makefile.in by configure.
 # Generated automatically from Makefile.in by configure.
+# Generated automatically from Makefile.in by configure.
 # CircleMUD 3.0 Makefile.in - Makefile template used by 'configure'
 #
 
@@ -23,7 +24,7 @@ BINDIR = ../bin
 
 CFLAGS = -g -O2 $(MYFLAGS) $(PROFILE)
 
-LIBS = 
+LIBS = -lcrypt 
 
 OBJFILES = act.comm.o act.informative.o act.movement.o act.item.o \
 	act.offensive.o act.other.o act.social.o act.wizard.o ban.o boards.o \

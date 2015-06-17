@@ -7,13 +7,10 @@ The Black Pawn looks quite like a small knight without his powerful steed.
 His armor is shiny and black.  He stands ready to give his life for the
 Crown.
 ~
-206 8192 -400 E
-140 -64 -21 1d1+11760 5d29+126
-2100 10551799 7
-8 8 1 -1 -1
-Att2: 100
-Att3: 50
-E
+bcgh d -400 S
+6 2 5 5d4+50 2d4+2
+500 1000
+8 8 1
 #3601
 white pawn~
 the Pawn of the White Court~
@@ -23,13 +20,10 @@ The White Pawn looks quite like a small knight without his powerful steed.
 His armor is spotless and white.  He stands ready to give his life for the
 Crown.
 ~
-206 4096 400 E
-140 -64 -21 1d1+11760 5d29+126
-2100 10551799 7
-8 8 1 -1 -1
-Att2: 100
-Att3: 50
-E
+bcgh d 400 S
+6 2 5 5d4+50 2d4+2
+500 1000
+8 8 1
 #3602
 black rook castle~
 the Black Rook~
@@ -38,14 +32,10 @@ In the corner you see a large, black, stone castle on wheels.
 The Black Rook is a very large man-made tomb on wheels.  Just
 from the looks of it, it will probably be YOUR tomb.
 ~
-229386 168 -600 E
-180 -84 -27 1d1+15120 5d37+142
-2700 21894929 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 62
-Att4: 9
-E
+bpqr d -600 S
+27 11 1 2d6+500 3d8+5
+5000 85000
+8 8 0
 #3603
 white rook castle~
 the White Rook~
@@ -54,14 +44,10 @@ In the corner you see a large, white, stone castle on wheels.
 The White Rook is a very large man-made tomb on wheels.  Just
 from the looks of it, it will probably be YOUR tomb.
 ~
-229386 168 600 E
-180 -84 -27 1d1+15120 5d37+142
-2700 21894929 7
-8 8 1 -1 -1
-Att2: 100
-Att3: 62
-Att4: 9
-E
+bpqr d 600 S
+27 11 1 2d6+500 3d8+5
+5000 85000
+8 8 0
 #3604
 black knight~
 the Black Knight~
@@ -70,14 +56,10 @@ Here stands a magnificent knight of the dark realm.
 The Black Knight is here, riding his ebony black war horse.  His eyes
 flash behind his visor in vengence.
 ~
-42 1048576 -400 E
-160 -74 -24 1d1+13440 5d33+134
-2400 15540677 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 68
-Att4: 18
-E
+bf d -400 S
+18 8 0 4d8+350 2d8+1
+3000 22500
+8 8 0
 #3605
 white knight~
 the White Knight~
@@ -86,14 +68,10 @@ Here stands a magnificent knight of the light realm.
 The White Knight is here, riding his ivory white war horse.  His eyes
 gleam behind his visor in joy.
 ~
-42 1048576 400 E
-160 -74 -24 1d1+13440 5d33+134
-2400 15540677 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 59
-Att4: 6
-E
+bf d 400 S
+18 8 0 4d8+350 2d8+1
+3000 22500
+8 8 0
 #3606
 black bishop priest~
 the Black Bishop~
@@ -102,14 +80,10 @@ A dark priest stands here.
 The Black Bishop seems willing to help you straight into your grave so
 he can bless you properly.
 ~
-10 8397960 -500 E
-165 -76 -25 1d1+13860 5d33+136
-2475 16994791 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 53
-Att4: 3
-E
+b d -500 S
+24 11 1 2d5+350 3d6+13
+4000 43500
+8 8 0
 #3607
 white bishop priest~
 the White Bishop~
@@ -118,14 +92,10 @@ A light priest stands here.
 The White Bishop seems willing to help you in any possible so that he can
 attain a higher spirituality.
 ~
-10 50335848 500 E
-165 -76 -25 1d1+13860 5d33+136
-2475 16994791 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 53
-Att4: 3
-E
+b d 500 S
+24 11 1 2d5+350 3d6+13
+4000 43500
+8 8 0
 #3608
 black queen~
 the Black Queen~
@@ -135,14 +105,10 @@ The Black Queen is a strikingly beautiful woman with pale skin and a
 mass of dark hair that crowns her head like a black cloud.  If looks
 could kill, you would already be dead.
 ~
-133166 578822312 -750 E
-190 -89 -29 1d1+15960 5d39+146
-2850 25635634 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 68
-Att4: 15
-E
+bcfl dh -750 S
+32 11 -3 5d10+900 4d6+13
+10000 200000
+8 8 0
 #3609
 white queen~
 the White Queen~
@@ -152,14 +118,10 @@ The White Queen is a stunningly beautiful woman with dark skin and a mass
 of light hair that frames her head like the sun.  This is surely love at
 first sight for you.
 ~
-395310 587206824 750 E
-190 -89 -29 1d1+15960 5d39+146
-2850 25635634 7
-8 8 0 -1 -1
-Att2: 100
-Att3: 68
-Att4: 18
-E
+bcfl dh 750 S
+32 11 -3 5d10+900 4d6+13
+10000 200000
+8 8 0
 #3610
 black king~
 the Black King~
@@ -168,16 +130,10 @@ The Black King stands here.
 The Black King is a menacing figure.  You can easily understand why he
 is the king and you are not.
 ~
-67646 578822312 -999 E
-200 -94 -30 1d1+16800 5d41+150
-3000 29779557 7
-8 8 0 3 -1
-Att2: 100
-Att3: 74
-Att4: 21
-E
-T 3600
-T 3603
+bcefl dh -999 S
+36 14 -6 10d10+2000 5d8+20
+20000 300000
+8 8 0
 #3611
 white king~
 the White King~
@@ -186,14 +142,8 @@ The White King stands here.
 The White King is a stately figure.  You can easily understand why he
 is the king and you are not.
 ~
-67646 1661997224 999 E
-200 -94 -30 1d1+16800 5d41+150
-3000 29779557 7
-8 8 0 3 -1
-Att2: 100
-Att3: 74
-Att4: 21
-E
-T 3601
-T 3602
+bcefl dh 999 S
+36 14 -6 10d10+2000 5d8+20
+20000 300000
+8 8 0
 $

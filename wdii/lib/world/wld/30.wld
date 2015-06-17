@@ -5,22 +5,25 @@ wooden desks and benches.  To the east you hear the bustle of the Temple
 of Midgaard, a sharp contrast to the relative quiet of this peaceful
 room.
 ~
-30 156 0
+30 cdeh 0
 D1
 You see the Temple of Midgaard.
 ~
 ~
-0 -1 -1
+0 -1 3001
 S
 #3001
-Fallen Temple of Midgaard~
-   This once was the great temple of Midgaard before the attack of the Black
-monster.  The temple has been constructed from giant marble blocks, eternal in
+The Temple Of Midgaard~
+   You are in the southern end of the temple hall in the Temple of Midgaard.
+The temple has been constructed from giant marble blocks, eternal in
 appearance, and most of the walls are covered by ancient wall paintings
-picturing Gods, Giants and peasants.  This temple is now full of monsters and
-it is said that the source of the black monster power lies in this altar.    
+picturing Gods, Giants and peasants.
+   Large steps lead down through the grand temple gate, descending the huge
+mound upon which the temple is built and ends on the temple square below.
+To the west, you see the Reading Room.  The donation room is in a small
+alcove to your east.
 ~
-30 1048968 0
+30 cdeh 0
 D0
 At the northern end of the temple hall is a statue and a huge altar.
 ~
@@ -31,7 +34,7 @@ In the east, you see a small alcove with a rickety wooden sign which
 reads "Midgaard Donation Room."
 ~
 ~
-0 -1 -1
+0 -1 3063
 D2
 You look down the huge stone steps at the temple square below.
 ~
@@ -41,21 +44,26 @@ D3
 You see the Reading Room.
 ~
 ~
-0 -1 -1
+0 -1 3000
+D5
+You see the temple square.
+~
+~
+0 -1 3005
 S
 #3002
-The Cleric's Inner Sanctum~
+The Clerics' Inner Sanctum~
    This is the inner sanctum.  A picture of the mighty Thor, is hanging on
 the wall, just above the altar which is set against the western wall.  A well
 in the middle of the floor leads down into darkness.  Vile smells waft from
 the depths.
 ~
-30 12 0
+30 cd 0
 D1
 You see your favorite place, the bar of divination.
 ~
 ~
-0 -1 3052
+0 -1 3003
 D5
 You can't see what is down there, it is too dark.  Looks like it would be
 impossible to climb back up.
@@ -64,16 +72,21 @@ impossible to climb back up.
 0 -1 7026
 S
 #3003
-Bar of Deathnation~
-This was once the bar of divination. Now is the bar o deathnation.....uahuhauha
-uahauha(Aren't you going to laugh?).
+The Bar Of Divination~
+   The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
 ~
-30 8 0
+30 cdh 0
 D2
 You see the entrance.
 ~
 ~
 0 -1 3004
+D3
+You see the inner sanctum.
+~
+~
+0 -1 3002
 E
 sign~
 The sign reads:
@@ -85,11 +98,12 @@ Free instructions provided by the waiter:
 ~
 S
 #3004
-Devasted Cleric's guild~
-This once was the imposing cleric's guild. Now, It reflects no more the nature 
-of clerics but reflects the nature of death.
+The Entrance To The Clerics' Guild~
+   The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads east to the temple square.  A small entrance to
+the bar is in the northern wall.
 ~
-30 8 0
+30 d 0
 D0
 You see the bar, richly decorated with really stylish furniture.
 ~
@@ -100,17 +114,13 @@ You see the Temple Square.
 ~
 ~
 0 -1 3005
-D3
-~
-~
-0 0 3003
 S
 #3005
-The Undead Square ~
-You are standing on the undead square.  Huge marble steps lead up to the
-temple gate.  The entrance to the ex - Clerics' Guild is to the west, and the former
-Grunting Boar Inn, is to the east.  Just south of here you see the dead pool
-square, the center of this fallen city.
+The Temple Square~
+   You are standing on the temple square.  Huge marble steps lead up to the
+temple gate.  The entrance to the Clerics' Guild is to the west, and the old
+Grunting Boar Inn, is to the east.  Just south of here you see the market
+square, the center of Midgaard.
 ~
 30 0 1
 D0
@@ -135,12 +145,23 @@ You see the entrance to the Clerics' Guild.
 0 -1 3004
 S
 #3006
-The former bar~
-This once was the bar of Midgaard, now this is only a place
-of violence and torture. A heavy smell of death fills the air. There are
-undead everywhere.
+The Entrance Hall Of The Grunting Boar Inn~
+   You are standing in the entrance hall of the Grunting Boar Inn.  The hall
+has been wisely decorated with simple, functional furniture.  The heavy smell
+of dust and aging paper drifts in from the Post Office to the north.  A small
+staircase leads up to the reception and the bar is to the east.
 ~
-30 8 0
+30 d 0
+D0
+You see the Midgaard Post Office.
+~
+~
+0 -1 3062
+D1
+Surprise!  You see the bar.
+~
+~
+0 -1 3007
 D3
 You see the temple square.
 ~
@@ -160,7 +181,7 @@ the western wall, and through the southeastern windows you can see the temple
 square.  This place makes you feel like home.
 A small sign with big letters is fastened to the bar.
 ~
-30 8 0
+30 dh 0
 D3
 You see the exit to the entrance hall.
 ~
@@ -182,11 +203,17 @@ poems about beer, and small beer-mugs.
 ~
 S
 #3008
-Reception?~
-This was once the reception of Midgaard. Now is the place of the lady
-receptionist undead. She still thinks she is alive.
+The Reception~
+   You are standing in the reception.  The staircase leads down to the
+entrance hall.  An exit to the north leads to the Cryogenic Center.
+There is a small sign on the counter.
 ~
-30 8 0
+30 d 0
+D0
+You see the Cryogenic Center.
+~
+~
+0 -1 3064
 D5
 You see the entrance hall.
 ~
@@ -208,10 +235,12 @@ Rooms are expensive but good!  You may:
 S
 #3009
 The Bakery~
-This was the bakery. Breads of finest quality were made here. Now,
-only dead bodies are made here.
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
 ~
-30 8 0
+30 dh 0
 D2
 You see the main street.
 ~
@@ -237,10 +266,11 @@ Free instructions provided by the store:
 S
 #3010
 The General Store~
-You are inside the general store.  All sorts of human pieces are stacked on shelves
-behind the counter, It is a terrible vision.
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
 ~
-30 8 0
+30 dh 0
 D2
 You see the main street.
 ~
@@ -261,7 +291,7 @@ S
 The Weapon Shop~
    You are inside the weapon shop.  There is a small note on the counter.
 ~
-30 8 0
+30 dh 0
 D2
 You see the main street.
 ~
@@ -280,8 +310,10 @@ The note reads:
 S
 #3012
 Main Street~
-You are at the end of the main street of dead Midgaard. The street 
-continues east towards the dead square.
+   You are at the end of the main street of Midgaard.  South of here is the
+entrance to the Guild of Magic Users.  The street continues east towards the
+market square.  The magic shop is to the north and to the west is the city
+gate.
 ~
 30 0 1
 D0
@@ -298,7 +330,7 @@ D2
 You see the entrance to the Guild of Magic Users.
 ~
 ~
-0 -1 -1
+0 -1 3017
 D3
 You see the city gate.
 ~
@@ -307,9 +339,9 @@ You see the city gate.
 S
 #3013
 Main Street~
-You are on the main street passing through the dead city.  South of
+   You are on the main street passing through the City of Midgaard.  South of
 here is the entrance to the Armory, and the bakery is to the north.  East of
-here is the dead square.
+here is the market square.
 ~
 30 0 1
 D0
@@ -334,11 +366,11 @@ You see the main street.
 0 -1 3012
 S
 #3014
-Dead pool square~
-This once was the market square, the famous Square of Midgaard.
+Market Square~
+   You are standing on the market square, the famous Square of Midgaard.
 A large, peculiar looking statue is standing in the middle of the square.
-Roads lead in every direction, north to the fallen temple square, south to the
-zombies square, east and westbound is the main street.
+Roads lead in every direction, north to the temple square, south to the
+common square, east and westbound is the main street.
 ~
 30 0 1
 D0
@@ -368,8 +400,9 @@ What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
 S
 #3015
 Main Street~
-You are on the main street crossing through dead bodies. To the south  
-there was the pet shop, now the pets have became the dead. 
+   You are on the main street crossing through town.  To the north is the
+general store, and the main street continues east.  To the west you see and
+hear the market place, to the south a small door leads into the Pet Shop.
 ~
 30 0 1
 D0
@@ -395,8 +428,9 @@ You see the market square.
 S
 #3016
 Main Street~
-The main street, to the north is a old shop and to the south is what was the
-Guild of Swordsmen. 
+   The main street, to the north is the weapon shop and to the south is the
+Guild of Swordsmen.  To the east you leave town and to the west the street
+leads to the market square.
 ~
 30 0 1
 D0
@@ -424,7 +458,7 @@ S
 The Entrance To The Mages' Guild~
    The entrance hall to this guild is a small, poor lighted room.
 ~
-30 8 0
+30 d 0
 D0
 You see the main street.
 ~
@@ -441,7 +475,7 @@ The Mages' Bar~
    The bar is one of the weirdest in the land.  Mystical images float around
 the air.  Illusions of fine furniture appear all around the room.
 ~
-30 140 0
+30 cdh 0
 D0
 You see the lobby.
 ~
@@ -463,7 +497,7 @@ partially cleaned, some painful-looking letters faintly visible.  A well in
 the middle of the floor leads down into darkness.  Vile smells waft from the
 depths.
 ~
-30 12 0
+30 cd 0
 D3
 You see the bar.
 ~
@@ -478,10 +512,11 @@ impossible to climb back up.
 S
 #3020
 The Armory~
-This once was the armory. You can almost see the weapons and armours in
-the shelves...good times, no?
+   The armory with all kinds of armors on the walls and in the window.  You
+see helmets, shields and chain mails.  To the north is the main street.
+On the wall is a small note.
 ~
-30 8 0
+30 dh 0
 D0
 You see the main street.
 ~
@@ -502,15 +537,21 @@ You can use these commands for trading:
 S
 #3021
 The Entrance Hall To The Guild Of Swordsmen~
-The entrance hall to the Guild of Swordsmen.  A place where one has to be
-careful not to say something wrong (or right). But can undead hear anything? 
+   The entrance hall to the Guild of Swordsmen.  A place where one has to be
+careful not to say something wrong (or right).  To the east is the bar and to
+the north is the main street.
 ~
-30 8 0
+30 d 0
 D0
 You see the main street.
 ~
 ~
 0 -1 3016
+D1
+You see the swordsmen's bar, many noises comes from there.
+~
+~
+0 -1 3022
 S
 #3022
 The Bar Of Swordsmen~
@@ -518,7 +559,7 @@ The Bar Of Swordsmen~
 furniture is all around you in small pieces.  To the south is the yard, and
 to the west is the entrance hall.
 ~
-30 156 0
+30 cdh 0
 D2
 You see the practice yard.
 ~
@@ -535,7 +576,7 @@ The Tournament And Practice Yard~
    This is the practice yard of the fighters.  To the north is the bar.
 A well leads down into darkness.
 ~
-30 12 0
+30 cd 0
 D0
 You see the bar.
 ~
@@ -550,8 +591,8 @@ impossible to climb back up.
 S
 #3024
 The Eastern End Of Poor Alley~
-You are at the poor alley.  South of here was the Grubby Inn and to the
-east you see zombies' square.  The alley continues further west.
+   You are at the poor alley.  South of here is the Grubby Inn and to the
+east you see common square.  The alley continues further west.
 ~
 30 0 1
 D1
@@ -571,10 +612,10 @@ You see the poor alley.
 0 -1 3044
 S
 #3025
-Zombies' Square~
-This is the zombies' square. You see a lot of dead bodies and parts
-in the ground. This once was the common square where people talked
-to each other.
+The Common Square~
+   The common square, people pass you, talking to each other.  To the west is
+the poor alley and to the east is the dark alley.  To the north, this square
+is connected to the market square.  From the south you notice a nasty smell.
 ~
 30 0 1
 D0
@@ -600,7 +641,7 @@ You see Poor Alley.
 S
 #3026
 The Dark Alley~
-The dark alley, to the west is the zombies' square and to the south is the
+   The dark alley, to the west is the common square and to the south is the
 Guild of Thieves.  The alley continues east.
 ~
 30 0 1
@@ -625,16 +666,22 @@ It is the thieves' guild, don't enter if you care about your health or money.
 ~
 S
 #3027
-Dead Thieves~
-This was the entrance hall to the thieves' and assassins' guild. Now it
-is just a desert place.
+The Entrance Hall To The Guild Of Thieves~
+   The entrance hall to the thieves' and assassins' guild.  A place where you
+can lose both your life and your money, if you are not careful.  To the north
+is the dark alley and to the east is the thieves' bar.
 ~
-30 8 0
+30 d 0
 D0
 You see the alley.
 ~
 ~
 0 -1 3026
+D1
+You see the thieves bar, where everything disappears.
+~
+~
+0 -1 3028
 S
 #3028
 The Thieves' Bar~
@@ -643,7 +690,7 @@ furnished, but now it seems almost empty.  To the south is the yard, and to
 the west is the entrance hall.
    (Maybe the furniture has been stolen?!)
 ~
-30 156 0
+30 cdh 0
 D2
 You see the secret yard.
 ~
@@ -664,7 +711,7 @@ The Secret Yard~
    The secret practice yard of thieves and assassins.  To the north is the
 bar.  A well leads down into darkness.
 ~
-30 12 0
+30 cd 0
 D0
 You see the bar.
 ~
@@ -679,22 +726,28 @@ impossible to climb back up.
 S
 #3030
 The Dump~
-This was one the dump, where the people from the city dropped their garbage.
-Now this is a dump of DEAD BODIES and DEAD PARTS.
+   The dump, where the people from the city drop their garbage.  Through the
+garbage you can see a large junction of pipes, looks like the entrance to the
+sewer system.  North of here you see the common square.
 ~
-30 4 2
+30 c 2
 D0
 You see the common square.
 ~
 ~
 0 -1 3025
+D5
+You see the sewers.
+~
+grate~
+2 3005 7030
 S
 #3031
 The Pet Shop~
-The Pet Shop was a small crowded store, full of cages and animals of
-various sizes. Now, it is  a deposit of dead bodies.
+   The Pet Shop is a small crowded store, full of cages and animals of
+various sizes.  There is a sign on the wall.
 ~
-30 12 0
+30 cdh 0
 D0
 You see the main street.
 ~
@@ -727,15 +780,14 @@ Pet Shop Store~
 It is vital that this room's virtual number is exactly one larger
 than the Pet Shop number.
 ~
-30 1032 0
+30 dk 0
 S
 #3033
 The Magic Shop~
-This was once a place of great magic itens and wizards of great
-power. Now, it is only a room with no magic power at all and smelling
-something really bad.
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
 ~
-30 8 0
+30 dh 0
 D2
 You see the main street.
 ~
@@ -743,10 +795,10 @@ You see the main street.
 0 -1 3012
 S
 #3040
-Inside The West Gate Of dead Midgaard~
-You are by two small towers that have been built into the city wall and
+Inside The West Gate Of Midgaard~
+   You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
-east and Wall Road leads south from here. Dead bodies everywhere.....
+east and Wall Road leads south from here.
 ~
 30 0 1
 D1
@@ -765,10 +817,6 @@ The city gate is to the west.
 ~
 gate~
 1 3112 3052
-D5
-~
-~
-0 0 -1
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
@@ -792,10 +840,10 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3041
-Inside The East Gate Of dead Midgaard~
-You are by two small towers that have been built into the city wall and
+Inside The East Gate Of Midgaard~
+   You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
-west from here.  To the south you see the Blood Shop.
+west from here.  To the south you see the Water Shop.
 ~
 30 0 1
 D1
@@ -837,7 +885,7 @@ some kind of mortar.  It is far too high to climb.
 S
 #3042
 Wall Road~
-You are walking next to the western city wall.  The road continues further
+   You are walking next to the western city wall.  The road continues further
 south and the city gate is just north of here.
 ~
 30 0 1
@@ -881,8 +929,7 @@ The road continues further south.
 0 -1 3047
 E
 wall writing letters~
-The black monster is invincible, better try to kill the
-black dragon(it will not be easy, though).
+It says 'Who watches the watchmen?'
 ~
 E
 wall~
@@ -892,7 +939,7 @@ some kind of mortar.  It is far too high to climb.
 S
 #3044
 Poor Alley~
-You are on Poor Alley, which continues further east.  You see the
+   You are on Poor Alley, which continues further east.  You see the
 city wall to the west.
 ~
 30 0 1
@@ -909,7 +956,7 @@ The alley leads west.
 S
 #3045
 The Dark Alley At The Levee~
-You are standing in the alley which continues east and west.  South of
+   You are standing in the alley which continues east and west.  South of
 here you see the levee.
 ~
 30 0 1
@@ -931,7 +978,7 @@ The alley leads west.
 S
 #3046
 The Eastern End Of The Alley~
-You are standing at the eastern end of the alley, the city wall is just
+   You are standing at the eastern end of the alley, the city wall is just
 east, blocking any further movement.  A small warehouse is directly south of
 here.
 ~
@@ -959,9 +1006,10 @@ You see the road.
 ~
 0 -1 3043
 D2
+You see the bridge.
 ~
 ~
-0 0 3051
+0 -1 3051
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
@@ -970,10 +1018,10 @@ some kind of mortar.  It is far too high to climb.
 S
 #3048
 Grubby Inn~
-You are inside the old Grubby Inn.  This place has not been cleaned for
-several decades, vile smells make you dizzy.
+   You are inside the old Grubby Inn.  This place has not been cleaned for
+several decades; vile smells make you dizzy.
 ~
-30 8 0
+30 dh 0
 D0
 You see the alley.
 ~
@@ -982,10 +1030,10 @@ You see the alley.
 S
 #3049
 The Levee~
-You are at the levee.  South of here you see the river gently flowing west.
-The river bank is very high making it impossible to enter the river.
+   You are at the levee.  South of here you see the river gently flowing west.
+The river bank is very low making it possible to enter the river.
 ~
-30 0 1
+30 h 1
 D0
 You see the alley.
 ~
@@ -995,14 +1043,14 @@ D2
 You see the river flowing west.
 ~
 ~
-0 -1 -1
+0 -1 3203
 S
 #3050
 The Deserted Warehouse~
-You are inside the warehouse.  The room is decorated with various parts of human
-body.
+   You are inside the warehouse.  The room is decorated with various old
+items from ships.
 ~
-30 8 0
+30 d 0
 D0
 You see the alley.
 ~
@@ -1042,24 +1090,22 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3052
-Outside The West Gate Of dead Midgaard~
-You are by two small towers that have been built into the city wall and
-connected with a footbridge across the heavy wooden gate. 
+Outside The West Gate Of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
 ~
-30 16777216 1
+30 0 1
 D1
 The city gate is to the east.
 ~
-~
-0 0 3040
+gate~
+1 3112 3040
 D3
+The forest edge is to the west.
 ~
 ~
-0 0 15069
-D5
-~
-door~
-0 0 3095
+0 -1 6092
 E
 bridge footbridge~
 It is too high up to reach but it looks as if one easily could walk across it
@@ -1083,15 +1129,17 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3053
-Outside The East Gate Of dead Midgaard~
-You are by two small towers that have been built into the city wall and
-connected with a footbridge across the heavy wooden gate.
+Outside The East Gate Of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the east the
+plains stretch out in the distance.
 ~
 30 0 1
-D2
+D1
+You see the plains.
 ~
 ~
-0 0 3071
+0 -1 3503
 D3
 You see the city gate.
 ~
@@ -1120,16 +1168,15 @@ some kind of mortar.  It is far too high to climb.
 ~
 S
 #3054
-By the Horror Altar~
-You are by the fallen temple altar in the northern end of the Temple of
+By The Temple Altar~
+   You are by the temple altar in the northern end of the Temple of
 Midgaard.  A huge altar made from white polished marble is standing
 in front of you and behind it is a ten foot tall sitting statue of
 Odin, the King of the Gods.
-To the north, steps lead out the back of the fallen temple towards the
+   To the north, steps lead out the back of the temple towards the
 countryside.
-Beware of the fallen altars.
 ~
-30 8 0
+30 d 0
 D0
 You see the vast Midgaard countryside.
 ~
@@ -1159,13 +1206,15 @@ Odin's Store~
 takes care of.  It is vital that this room's virtual number is exactly one
 larger than the room by the temple altar.
 ~
-30 520 0
+30 dj 0
 S
 #3058
-Blood shop~
-This was once the water shop, now it is the blood shop.
+Ye Olde Water Shoppe~
+   You are standing in the center of a small wooden shop whose walls are
+covered with racks upon racks of water jugs.  Several large barrels with
+spigots are stacked in the corner.
 ~
-30 8 0
+30 dh 0
 D0
 You see the East Gate.
 ~
@@ -1173,11 +1222,10 @@ You see the East Gate.
 0 -1 3041
 S
 #3059
-Behind the fallen temple~
-This area was once green and beautiful. Now is just a desert wasteland....
-
-WARNING : This zone is for level 150 - 200 remort 0. Proceed careful
-if your level is below 150.
+Behind The Temple Altar~
+   You are on a dirt path leading away from the Temple Altar which is south
+of here.  To the north, the path continues through the lush contryside of
+Midgaard towards the Dragonhelm Mountains far off to the north.
 ~
 30 0 1
 D0
@@ -1192,19 +1240,24 @@ You see the Temple Altar.
 0 -1 3054
 S
 #3060
-The great wasteland of Midgaard~
-This once was wide dirt path through the lush, green, fresh Midgaard countryside.
-Now, The dead city of Midgaard lies to the south. You can only see 
-undead bodies and desert wastelands now.
-
-Undead Midgaard, made in Brazil by :
-
-Luigi : Codes, mobs, rooms, zone info, history and overall strategy.
-Tyr : Most mobs and mobs setup.
-Entity : Some mobs and introduction quest.
-Taerom : Idea.
+The Great Field Of Midgaard~
+   You are walking on a wide dirt path through the lush, green, fresh
+Midgaard countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Midgaard lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   The path you are on continues north through the field and south back
+to Midgaard.
 ~
-30 4 1
+30 0 1
+D0
+You see more of the path through the Great Field.
+~
+~
+0 -1 3061
 D2
 You see the path which goes back to Midgaard.
 ~
@@ -1224,7 +1277,7 @@ stay here forever, surrounded by powerful beauty in all directions.
    There is a strange structure on the eastern side of the path.  A small
 dirt path splits off of the main path and leads off to the west.
 ~
-30 4 1
+30 c 1
 D0
 The path continues northwards bringing you ever closer to the Dragonhelm
 Mountains.
@@ -1235,12 +1288,17 @@ D1
 There is a strange structure to the east on the edge of the trail.
 ~
 ~
-0 -1 -1
+0 -1 18600
 D2
 You see more of the Field.
 ~
 ~
 0 -1 3060
+D3
+There is a strange path leading towards a rusty gate to the west.
+~
+~
+0 -1 3066
 S
 #3062
 The Post Office~
@@ -1250,7 +1308,7 @@ been pried open by curious customs agents, and are now stacked along the west
 wall, hiding plenty of 'WANTED' posters.
 There is a sign posted on the wall here.
 ~
-30 152 1
+30 deh 1
 D2
 You see the entrance to the Grunting Boar Inn and Tavern.
 ~
@@ -1305,7 +1363,7 @@ The Midgaard Donation Room~
 are a couple of small wooden benches here where people occasionally sit
 while they wait for items to appear.  The temple is to the west.
 ~
-30 6684 1
+30 cde 1
 D3
 The busy temple is back west.
 ~
@@ -1318,7 +1376,7 @@ The Cryogenic Center~
 body-length canisters lined up against the walls.  The Reception is to the
 south.
 ~
-30 8 1
+30 d 1
 D2
 The Reception is to the south.
 ~
@@ -1378,198 +1436,9 @@ The path meets up with a larger path just to the east.
 ~
 0 -1 3061
 D3
+There is a large rusty gate just to the west.
 ~
 ~
-0 0 3600
+0 -1 3600
 S
-#3067
-The Cryogenic Center~
-   You are in a strange place. A scientist look at you, he seems to be waiting
-for you to say anything. There is a small sign on the counter.
-~
-30 24 1
-D2
-~
-~
-0 0 3041
-E
-sign counter~
-
-  Type META to see what the Scientist can do for you.
-~
-S
-#3068
-The Entrance To The Necromancer Guild~
-   You look at this place and stay in shock...  The is so much corpses here
-that makes you throw everything it up....  You feel disgust by the
-Necromancers...    
-~
-30 8 0
-D1
-~
-~
-0 0 3069
-D4
-~
-~
-0 0 3040
-S
-#3069
-Necromancer Cemitary~
-   The corpse start to rise, THEY ARE RISING FROM THE GROUND...  Some child
-corpses...  Some human heads...  Some exqueletons, some flush decaying from
-this disguting corpses.....  Its horrible...  U feel very dizzy...  Your vision
-is becoming black...    
-~
-30 12 0
-D3
-~
-~
-0 0 3068
-D5
-~
-~
-0 0 3095
-S
-#3070
-The Necromancer's Private Sanctuary~
-   So if you are here its because you are a Necromancer, stay cool...  
-Practices take to Perfection, pass by here whenever you want...  Practice my
-child...  Practice with this DAMNED Human Beings FLUSH...  Because they are
-nothing comparing with us...  Be glad that u are one of us...    
-~
-30 8 0
-D4
-~
-~
-0 0 3069
-S
-#3071
-Paladins?~
-This was the entrance hall to the Guild of the Paladins. A holy place
-with holy knights. Now it is a dead place with dead beasts.
-~
-30 0 0
-D0
-~
-~
-0 0 3053
-D5
-~
-~
-0 0 3095
-S
-#3072
-The Bar of the Paladins~
-  A large table made of trees is in the center of the room. You only can see a man drinking a beer. The small man has told to you if you want a drink...
-~
-30 0 0
-D1
-~
-~
-0 0 3073
-D5
-~
-~
-0 0 3071
-S
-#3073
-The Paladins Training Room~
-  Here the most powerfull paladins can train your skills and spells. They have a strange power with inteligence... take careful...
-~
-30 0 0
-D3
-~
-~
-0 0 3072
-S
-#3074
-The BlackSmith's Room~
-  You see weapons, glowing strange power and huming a strange sound. You only can see a small lot of weapons, the rest are invisible to your eyes.
-~
-30 193 0
-D4
-~
-~
-0 0 3020
-S
-#3075
-The Priest apprentice house~
-You feel confuse trying to read this books title... 
-This room is very strange... This guy who is here everytime is also strange...
-but he is a fellow.. he is healing me... better don't mess up and stay quite..
-~
-30 276 0
-D4
-~
-~
-0 0 3053
-D5
-~
-~
-0 0 3095
-S
-#3095
-Black monster's lair~
-This is the black monster's lair. The black monster is the one
-who attacked midggard and transformed it in a undead city.
-You will have to kill him to free the city....but it is said
-that he is invincible.
-~
-30 1 0
-D4
-~
-~
-0 0 3052
-S
-#3096
-The Chalange of Earth II~
-You are in an unfinished room.
-~
-30 0 0
-D0
-~
-Door~
-1 3062 3097
-D2
-~
-Door~
-1 32613 3095
-S
-#3097
-The Chalange of Earth III~
-You are in an unfinished room.
-~
-30 0 0
-D0
-~
-door~
-2 3063 3098
-D2
-~
-~
-0 0 3096
-S
-#3098
-The Chalange of Earth IV~
-You are in an unfinished room.
-~
-30 0 0
-D0
-~
-door~
-2 3064 3099
-D2
-~
-~
-0 0 3097
-S
-#3099
-The Purgatory~
-  Here you feel a great power... but you can't see them. This room is full of souls waiting for the judgement. You are here because you are DEAD. We only know one way to get out here...
-  You need give a part of your experience to leave the purgatory.
-  Type REVIVE if you want to be a mortal again.
-~
-30 100 0
-S
-$~
+$

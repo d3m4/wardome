@@ -1,0 +1,18 @@
+@Version: 2
+#12
+God Simplex~
+1299 10 2 2 0
+O 0 513 1 1210 	(a holy book of punishment)
+O 0 97 2 1209 	(the Suggestions Board)
+O 0 98 1 1208 	(the Builder's board)
+M 0 1202 2 1200 	(the wandering spirit)
+O 0 3098 1 1204 	(a holy bulletin board)
+R 0 1203 500 -1 	(a common board)
+O 1 500 2 1203 	(a common board)
+M 0 1201 1 1205 	(the Immortal Postmaster)
+M 0 1200 1 1201 	(the Immortal Innkeeper)
+M 0 1202 2 1201 	(the wandering spirit)
+R 0 1206 3096 -1 	(a social bulletin board)
+O 0 3096 5 1206 	(a social bulletin board)
+S
+$

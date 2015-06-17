@@ -7,14 +7,10 @@ It has a large central eye that projects an anti-magic ray and ten
 eyestalks atop the round body which can do anything from charm you
 to disintegrate you.  Beholders are not known for their personality.
 ~
-157739 33928 -870 E
-160 -64 -17 1d1+7032 5d17+84
-2400 13910536 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 100
-Att4: 100
-E
+abflnoq dhkp -870 S
+25 6 0 1d14+450 6d9+5
+28560 134000
+8 8 0
 #5201
 lamia beast~
 the lamia~
@@ -23,14 +19,10 @@ A strange lamia stands here waiting for her next meal.
 This is a creature with the upper torso of a beautiful woman, but the lower
 body of a four-legged beast.  She licks her lips as she looks at you greedily.
 ~
-2125 0 -1000 E
-150 -59 -15 1d1+6600 5d16+80
-2250 11534213 2
-8 8 2 -1 -1
-Att2: 100
-Att3: 70
-Att4: 30
-E
+acgj 0 -1000 S
+12 12 3 1d10+120 2d5+1
+1500 10500
+8 8 2
 #5202
 mimic chest~
 the mimic~
@@ -39,14 +31,10 @@ A strong chest lies in one corner of the room.
 A strong, wooden chest bound with iron straps and a heavy padlock on the
 front.
 ~
-131082 0 10 E
-145 -56 -14 1d1+6372 5d15+78
-2175 10454859 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 68
-Att4: 28
-E
+bqr 0 10 S
+11 10 1 1d20+130 2d7+0
+0 13000
+8 8 0
 #5203
 mimic boulder skeleton skeletons~
 the mimic~
@@ -57,14 +45,10 @@ there aren't any boulders native to this area.  The two skeletons beneath
 it are simply that, bones... no rags or anything else appears to be
 attached to them.
 ~
-131082 0 -10 E
-140 -54 -14 1d1+6156 5d15+76
-2100 9444967 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 65
-Att4: 25
-E
+bqr 0 -10 S
+14 7 1 3d15+150 3d5+1
+0 20000
+8 8 0
 #5204
 mimic floor~
 the mimic~
@@ -73,14 +57,10 @@ The stone floor of this house has been ripped apart.
 What a mess, you wonder to yourself what could have caused this rampant
 destruction.
 ~
-131082 0 -140 E
-130 -49 -12 1d1+5712 5d14+72
-1950 7624337 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 65
-Att4: 25
-E
+bqr 0 -140 S
+11 11 3 2d6+110 2d6+0
+0 10500
+8 8 0
 #5205
 mimic pottery shards~
 the mimic~
@@ -89,14 +69,10 @@ Some broken shards of pottery lie strewn about the floor.
 The pottery shards appear to have been part of a large vase at one point,
 probably before the city fell.
 ~
-131082 0 200 E
-130 -49 -12 1d1+5712 5d14+72
-1950 7624337 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 65
-Att4: 25
-E
+bqr 0 200 S
+11 14 0 1d8+100 2d5+3
+0 9800
+8 8 0
 #5206
 mimic planks wooden~
 the mimic~
@@ -105,29 +81,21 @@ A few wooden planks lie stacked on a low shelf.
 The fact that these planks still rest on this shelf leads you to believe
 that someone has been here before you...
 ~
-131082 0 0 E
-130 -49 -12 1d1+5712 5d14+72
-1950 7624337 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 65
-Att4: 25
-E
-#5207
+bqr 0 0 S
+11 9 0 1d12+110 4d3+1
+0 12000
+8 8 0
+#5207 
 lizard horned~
 the horned lizard~
 A small horned lizard flicks his tongue and slithers away.
 ~
 A cute little lizard -- that is, if you like reptiles!
 ~
-136 0 300 E
-140 -54 -14 1d1+6156 5d15+76
-2100 9444967 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 70
-Att4: 30
-E
+h 0 300 S
+3 17 4 1d14+30 2d4+0
+0 500
+8 8 0
 #5208
 golem stone~
 the stone golem~
@@ -136,14 +104,10 @@ In the corner you see a large, stone golem faithfully standing watch.
 It is a big chunk of rock that has been magically formed into a giant stone
 creature.  He stands here still guarding the city.
 ~
-157706 1064 800 E
-160 -64 -17 1d1+7032 5d17+84
-2400 13910536 2
-8 8 0 -1 -1
-Att2: 100
-Att3: 78
-Att4: 38
-E
+bilnopqr dfk 800 S
+25 0 -5 6d6+500 4d7+3
+4250 145000
+8 8 0
 #5209
 lamia beast~
 the lamia~
@@ -152,12 +116,8 @@ A strange lamia stands here waiting for her next meal.
 This is a creature with the upper torso of a beautiful woman, but the lower
 body of a four-legged beast.  She licks her lips as she looks at you greedily.
 ~
-75 32 -500 E
-155 -61 -16 1d1+6816 5d16+82
-2325 12685336 2
-8 8 2 -1 -1
-Att2: 100
-Att3: 70
-Att4: 28
-E
+abfg f -500 S
+9 10 3 1d12+120 1d4+5
+1500 7000
+8 8 2
 $

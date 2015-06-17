@@ -1,87 +1,65 @@
-@Version: 2
 #186
 Newbie Zone~
-18699 5 2 1 -1
-M 0 18602 3 18600 	(the newbie monster)
-E 1 18602 99 5 	(A bright green newbie vest)
-O 1 2 5 18600 	(&bthe &bw&Ba&br&Bd&bo&Bm&be help guide&n)
-O 0 18615 1 18648 	(a board is nailed here.)
-D 0 18611 1 1 	(Another Corner)
-M 0 5112 5 18611 	(Emperor Newbie)
-G 1 18627 15 -1 	(&GThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &GDagger&n)
-E 1 18621 100 20 	(A newbie pendant)
-D 0 18603 0 1 	(A Nexus)
-D 0 18603 1 1 	(A Nexus)
-M 0 5112 5 18603 	(Emperor Newbie)
-G 1 18614 15 -1 	(&BThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &BMace&n)
-E 1 18621 100 19 	(A newbie pendant)
-M 0 18615 1 18645 	(the smart newbie)
-E 1 18613 99 10 	(Some cool newbie sleeves)
-E 1 18612 99 7 	(Some cool newbie leggings)
-E 1 18602 99 5 	(A bright green newbie vest)
-E 1 18606 99 16 	(A shiny newbie dagger)
-M 0 18602 3 18607 	(the newbie monster)
-E 1 18606 99 16 	(A shiny newbie dagger)
-D 0 18607 3 1 	(More Of The Hallway)
-M 0 5112 5 18607 	(Emperor Newbie)
-G 1 18628 15 -1 	(&RThe &YE&ym&Yp&ye&Yr&yo&Yr&y &YN&ye&Yw&yb&Yi&ye&Y'&ys &RSword&n)
-E 1 18621 100 19 	(A newbie pendant)
-M 0 18619 1 18607 	(a newbie guardian)
-E 1 18619 99 11 	(A newbie shield)
-M 0 18600 1 18601 	(newbie janitor)
-E 1 18626 4 13 	(A newbie belt)
-D 0 18604 2 1 	(A Narrow Passage)
-M 0 18614 1 18604 	(the lost newbie)
-E 1 18625 99 22 	(a newbie sphere)
-M 0 18606 4 18609 	(the creepy crawler)
-E 1 18624 99 8 	(A newbie sandals)
-M 0 18610 2 18651 	(the dark spectre)
-E 1 18622 25 17 	(the wand of regeneration)
-M 0 18621 1 18610 	(a newbie thief)
-E 1 18623 100 21 	(A newbie mask)
-M 0 18618 1 18650 	(the cave's man)
-G 1 18617 100 -1 	(a infravision potion)
-G 1 18618 50 -1 	(a cave's monster tooth)
-M 0 18616 1 18649 	(a old witch)
-E 1 18616 1 16 	(a witch's magical rod)
-M 0 18617 3 18649 	(the witch's servant)
-M 0 18601 1 18605 	(the pit beast)
-E 1 18604 50 12 	(a dark newbie cloak)
-M 0 18611 1 18646 	(the annoying newbie)
-E 1 18606 99 16 	(A shiny newbie dagger)
-M 0 18612 1 18642 	(the clueless newbie)
-M 0 18613 1 18640 	(the talkative newbie)
-E 1 18602 99 5 	(A bright green newbie vest)
-M 0 18603 1 18602 	(the baby dragon)
-E 1 18607 99 3 	(A pet dragon collar)
-M 0 18604 1 18606 	(the Newbie Guard)
-E 1 18605 60 1 	(A newbie signet ring)
-G 1 18608 5 -1 	(a wee little key)
-E 1 18603 30 6 	(A bright newbie helm)
-M 0 18605 1 18612 	(the Newbie Alchemist)
-G 1 18609 50 -1 	(A brightly glowing jar)
-M 0 18606 4 18602 	(the creepy crawler)
-M 0 18606 4 18606 	(the creepy crawler)
-M 0 18607 5 18620 	(the zombiefied newbie)
-M 0 18607 5 18624 	(the zombiefied newbie)
-M 0 18607 5 18637 	(the zombiefied newbie)
-M 0 18607 5 18633 	(the zombiefied newbie)
-M 0 18608 5 18627 	(the quasit)
-M 0 18608 5 18636 	(the quasit)
-M 0 18608 5 18638 	(the quasit)
-M 0 18608 5 18621 	(the quasit)
-M 0 18609 1 18629 	(the massive Minotaur)
-E 1 18610 50 6 	(the horns of the Minotaur)
-E 1 18611 50 5 	(the smelly hide of the Minotaur)
-M 0 18610 1 18639 	(the dark spectre)
-D 0 18602 2 1 	(The Dirty Hallway)
-D 0 18606 0 1 	(A Small Room)
-D 0 18644 2 1 	(A Bright Hallway)
-D 0 18646 3 1 	(A Bright Hallway)
-D 0 18612 0 1 	(The Alchemist's Room)
-D 0 18606 5 2 	(A Small Room)
-D 0 18605 4 2 	(The Dark Pit)
-D 0 18606 1 1 	(A Small Room)
-D 0 18612 3 1 	(The Alchemist's Room)
+18600 18699 10 2
+*
+* Created by Maynard of StrangeMUD
+*
+* Mobiles
+M 0 18601 1 18605       Pit Beast
+E 1 18604 50 12                 Cloak
+M 0 18602 3 18600       Newbie Monster
+E 1 18602 99 5                  Vest
+M 0 18602 3 18607       Newbie Monster
+E 1 18606 99 16                 Dagger
+M 0 18611 1 18646       Annoying Newbie
+E 1 18606 99 16                 Dagger
+M 0 18612 1 18642       Clueless Newbie
+M 0 18613 1 18640       Friendly Newbie
+E 1 18602 99 5                  Vest
+M 0 18614 1 18604       Lost Newbie
+M 0 18615 1 18645       Smart Newbie
+E 1 18613 99 10                 Sleeves
+E 1 18612 99 7                  Leggings
+E 1 18602 99 5                  Vest
+E 1 18614 30 16                 Mace
+M 0 18603 1 18602       Dragon
+E 1 18607 99 3                  Collar
+M 0 18604 1 18606       Newbie Guard
+E 1 18605 60 1                  Ring
+G 1 18608 5                     Key
+E 1 18603 30 6                  Helm
+M 0 18605 1 18612       Alchemist
+G 1 18609 50                    Light
+M 0 18606 4 18602       Crawler
+M 0 18606 4 18606       Crawler
+M 0 18606 4 18609       Crawler
+M 0 18607 5 18620       Zombie
+M 0 18607 5 18624       Zombie
+M 0 18607 5 18637       Zombie
+M 0 18607 5 18633       Zombie
+M 0 18608 5 18627       Quasit
+M 0 18608 5 18636       Quasit
+M 0 18608 5 18638       Quasit
+M 0 18608 5 18621       Quasit
+M 0 18609 1 18629       Minotaur
+E 1 18610 50 6                  Horns
+E 1 18611 50 5                  Hide
+M 0 18610 1 18639       Spectre
+* Doors
+D 0 18602 2 1           A Small Room
+D 0 18606 0 1
+D 0 18603 0 1           Bright Hallway
+D 0 18644 2 1
+D 0 18603 1 1           Bright Hallway
+D 0 18646 3 1
+D 0 18604 2 1           Alchemist's Chamber
+D 0 18612 0 1
+D 0 18606 5 2           Dark Pit
+D 0 18605 4 2
+D 0 18607 3 1           A Small Room
+D 0 18606 1 1
+D 0 18611 1 1           Alchemist's Chamber
+D 0 18612 3 1
+*
 S
 $

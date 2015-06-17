@@ -4,8 +4,8 @@ CircleMUD v3.0 Shop File~
 3101
 3102
 -1
-1.10
-0.90
+1.1
+0.9
 -1
 %s I haven't got such a drink.~
 %s I see no such thing.~
@@ -16,7 +16,7 @@ CircleMUD v3.0 Shop File~
 %s Bug, please report (%d).~
 0
 0
-144921232
+3100
 0
 3106
 -1

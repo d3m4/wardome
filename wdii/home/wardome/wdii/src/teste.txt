@@ -1,4 +1,0 @@
-make ../bin/circle
-make[1]: Entering directory `/home/wardome/wardome/wdII/src'
-gcc -c -O2 -z nodefaultlib -specs=/usr/lib/gcc-lib/i486-linux-libc5/2.7.2.1/specs -g -Wall  magic.c
-make[1]: Leaving directory `/home/wardome/wardome/wdII/src'
