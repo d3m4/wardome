@@ -2506,7 +2506,7 @@ void nonblock(socket_t s)
   socket_ioctl(s, FIONBIO, &val);
 }
 
-#elif defined(CIRCLE_UNIX) || defined(CIRCLE_OS2) || defined(CIRCLE_MACINTOSH)
+#elif defined(CIRCLE_UNIX) || defined(CIRCLE_OS2) || defined(CIRCLE_MACINTOSH) || defined(__APPLE__)
 
 #ifndef O_NONBLOCK
 #define O_NONBLOCK O_NDELAY

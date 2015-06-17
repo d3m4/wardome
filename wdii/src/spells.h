@@ -7,6 +7,7 @@
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
+#pragma once
 
 #define DEFAULT_STAFF_LVL       12
 #define DEFAULT_WAND_LVL        12

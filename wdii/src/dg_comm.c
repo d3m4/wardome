@@ -139,8 +139,7 @@ void sub_write(char *arg, char_data *ch, byte find_invis, int targets)
 	    type[i] = *p;
 	    *s = '\0';
 	    p = any_one_name(++p, name);
-	    (char_data *)otokens[i] =
-		find_invis ? get_char(name) : get_char_room_vis(ch, name);
+	    otokens[i] = find_invis ? get_char(name) : get_char_room_vis(ch, name);
 	    tokens[++i] = ++s;
 	    break;
 	    
@@ -149,15 +148,14 @@ void sub_write(char *arg, char_data *ch, byte find_invis, int targets)
 	    type[i] = *p;
 	    *s = '\0';
 	    p = any_one_name(++p, name);
-	    (obj_data *)otokens[i] =
-		find_invis ? (obj = get_obj(name)) :
+	    otokens[i] = find_invis ? (obj = get_obj(name)) :
 		    ((obj = get_obj_in_list_vis(ch, name,
 				world[IN_ROOM(ch)].contents)) ? obj :
 		     (obj = get_object_in_equip_vis(ch, name,
 						    ch->equipment, &tmp)) ?
 		     obj :
 		     (obj = get_obj_in_list_vis(ch, name, ch->carrying)));
-	    (obj_data *)otokens[i] = obj;
+	    otokens[i] = obj;
 	    tokens[++i] = ++s;
 	    break;
 

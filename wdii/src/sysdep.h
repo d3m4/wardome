@@ -200,10 +200,10 @@ extern void abort (), exit ();
 
 #if defined(__COMM_C__) || defined(CIRCLE_UTIL)
 
-#ifndef HAVE_STRUCT_IN_ADDR
+#if !defined(HAVE_STRUCT_IN_ADDR) && !defined(__APPLE__)
 struct in_addr {
   unsigned long int s_addr;	/* for inet_addr, etc. */
-}
+};
 #endif
 
 #ifdef HAVE_SYS_SELECT_H
@@ -315,7 +315,7 @@ struct in_addr {
 #  include <unixio.h>
 # endif
 
-#elif !defined(CIRCLE_MACINTOSH) && !defined(CIRCLE_UNIX) && !defined(CIRCLE_ACORN)
+#elif !defined(CIRCLE_MACINTOSH) && !defined(CIRCLE_UNIX) && !defined(CIRCLE_ACORN) && !defined(__APPLE__)
 # error "You forgot to include conf.h or do not have a valid system define."
 #endif
 

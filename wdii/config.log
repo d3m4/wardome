@@ -5,6 +5,10 @@ configure:537: checking for less
 configure:569: checking for gcc
 configure:646: checking whether the C compiler (gcc  ) works
 configure:660: gcc -o conftest    conftest.c  1>&5
+configure:657:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main(){return(0);}
+^~~~
+1 warning generated.
 configure:680: checking whether the C compiler (gcc  ) is a cross-compiler
 configure:685: checking whether we are using GNU C
 configure:709: checking whether gcc accepts -g

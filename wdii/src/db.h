@@ -18,7 +18,7 @@
 #define DB_BOOT_TRG	6
 #define DB_BOOT_QST     7
 
-#if defined(CIRCLE_MACINTOSH)
+#if defined(CIRCLE_MACINTOSH) 
 #define LIB_WORLD       ":world:"
 #define LIB_TEXT        ":text:"
 #define LIB_TEXT_HELP   ":text:help:"
@@ -27,8 +27,9 @@
 #define LIB_PLRTEXT     ":plrtext:"
 #define LIB_PLROBJS     ":plrobjs:"
 #define LIB_HOUSE       ":house:"
+#define LIB_ALIAS       ":alias:"
 #define SLASH           ":"
-#elif defined(CIRCLE_AMIGA) || defined(CIRCLE_UNIX) || defined(CIRCLE_WINDOWS) || defined(CIRCLE_ACORN)
+#elif defined(CIRCLE_AMIGA) || defined(CIRCLE_UNIX) || defined(CIRCLE_WINDOWS) || defined(CIRCLE_ACORN) || defined(__APPLE__) 
 #define LIB_WORLD       "world/"
 #define LIB_TEXT        "text/"
 #define LIB_TEXT_HELP   "text/help/"

@@ -17,17 +17,24 @@ PROFILE =
 # binary destination directory
 BINDIR = ../../bin
 # location of Circle include files
-INCDIR = ..
+INCDIR = ../
 
 CFLAGS = @CFLAGS@ $(MYFLAGS) $(PROFILE) -I$(INCDIR)
 
 default: all
 
+#karl: removido a construção do shopconv para evitar erro de linkagem
+#all: $(BINDIR)/autowiz $(BINDIR)/delobjs $(BINDIR)/listrent \
+#	$(BINDIR)/mudpasswd $(BINDIR)/play2to3 $(BINDIR)/purgeplay \
+#	$(BINDIR)/shopconv $(BINDIR)/showplay $(BINDIR)/sign $(BINDIR)/split \
+#	$(BINDIR)/wld2html
+
 all: $(BINDIR)/autowiz $(BINDIR)/delobjs $(BINDIR)/listrent \
 	$(BINDIR)/mudpasswd $(BINDIR)/play2to3 $(BINDIR)/purgeplay \
-	$(BINDIR)/shopconv $(BINDIR)/showplay $(BINDIR)/sign $(BINDIR)/split \
+	$(BINDIR)/showplay $(BINDIR)/sign $(BINDIR)/split \
 	$(BINDIR)/wld2html
 
+autowiz: $(BINDIR)/autowiz
 autowiz: $(BINDIR)/autowiz
 
 delobjs: $(BINDIR)/delobjs

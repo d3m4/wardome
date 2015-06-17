@@ -3,8 +3,8 @@
 
 #define CIRCLE_ACORN
 
-/*Define to empty if the keyword does not work.*/
-/*#define const*/
+// Define to empty if the keyword does not work.
+//#define const
 
 /* Define to `int' if <sys/types.h> doesn't define.  */
 /*#define pid_t int*/
@@ -61,4 +61,3 @@
 #define HAVE_SYS_STAT_H
 
 #define NEED_GETTIMEOFDAY_PROTO
-

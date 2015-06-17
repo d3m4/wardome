@@ -4147,11 +4147,6 @@ ACMD(do_copyover)
     exit (1); /* too much trouble to try to recover! */
 }
 
-ACMD(do_veq)
-{
-  char field[MAX_INPUT_LENGTH], value[MAX_INPUT_LENGTH];
-  int i, j, l;
-
 void vwear_object(int wearpos, struct char_data * ch)
 {
 
@@ -4175,6 +4170,11 @@ void vwear_object(int wearpos, struct char_data * ch)
   page_string(ch->desc, buf, 1);
 
 }
+
+ACMD(do_veq)
+{
+  char field[MAX_INPUT_LENGTH], value[MAX_INPUT_LENGTH];
+  int i, j, l;
 
 struct listeq_struct {
     char *cmd;

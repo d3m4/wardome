@@ -3825,7 +3825,7 @@ SPECIAL(anelrecall)
 
 if (ROOM_FLAGGED(ch->in_room, ROOM_ARENA)) {
     send_to_char("Hehehe... Too fun... Looser!\r\n", ch);
-    return;
+    return 0;
   }
 		
 		

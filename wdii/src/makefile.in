@@ -24,29 +24,29 @@ CFLAGS = -g -O2 $(MYFLAGS) $(PROFILE)
 
 LIBS = 
 
-OBJFILES = comm.o act.comm.o act.informative.o act.movement.o act.item.o \
+OBJFILES = act.comm.o act.informative.o act.movement.o act.item.o \
 	act.offensive.o act.other.o act.social.o act.wizard.o ban.o boards.o \
-	castle.o class.o config.o constants.o db.o fight.o graph.o handler.o \
-	house.o interpreter.o limits.o magic.o mail.o mobact.o modify.o \
+	castle.o challenge.o class.o comm.o config.o constants.o db.o fight.o graph.o handler.o \
+	house.o interpreter.o limits.o magic.o mail.o mob_int.o mobact.o modify.o \
 	objsave.o olc.o random.o shop.o spec_assign.o spec_procs.o \
 	spell_parser.o spells.o utils.o weather.o redit.o oedit.o zedit.o \
 	medit.o sedit.o alias.o race.o clan.o auction.o fbi.o hedit.o \
 	aedit.o breath.o arena.o dg_comm.o dg_db_scripts.o dg_event.o \
 	dg_handler.o dg_mobcmd.o dg_objcmd.o dg_scripts.o dg_triggers.o \
 	dg_wldcmd.o dg_olc.o qedit.o quest.o teleport.o condition.o winddragon.o \
-	buffer.o
+	buffer.o masters.o diskio.o prgrun.o
 
 CXREF_FILES = act.comm.c act.informative.c act.item.c act.movement.c \
 	act.offensive.c act.other.c act.social.c act.wizard.c ban.c boards.c \
-	castle.c class.c comm.c config.c constants.c db.c fight.c graph.c \
-	handler.c house.c interpreter.c limits.c magic.c mail.c mobact.c \
+	castle.c challenge.c class.c comm.c config.c constants.c db.c fight.c graph.c \
+	handler.c house.c interpreter.c limits.c magic.c mail.c mob_int.c mobact.c \
 	modify.c objsave.c olc.c random.c shop.c spec_assign.c spec_procs.c \
 	spell_parser.c spells.c utils.c weather.c redit.c oedit.c zedit.c \
 	medit.c sedit.c alias.c race.c clan.c auction.c fbi.c hedit.c \
 	aedit.c breath.c arena.c dg_comm.c dg_db_scripts.c dg_event.c \
 	dg_handler.c dg_mobcmd.c dg_objcmd.c dg_scripts.c dg_triggers.c \
 	dg_wldcmd.c dg_olc.c qedit.c quest.o teleport.c condition.c winddragon.c \
-	buffer.c
+	buffer.c masters.c diskio.c prgrun.c
 
 default: all
 

@@ -30,6 +30,8 @@
 #include "diskio.h"
 #include "pfdefaults.h"
 
+#include "stdlib.h"
+
 /**************************************************************************
 *  declarations of most of the 'global' variables                         *
 **************************************************************************/
@@ -1743,7 +1745,7 @@ void get_one_line(FILE *fl, char *buf)
   buf[strlen(buf) - 1] = '\0'; /* take off the trailing \n */
 }
 
-#if !defined(HAVE_STRLCPY)
+#if !defined(HAVE_STRLCPY) && !defined(__APPLE__)
 /*
  * A 'strlcpy' function in the same fashion as 'strdup' below.
  *
@@ -2577,7 +2579,8 @@ int load_char(char *name, struct char_data *ch)
 
       case 'N':
 	if(!strcmp(tag, "Name"))
-	  GET_NAME(ch) = str_dup(line);
+	  //karl: GET_NAME(ch) = str_dup(line);
+	  (ch)->player.name = str_dup(line);
 	break;
 
       case 'O':

@@ -2,6 +2,8 @@
 ** Usado para os Comandos basicos de Discipulos **
 ** Implementado por Taerom e Zhantar            **
 ** Inicio do Projeto: 04/07/03                  */
+#pragma once
+#include "spells.h"
 
 void criacao(struct descriptor_data *d, char *arg);
 void criacao_new(struct descriptor_data *d, char *arg);
@@ -10,7 +12,6 @@ void verifica(struct descriptor_data *d);
 void ganha_rp(struct char_data *ch);
 void list_skills(struct char_data *ch);
 
-int prac_params[4][NUM_CLASSES];
 
 extern char *pc_class_types[];
 extern char *pc_race_types[];
@@ -32,9 +33,6 @@ SPECIAL(master);
  #define SPELL	0
  #define SKILL	1
  
- #define LEARNED(ch) (prac_params[LEARNED_LEVEL][(int)GET_CLASS(ch)])
- #define MINGAIN(ch) (prac_params[MIN_PER_PRAC][(int)GET_CLASS(ch)])
- #define MAXGAIN(ch) (prac_params[MAX_PER_PRAC][(int)GET_CLASS(ch)])
  
  #define MENU \
 "&YW&yE&YL&yC&YO&YM&yE&Y &yT&YO&y &YW&yA&YR&yM&YA&yS&YT&yE&YR&y G&YU&yI&YL&yD&n\r\n" \
@@ -45,14 +43,20 @@ SPECIAL(master);
 "&yYou can learn the following &Yskill&y/&Yspell:&n\r\n" \
 "&Y[&yCost&Y] &Y[&yName&Y]              &Y[&yCost&Y] &Y[&yName&Y]              &Y[&yCost&Y] &Y[&yName&Y]&n\r\n" \
 
+// karl: comentar para compilar
+/*
 int prac_params[4][NUM_CLASSES] = {
 
-  { 10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10   },	/* learned level */
-  { 15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15	},	/* max per practice */
-  { 25,	 25,  25,  25,	25,  25,  25,  25,  25,	 25,  25,  25   },	/* min per practice */
-  {  1,   0,   1,   0,   1,   1,   0,   1,   1,   0,   1,   0   },	/* prac name */
+  { 10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10,  10   },	// learned level
+  { 15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15,  15	},	// max per practice
+  { 25,	 25,  25,  25,	25,  25,  25,  25,  25,	 25,  25,  25   },	// min per practice
+  {  1,   0,   1,   0,   1,   1,   0,   1,   1,   0,   1,   0   },	// prac name
 };
+*/
 
-
+int prac_params[4][NUM_CLASSES];
+#define LEARNED(ch) (prac_params[LEARNED_LEVEL][(int)GET_CLASS(ch)])
+#define MINGAIN(ch) (prac_params[MIN_PER_PRAC][(int)GET_CLASS(ch)])
+#define MAXGAIN(ch) (prac_params[MAX_PER_PRAC][(int)GET_CLASS(ch)])
 
 
