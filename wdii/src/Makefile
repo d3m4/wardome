@@ -22,7 +22,7 @@ PROFILE =
 
 BINDIR = ../bin
 
-CFLAGS = -g -O2 $(MYFLAGS) $(PROFILE)
+CFLAGS = -g -O0 $(MYFLAGS) $(PROFILE)
 
 LIBS = -lcrypt 
 
