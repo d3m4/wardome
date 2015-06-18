@@ -360,29 +360,29 @@ void assign_mobiles(void)
 /* assign special procedures to objects */
 void assign_objects(void)
 {
-  ASSIGNOBJ(30401, gen_board); /**/
-  ASSIGNOBJ(500, gen_board);   /* mortal board */
-  ASSIGNOBJ(507, gen_board);   /* idea board */
-  ASSIGNOBJ(509, gen_board);   /* mortal board */
-  ASSIGNOBJ(512, gen_board);   /* mortal board */
-  ASSIGNOBJ(3077, gen_board);   /*    bug board */
+  //ASSIGNOBJ(30401, gen_board); /**/
+  //ASSIGNOBJ(500, gen_board);   /* mortal board */
+  //ASSIGNOBJ(507, gen_board);   /* idea board */
+  //ASSIGNOBJ(509, gen_board);   /* mortal board */
+  //ASSIGNOBJ(512, gen_board);   /* mortal board */
+  //ASSIGNOBJ(3077, gen_board);   /*    bug board */
   ASSIGNOBJ(3096, gen_board);   /* social board */
-  ASSIGNOBJ(3097, gen_board);   /*  */
-  ASSIGNOBJ(3098, gen_board);   /* immortal board */
+  //ASSIGNOBJ(3097, gen_board);   /*  */
+  //ASSIGNOBJ(3098, gen_board);   /* immortal board */
   /*ASSIGNOBJ(3099, gen_board);   mortal board */
-  ASSIGNOBJ(31001, gen_board);   /* Kingdom of Steel Clan */
-  ASSIGNOBJ(30100, gen_board);   /*  */
-  ASSIGNOBJ(97, gen_board);
-  ASSIGNOBJ(98, gen_board);
-  ASSIGNOBJ(1300, gen_board);  /*questbook board*/
-  ASSIGNOBJ(9403, gen_board);  /* Viking clan */
-  ASSIGNOBJ(3034, bank);        /* atm */
-  ASSIGNOBJ(3036, bank);        /* cashcard */
-  ASSIGNOBJ(6747, marbles);        /* marbles */
-  ASSIGNOBJ(10113, espada_fica_azul);
-  ASSIGNOBJ(1901, gen_board); //Warlords Clan
-  ASSIGNOBJ(2407, gen_board); //Dark Heresy Clan
-  ASSIGNOBJ(595, anelrecall); //
+  //ASSIGNOBJ(31001, gen_board);   /* Kingdom of Steel Clan */
+  //ASSIGNOBJ(30100, gen_board);   /*  */
+  //ASSIGNOBJ(97, gen_board);
+  //ASSIGNOBJ(98, gen_board);
+  //ASSIGNOBJ(1300, gen_board);  /*questbook board*/
+  //ASSIGNOBJ(9403, gen_board);  /* Viking clan */
+  //ASSIGNOBJ(3034, bank);        /* atm */
+  //ASSIGNOBJ(3036, bank);        /* cashcard */
+  //ASSIGNOBJ(6747, marbles);        /* marbles */
+  //ASSIGNOBJ(10113, espada_fica_azul);
+  //ASSIGNOBJ(1901, gen_board); //Warlords Clan
+  //ASSIGNOBJ(2407, gen_board); //Dark Heresy Clan
+  //ASSIGNOBJ(595, anelrecall); //
 }
 
 

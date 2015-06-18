@@ -73,7 +73,7 @@ $(BINDIR)/listrent: listrent.c $(INCDIR)/conf.h $(INCDIR)/sysdep.h \
 
 $(BINDIR)/mudpasswd: mudpasswd.c $(INCDIR)/conf.h $(INCDIR)/sysdep.h \
 	$(INCDIR)/structs.h $(INCDIR)/utils.h
-	$(CC) $(CFLAGS) -o $(BINDIR)/mudpasswd mudpasswd.c 
+	$(CC) $(CFLAGS) -o $(BINDIR)/mudpasswd mudpasswd.c  -lcrypt
 
 $(BINDIR)/play2to3: play2to3.c $(INCDIR)/conf.h $(INCDIR)/sysdep.h
 	$(CC) $(CFLAGS) -o $(BINDIR)/play2to3 play2to3.c
