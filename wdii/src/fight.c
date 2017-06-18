@@ -927,7 +927,9 @@ void dam_message(int dam, struct char_data * ch, struct char_data * victim, int 
 
 	if(dam == 0)
 		strcpy(pancada, "misses");
-	else if(dam <= 10)
+        else if(dam == 1)
+            strcpy(pancada, porradinha[0]);
+        else if(dam <= 10)
 		strcpy(pancada, porradinha[(dam/2)-1]);
 	else if(dam <= 30)
 		strcpy(pancada, porrada[(dam/3)-1]);
