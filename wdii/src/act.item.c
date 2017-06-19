@@ -1471,7 +1471,7 @@ ACMD(do_remove)
     }
   } else {
       if ((i = get_obj_pos_in_equip_vis(ch, arg, NULL, ch->equipment)) < 0)
-        send_to_char("You don't seem to be using.\r\n",ch);
+        send_to_char("You don't seem to be using that.\r\n",ch);
       else
         perform_remove(ch, i);
       
