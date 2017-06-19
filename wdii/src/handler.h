@@ -86,6 +86,8 @@ int     find_all_dots(char *arg);
 int     generic_find(char *arg, int bitvector, struct char_data *ch,
 struct char_data **tar_ch, struct obj_data **tar_obj);
 
+int get_obj_pos_in_equip_vis(struct char_data *ch, char *arg, int *num, struct obj_data *equipment[]);
+
 #define FIND_CHAR_ROOM     1
 #define FIND_CHAR_WORLD    2
 #define FIND_OBJ_INV       4

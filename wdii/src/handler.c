@@ -1591,6 +1591,26 @@ int find_all_dots(char *arg)
     return FIND_INDIV;
 }
 
+int get_obj_pos_in_equip_vis(struct char_data *ch, char *arg, int *number, struct obj_data *equipment[])
+{
+  int j, num;
+
+  if (!number) {
+    number = &num;
+    num = get_number(&arg);
+  }
+
+  if (*number == 0)
+    return (-1);
+
+  for (j = 0; j < NUM_WEARS; j++)
+    if (equipment[j] && CAN_SEE_OBJ(ch, equipment[j]) && isname(arg, equipment[j]->name))
+      if (--(*number) == 0)
+        return (j);
+
+  return (-1);
+}
+
 void make_summary(struct char_data * ch)
 {
 	sprintf(buf, "\r\n&b            ____________________________________________________ \r\n");
