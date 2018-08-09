@@ -1248,7 +1248,8 @@ void perform_wear(struct char_data *ch, struct obj_data *obj, int where)
       where++;
 
   if (GET_EQ(ch, where)) {
-    send_to_char("already_wearing[where]", ch);
+    sprintf(buf, "%s", already_wearing[where]);
+    send_to_char(buf,ch);
     return;
   }
   wear_message(ch, obj, where);
