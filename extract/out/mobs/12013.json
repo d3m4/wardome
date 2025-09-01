@@ -1,0 +1,12 @@
+{
+  "id": 12013,
+  "alias": "page",
+  "short_desc": "the page",
+  "long_desc": "A page stands here, waiting to run an errand.",
+  "detailed_desc": "",
+  "flags_raw": "You see a young boy who looks very strong and very fast.  He has the look of",
+  "stats1_raw": "a scholar about him.",
+  "stats2_raw": "~",
+  "stats3_raw": "b 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "word",
+    "of",
+    "recall"
+  ],
+  "aliases": [
+    "RECALL"
+  ],
+  "body": "Syntax: cast 'word of recall'\n        recall\n\nWord of recall instantly transports you to your hometown temple, providing\na quick escape from dangerous situations. This is one of the most important\nsurvival spells in the game.\n\nClasses: Cleric\nLevel: 12\nMana Cost: 20\nPosition: Standing, Sitting, or Fighting\n\nThe spell cannot be cast if you are in a NO_RECALL room or if you are in\ncombat with a mob that prevents recall. There is also a \"recall\" command\nthat works the same way.\n\nSee Also: TELEPORT, GROUP RECALL",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

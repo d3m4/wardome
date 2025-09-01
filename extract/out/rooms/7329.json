@@ -1,0 +1,34 @@
+{
+  "id": 7329,
+  "zone_id": 73,
+  "name": "The Burnt Room",
+  "description": "You are in a room, which once has at one time been quite burnt.  There\nis writing on the wall.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can see a red glow...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7328
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7330
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "writing",
+      "description": "The writing says:\n\n                        DANGER"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

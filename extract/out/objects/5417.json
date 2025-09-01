@@ -1,0 +1,13 @@
+{
+  "id": 5417,
+  "alias": "suit plate field",
+  "short_desc": "a suit of field plate",
+  "long_desc": "A suit of field plate lies here.",
+  "action_desc": "",
+  "header_raw": "9 agmno 9",
+  "values_raw": "9 0 0 0",
+  "cost_raw": "28 4000 1000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

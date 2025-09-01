@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "rescue"
+  ],
+  "aliases": [
+    "RESCUE"
+  ],
+  "body": "Syntax: rescue <target>\n\nRescue allows a warrior to intercept attacks aimed at an ally, drawing\nenemy aggression to themselves. This is essential for protecting weaker\nparty members during group combat.\n\nClasses: Warrior, Paladin\nSkill Type: Combat\nPosition: Fighting\n\nWhen you rescue someone, all enemies attacking that person will switch\ntheir attention to you instead. This skill is crucial for tanks who need\nto protect spellcasters and other vulnerable allies.\n\nSee Also: BASH, DISARM",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

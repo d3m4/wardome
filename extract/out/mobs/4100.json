@@ -1,0 +1,12 @@
+{
+  "id": 4100,
+  "alias": "mage",
+  "short_desc": "the mage",
+  "long_desc": "A small intelligent looking mage is standing here.",
+  "detailed_desc": "",
+  "flags_raw": "His IQ makes almost any normal person look stupid...",
+  "stats1_raw": "It looks like he knows his way with magic.",
+  "stats2_raw": "~",
+  "stats3_raw": "abcf dk -100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

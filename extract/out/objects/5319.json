@@ -1,0 +1,18 @@
+{
+  "id": 5319,
+  "alias": "sand pile",
+  "short_desc": "a pile of sand",
+  "long_desc": "You see a small pile of sand.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "12986 0 0 0",
+  "cost_raw": "12 12986 0",
+  "extra_descriptions": [
+    {
+      "keywords": "sand pile",
+      "description": "You think you see some coins and valuables glinting amongst the grains of\nsand."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

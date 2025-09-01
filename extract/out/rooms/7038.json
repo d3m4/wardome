@@ -1,0 +1,37 @@
+{
+  "id": 7038,
+  "zone_id": 70,
+  "name": "The Three Way Junction",
+  "description": "You are standing in a junction of pipes that lead west, east and south.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "East.  You can make out a dimly lit Guard Room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7045
+    },
+    {
+      "dir": 2,
+      "description": "To the south you can see what looks like a store room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7039
+    },
+    {
+      "dir": 3,
+      "description": "West.  You see another junction similar to this one leading north and south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7025
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

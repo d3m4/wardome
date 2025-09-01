@@ -1,0 +1,12 @@
+{
+  "id": 12035,
+  "alias": "executioner",
+  "short_desc": "the executioner",
+  "long_desc": "The executioner stands here, waiting to torture some sorry soul.",
+  "detailed_desc": "",
+  "flags_raw": "You see a burly man who is wearing a black hood that obscures his face.  He",
+  "stats1_raw": "has a very sadistic attitude and clearly loves his work.",
+  "stats2_raw": "~",
+  "stats3_raw": "bcfno d -1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

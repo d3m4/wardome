@@ -1,0 +1,13 @@
+{
+  "id": 5468,
+  "alias": "glass wine",
+  "short_desc": "a glass",
+  "long_desc": "A glass rests here.",
+  "action_desc": "",
+  "header_raw": "17 0 1",
+  "values_raw": "1 1 2 0",
+  "cost_raw": "1 3800 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

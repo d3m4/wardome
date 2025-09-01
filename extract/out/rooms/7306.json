@@ -1,0 +1,21 @@
+{
+  "id": 7306,
+  "zone_id": 73,
+  "name": "The Mudhole",
+  "description": "You are standing in a lot of mud.  The mud goes to your chest.  You feel\nthe presence of something IN the mud.  The only obvious exit is to the west.",
+  "header_raw": "73 ad 6",
+  "flags_text": "ad",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see nothing at all.",
+      "keywords": "block grey~ 1 -1 7305 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

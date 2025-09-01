@@ -1,0 +1,12 @@
+{
+  "id": 5426,
+  "alias": "statue kali",
+  "short_desc": "the statue of Kali",
+  "long_desc": "The statue of Kali stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The statue of the Black Mother, Kali, is made of black marble and",
+  "stats1_raw": "is covered with silver runes.",
+  "stats2_raw": "~",
+  "stats3_raw": "abelnopqr dhk -1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

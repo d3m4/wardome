@@ -1,0 +1,12 @@
+{
+  "id": 7900,
+  "alias": "paladin grand knight",
+  "short_desc": "the Grand Knight of Paladins",
+  "long_desc": "The Grand Knight is standing here, waiting for someone to help.",
+  "detailed_desc": "",
+  "flags_raw": "The Knight is standing here, smiling at you.  He is dressed all in white,",
+  "stats1_raw": "blue and silver.  He looks VERY strong, as he stands here, ready to help",
+  "stats2_raw": "the innocent.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/79.mob"
+}

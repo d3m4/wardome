@@ -1,0 +1,12 @@
+{
+  "id": 2511,
+  "alias": "broom",
+  "short_desc": "the broom",
+  "long_desc": "A straw broom is here leaning against the wall.",
+  "detailed_desc": "",
+  "flags_raw": "The broom screams 'Take that you lout!'",
+  "stats1_raw": "~",
+  "stats2_raw": "abefgnopqr dfk 50 S",
+  "stats3_raw": "7 10 2 7d7+70 2d4+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

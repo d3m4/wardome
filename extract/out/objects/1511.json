@@ -1,0 +1,22 @@
+{
+  "id": 1511,
+  "alias": "forge unity",
+  "short_desc": "the Forge of Unity",
+  "long_desc": "It is surely the best of men who has left these gloves to aid you.",
+  "action_desc": "",
+  "header_raw": "9 iklmn ah",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "5 12000 4000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 2
+    },
+    {
+      "location": 13,
+      "modifier": 10
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

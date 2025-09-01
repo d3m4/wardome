@@ -1,0 +1,21 @@
+{
+  "id": 918,
+  "zone_id": 9,
+  "name": "The Fourth Trial Of Minos",
+  "description": "Minos must be a monster hacking machine.  You see a blue light\nflicker on and off.  A voice crackles, 'WHY ARE YOU HERE!'",
+  "header_raw": "9 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 919
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

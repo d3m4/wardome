@@ -1,0 +1,22 @@
+{
+  "id": 12013,
+  "alias": "pendant jade",
+  "short_desc": "a jade pendant",
+  "long_desc": "A beautiful jade pendant has been left here.",
+  "action_desc": "",
+  "header_raw": "11 0 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "30 16500 6000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 1
+    },
+    {
+      "location": 4,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

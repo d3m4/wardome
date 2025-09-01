@@ -1,0 +1,34 @@
+{
+  "id": 7014,
+  "zone_id": 70,
+  "name": "The Muddy Sewer",
+  "description": "You stand in a bend of the pipe system of the sewer with mud up to your\nthighs.  Contemplating a higher level of existence here would be utterly\ninappropriate, as the smell would keep any intelligent creature from even\nthinking of anything but getting away from this foul end of the WORLD.\nThe bend goes from north to west.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  Filled with mud, that place looks like an impassable intersection\nwith pipes leading north and east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7013
+    },
+    {
+      "dir": 3,
+      "description": "West.  There is less mud that way, maybe you're on your way out of this foul\nplace.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7008
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

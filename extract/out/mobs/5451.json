@@ -1,0 +1,12 @@
+{
+  "id": 5451,
+  "alias": "harem girl",
+  "short_desc": "a harem girl",
+  "long_desc": "A lovely, veiled harem girl stands here.",
+  "detailed_desc": "",
+  "flags_raw": "You see a dark skinned beauty, wearing almost transparent silks and",
+  "stats1_raw": "light blue veil.  Her loyalty to the Sultan is unwavering.",
+  "stats2_raw": "~",
+  "stats3_raw": "b 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

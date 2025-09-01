@@ -1,0 +1,18 @@
+{
+  "id": 6111,
+  "alias": "shield round large",
+  "short_desc": "a large round shield",
+  "long_desc": "A large round shield has been left here.",
+  "action_desc": "",
+  "header_raw": "9 0 513",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "15 300 800",
+  "extra_descriptions": [
+    {
+      "keywords": "shield round large",
+      "description": "It is made from hard wood that has been reinforced with heavy iron bands."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

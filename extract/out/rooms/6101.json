@@ -1,0 +1,50 @@
+{
+  "id": 6101,
+  "zone_id": 61,
+  "name": "A Narrow Trail Through The Deep, Dark Forest",
+  "description": "You are on a dusty trail winding its way east-west between huge,\nancient trees whose grey trunks remind you of ancient pillars in a\nenormous, deserted hall.  To the south, a frail path leads away from\nthe trail.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The narrow, dusty trail leads east through the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6100
+    },
+    {
+      "dir": 2,
+      "description": "The path leads south - away from the trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6104
+    },
+    {
+      "dir": 3,
+      "description": "The narrow, dusty trail leads west through the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6102
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trail",
+      "description": "The dark and dusty trail seems fragile compared to the massive trunks, and in\nsome places, giant grey roots have broken up through its surface."
+    },
+    {
+      "keywords": "path",
+      "description": "The path seems fragile and unsafe compared to the enormous trunks that loom\naround it."
+    },
+    {
+      "keywords": "tree trees trunk trunks",
+      "description": "These ancient trees must have been here for many, many years.  It is impossible\nto catch even a glimpse of anything above the lowest branches."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

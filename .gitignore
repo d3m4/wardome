@@ -37,3 +37,28 @@ config.status
 # Debug files
 *.dSYM/
 wdii/bin/*
+
+# MUD runtime logs and control files
+wdii/syslog
+wdii/syslog.*
+wdii/log/
+
+# Runtime data (not for version control)
+wdii/lib/pfiles/
+wdii/lib/plrobjs/
+wdii/lib/alias/
+wdii/lib/clans/
+wdii/lib/misc/
+wdii/lib/bkp/
+wdii/lib/world-old/
+wdii/lib/who.file
+wdii/lib/core
+wdii/lib/memdbm
+wdii/lib/filedbm
+wdii/lib/leakdump
+wdii/lib/date_record
+
+# Autorun markers
+wdii/.fastboot
+wdii/.killscript
+wdii/pause

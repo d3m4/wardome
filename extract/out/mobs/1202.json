@@ -1,0 +1,12 @@
+{
+  "id": 1202,
+  "alias": "being amorphous spirit wandering",
+  "short_desc": "the wandering spirit",
+  "long_desc": "A strange amorphous being wanders these halls eternally cleaning.",
+  "detailed_desc": "",
+  "flags_raw": "This spirit, having lived out its days in the mortal world, now",
+  "stats1_raw": "works off its final sins by doing menial labour in this realm's",
+  "stats2_raw": "purgatory.  In this case, those chores seem to be cleaning up",
+  "stats3_raw": "after the immortals of the land.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/12.mob"
+}

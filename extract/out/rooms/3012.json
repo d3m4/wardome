@@ -1,0 +1,45 @@
+{
+  "id": 3012,
+  "zone_id": 30,
+  "name": "Main Street",
+  "description": "You are at the end of the main street of Midgaard.  South of here is the\nentrance to the Guild of Magic Users.  The street continues east towards the\nmarket square.  The magic shop is to the north and to the west is the city\ngate.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the magic shop.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3033
+    },
+    {
+      "dir": 1,
+      "description": "You see the main street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3013
+    },
+    {
+      "dir": 2,
+      "description": "You see the entrance to the Guild of Magic Users.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3017
+    },
+    {
+      "dir": 3,
+      "description": "You see the city gate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3040
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

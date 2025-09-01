@@ -46,4 +46,4 @@ void    page_string(struct descriptor_data *d, char *str, int keep_internal);
 
 typedef RETSIGTYPE sigfunc(int);
 
-int pulse;	/* pulled out for teleport */
+extern int pulse;    /* pulled out for teleport */

@@ -1,0 +1,29 @@
+{
+  "id": 5234,
+  "zone_id": 52,
+  "name": "The Private Gardens And Courtyard Of Thalos",
+  "description": "What a shame that this mass destruction also touched this once\nbeautiful place.  The temple's garden path has nothing on this garden.\nFlowers and trees have been smashed into the ground and lawn benches\nthrown through walls.  A large marble fountain in the center of the\ncourtyard still stands, though, defying any attempts to destroy its\nbeauty.  Above stands the remnants of one of the watchtowers.  Archways \nnorth and west lead back into the city hall.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5233
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5231
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

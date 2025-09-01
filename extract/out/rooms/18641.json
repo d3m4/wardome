@@ -1,0 +1,29 @@
+{
+  "id": 18641,
+  "zone_id": 186,
+  "name": "The Hallway",
+  "description": "As you continue wandering down the hallway, you notice banners,\npictures, and other fine decorations adorning the walls all along\nthis passage.  It seems very different from the dismal passage where\nyou entered.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The hallway ends at a grand marble staircase.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18642
+    },
+    {
+      "dir": 3,
+      "description": "The passage leads into a small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18640
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3201,
+  "zone_id": 31,
+  "name": "On The River",
+  "description": "North of here you see the miserable buildings of Poor Alley.  The\nriver flows west towards the bridge.  The riverbanks are too steep to\nclimb.",
+  "header_raw": "31 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3202
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3200
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

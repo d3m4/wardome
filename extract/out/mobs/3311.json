@@ -1,0 +1,12 @@
+{
+  "id": 3311,
+  "alias": "hunter",
+  "short_desc": "the hunter",
+  "long_desc": "A hunter walks through the town streets on his own time.",
+  "detailed_desc": "",
+  "flags_raw": "He looks mean, as if the very personality of the mountains",
+  "stats1_raw": "had infected him with hardness.  His stride is purposeful,",
+  "stats2_raw": "his face weathered, his eyes cold and dark.  Others are",
+  "stats3_raw": "standing out of his way as he walks on by.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

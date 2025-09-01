@@ -1,0 +1,29 @@
+{
+  "id": 1505,
+  "zone_id": 15,
+  "name": "A Test for the Faithful",
+  "description": "It is here finally that decisions must be made.  The first one that\nconfronts you is simple enough, to walk in the darkness, or to walk in\nthe light.  Only the depths of your soul can decide, but remember this\nmuch: the same truth lies at the end of both paths.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1507
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

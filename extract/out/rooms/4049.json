@@ -1,0 +1,29 @@
+{
+  "id": 4049,
+  "zone_id": 40,
+  "name": "The Foothills",
+  "description": "You are at a point on the trail where it turns slowly from an\nalmost straight westwards trail into a trail meandering towards\nthe northwest.",
+  "header_raw": "40 c 4",
+  "flags_text": "c",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small trail leads away to the northwest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5628
+    },
+    {
+      "dir": 3,
+      "description": "A trail heads towards the mountains to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4048
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6501,
+  "alias": "gold treasure coins",
+  "short_desc": "the Queen's treasure",
+  "long_desc": "A large pile of treasure has been left here, it must be the Queen's.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "65000 0 0 0",
+  "cost_raw": "20 65000 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "ESCAPE"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Ninja (148), Thief (51)\n- Descricao: Esta skill permite que se escape de uma luta, escolhendo a direcao para a qual se deseja fugir.\n- Exemplo de uso:\t> escape down\n\t\t\tYou skillfully escape from combat.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5313,
+  "alias": "gynosphinx sphinx",
+  "short_desc": "the gynosphinx",
+  "long_desc": "A gynosphinx sits here, befuddled by a riddle.",
+  "detailed_desc": "",
+  "flags_raw": "The gynosphinx is a crafty but gentle creature, having the body of a",
+  "stats1_raw": "beautiful dark-skinned woman from the waist up, a feathery set of wings",
+  "stats2_raw": "and the hind legs of a mighty cat.  Right now she is confused, having",
+  "stats3_raw": "just heard a puzzling riddle from a cousin criosphinx.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+}

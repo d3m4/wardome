@@ -1,0 +1,37 @@
+{
+  "id": 3507,
+  "zone_id": 35,
+  "name": "The Miden'nir",
+  "description": "The forest is deep here and the wind blows through the trees and\nthrough your hair.  To the north, the forest gets lighter.  However,\nthe southern and western paths place you even deeper in the wood.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The forest is lighter in this direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3505
+    },
+    {
+      "dir": 2,
+      "description": "More and darker woods.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3510
+    },
+    {
+      "dir": 3,
+      "description": "There is a small path leading west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3508
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

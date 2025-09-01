@@ -1,0 +1,13 @@
+{
+  "id": 5021,
+  "alias": "bow golden",
+  "short_desc": "a golden bow",
+  "long_desc": "A powerful golden bow lies here.",
+  "action_desc": "",
+  "header_raw": "5 abfgio 8193",
+  "values_raw": "0 4 6 12",
+  "cost_raw": "20 150000 20000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

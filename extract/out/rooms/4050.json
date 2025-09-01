@@ -1,0 +1,29 @@
+{
+  "id": 4050,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "You are at a bend in the tunnel here.  It turns from an eastwards\nheading to a southwards one.  The walls are cold and seem to be damp\nwith moisture.  you can see some greenish moss growing up near the\nroof of the passageway on the northern wall.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4051
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4053
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

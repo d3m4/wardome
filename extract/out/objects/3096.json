@@ -1,0 +1,22 @@
+{
+  "id": 3096,
+  "alias": "board social bulletin",
+  "short_desc": "a social bulletin board",
+  "long_desc": "A large, sociable bulletin board is mounted on a wall here.",
+  "action_desc": "",
+  "header_raw": "13 0 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "board",
+      "description": "If you can read this, the board is not working."
+    },
+    {
+      "keywords": "social bulletin",
+      "description": "Use 'look board' to read the board."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

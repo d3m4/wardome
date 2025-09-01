@@ -1,0 +1,21 @@
+{
+  "id": 3362,
+  "zone_id": 33,
+  "name": "The Torched Cottage",
+  "description": "This whole place is smouldering still from whatever \ndecided to try to burn it to the ground.  On the floor \nnear the center of the ruined structure is the burnt and \ndessicated corpse of a man, outstretched and blackened.  \nThere's not much to see here; whatever decided to destroy \nthis place did it very well.",
+  "header_raw": "33 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3361
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

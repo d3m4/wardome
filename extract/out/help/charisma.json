@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "charisma"
+  ],
+  "aliases": [
+    "STRENGHT INTELIGENCE WISDOM CHARISMA DEXTERITY CONSTITUTION"
+  ],
+  "body": "Em ordem: Str, Int, Wis, Cha, Dex e Con\n    Eles possuem grande influencia no jogo, voce precisa de forca para pegar objetos e \ninteligencia e sabedoria para aprender suas habilidades mais rapidamente. Com destreza voce \npossui mais chance de acertar o oponente e constituicao o ajuda a se recuperar mais rapido \nde ferimentos. Seu carisma o ajuda a receber menos ferimentos de seus inimigos.\n\n\nInt tambem pode aumentar ou diminuir o dano das magias.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

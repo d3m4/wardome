@@ -1,0 +1,21 @@
+{
+  "id": 12049,
+  "zone_id": 120,
+  "name": "Froboz's Workshop",
+  "description": "You are standing in the workshop of Froboz the Great, the most powerful and\nfamous mage that Rome has ever known.  Workbenches line the walls and are\ncovered with various test tubes, beakers, petri dishes and crucibles and\nthere is an odor in here that can best be described as a combination of old\nsweat socks and burning tires.  The only exit is back through the door\nthrough which you came.  In the middle of the room, you see a pile of ashes\nthat looks like it once was a body and Froboz is is busy making adjustments\non a new type of magic wand... possibly the one responsible for the explosion\na few minutes ago.  He removes a jeweler's loupe from his eye as he turns\naround.  'How in the name of Merlin did you get in here??!!' he asks.  'Oh,\nnevermind!  Since you are here, you can serve as witnesses to the final test\nof the new mages' spell:  \"ectowatt\".'  With this he makes a magical gesture\nand a paladin appears.  Crossing his fingers, Froboz waves the wand his\ndirection and what happens next is incredible!  The Paladin is enveloped in\nwhat appears to be a small, well contained, thermonuclear explosion.  When\nthe smoke clears you can see that the paladin and all of equipment has been\nreduced to a large pile of flaming cinders.  Froboz throws his head back and\ncackles with insane glee.  'Now, my young friends, what can I do for you?',\nhe asks.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "There is a door, reinforced with steel, in that direction.",
+      "keywords": "door~ 2 12038 12042 E workbench workbenches tubes beakers crucibles dishes~ These are all tools of great power.  You cannot even begin to understand what any of this stuff does.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

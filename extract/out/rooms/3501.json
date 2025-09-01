@@ -1,0 +1,29 @@
+{
+  "id": 3501,
+  "zone_id": 35,
+  "name": "The Lane",
+  "description": "You are strolling along a pleasant, shady lane.  The road is lined on both\nsides by tall, stately trees which lend the scene with a sense of quiet\nserenity.\n   You can follow the road north or south.",
+  "header_raw": "35 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3500
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

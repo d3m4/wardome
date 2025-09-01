@@ -1,0 +1,29 @@
+{
+  "id": 5067,
+  "zone_id": 50,
+  "name": "A Narrower Tunnel",
+  "description": "The tunnel becomes very narrow and you fight to squeeze your way through.\nThe floor seems to level off a little.",
+  "header_raw": "50 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5066
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5068
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

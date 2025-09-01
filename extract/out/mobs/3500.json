@@ -1,0 +1,12 @@
+{
+  "id": 3500,
+  "alias": "wyvern",
+  "short_desc": "the wyvern",
+  "long_desc": "A monstrous wyvern slowly circles just above your head.",
+  "detailed_desc": "",
+  "flags_raw": "This huge winged creature looks really menacing as it circles only inches",
+  "stats1_raw": "above your head, flapping its wings and squawking very loudly.",
+  "stats2_raw": "~",
+  "stats3_raw": "bgjq 0 -700 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+}

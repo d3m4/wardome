@@ -1,0 +1,34 @@
+{
+  "id": 7318,
+  "zone_id": 73,
+  "name": "The Square Lair",
+  "description": "You are standing in the north-east part of the lair.\nYou see a sign on the wall.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a wooden door.",
+      "keywords": "door wooden~ 1 -1 7321 D2 Another part of the lair.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 3,
+      "description": "Another part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7319
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign wall",
+      "description": "The sign says 'Gods of War I call you, my sword is by my side,\n               I seek a light free from all false pride'\n                       Reyemle Grug..."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

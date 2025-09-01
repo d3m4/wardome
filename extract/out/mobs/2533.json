@@ -1,0 +1,12 @@
+{
+  "id": 2533,
+  "alias": "assistant scribe",
+  "short_desc": "the scribe's assistant",
+  "long_desc": "The scribe's assistant is here folding parchments.",
+  "detailed_desc": "",
+  "flags_raw": "You can tell that he isn't trusted with the more important documents,",
+  "stats1_raw": "since those ones are rolled and sealed with wax.",
+  "stats2_raw": "~",
+  "stats3_raw": "abfgh dk 100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

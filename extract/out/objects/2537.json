@@ -1,0 +1,13 @@
+{
+  "id": 2537,
+  "alias": "chest",
+  "short_desc": "a large chest",
+  "long_desc": "A large chest is here.",
+  "action_desc": "",
+  "header_raw": "15 ag 0",
+  "values_raw": "2000 15 2538 0",
+  "cost_raw": "5000 500000 5000000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

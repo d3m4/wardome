@@ -1,0 +1,12 @@
+{
+  "id": 12023,
+  "alias": "master scheduler",
+  "short_desc": "the master scheduler",
+  "long_desc": "The master scheduler is here, writing in an appointment book.",
+  "detailed_desc": "",
+  "flags_raw": "As you look at him, he looks up at you and asks, 'Do you have an",
+  "stats1_raw": "appointment?'  He waits for a few seconds and then asks, 'Would",
+  "stats2_raw": "you like one?'",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

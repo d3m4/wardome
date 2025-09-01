@@ -1,0 +1,27 @@
+{
+  "id": 6120,
+  "alias": "sword long slender",
+  "short_desc": "a long, slender sword",
+  "long_desc": "A long, slender sword lies on the ground.",
+  "action_desc": "",
+  "header_raw": "5 agjl 8193",
+  "values_raw": "0 3 6 3",
+  "cost_raw": "4 30000 6000",
+  "extra_descriptions": [
+    {
+      "keywords": "sword long slender",
+      "description": "It is a long, slender sword that seems to be made from silver.  The word\n'Isha' has been engraved on the hilt."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 4
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

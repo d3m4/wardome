@@ -1,0 +1,37 @@
+{
+  "id": 3512,
+  "zone_id": 35,
+  "name": "The Miden'nir",
+  "description": "The trees of Miden'nir are lush and green, hiding the evil that lurks\nin these woods.  You can go north toward the mountains, or west to the\nforest, but the steep mountains prevent any movement east.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The mountains can be seen to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3550
+    },
+    {
+      "dir": 2,
+      "description": "A light section of forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3513
+    },
+    {
+      "dir": 3,
+      "description": "The forest continues here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

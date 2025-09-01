@@ -1,0 +1,21 @@
+{
+  "id": 3048,
+  "zone_id": 30,
+  "name": "Grubby Inn",
+  "description": "You are inside the old Grubby Inn.  This place has not been cleaned for\nseveral decades; vile smells make you dizzy.",
+  "header_raw": "30 dh 0",
+  "flags_text": "dh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the alley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3024
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

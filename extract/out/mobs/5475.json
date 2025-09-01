@@ -1,0 +1,12 @@
+{
+  "id": 5475,
+  "alias": "chimera creature lion goat dragon",
+  "short_desc": "the chimera",
+  "long_desc": "A creature with three heads: lion, goat, and dragon stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The chimera is still a mystery, better left unexplored.  This creature",
+  "stats1_raw": "has the hindquarters of a goat, the forepaws of a lion and the body of",
+  "stats2_raw": "a red dragon.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

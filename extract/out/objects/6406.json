@@ -1,0 +1,18 @@
+{
+  "id": 6406,
+  "alias": "amulet",
+  "short_desc": "an amulet",
+  "long_desc": "An odd looking amulet has been discarded here.",
+  "action_desc": "",
+  "header_raw": "9 ag 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "3 20000 3000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 2,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

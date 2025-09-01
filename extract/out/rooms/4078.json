@@ -1,0 +1,29 @@
+{
+  "id": 4078,
+  "zone_id": 40,
+  "name": "In The Hidden Valley",
+  "description": "This small valley is hidden away in the shadow of the large\nmountain to the east.  The trail leading up it to the east seems\nto vanish before your eyes, but you are quickly able to find it\nonce again.  A trail leads up the mountain to the west as well.",
+  "header_raw": "40 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6400
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4076
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

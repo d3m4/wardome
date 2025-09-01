@@ -1,0 +1,18 @@
+{
+  "id": 908,
+  "alias": "trident",
+  "short_desc": "a trident",
+  "long_desc": "There is a warrior's trident here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 4 11",
+  "cost_raw": "8 350 200",
+  "extra_descriptions": [
+    {
+      "keywords": "trident",
+      "description": "This is a common trident, often used by gladiators or mermen.  It has\nthree sharp prongs jutting from the business end and a smooth wooden\nhandle with two comfortable grip points."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/9.obj"
+}

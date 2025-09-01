@@ -1,0 +1,18 @@
+{
+  "id": 3321,
+  "alias": "shot whisky",
+  "short_desc": "a shot",
+  "long_desc": "A shot of whisky is sitting here.",
+  "action_desc": "",
+  "header_raw": "17 0 16385",
+  "values_raw": "1 1 5 0",
+  "cost_raw": "1 10 5",
+  "extra_descriptions": [
+    {
+      "keywords": "shot",
+      "description": "Whew!  Looks like potent stuff!"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4121,
+  "zone_id": 40,
+  "name": "The Secret Tunnel",
+  "description": "You stand in a very unnatural hallway, about ten feet across and\nabout ten or twelve feet up.  The passageway funnels down towards \nthe west where it leads to a doorway that looks to be about five feet\nacross.  The east end of the tunnel comes to a sudden end at a very\nsmooth rock wall.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The rock wall to the east looks like it might be able to be moved.",
+      "keywords": "wall rock~ 1 -1 4119 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall rock",
+      "description": "The rock wall to the east looks like it might be able to be moved."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

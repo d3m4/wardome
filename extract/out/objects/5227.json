@@ -1,0 +1,13 @@
+{
+  "id": 5227,
+  "alias": "cabinet glass",
+  "short_desc": "the glass cabinet",
+  "long_desc": "",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "500 13 5226 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

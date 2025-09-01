@@ -1,0 +1,12 @@
+{
+  "id": 5401,
+  "alias": "cleric guildmaster",
+  "short_desc": "the guildmaster",
+  "long_desc": "Your guildmaster stands here.",
+  "detailed_desc": "",
+  "flags_raw": "An older man wrapped in purple, long-flowing robes meditates here.",
+  "stats1_raw": "~",
+  "stats2_raw": "blno dhk 1000 S",
+  "stats3_raw": "16 -10 -10 1d1+10000 5d5+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

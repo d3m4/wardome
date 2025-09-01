@@ -1,0 +1,29 @@
+{
+  "id": 2605,
+  "zone_id": 25,
+  "name": "A Hallway",
+  "description": "You are in a long hallway leading east and west.  The walls emit a\nfaint magical glow which provides enough light to see by.\n   A silver door can be seen to the north.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door silver~ 2 2524 2603 D1",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2606
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

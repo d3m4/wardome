@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "classes"
+  ],
+  "aliases": [],
+  "body": "&y\n    Estas sao as classes existentes no Wardome, veja o help de cada uma para\nobter mais detalhes, como descricao, spells e skills de cada uma.\n&n\n&yPaladin&n              &CSorcerer&n             &rWarrior&n              \n&YRanger&n               &RBarbarian&n            &mWarlock&n              \n&bShaman&n               &WNecromancer&n          &gPsionicist&n           \n&GThief&n                &BCleric&n               &MNinja&n                \n&n\n    &YVeja tambem:&y races, adv.races, skills, spells, remort, reborn\n&n",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

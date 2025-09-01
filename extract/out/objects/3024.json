@@ -1,0 +1,13 @@
+{
+  "id": 3024,
+  "alias": "warhammer hammer",
+  "short_desc": "a warhammer",
+  "long_desc": "A medium sized warhammer is here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 5 7",
+  "cost_raw": "6 50 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

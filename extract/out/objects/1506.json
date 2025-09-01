@@ -1,0 +1,27 @@
+{
+  "id": 1506,
+  "alias": "ember charred",
+  "short_desc": "a charred ember",
+  "long_desc": "You glance briefly at a smouldering ember that rests at your feet.",
+  "action_desc": "",
+  "header_raw": "1 ajnop ao",
+  "values_raw": "0 0 -1 0",
+  "cost_raw": "0 5 2500",
+  "extra_descriptions": [
+    {
+      "keywords": "ember charred",
+      "description": "It glares back at you, almost angrily."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 12,
+      "modifier": 10
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

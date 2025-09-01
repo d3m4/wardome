@@ -1,0 +1,29 @@
+{
+  "id": 1518,
+  "zone_id": 15,
+  "name": "Earthly Light",
+  "description": "To slip into evil is easy, but walking this path is the hardest of\nall.  Even the four you will find here today have strayed from the line\nat least once in their lives, and there are still some living who curse\nthe very sound of their names.  Despite all this, confront them now, and\nlet their actions serve as your example.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1519
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1507
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

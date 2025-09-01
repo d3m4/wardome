@@ -1,0 +1,12 @@
+{
+  "id": 3006,
+  "alias": "captain stolar",
+  "short_desc": "Captain Stolar",
+  "long_desc": "A retired captain stands here, selling boats.",
+  "detailed_desc": "",
+  "flags_raw": "This captain has eaten more sharks than you have killed peas.",
+  "stats1_raw": "~",
+  "stats2_raw": "ablno d 900 S",
+  "stats3_raw": "33 2 2 1d1+30000 2d8+12",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

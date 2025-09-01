@@ -1,0 +1,13 @@
+{
+  "id": 5028,
+  "alias": "sapphire gem",
+  "short_desc": "a brilliant sapphire",
+  "long_desc": "A brilliant sapphire lies here, twinkling happily.",
+  "action_desc": "",
+  "header_raw": "8 g 16385",
+  "values_raw": "22 0 0 0",
+  "cost_raw": "7 3500 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

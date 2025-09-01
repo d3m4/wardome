@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "compact"
+  ],
+  "aliases": [
+    "COMPACT"
+  ],
+  "body": "Uso: compact\n\n    Este comando liga ou desliga a aparicao da linha extra em branco na sua tela apos cada \ncomando. Util se voce possui uma tela pequena.\n\n    Veja tambem: BRIEF",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2665,
+  "zone_id": 25,
+  "name": "A Bright Hallway",
+  "description": "You are in a long well lit hallway leading east and west.  The walls\nhere are a milky white colour, and glow with a warm luminescence, as does\nthe floor.  A feeling of goodness permeates the area, and you feel unworthy\nto tread upon these sacred floors.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2650
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2666
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

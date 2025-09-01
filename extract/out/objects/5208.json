@@ -1,0 +1,22 @@
+{
+  "id": 5208,
+  "alias": "shield iron",
+  "short_desc": "a sturdy iron shield",
+  "long_desc": "A small, but sturdy, iron shield has been left here.",
+  "action_desc": "",
+  "header_raw": "9 gh 513",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "5 500 1000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 23,
+      "modifier": -2
+    },
+    {
+      "location": 24,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

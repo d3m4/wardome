@@ -1,0 +1,12 @@
+{
+  "id": 6311,
+  "alias": "hermit",
+  "short_desc": "the hermit",
+  "long_desc": "The hermit sits here and warns, 'Go back before it is too late!'",
+  "detailed_desc": "",
+  "flags_raw": "A dishevelled veteran warrior in disguise is what he is, but he",
+  "stats1_raw": "means well.",
+  "stats2_raw": "~",
+  "stats3_raw": "bcl dk 750 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

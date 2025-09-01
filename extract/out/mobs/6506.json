@@ -1,0 +1,12 @@
+{
+  "id": 6506,
+  "alias": "giant",
+  "short_desc": "the giant",
+  "long_desc": "A giant is wandering around the mountainside here.",
+  "detailed_desc": "",
+  "flags_raw": "The giant is about 18 feet tall, with arms of steel, and looks in",
+  "stats1_raw": "excellent physical condition.",
+  "stats2_raw": "~",
+  "stats3_raw": "gl k 600 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3305,
+  "alias": "aglandiir dragon",
+  "short_desc": "Aglandiir",
+  "long_desc": "The Dragon Prince, Aglandiir, sits here looking at you curiously.",
+  "detailed_desc": "",
+  "flags_raw": "Aglandiir is a prince of his kind, and he didn't get where",
+  "stats1_raw": "he is today by letting people steal from his horde!",
+  "stats2_raw": "~",
+  "stats3_raw": "beflnopqr dh 750 E",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

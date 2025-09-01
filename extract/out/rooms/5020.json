@@ -1,0 +1,29 @@
+{
+  "id": 5020,
+  "zone_id": 50,
+  "name": "The Fungus Path",
+  "description": "As you walk along the path, millions of spores are shot at you.  It is\ndifficult to breathe.",
+  "header_raw": "50 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "A giant mushroom temple stands to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5021
+    },
+    {
+      "dir": 3,
+      "description": "The fragrant smell of spores continues to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5019
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

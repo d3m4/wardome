@@ -1,0 +1,23 @@
+{
+  "id": 3305,
+  "alias": "halberd",
+  "short_desc": "a halberd",
+  "long_desc": "A runed halberd lies on the ground here.",
+  "action_desc": "",
+  "header_raw": "5 g 8193",
+  "values_raw": "0 1 12 3",
+  "cost_raw": "16 10000 3000",
+  "extra_descriptions": [
+    {
+      "keywords": "halberd",
+      "description": "The runes glow with a bright light, making you\nthink that this might be a pretty decent weapon."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

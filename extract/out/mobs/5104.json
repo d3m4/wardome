@@ -1,0 +1,12 @@
+{
+  "id": 5104,
+  "alias": "drow priestess",
+  "short_desc": "the drow priestess",
+  "long_desc": "A drow priestess is here shouting orders.",
+  "detailed_desc": "",
+  "flags_raw": "I wouldn't want go get on her bad side!",
+  "stats1_raw": "~",
+  "stats2_raw": "abflm dk -1000 S",
+  "stats3_raw": "17 5 0 1d11+205 14d1+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

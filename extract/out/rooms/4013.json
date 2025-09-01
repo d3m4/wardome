@@ -1,0 +1,29 @@
+{
+  "id": 4013,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "Standing in the middle of the dusty floor of this tunnel, you can\nsee that it is not a highly travelled passageway.  It looks to lead\nin an east-west direction.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4014
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

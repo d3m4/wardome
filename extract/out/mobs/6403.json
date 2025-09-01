@@ -1,0 +1,12 @@
+{
+  "id": 6403,
+  "alias": "bad feeling",
+  "short_desc": "a Bad Feeling",
+  "long_desc": "A bad feeling chokes your throat.",
+  "detailed_desc": "",
+  "flags_raw": "It resembles a lot of other bad feelings you've had,",
+  "stats1_raw": "but a lot more tangible... magic?",
+  "stats2_raw": "~",
+  "stats3_raw": "beflmnopqr dk 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/64.mob"
+}

@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "CHOP"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (172), Barbarian (175), Thief (173)\n- Descricao: Esta skill permite dar um forte golpe de artes marciais no pescoco do inimigo.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> chop serpent\n\t\t\tthe sea serpent staggers back from the solid chop you deliver to him.\n\n- Observacoes: Caso o golpe falhe, seu executor tomara o dano.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

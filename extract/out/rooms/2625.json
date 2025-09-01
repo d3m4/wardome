@@ -1,0 +1,21 @@
+{
+  "id": 2625,
+  "zone_id": 25,
+  "name": "The Necromancer's Lair",
+  "description": "You are in the lair of the evil Necromancer.  Undead minions of all\ntypes, human and otherwise stand here waiting to do their master's bidding.\nSome glowing arcane sigils have been etched into walls and floor, no doubt\nto protect the evil master from his own ungodly creations.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2624
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

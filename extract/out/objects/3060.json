@@ -1,0 +1,18 @@
+{
+  "id": 3060,
+  "alias": "raft",
+  "short_desc": "a raft",
+  "long_desc": "A raft has been left here.",
+  "action_desc": "",
+  "header_raw": "22 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "75 400 10",
+  "extra_descriptions": [
+    {
+      "keywords": "raft",
+      "description": "The raft looks very primitive."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

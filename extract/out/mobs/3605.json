@@ -1,0 +1,12 @@
+{
+  "id": 3605,
+  "alias": "white knight",
+  "short_desc": "the White Knight",
+  "long_desc": "Here stands a magnificent knight of the light realm.",
+  "detailed_desc": "",
+  "flags_raw": "The White Knight is here, riding his ivory white war horse.  His eyes",
+  "stats1_raw": "gleam behind his visor in joy.",
+  "stats2_raw": "~",
+  "stats3_raw": "bf d 400 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

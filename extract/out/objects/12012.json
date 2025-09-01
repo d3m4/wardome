@@ -1,0 +1,22 @@
+{
+  "id": 12012,
+  "alias": "ring sapphire",
+  "short_desc": "a sapphire ring",
+  "long_desc": "A sapphire ring has been left here.",
+  "action_desc": "",
+  "header_raw": "11 0 3",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "20 35000 5500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 17,
+      "modifier": -10
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

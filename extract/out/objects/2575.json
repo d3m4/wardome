@@ -1,0 +1,22 @@
+{
+  "id": 2575,
+  "alias": "cloak grey",
+  "short_desc": "a long grey cloak",
+  "long_desc": "A pile of grey cloth has been left here.",
+  "action_desc": "",
+  "header_raw": "9 gjk 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "7 12000 1200",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -12
+    },
+    {
+      "location": 24,
+      "modifier": -3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

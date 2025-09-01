@@ -1,0 +1,21 @@
+{
+  "id": 3124,
+  "zone_id": 31,
+  "name": "The End Of Elm Street",
+  "description": "You are at the end of Elm Street.",
+  "header_raw": "31 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3123
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

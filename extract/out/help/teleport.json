@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "teleport"
+  ],
+  "aliases": [
+    "TELEPORT"
+  ],
+  "body": "Syntax: cast 'teleport' <target>\n\nTeleport instantly transports the target to a random location within the\nsame general area. This spell is useful for quick escapes but carries the\nrisk of landing in an unknown or dangerous location.\n\nClasses: Mage\nLevel: 10\nMana Cost: 35\nPosition: Standing or Fighting\n\nUnlike word of recall, teleport sends you to a random location rather than\na safe destination. Use with caution in dangerous areas.\n\nSee Also: WORD OF RECALL, SUMMON",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

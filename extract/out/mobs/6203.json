@@ -1,0 +1,12 @@
+{
+  "id": 6203,
+  "alias": "orc hunter",
+  "short_desc": "the orc hunter",
+  "long_desc": "An orc hunter looks at you with hateful eyes.",
+  "detailed_desc": "",
+  "flags_raw": "He looks angry, desperate, and maybe a little sick.",
+  "stats1_raw": "His green skin is definitely mottled, and he seems to",
+  "stats2_raw": "limp a little bit...",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/62.mob"
+}

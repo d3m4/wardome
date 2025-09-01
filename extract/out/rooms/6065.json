@@ -1,0 +1,38 @@
+{
+  "id": 6065,
+  "zone_id": 60,
+  "name": "A Shaded Path Through The Forest",
+  "description": "You are at a turn on a small shaded path winding through the trees.  The\nforest gradually becomes more dense to the west.  The path continues west and\nsouth from here.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Through the trees to the south you can almost see the main trail leading back\nto Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6060
+    },
+    {
+      "dir": 3,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6066
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths shaded",
+      "description": "The shadowed path is probably used by the small animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly young oaks and tall beeches."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

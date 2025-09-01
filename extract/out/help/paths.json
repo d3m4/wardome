@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "paths"
+  ],
+  "aliases": [],
+  "body": "Ligar o comando no toggle ou escrevendo NOPATH\nAssim quando voce passar por um inicio de zona o path sera mostrado.\n\nZhantar",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

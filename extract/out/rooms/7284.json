@@ -1,0 +1,21 @@
+{
+  "id": 7284,
+  "zone_id": 72,
+  "name": "The Firedeath",
+  "description": "This room is very hot.  There are flames surrounding you.  You can\nsee no exits at all!  Skeletons are lying all over the floor.",
+  "header_raw": "72 cd 1",
+  "flags_text": "cd",
+  "sector": 1,
+  "exits": [],
+  "extra_descriptions": [
+    {
+      "keywords": "skeletons",
+      "description": "The skeletons looks like they had suffered the death of hunger.\nOne of them looks like he has written something at the wall."
+    },
+    {
+      "keywords": "writing wall",
+      "description": "The writing says 'A prayer to the GODS will not be heard, though\nthe only exit is death... Mother, I love you'."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

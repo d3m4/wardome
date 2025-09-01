@@ -1,0 +1,22 @@
+{
+  "id": 2517,
+  "alias": "dagger silver",
+  "short_desc": "a silver dagger",
+  "long_desc": "A finely crafted dagger made of silver is on the ground here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 3 3 11",
+  "cost_raw": "5 15000 1200",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

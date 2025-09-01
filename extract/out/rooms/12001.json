@@ -1,0 +1,21 @@
+{
+  "id": 12001,
+  "zone_id": 120,
+  "name": "The Judging Booth",
+  "description": "You stand in the midst of a small room with windows on the east and south\nwalls.  These windows provide a complete view of the competition fields.\nThere are several scorecards, pencils and other items that are used by the\njudges sitting on a table.  The only exit is a trapdoor leading down.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "There is a rickety ladder leading down.",
+      "keywords": "trapdoor~ 1 12033 12002 E scorecards~ The cards all have been filled in with the judges evaluations of today's  combatants.  It seems that Sparticus is having a good day.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

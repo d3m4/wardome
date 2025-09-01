@@ -1,0 +1,12 @@
+{
+  "id": 4003,
+  "alias": "kobold",
+  "short_desc": "the kobold",
+  "long_desc": "An ugly kobold is here, searching for dinner.",
+  "detailed_desc": "",
+  "flags_raw": "It looks ugly.",
+  "stats1_raw": "~",
+  "stats2_raw": "cg k -100 S",
+  "stats3_raw": "4 16 5 2d10+40 1d8+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

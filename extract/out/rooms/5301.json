@@ -1,0 +1,34 @@
+{
+  "id": 5301,
+  "zone_id": 53,
+  "name": "At The Base Of The Pyramid",
+  "description": "The mighty pyramid towers above you out of the hot desert sands, made\nfrom huge blocks of stone that have been coated over with a rough sandy\nplaster-like substance.  The face of the pyramid is steep, but you think\nyou might be able to climb it.",
+  "header_raw": "53 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "Sand as far as the eye can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5300
+    },
+    {
+      "dir": 4,
+      "description": "The steep slope of the pyramid rises up before you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5302
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "pyramid",
+      "description": "You wonder how anyone could have built such a massive thing out in this\nheat."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

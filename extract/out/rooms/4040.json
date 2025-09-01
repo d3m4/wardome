@@ -1,0 +1,37 @@
+{
+  "id": 4040,
+  "zone_id": 40,
+  "name": "The Mountain Top",
+  "description": "You find yourself at what is essentially the summit of this mountain.\nIt certainly seemed taller from the ground didn't it?  The plateau you\nstand on is close to thirty metres across and a small gouge in the north\nside of it looks to lead to a small cavern.  A small trail leads down\ntowards a valley that was hidden away on the east side of the mountain.",
+  "header_raw": "40 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4041
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4076
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4039
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

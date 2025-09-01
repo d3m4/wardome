@@ -1,0 +1,12 @@
+{
+  "id": 5209,
+  "alias": "lamia beast",
+  "short_desc": "the lamia",
+  "long_desc": "A strange lamia stands here waiting for her next meal. ",
+  "detailed_desc": "",
+  "flags_raw": "This is a creature with the upper torso of a beautiful woman, but the lower",
+  "stats1_raw": "body of a four-legged beast.  She licks her lips as she looks at you greedily.",
+  "stats2_raw": "~",
+  "stats3_raw": "abfg f -500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+}

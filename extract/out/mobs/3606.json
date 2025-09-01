@@ -1,0 +1,12 @@
+{
+  "id": 3606,
+  "alias": "black bishop priest",
+  "short_desc": "the Black Bishop",
+  "long_desc": "A dark priest stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The Black Bishop seems willing to help you straight into your grave so",
+  "stats1_raw": "he can bless you properly.",
+  "stats2_raw": "~",
+  "stats3_raw": "b d -500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

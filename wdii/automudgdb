@@ -31,6 +31,10 @@
 # script.  Type "shutdown pause" from within the MUD to activate this feature.
 #
 
+# Resolve dir_wdII relative to this script's location and operate there
+dir_wdII="$(cd "$(dirname "$0")" && pwd)"
+cd "$dir_wdII" || exit 1
+
 # The port on which to run the MUD
 PORT=2022
 

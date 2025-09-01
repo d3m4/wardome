@@ -1,0 +1,38 @@
+{
+  "id": 3003,
+  "producing": [
+    3020,
+    3021,
+    3022,
+    3023,
+    3024,
+    3025
+  ],
+  "profit_buy": 1.3,
+  "profit_sell": 0.4,
+  "buy_types": [
+    "WEAPON"
+  ],
+  "messages": [
+    "%s I haven't got that kind of a weapon!",
+    "%s You don't carry that weapon!",
+    "%s I only buy weapons.",
+    "%s I can't afford such a great weapon!",
+    "%s sorry, but NO CREDIT!",
+    "%s That costs just %d coins.",
+    "%s Here, you can have %d coins for that."
+  ],
+  "tail": [
+    0,
+    2,
+    3003,
+    0,
+    3011,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/30.shp"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5210,
+  "zone_id": 52,
+  "name": "A Side Street",
+  "description": "You are in the common section of the city.  Ruined buildings made of\nclay and stone is all the view has to offer.  Most of these homes are \nnothing but piles of rubble, but some look almost safe enough to venture\ninto.\n   The street continues north and south and buildings line the street.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5209
+    },
+    {
+      "dir": 1,
+      "description": "A small doorway leads into a partially collapsed house.",
+      "keywords": "",
+      "door_flag": 1,
+      "key": -1,
+      "to": 5244
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5211
+    },
+    {
+      "dir": 3,
+      "description": "A small clay dwelling sits here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5226
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

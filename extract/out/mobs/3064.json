@@ -1,0 +1,12 @@
+{
+  "id": 3064,
+  "alias": "drunk",
+  "short_desc": "the drunk",
+  "long_desc": "A singing, happy Drunk.",
+  "detailed_desc": "",
+  "flags_raw": "A drunk who seems to be too happy, and to carry too much money.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 400 S",
+  "stats3_raw": "2 19 8 2d6+22 1d6+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

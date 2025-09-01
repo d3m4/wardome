@@ -1,0 +1,29 @@
+{
+  "id": 3334,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "The tunnel twists to the south and east from here, \nits dark length seemingly dismal and lifeless.  A faint \nthumping sound reverberates from the walls, making you \nperk your ears for the direction of the noise.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3335
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3333
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

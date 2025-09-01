@@ -1,0 +1,12 @@
+{
+  "id": 3065,
+  "alias": "beggar",
+  "short_desc": "the beggar",
+  "long_desc": "A beggar is here, asking for a few coins.",
+  "detailed_desc": "",
+  "flags_raw": "The beggar looks like she is fed up with life.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 400 S",
+  "stats3_raw": "1 20 9 2d6+10 1d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

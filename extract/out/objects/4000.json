@@ -1,0 +1,23 @@
+{
+  "id": 4000,
+  "alias": "ring yellow green",
+  "short_desc": "a yellow and green ring",
+  "long_desc": "A ring is here, with yellow and green ornamentation.  It looks very old.",
+  "action_desc": "",
+  "header_raw": "9 dhq 3",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 50 20",
+  "extra_descriptions": [
+    {
+      "keywords": "ring yellow green",
+      "description": "It feels heavy."
+    }
+  ],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/40.obj"
+}

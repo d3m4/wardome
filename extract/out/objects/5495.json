@@ -1,0 +1,18 @@
+{
+  "id": 5495,
+  "alias": "claw wolverine",
+  "short_desc": "the wolverine claw",
+  "long_desc": "A claw from some animal lies here.",
+  "action_desc": "",
+  "header_raw": "5 bl 8193",
+  "values_raw": "0 3 6 8",
+  "cost_raw": "2 400 50",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 13,
+      "modifier": -20
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

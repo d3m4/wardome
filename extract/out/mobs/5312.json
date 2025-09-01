@@ -1,0 +1,12 @@
+{
+  "id": 5312,
+  "alias": "hieracosphinx sphinx",
+  "short_desc": "the hieracosphinx",
+  "long_desc": "A hieracosphinx looks at you cunningly.",
+  "detailed_desc": "",
+  "flags_raw": "The hieracosphinx are cunning, small, but nasty creatures, having the heads",
+  "stats1_raw": "of birds, mighty wingspans, and a full set of four paws to rend their victims",
+  "stats2_raw": "to pieces.  They tend to be quite jealous of the sharper wits of their older",
+  "stats3_raw": "cousins.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5011,
+  "alias": "rope coil",
+  "short_desc": "a coil of rope",
+  "long_desc": "A long coil of rope lies on the ground.",
+  "action_desc": "",
+  "header_raw": "12 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "12 450 45",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

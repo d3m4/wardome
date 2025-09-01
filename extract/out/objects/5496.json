@@ -1,0 +1,18 @@
+{
+  "id": 5496,
+  "alias": "wrath allah mace",
+  "short_desc": "the wrath of Allah",
+  "long_desc": "A large ornate mace floats above the ground here.",
+  "action_desc": "",
+  "header_raw": "5 agmop 8193",
+  "values_raw": "0 4 4 6",
+  "cost_raw": "16 25000 12500",
+  "extra_descriptions": [
+    {
+      "keywords": "wrath allah mace",
+      "description": "This enormous weapon looks like it could pound the stuffing out of\nanything or anyone around."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

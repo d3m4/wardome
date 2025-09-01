@@ -1,0 +1,12 @@
+{
+  "id": 3025,
+  "alias": "knight templar",
+  "short_desc": "the knight templar",
+  "long_desc": "A knight templar is guarding the entrance.",
+  "detailed_desc": "",
+  "flags_raw": "He is a specially trained warrior belonging to the military order of the",
+  "stats1_raw": "Faith.  His duty is to protect the faithful from persecution and infidel",
+  "stats2_raw": "attacks and his religious devotion combined with his superior skill makes",
+  "stats3_raw": "him a deadly opponent.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 7009,
+  "zone_id": 70,
+  "name": "The Sewer Junction",
+  "description": "You stand in the middle of a huge junction of sewer pipes right under\nwhat you'd think was an air shaft.  The sewer pipes lead to the north,\nsouth, east and west.  It look quite impossible to force your way up.",
+  "header_raw": "70 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  Mud is the floor basis in that direction.  Yummy.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7008
+    },
+    {
+      "dir": 1,
+      "description": "YYEEUUCH!  BOOH!  THAT looks like a nice place for creepy crawlies.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7017
+    },
+    {
+      "dir": 2,
+      "description": "South.  This direction looks quite nice actually.  The pipe leads into \na bend that goes east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7010
+    },
+    {
+      "dir": 3,
+      "description": "A few yards ahead - away from this junction - there is a pit leading down,\nbut the smell from there...>PHEWW<.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7004
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

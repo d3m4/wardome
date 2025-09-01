@@ -1,0 +1,12 @@
+{
+  "id": 12000,
+  "alias": "judge adjudicator",
+  "short_desc": "the adjudicator",
+  "long_desc": "An adjudicator is watching the games intently.",
+  "detailed_desc": "",
+  "flags_raw": "The adjudicator is a retired gladiator and scars cover all exposed parts of",
+  "stats1_raw": "his body.  Although he is getting on in years, he remains healthy and fit.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl h 100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

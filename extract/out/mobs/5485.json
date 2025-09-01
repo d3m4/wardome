@@ -1,0 +1,12 @@
+{
+  "id": 5485,
+  "alias": "gardener elf",
+  "short_desc": "the gardener",
+  "long_desc": "A small elf stands here tending the garden.",
+  "detailed_desc": "",
+  "flags_raw": "A young elf stands here in dirt covered overalls.  He seems to be",
+  "stats1_raw": "weeding his garden.",
+  "stats2_raw": "~",
+  "stats3_raw": "b 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

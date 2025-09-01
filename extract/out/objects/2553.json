@@ -1,0 +1,13 @@
+{
+  "id": 2553,
+  "alias": "scroll old",
+  "short_desc": "an old scroll",
+  "long_desc": "An old scroll has been left here.",
+  "action_desc": "",
+  "header_raw": "2 0 16385",
+  "values_raw": "10 12 -1 -1",
+  "cost_raw": "2 500 100",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

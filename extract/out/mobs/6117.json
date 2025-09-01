@@ -1,0 +1,12 @@
+{
+  "id": 6117,
+  "alias": "isha elf",
+  "short_desc": "Isha the Dark Elf",
+  "long_desc": "Isha the Dark Elf is here, observing you silently.",
+  "detailed_desc": "",
+  "flags_raw": "She is no less than beautiful, skin as dark as the night and hair",
+  "stats1_raw": "shining like silver in the moonlight.  Her slender body is adorned",
+  "stats2_raw": "with a sleeveless shirt and a short skirt made from black scales",
+  "stats3_raw": "joined with silver threads.  Her back is covered by a large, hooded",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+}

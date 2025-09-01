@@ -1,0 +1,37 @@
+{
+  "id": 1507,
+  "zone_id": 15,
+  "name": "Shahadah",
+  "description": "It was written once, on an ancient parchment in a curious and flowing\nscript, that there is in fact no god but Allah, and that Muhammad was\nthe last of His Prophets.  With this recognition, all else became empty\nand meaningless.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1523
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1518
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

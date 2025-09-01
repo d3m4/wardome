@@ -1,0 +1,37 @@
+{
+  "id": 2620,
+  "zone_id": 25,
+  "name": "The Meditation Chamber",
+  "description": "You are in a meditation chamber.  It is very silent here, in fact\nyou can not even hear your own footsteps.\n   You feel very peaceful.",
+  "header_raw": "25 cdeg 0",
+  "flags_text": "cdeg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door glass~ 1 -1 2619 S #2621 A Bend In The Hallway~    You are at a bend in the long hallway.  The walls emit a faint magical glow which provides enough light to see by.    The hallway continues north and west from here.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2622
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2619
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

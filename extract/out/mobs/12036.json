@@ -1,0 +1,12 @@
+{
+  "id": 12036,
+  "alias": "baker",
+  "short_desc": "the baker",
+  "long_desc": "The baker looks at you calmly, wiping flour from his face with one hand.",
+  "detailed_desc": "",
+  "flags_raw": "A fat, nice looking baker.  But you can see that he has many scars on his",
+  "stats1_raw": "body.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl d 900 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7216,
+  "zone_id": 72,
+  "name": "Under Water In The Sewer",
+  "description": "You are swimming in some dirty water and are holding your breath.  You'd\nbetter continue onwards before you drown.  It is a good thing that you can\nhold your light above the water-level.",
+  "header_raw": "72 ad 6",
+  "flags_text": "ad",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is hard to see, but it looks like the drain runs slightly upwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7215
+    },
+    {
+      "dir": 2,
+      "description": "It is hard to see, but it looks like the drain runs a little bit upwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7217
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

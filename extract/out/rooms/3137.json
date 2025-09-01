@@ -1,0 +1,42 @@
+{
+  "id": 3137,
+  "zone_id": 30,
+  "name": "The Waiting Room",
+  "description": "You are standing in the waiting room at the town hall.  Wooden chairs stand\nalong the walls and a long desk with a typewriter is placed in the middle of\nthe room.",
+  "header_raw": "30 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It looks like some kind of office.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3138
+    },
+    {
+      "dir": 3,
+      "description": "The exit west leads to Emerald Avenue.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3117
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "chair chairs",
+      "description": "Not the very least comfortable."
+    },
+    {
+      "keywords": "desk",
+      "description": "An extremely heavy desk.  It is so large that it doesn't even need drawers.\nEverything can be stored on its top."
+    },
+    {
+      "keywords": "typewriter",
+      "description": "It is an ancient Quifatronic T-1000 mk I.  These machines are known for their\nincredible durability, and for their even more incredible weight.  They make\na Cray II look like a laptop."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

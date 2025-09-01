@@ -1,0 +1,18 @@
+{
+  "id": 7911,
+  "alias": "helmet large",
+  "short_desc": "a large helmet",
+  "long_desc": "There is a large helmet on the floor.",
+  "action_desc": "",
+  "header_raw": "9 g 17",
+  "values_raw": "7 0 0 0",
+  "cost_raw": "5 4500 1500",
+  "extra_descriptions": [
+    {
+      "keywords": "large helmet",
+      "description": "This looks like some heavy protection, for the head of course."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

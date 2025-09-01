@@ -1,0 +1,13 @@
+{
+  "id": 6409,
+  "alias": "desk",
+  "short_desc": "a desk",
+  "long_desc": "There is an ebony desk here.",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "100 13 0 0",
+  "cost_raw": "800 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

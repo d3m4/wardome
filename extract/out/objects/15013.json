@@ -1,0 +1,22 @@
+{
+  "id": 15013,
+  "alias": "banner royal",
+  "short_desc": "a royal banner",
+  "long_desc": "The royal banner has been firmly planted in the ground here.",
+  "action_desc": "",
+  "header_raw": "12 0 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "banner royal standard",
+      "description": "It is large and very heavy.  On top of it flutters King Welmar's flag\nproudly."
+    },
+    {
+      "keywords": "flag",
+      "description": "On the flag is the symbol of King Welmar's house, the rampant stag."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

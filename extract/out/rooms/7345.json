@@ -1,0 +1,37 @@
+{
+  "id": 7345,
+  "zone_id": 73,
+  "name": "The Pool",
+  "description": "You are swimming in DARKNESS.  You feel something touching your right leg.",
+  "header_raw": "73 ad 6",
+  "flags_text": "ad",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7343
+    },
+    {
+      "dir": 1,
+      "description": "You can feel a warm breeze.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7313
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7344
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4100,
+  "alias": "blade black demon",
+  "short_desc": "a black demon blade",
+  "long_desc": "A black demon blade is here.",
+  "action_desc": "",
+  "header_raw": "5 mjl 8193",
+  "values_raw": "0 3 4 11",
+  "cost_raw": "8 10000 800",
+  "extra_descriptions": [
+    {
+      "keywords": "blade black demon",
+      "description": "You'll become as evil as the weapon, if you use it as you sense the forces\nof evil controlling the weapon..."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/40.obj"
+}

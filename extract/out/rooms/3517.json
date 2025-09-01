@@ -1,0 +1,29 @@
+{
+  "id": 3517,
+  "zone_id": 35,
+  "name": "Near The Mountains",
+  "description": "The most prominent feature here is the mountains that lie to the\neast.  You can only go north and west from here as the rocks stop all\nother movement.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Many trees to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3514
+    },
+    {
+      "dir": 3,
+      "description": "There is a bit of a slope downward to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3516
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

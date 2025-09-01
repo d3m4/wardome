@@ -1,0 +1,12 @@
+{
+  "id": 18609,
+  "alias": "minotaur",
+  "short_desc": "the massive Minotaur",
+  "long_desc": "The Great Minotaur is wondering just what you'll taste like.",
+  "detailed_desc": "",
+  "flags_raw": "A massive man, with the head of a bull.  He looks as strong as bull too,",
+  "stats1_raw": "but not nearly as smart.  Actually, now that you consider it... he looks",
+  "stats2_raw": "a heck of a lot meaner than any bull you have ever seen... and he is",
+  "stats3_raw": "coming this way!",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

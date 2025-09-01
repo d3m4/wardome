@@ -1,0 +1,29 @@
+{
+  "id": 5068,
+  "zone_id": 50,
+  "name": "A Narrow Crack",
+  "description": "This part of the tunnel is the hardest to move through as the walls\nmove in to meet you.",
+  "header_raw": "50 adi 5",
+  "flags_text": "adi",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5067
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5069
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5019,
+  "alias": "potion pink",
+  "short_desc": "a pink potion",
+  "long_desc": "A pink potion stands here.",
+  "action_desc": "",
+  "header_raw": "10 0 1",
+  "values_raw": "25 33 17 -1",
+  "cost_raw": "6 600 100",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

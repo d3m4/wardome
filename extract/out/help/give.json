@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "give"
+  ],
+  "aliases": [
+    "GIVE"
+  ],
+  "body": "Uso: give <objeto> <vitima>\n     give <numero> coins <vitima>\n\n    Se voce se sentir benevolente, voce pode dar algo para alguem em \nnecessidade.\n\n  > give all ras\n  > give bread doctor\n  > give all.bronze mirlen\n  > give 40000 coins nia",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

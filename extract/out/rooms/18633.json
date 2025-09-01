@@ -1,0 +1,29 @@
+{
+  "id": 18633,
+  "zone_id": 186,
+  "name": "Another Corner",
+  "description": "Well... what is there to say.  More fungus, more weird sounds, and a\nslight breeze from the north.  Bet you want to sign a lease, don't ya...",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18621
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18634
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

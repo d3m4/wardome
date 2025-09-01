@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "races"
+  ],
+  "aliases": [],
+  "body": "&y\n    Estas sao as racas do Wardome, veja o help de cada uma para obter detalhes\nsobre as caracteristicas e atributos iniciais de cada uma.\n&n\n&yHuman&n                &CDrow&n                 &rDwarf&n                \n&YElf&n                  &ROgre&n                 &mOrc&n                  \n&bTroll&n                &WGith&n                 &gGnome&n                \n&GLizardman&n            &BSea Elf&n              &MGorak&n                \n&n\n    &YVeja tambem:&y classes, adv.races, remort, reborn\n&n",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

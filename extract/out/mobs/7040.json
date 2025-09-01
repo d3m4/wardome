@@ -1,0 +1,12 @@
+{
+  "id": 7040,
+  "alias": "dragon red",
+  "short_desc": "the red dragon",
+  "long_desc": "The fierce-looking red dragon stares at you angrily.",
+  "detailed_desc": "",
+  "flags_raw": "The red dragon stares at you, angrily, as it wakes when you arrive.",
+  "stats1_raw": "It says 'Oh, human YOU woke me up... Hsssss', while it moves closer,",
+  "stats2_raw": "'Can one NEVER sleep in peace... Hssss... '",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

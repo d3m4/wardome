@@ -1,0 +1,13 @@
+{
+  "id": 5461,
+  "alias": "lamb leg",
+  "short_desc": "a leg of lamb",
+  "long_desc": "A leg of lamb lies here.",
+  "action_desc": "",
+  "header_raw": "19 0 1",
+  "values_raw": "10 0 0 0",
+  "cost_raw": "2 10 20",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

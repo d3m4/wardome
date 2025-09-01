@@ -1,0 +1,42 @@
+{
+  "id": 7320,
+  "zone_id": 73,
+  "name": "The Lair End",
+  "description": "You can see a table in front of you.  It is very dusty.  Five skeletons are\nsitting around the table.  Exits are north and east.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The northern part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7319
+    },
+    {
+      "dir": 1,
+      "description": "The eastern part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7317
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "table",
+      "description": "On the table there is dust, in the center there is a small statue of a\nDragon sleeping."
+    },
+    {
+      "keywords": "skeleton skeletons",
+      "description": "They've obviously been killed somehow, but it doesn't look like it was by \nsword or club."
+    },
+    {
+      "keywords": "dragon statue",
+      "description": "It looks like a silver dragon.  It is nailed onto the table.  The dragon sits\non a red dragon that looks dead.  But the eyes of the red dragon are glowing,\npulsating red.  You feel drained."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

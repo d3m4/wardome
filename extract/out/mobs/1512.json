@@ -1,0 +1,12 @@
+{
+  "id": 1512,
+  "alias": "abu bakr first caliph",
+  "short_desc": "Abu Bakr",
+  "long_desc": "Abu Bakr, first of the Rashidun, mourns over the death of the Prophet.",
+  "detailed_desc": "",
+  "flags_raw": "You see a simple man, dressed in dark and unadorned robes, bent over and",
+  "stats1_raw": "pensive, reliving the memories of a man he never thought would die.",
+  "stats2_raw": "~",
+  "stats3_raw": "b dk 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2563,
+  "alias": "cat calico familiar",
+  "short_desc": "the calico cat",
+  "long_desc": "A large calico cat is lounging about here.",
+  "detailed_desc": "",
+  "flags_raw": "It looks incredibly large for a cat, no doubt a giant of its species.",
+  "stats1_raw": "A beautiful jewel encrusted collar about its neck is its only adornment.",
+  "stats2_raw": "~",
+  "stats3_raw": "bg dks 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

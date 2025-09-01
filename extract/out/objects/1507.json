@@ -1,0 +1,27 @@
+{
+  "id": 1507,
+  "alias": "ethereal flame",
+  "short_desc": "an ethereal flame",
+  "long_desc": "The entire room is aglow from the flame at your feet.",
+  "action_desc": "",
+  "header_raw": "1 ajkop ao",
+  "values_raw": "0 0 -1 0",
+  "cost_raw": "0 5 2500",
+  "extra_descriptions": [
+    {
+      "keywords": "ethereal flame",
+      "description": "Even being near it fills you with a peaceful and comforted feeling."
+    }
+  ],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 8
+    },
+    {
+      "location": 13,
+      "modifier": 10
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

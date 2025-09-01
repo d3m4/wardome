@@ -1,0 +1,12 @@
+{
+  "id": 1501,
+  "alias": "michael angel archangel",
+  "short_desc": "Michael",
+  "long_desc": "The archangel Michael turns and begins to look you over.",
+  "detailed_desc": "",
+  "flags_raw": "At first you see nothing but a bright and comforting glow; then the",
+  "stats1_raw": "image sharpens suddenly, and you see a face, eyes, hands, but then",
+  "stats2_raw": "that too fades, and you see nothing.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

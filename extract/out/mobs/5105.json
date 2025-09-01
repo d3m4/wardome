@@ -1,0 +1,12 @@
+{
+  "id": 5105,
+  "alias": "drow master",
+  "short_desc": "the drow master",
+  "long_desc": "A drow master stares at you angrily.",
+  "detailed_desc": "",
+  "flags_raw": "The drow master is ALWAYS ready for a fight.",
+  "stats1_raw": "~",
+  "stats2_raw": "bflm dk -1000 S",
+  "stats3_raw": "21 0 0 1d12+248 18d1+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

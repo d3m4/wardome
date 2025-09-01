@@ -1,0 +1,21 @@
+{
+  "id": 5238,
+  "zone_id": 52,
+  "name": "A Small Shack",
+  "description": "This cramped dwelling could not have housed more than one person.  Now\nwith the back wall missing, it could hold many more.  Looking around you\nfind broken shelves and workbenches with various vials and pouches spilling\ncontents all across the floor.  This was possibly the magic shop of the\ncity.  The doorway to the east is blocked, making the only exit back west.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5237
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

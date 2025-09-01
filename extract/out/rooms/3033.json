@@ -1,0 +1,21 @@
+{
+  "id": 3033,
+  "zone_id": 30,
+  "name": "The Magic Shop",
+  "description": "Behind the counter you see various items, neatly placed in racks,\npresumably most of them are magic.",
+  "header_raw": "30 dh 0",
+  "flags_text": "dh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the main street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3012
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

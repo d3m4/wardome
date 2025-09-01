@@ -1,0 +1,21 @@
+{
+  "id": 7900,
+  "zone_id": 79,
+  "name": "Outside Redferne's Residence",
+  "description": "A huge cloud forms the plateau on which you are now standing.  The\nwind here is absolutely quiet and the sun is shining warmly upon you.\nFrom under the cloud you can hear the faint sounds of Midgaard.  Right\nbefore you to the north lies the grand Mansion of Naris.",
+  "header_raw": "79 cj 0",
+  "flags_text": "cj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see an enormous arched gate leading into this magnificent building.",
+      "keywords": "gate huge arched~ 2 7901 7901 D5 You see a Huge Chain that anchors the Mansion of Naris to the ground.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

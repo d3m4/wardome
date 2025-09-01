@@ -1,0 +1,12 @@
+{
+  "id": 3095,
+  "alias": "cryogenicist cryo",
+  "short_desc": "the cryogenicist",
+  "long_desc": "The cryogenicist is here, playing with a canister of liquid nitrogen.",
+  "detailed_desc": "",
+  "flags_raw": "You notice a tired look in her face.  She looks like she isn't paid well",
+  "stats1_raw": "enough to put up with any crap from mud players with attitudes.",
+  "stats2_raw": "~",
+  "stats3_raw": "ablno dfp 900 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

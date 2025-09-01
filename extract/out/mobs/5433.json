@@ -1,0 +1,12 @@
+{
+  "id": 5433,
+  "alias": "nomad merchant",
+  "short_desc": "the nomad merchant",
+  "long_desc": "A nomad merchant looks you over.",
+  "detailed_desc": "",
+  "flags_raw": "This robust fellow returns your gaze with a smile, but something inside",
+  "stats1_raw": "tells you not to trust him very far.",
+  "stats2_raw": "~",
+  "stats3_raw": "cghlmno 0 -100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

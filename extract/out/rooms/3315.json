@@ -1,0 +1,29 @@
+{
+  "id": 3315,
+  "zone_id": 33,
+  "name": "The Depression Floor",
+  "description": "A small path leads south here, away from the rocky \nslope leading up to the east.  A small spring burbles \nhere, evidently the cause of much of the traffic.  \nLooking up, you see sheer rock walls surrounding much \nof the depression, making an effective fortress of\nthis place.",
+  "header_raw": "33 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3314
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3316
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

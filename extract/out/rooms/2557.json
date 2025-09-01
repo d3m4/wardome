@@ -1,0 +1,37 @@
+{
+  "id": 2557,
+  "zone_id": 25,
+  "name": "The Amphitheater",
+  "description": "You are in a small amphitheater.  Rows of comfortable looking chairs\ncircle a large podium.  The echos of your footsteps seem very loud here.\n   The only apparent exit leads north to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door sturdy iron~ 1 -1 2555 S #2558 A Hallway~    You are in a long hallway leading east and west.  The walls emit a faint magical glow providing enough light to see by.    A small door can be seen to the south.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2560
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door small~ 1 -1 2561 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

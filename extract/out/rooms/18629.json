@@ -1,0 +1,42 @@
+{
+  "id": 18629,
+  "zone_id": 186,
+  "name": "The Red Room",
+  "description": "It takes you a moment to realize that the red glow here is coming\nfrom a round portal on the floor.  It looks almost as if someone had\npainted a picture of a dirt running through a field on the floor of\nthis room.  Oddly enough, it is so realistic you can feel the wind in\nthe field coming out of the picture.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18620
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18630
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3061
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "portal floor",
+      "description": "It looks as if you could go down into it... but you can't be sure of where\nyou will end up, or if you can get back."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

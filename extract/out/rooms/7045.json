@@ -1,0 +1,29 @@
+{
+  "id": 7045,
+  "zone_id": 70,
+  "name": "The Sewer Room",
+  "description": "You are standing in a large room with chairs set in the walls.  You have\nthe feeling of being watched.  To the south there is an entrance to a\nlarger room.  The room is lit by five torches, also set in the walls.  To\nthe west there is a doorway leading out to the sewers.",
+  "header_raw": "70 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can see an even larger room than this one, filled with light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7046
+    },
+    {
+      "dir": 3,
+      "description": "To the west you can see the sewers.",
+      "keywords": "",
+      "door_flag": 2,
+      "key": -1,
+      "to": 7038
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

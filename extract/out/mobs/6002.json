@@ -1,0 +1,12 @@
+{
+  "id": 6002,
+  "alias": "bear brown",
+  "short_desc": "the brown bear",
+  "long_desc": "A big, brown, angry-looking bear is here.",
+  "detailed_desc": "",
+  "flags_raw": "The bear is a big, brown, furry animal with very large claws and very sharp",
+  "stats1_raw": "teeth.  It doesn't resemble those cute little dolls from toy shops at all.",
+  "stats2_raw": "~",
+  "stats3_raw": "fg 0 -50 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

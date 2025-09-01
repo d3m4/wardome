@@ -1,0 +1,18 @@
+{
+  "id": 15008,
+  "alias": "Verminator sword",
+  "short_desc": "Verminator",
+  "long_desc": "A strange looking sword is lying upon the ground here.",
+  "action_desc": "",
+  "header_raw": "5 adjmnoq 8193",
+  "values_raw": "0 3 4 11",
+  "cost_raw": "2 1 4000",
+  "extra_descriptions": [
+    {
+      "keywords": "verminator sword",
+      "description": "This strange sword seems to be made of black metal, an eerie green glow\nsurrounds the blade."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

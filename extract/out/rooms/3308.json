@@ -1,0 +1,50 @@
+{
+  "id": 3308,
+  "zone_id": 33,
+  "name": "The Diverging Paths",
+  "description": "You are standing on a small plateau in the mountains, \njust south of a ridge that leads northwards through the \nrocky area.  To the east, south, and west are gentle \nslopes leading down into different areas of the mountains.\n   A giant, dark peak looks down over you to the west, \nlooking quite spooky indeed!",
+  "header_raw": "33 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3307
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3341
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3309
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3359
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tracks track",
+      "description": "The three sets of tracks split up here, one west, one east,\none south."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

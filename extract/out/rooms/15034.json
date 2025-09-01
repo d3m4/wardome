@@ -1,0 +1,29 @@
+{
+  "id": 15034,
+  "zone_id": 150,
+  "name": "In The South-East Tower",
+  "description": "This part of the tower is fairly uninteresting, but it leads further\nupwards...",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The room at the top of the tower seems darkish for some reason.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15052
+    },
+    {
+      "dir": 5,
+      "description": "You see the stairs at the bottom of the tower.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15009
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

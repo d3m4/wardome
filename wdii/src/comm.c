@@ -72,6 +72,9 @@
 #define INVALID_SOCKET -1
 #endif
 
+/* Global pulse counter (referenced from multiple modules) */
+int pulse = 0;
+
 /* externs */
 extern struct ban_list_element *ban_list;
 extern int num_invalid;
@@ -723,7 +726,8 @@ void game_loop(socket_t mother_desc)
   struct timeval last_time, before_sleep, opt_time, process_time, now, timeout, temp_time;
   char comm[MAX_INPUT_LENGTH];
   struct descriptor_data *d, *next_d;
-  int pulse = 0, missed_pulses, maxdesc, aliased;
+  int missed_pulses, maxdesc, aliased;
+  pulse = 0;
  
   /* initialize various time values */
   null_time.tv_sec = 0;

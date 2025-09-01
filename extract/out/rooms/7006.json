@@ -1,0 +1,34 @@
+{
+  "id": 7006,
+  "zone_id": 70,
+  "name": "The Muddy Sewer",
+  "description": "You are standing in something that reminds you very much of porridge,\nthis has the advantage that it is not hot, it is rather cold actually.\nThe pipe bends to the north and east.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The pipe leads into a bend that goes south.  Interesting, there is mud on\nthe ground there as well.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7012
+    },
+    {
+      "dir": 0,
+      "description": "The muddy sewer pipe leads into a bend that goes east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7005
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

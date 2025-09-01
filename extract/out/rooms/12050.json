@@ -1,0 +1,38 @@
+{
+  "id": 12050,
+  "zone_id": 120,
+  "name": "The Courtroom",
+  "description": "You stand inside of a large courtroom in which common civil disputes and \ncriminal matters are decided.  There is a judge's bench and a witness stand\non the far side of the room and a jury's box along side.  The Emperor's seal\nis prominently displayed on the wall behind the judge's stand, reminding all\nwho enter that he is an extension of his highness.  There is a door, possibly \nleading to the judge's chambers, to the east and the waiting room is to the \nwest.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The door might lead into the judge's private chambers.",
+      "keywords": "door~ 1 12039 12055 D2 The holding cells lie in that direction.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 3,
+      "description": "The waiting room lies in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12043
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bench stand box jury",
+      "description": "You see large wooden structures that are designed to separate the judge, jury\nand witnesses from the rest of the courtroom.  They are made of polished  \noak and are strictly functional."
+    },
+    {
+      "keywords": "seal",
+      "description": "The seal of the Emperor is mounted above the judge's stand."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

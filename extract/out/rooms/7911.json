@@ -1,0 +1,21 @@
+{
+  "id": 7911,
+  "zone_id": 79,
+  "name": "Redferne's Bedroom",
+  "description": "This is a snugly set bedroom with all the necessities for a romantic\nevening.  A large fireplace adorns the east wall, and sizzling away is\nthe wood that is ablaze within.  The bed is enormous, covering at least\nHALF of this great room.  The room stretches at least 140 feet, so can\nyou imagine the BED?  A large staircase leads down to the hall.  A couple\nof doors open up to a broad balcony to the south.",
+  "header_raw": "79 cdj 0",
+  "flags_text": "cdj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The sun seems to shine out there, warmly and comforting.",
+      "keywords": "doors~ 1 -1 7912 D5",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

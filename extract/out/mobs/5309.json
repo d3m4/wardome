@@ -1,0 +1,12 @@
+{
+  "id": 5309,
+  "alias": "efreeti efreet",
+  "short_desc": "the efreeti",
+  "long_desc": "The efreeti stands here, sheathed in a column of fire.",
+  "detailed_desc": "",
+  "flags_raw": "The efreeti is a mighty being formed from living fire.  He gazes down at",
+  "stats1_raw": "you with disdain and scorn, arms folded across his mighty chest.",
+  "stats2_raw": "~",
+  "stats3_raw": "abeflnopqr dkp -600 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+}

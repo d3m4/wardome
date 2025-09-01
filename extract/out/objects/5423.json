@@ -1,0 +1,13 @@
+{
+  "id": 5423,
+  "alias": "jacket leather",
+  "short_desc": "a leather jacket",
+  "long_desc": "A leather jacket lies here.",
+  "action_desc": "",
+  "header_raw": "9 0 9",
+  "values_raw": "3 0 0 0",
+  "cost_raw": "6 600 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

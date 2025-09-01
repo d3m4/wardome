@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "sanctuary"
+  ],
+  "aliases": [
+    "SANCTUARY"
+  ],
+  "body": "Syntax: cast 'sanctuary' <target>\n\nSanctuary surrounds the target with a divine protective aura that reduces\nall physical damage by half. This powerful spell provides the ultimate\ndefensive enhancement for surviving dangerous encounters.\n\nClasses: Cleric\nLevel: 15\nMana Cost: 110\nDuration: 4 hours  \nPosition: Standing or Fighting\n\nWhen sanctuary is active, the target glows with a bright white aura and\ntakes only half damage from all physical attacks. This spell is invaluable\nfor tanks and anyone facing overwhelming odds.\n\nSee Also: ARMOR, BLESS",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

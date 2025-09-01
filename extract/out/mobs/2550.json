@@ -1,0 +1,12 @@
+{
+  "id": 2550,
+  "alias": "skeleton undead",
+  "short_desc": "the animated skeleton",
+  "long_desc": "An animated skeleton screams silently and attacks.",
+  "detailed_desc": "",
+  "flags_raw": "It feels no pain, and hacks at you ruthlessly.",
+  "stats1_raw": "~",
+  "stats2_raw": "bfhnopr dk -500 S",
+  "stats3_raw": "15 5 -2 15d15+150 3d4+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 6104,
+  "alias": "branch grey long",
+  "short_desc": "a long, grey branch",
+  "long_desc": "A long, grey branch rests heavily on the ground.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 6 7",
+  "cost_raw": "18 60 20",
+  "extra_descriptions": [
+    {
+      "keywords": "branch grey long",
+      "description": "It is very heavy and looks as if it has been dropped from great height.  It\nis long and straight and the wood is very hard, still being full of sap.\nAlthough it does not fit very well in your hand, it could be used as a clumsy\nbut very heavy weapon."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

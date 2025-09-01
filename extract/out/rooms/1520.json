@@ -1,0 +1,29 @@
+{
+  "id": 1520,
+  "zone_id": 15,
+  "name": "The Light of the Rashidun",
+  "description": "The first Caliphs were chosen by consultation with a noble council\nof elders, each of whom, hoping to lead the world of Islam alone, voted\nto elect the one amongst them they thought was the weakest.  Each time,\nthey were wrong.  Each one was more noble, more upright than the one\nbefore.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1521
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1519
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

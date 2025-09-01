@@ -1,0 +1,34 @@
+{
+  "id": 15057,
+  "zone_id": 150,
+  "name": "The Prison",
+  "description": "This small passage is about thirty feet long and is well lit by the\ntorches on each wall.  The torches have been locked inside small metal\ncages to ensure that they are not removed.  The strangest thing about\nthe torches however, is the manner in which they burn, they have what\nappears to be a constant flame in that it does not flicker whatsoever,\nand does not give off any smoke.  Perhaps they have been magicked to\nburn forever...\n   There are three cells along this passage way, one on each side of\nthe corridor right near the north end and one isolated at the south\nend of the corridor with a small metal plaque located over the door\nin the keystone of the archway.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small wooden door blocks the way out of the prison.",
+      "keywords": "door wooden~ 1 15017 15056 D1 A cell door is set into the eastern wall.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 2,
+      "description": "The cell door to the south has been double padlocked and there is a\nplaque placed in the keystone above the door.",
+      "keywords": "door cell~ 2 15017 15059 D3 A cell door is set into the western wall.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plaque keystone",
+      "description": "The plaque in the keystone is engraved with four simple words:\n\n                Ergan, Murderer of Townsbridge"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

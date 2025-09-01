@@ -1,0 +1,12 @@
+{
+  "id": 5306,
+  "alias": "magic carpet",
+  "short_desc": "the magic carpet",
+  "long_desc": "A small woven carpet lies under your feet.",
+  "detailed_desc": "",
+  "flags_raw": "The carpet is simply beautiful, made from intricately woven silken material.",
+  "stats1_raw": "It seems to rise up at the touch of your feet.  Wait, it is rising, a few feet",
+  "stats2_raw": "above the ground!  In fact, it seems to be ALIVE!",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+}

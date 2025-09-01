@@ -1,0 +1,12 @@
+{
+  "id": 6514,
+  "alias": "guard barrack",
+  "short_desc": "the barrack guard",
+  "long_desc": "A barrack guard is here, lounging around while off duty.",
+  "detailed_desc": "",
+  "flags_raw": "~",
+  "stats1_raw": "bm k 100 S",
+  "stats2_raw": "14 6 1 5d10+170 2d5+4",
+  "stats3_raw": "1300 20000",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+}

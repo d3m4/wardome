@@ -1,0 +1,13 @@
+{
+  "id": 2527,
+  "alias": "rod black",
+  "short_desc": "a black rod",
+  "long_desc": "A black rod has been left here.",
+  "action_desc": "",
+  "header_raw": "3 0 16385",
+  "values_raw": "20 3 3 22",
+  "cost_raw": "4 1200 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6003,
+  "alias": "rabbit ferocious",
+  "short_desc": "the ferocious rabbit",
+  "long_desc": "A ferocious rabbit is here, glaring hungrily at you.",
+  "detailed_desc": "",
+  "flags_raw": "This small, furry creature with long ears and big feet has been attacked",
+  "stats1_raw": "by the dreaded rabbit rabies, a horrible disease that turns helpless and",
+  "stats2_raw": "innocent rabbits into ferocious and bloodthirsty monsters.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

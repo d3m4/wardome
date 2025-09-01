@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "nogossip"
+  ],
+  "aliases": [
+    "AUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS"
+  ],
+  "body": "Uso: auction <mensagem>\n     gossip <mensagem>\n     grats <mensagem>\n\n    Esses sao canais reservados para propositos especificos. Mensagens nesses canais \nchegarao a qualquer um que os esteja monitorando.\n\nExemplos:\n    > auction short sword -- minimum bid 100k\n    > gossip Hey, is that a short sword on your belt or are you happy to see me?\n    > grats LEVEL!!!!!!!!\n    > grats GRATS CATJE!!!!!!!!\n\n    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

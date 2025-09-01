@@ -1,0 +1,12 @@
+{
+  "id": 6006,
+  "alias": "bird large",
+  "short_desc": "the bird",
+  "long_desc": "A large bird with a broken wing has been cornered here.",
+  "detailed_desc": "",
+  "flags_raw": "The bird isn't going to live much longer, by the looks of it.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 0 S",
+  "stats3_raw": "0 17 10 2d3+1 1d2+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

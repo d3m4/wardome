@@ -1,0 +1,13 @@
+{
+  "id": 3043,
+  "alias": "jacket soft leather",
+  "short_desc": "a leather jacket",
+  "long_desc": "A soft leather jacket is lying on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 9",
+  "values_raw": "2 0 0 0",
+  "cost_raw": "10 200 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

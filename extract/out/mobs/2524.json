@@ -1,0 +1,12 @@
+{
+  "id": 2524,
+  "alias": "student",
+  "short_desc": "the student of spells",
+  "long_desc": "A student of spells has fallen asleep at her desk here.",
+  "detailed_desc": "",
+  "flags_raw": "She looks to have collapsed from sheer boredom.",
+  "stats1_raw": "~",
+  "stats2_raw": "abcgh dk 400 S",
+  "stats3_raw": "9 11 -2 9d9+90 2d4+7",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

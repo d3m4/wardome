@@ -1,0 +1,12 @@
+{
+  "id": 7004,
+  "alias": "beetle giant earth",
+  "short_desc": "the giant earth beetle",
+  "long_desc": "The giant, mean-looking earth beetle is here.",
+  "detailed_desc": "",
+  "flags_raw": "Now, you've seen beetles, but this one is enormous.  It stretches",
+  "stats1_raw": "perhaps two feet from head to tail.  As it notices you, it waves",
+  "stats2_raw": "its six legs about and makes some strange skittering noises at you.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

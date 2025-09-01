@@ -1,0 +1,12 @@
+{
+  "id": 5419,
+  "alias": "foreman man",
+  "short_desc": "the foreman",
+  "long_desc": "The foreman stands here screaming at the workers.",
+  "detailed_desc": "",
+  "flags_raw": "A worried working dwarf stands here constantly making notes in his",
+  "stats1_raw": "book and looking at his watch.",
+  "stats2_raw": "~",
+  "stats3_raw": "bg 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

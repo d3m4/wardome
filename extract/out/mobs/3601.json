@@ -1,0 +1,12 @@
+{
+  "id": 3601,
+  "alias": "white pawn",
+  "short_desc": "the Pawn of the White Court",
+  "long_desc": "You see a pawn standing here waiting for orders.",
+  "detailed_desc": "",
+  "flags_raw": "The White Pawn looks quite like a small knight without his powerful steed.",
+  "stats1_raw": "His armor is spotless and white.  He stands ready to give his life for the",
+  "stats2_raw": "Crown.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

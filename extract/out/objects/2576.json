@@ -1,0 +1,18 @@
+{
+  "id": 2576,
+  "alias": "staff",
+  "short_desc": "an iron shod staff",
+  "long_desc": "A grey piece of wood shod in iron has been left here.",
+  "action_desc": "",
+  "header_raw": "5 gjk 8193",
+  "values_raw": "0 2 7 8",
+  "cost_raw": "7 9000 3000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

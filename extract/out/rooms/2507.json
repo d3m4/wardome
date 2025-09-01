@@ -1,0 +1,45 @@
+{
+  "id": 2507,
+  "zone_id": 25,
+  "name": "The Shadow Grove",
+  "description": "You are inside the shadow grove.  Giant trees seem to glare at you\nfrom all sides.  The shadowy mist obscures most of your vision.  Strange\nsounds of moaning and growling come from all directions.\n   All exits lead into shadows, you are very confused.",
+  "header_raw": "25 acfg 3",
+  "flags_text": "acfg",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2504
+    },
+    {
+      "dir": 1,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2508
+    },
+    {
+      "dir": 2,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2501
+    },
+    {
+      "dir": 3,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2509
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

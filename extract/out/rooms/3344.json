@@ -1,0 +1,21 @@
+{
+  "id": 3344,
+  "zone_id": 33,
+  "name": "The Mountain Tavern",
+  "description": "Hmm.  Looks like there's no one here, not even an bartender.\nEvidently you've come during off hours, since no bar could be\nTHIS dull.  The walls are decorated with mounted animal heads\nand arrows and longbows and other hunting equipment/trophies.\nAll of it looks rather plain.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3343
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

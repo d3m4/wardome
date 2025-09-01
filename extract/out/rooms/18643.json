@@ -1,0 +1,34 @@
+{
+  "id": 18643,
+  "zone_id": 186,
+  "name": "The Balcony",
+  "description": "Here you can look out and observe the world around.  Constructed in a\nsemi-circle around the dome of the room, the balcony allows you to look\nout in almost any direction.  Wandering to the north end, you can see that\nthe Great Fields north of Midgaard continue off towards the Dragonhelm\nMountains to the north.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The south end of the balcony.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18645
+    },
+    {
+      "dir": 5,
+      "description": "Down the stairs to a large, domed room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18642
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "staircase stair stairs",
+      "description": "They are constructed of smooth, beautiful marble"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

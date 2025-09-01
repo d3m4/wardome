@@ -1,0 +1,45 @@
+{
+  "id": 3502,
+  "zone_id": 35,
+  "name": "The Laneway",
+  "description": "The trees stand close here, and the tall, bushy undergrowth prevents you\nfrom seeing far in any direction save east, where a broad lane continues off\ninto the distance; and west, where the same lane continues towards what looks\nlike a fairly large city.  The muted sounds of city commotion reach your ears\nfrom a distance; stray dogs barking, children crying, and street salesmen\nshouting.\n   A steep path leads down from here to the northeast towards the Dwarven\nVillage, and a small trail leads through the trees towards the hills to the\nnorth.",
+  "header_raw": "35 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3501
+    },
+    {
+      "dir": 1,
+      "description": "You see a fairly large road leading towards a grand castle in the distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15000
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3503
+    },
+    {
+      "dir": 5,
+      "description": "The well trodden path leads down to the northeast towards a small bustling\nvillage.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6500
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

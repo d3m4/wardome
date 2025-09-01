@@ -1,0 +1,21 @@
+{
+  "id": 910,
+  "zone_id": 9,
+  "name": "The Beach Head",
+  "description": "This is a secluded looking beach on the southern tip of the island.\nThere isn't much to see here and there is no way to cross the steep\nrocky cliffs that wall in this place.",
+  "header_raw": "9 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 909
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

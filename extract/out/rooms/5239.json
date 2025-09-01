@@ -1,0 +1,29 @@
+{
+  "id": 5239,
+  "zone_id": 52,
+  "name": "A Back Alley",
+  "description": "A narrow back alley goes south to main street and north towards\na watchtower.  A mass of howls catches you of guard.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5240
+    },
+    {
+      "dir": 2,
+      "description": "Main street runs past here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5201
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

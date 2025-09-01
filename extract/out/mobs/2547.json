@@ -1,0 +1,12 @@
+{
+  "id": 2547,
+  "alias": "golem clay",
+  "short_desc": "the clay golem",
+  "long_desc": "A clay golem stands guard here.",
+  "detailed_desc": "",
+  "flags_raw": "This large golem almost looks like it is made of dirt.",
+  "stats1_raw": "~",
+  "stats2_raw": "bfgmnopqr dk 200 S",
+  "stats3_raw": "15 5 -1 15d15+150 4d5+3",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

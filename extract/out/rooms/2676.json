@@ -1,0 +1,66 @@
+{
+  "id": 2676,
+  "zone_id": 25,
+  "name": "The Entranceway",
+  "description": "You are at the entrance to the audience chamber of the Grand Master of\nMagic.  Beautiful tapestries displaying the ancient masters of lore are on\nthe walls, and the floor is covered with a plush multicoloured carpet, which\nseems to rustle and move at the touch of your boots.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2677
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door white ivory~ 2 2595 2675 S #2677 The Audience Chamber~    You are in a large chamber.  Small bolts of energy leap from wall to wall, crackling with power.  The floor is a swirl of indeterminable colours and patterns ever changing.  Bright bursts of colour seem to explode into the air and fade again at random times.  All this splendor plays about and draws attention to a large throne in the center of the room, it seems to be cut from a single enormous emerald.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2680
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2678
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2676
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2679
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "throne",
+      "description": "The giant emerald is flawless, and must be incredibly valuable."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

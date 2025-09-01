@@ -1,0 +1,29 @@
+{
+  "id": 3504,
+  "zone_id": 35,
+  "name": "The South Gate",
+  "description": "You are standing on a small, dusty path leading away from the south\ngate of Midgaard, to the forest of Miden'Nir (Goblinic for 'Green Blood').\nYou can still see the city to the east, but if you go south, there is\nfresh air and greenery.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can see the walls of the South Gate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3127
+    },
+    {
+      "dir": 2,
+      "description": "If you go south, you will enter the Miden'Nir.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3505
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

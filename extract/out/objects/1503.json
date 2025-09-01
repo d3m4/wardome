@@ -1,0 +1,18 @@
+{
+  "id": 1503,
+  "alias": "protector faithful shield",
+  "short_desc": "the Protector of the Faithful",
+  "long_desc": "A weighty looking shield has been abandoned by one unworthy to hold it.",
+  "action_desc": "",
+  "header_raw": "9 kn aj",
+  "values_raw": "15 0 0 0",
+  "cost_raw": "20 5000 1500",
+  "extra_descriptions": [
+    {
+      "keywords": "protector faithful shield",
+      "description": "It evades your attempts to focus on it, deflecting your gaze as it deflects\nthe weapons that will try to kill you."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

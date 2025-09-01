@@ -1,0 +1,29 @@
+{
+  "id": 3367,
+  "zone_id": 33,
+  "name": "A Small, Dangerous Path",
+  "description": "This path leads up, up, up the side of the mountain, to \nthe evil-seeming cave.  It also heads down to the south--a \nlot safer place to be.  In fact, you hear footsteps above \nyour head...",
+  "header_raw": "33 gj 5",
+  "flags_text": "gj",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3366
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3368
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

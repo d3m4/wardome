@@ -1,0 +1,13 @@
+{
+  "id": 3020,
+  "alias": "dagger",
+  "short_desc": "a dagger",
+  "long_desc": "A dagger with a long thin blade is here.",
+  "action_desc": "",
+  "header_raw": "5 n 8193",
+  "values_raw": "0 1 4 11",
+  "cost_raw": "1 10 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

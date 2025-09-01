@@ -1,0 +1,12 @@
+{
+  "id": 5468,
+  "alias": "tourist",
+  "short_desc": "the tourist",
+  "long_desc": "A tourist stands here looking lost.",
+  "detailed_desc": "",
+  "flags_raw": "You see a small, rotund man, with a strange object around his neck and",
+  "stats1_raw": "a nose guard.  He is looking at a small map that he seems to be holding",
+  "stats2_raw": "upside down.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

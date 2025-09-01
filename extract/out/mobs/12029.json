@@ -1,0 +1,12 @@
+{
+  "id": 12029,
+  "alias": "defendant",
+  "short_desc": "the defendant",
+  "long_desc": "The defendant stands here, pleading her case.",
+  "detailed_desc": "",
+  "flags_raw": "She looks to be well organized and full of confidence.",
+  "stats1_raw": "~",
+  "stats2_raw": "bl 0 200 S",
+  "stats3_raw": "11 9 1 3d6+130 2d7+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

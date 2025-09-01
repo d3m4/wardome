@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "clan_npc"
+  ],
+  "aliases": [],
+  "body": "&r**********************************************************************************&n\n&Y                                     SISTEMA DE CLAN NPC:\n&w \n&wExiste agora clans de NPCs (mobs) que podem ou nao aparecer durante as quests.&n\n&wCada clan possui suas caracteristicas e objetivos, elas apareceram nas quest&n\n&we para saber seu historico visite o livro do Merlin em Camelot.&n\n&wDetalhes de status podem ser vistos digitando &Rclan&n.\n&wO poder e Tesouro sao reais e compativel com as clans de players.&n\n&wNuma eventual clan war com algum dos clans de npcs seus stats serao atualizados&n\n&wO tesouro e eqs podem ser adiquiridos em confronto direto.\n&wAs Clans de Npcs tambem podem pilhar players e pegar seus pertences, menos unicos&n\n&wDescobrindo o local dos reinos dos NPCs pode haver invasao em sua clan house.&n\n&wEquipqmentos de NPCs dificilmente serao usados mas valem qps(valor variado)&n.\n&r**********************************************************************************&n",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

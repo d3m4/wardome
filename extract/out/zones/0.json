@@ -1,0 +1,24 @@
+{
+  "id": 0,
+  "name": "Limbo - Internal",
+  "header": {
+    "raw": "0 99 10 2",
+    "min_room": 0,
+    "top_room": 99,
+    "lifespan": 10,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "comment": "Puff"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/0.zon"
+}

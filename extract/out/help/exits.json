@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "exits"
+  ],
+  "aliases": [
+    "EXITS"
+  ],
+  "body": "Uso: exits\n\n    Lhe da uma lista das saidas obvias da sua localidade. E claro que as \nmenos obvias nao serao mostradas - voce deve PENSAR para localizar essas.\n\n    Veja tambem: AUTOEXIT",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

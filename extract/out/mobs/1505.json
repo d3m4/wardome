@@ -1,0 +1,12 @@
+{
+  "id": 1505,
+  "alias": "cherub cherubin cherubim",
+  "short_desc": "the cherubin",
+  "long_desc": "The cherubin of the blazing sword looks at you and begins to chuckle.",
+  "detailed_desc": "",
+  "flags_raw": "The monster before you seems to be nothing more than a baby or young",
+  "stats1_raw": "child, wrapped in a glowing white cloth, but as you try to walk past,",
+  "stats2_raw": "the beast grins and cackles, drawing its sword and blocking the way.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 15019,
+  "zone_id": 150,
+  "name": "The Small Passage",
+  "description": "You are standing in a small passage, that leads north and south.\nTo the west, there is an exit into the Great Hall.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The passage continues to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15024
+    },
+    {
+      "dir": 2,
+      "description": "The passage continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15014
+    },
+    {
+      "dir": 3,
+      "description": "To the west you see the Great Hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

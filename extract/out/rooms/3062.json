@@ -1,0 +1,42 @@
+{
+  "id": 3062,
+  "zone_id": 30,
+  "name": "The Post Office",
+  "description": "You are in the central post office for Midgaard.  Piles of assorted mail\nlay untouched in the corners, collecting cobwebs.  Several large crates have\nbeen pried open by curious customs agents, and are now stacked along the west\nwall, hiding plenty of 'WANTED' posters.\nThere is a sign posted on the wall here.",
+  "header_raw": "30 deh 1",
+  "flags_text": "deh",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the entrance to the Grunting Boar Inn and Tavern.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3006
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "**********************************************************\n*     \t\t\t\t\t\t\t *\n*    Mail Instructions:                                  *\n*\t\t\t\t\t\t\t *\n*      To send a note to someone:                        *\n*         MAIL <playername>\t\t\t\t *\n*     \t\t\t\t\t\t\t *\n*      To see if you have any mail:                      *\n*         CHECK\t\t\t\t\t\t *\n*\t\t\t\t\t\t\t *\n*      To get the Postmaster to give you your mail:      *\n*         RECEIVE\t\t\t\t\t *\n*\t\t\t\t\t\t\t *\n*         Stamps cost 150 coins per letter               *\n*         Type 'HELP MAIL' for more info                 *\n**********************************************************"
+    },
+    {
+      "keywords": "letters envelopes assorted",
+      "description": "Envelopes of all sizes are heaped into hugh piles around the room.  As you\nlook closer, you see a letter that you had posted a full week ago, laying\nunnoticed and slightly rat-chewed towards the bottom of the pile."
+    },
+    {
+      "keywords": "cobwebs",
+      "description": "They seem to cover everything here, even the Postmaster himself."
+    },
+    {
+      "keywords": "crates opened large",
+      "description": "As you know, it is illegal to send contraband items through the Midgaard\nMail.  The customs agents use this as a great excuse to seize liquor,\nrare spices, and just about anything they might find useful or profitable."
+    },
+    {
+      "keywords": "WANTED posters poster wall",
+      "description": "Faces of various known Killers and Thieves can barely be seen behind the\ncrates on the west wall.  Some of them look quite familar, sorta like that\nguy who you saw in the Reception a minute ago... but then again, they are\nrather hard to see past the crates."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

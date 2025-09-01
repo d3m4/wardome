@@ -1,0 +1,21 @@
+{
+  "id": 3577,
+  "zone_id": 35,
+  "name": "The Bard's Table",
+  "description": "You are in a darker corner in the Inn.  A large round table with a few\nwooden chairs sits here.  There is a large stain on the table, the remnants\nof a spilled drink.",
+  "header_raw": "35 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the main floor of the Inn to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3574
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

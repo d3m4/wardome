@@ -1,0 +1,22 @@
+{
+  "id": 3606,
+  "alias": "lance black knight",
+  "short_desc": "the Lance of the Black Knight",
+  "long_desc": "The Lance of the Black Knight lies here, waiting to rust.",
+  "action_desc": "",
+  "header_raw": "5 bgj 8193",
+  "values_raw": "0 3 6 6",
+  "cost_raw": "18 10000 3",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 2
+    },
+    {
+      "location": 23,
+      "modifier": 5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

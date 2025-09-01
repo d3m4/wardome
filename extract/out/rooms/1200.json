@@ -1,0 +1,21 @@
+{
+  "id": 1200,
+  "zone_id": 12,
+  "name": "The Meeting Room Of The Gods",
+  "description": "The meeting room is plain and very simple.  A circular table sits\nin the middle of the room, lit by some unseen light source.  There\nare many chairs around the table, all empty.  The Immortal Board Room\nis to the north.",
+  "header_raw": "12 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Immortal Board Room can be seen to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/12.wld"
+}

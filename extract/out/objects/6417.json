@@ -1,0 +1,13 @@
+{
+  "id": 6417,
+  "alias": "chest wooden",
+  "short_desc": "a wooden chest",
+  "long_desc": "There is a wooden chest here.",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "500 13 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

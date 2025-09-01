@@ -1,0 +1,29 @@
+{
+  "id": 7916,
+  "zone_id": 79,
+  "name": "On The Great Chain Of Naris",
+  "description": "You are approximately on the middle of the treacherous Chain.  One false\nstep and death will come and collect you quickly.  The chain leads upwards\nand down.  No way are you going to descend now... You've only just begun\nyour climb.  Besides it could cost you your life.  Look down and you'll\nsee why.",
+  "header_raw": "79 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "There seems to be only one way from here and that's up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7918
+    },
+    {
+      "dir": 5,
+      "description": "The chain down there is swinging wildly back and forth.  Going down there\nwill be pretty risky!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7915
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

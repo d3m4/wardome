@@ -1,0 +1,46 @@
+{
+  "id": 6066,
+  "zone_id": 60,
+  "name": "A Fork On The Shaded Path Through The Forest",
+  "description": "You are at a fork in the small shaded path winding through the trees.  The\nforest gradually becomes more dense to the west.  The path branches to the\nnorth and south here, and also continues to the east.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6071
+    },
+    {
+      "dir": 1,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6065
+    },
+    {
+      "dir": 2,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6061
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths shaded",
+      "description": "The shaded path is probably used by the small animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

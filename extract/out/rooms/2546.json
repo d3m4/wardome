@@ -1,0 +1,37 @@
+{
+  "id": 2546,
+  "zone_id": 25,
+  "name": "The Apprentices' Workshop",
+  "description": "You are in a small workshop.  Writing implements and parchment are\nstrewn about on a few worktables.  In the far corner several young mages\nhave a small kitten cornered and seem to be testing spells upon it.\n   The only apparent exit leads back south to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door oak~ 1 -1 2545 S #2547 A Bend In The Hallway~    You are at a bend in the hallway.  The walls emit a faint magical glow which provides enough light to see by.    The hallway continues south and back east.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2545
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2548
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

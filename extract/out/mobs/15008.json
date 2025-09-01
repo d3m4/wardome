@@ -1,0 +1,12 @@
+{
+  "id": 15008,
+  "alias": "anne guard royal",
+  "short_desc": "Anne",
+  "long_desc": "Anne the Royal Guard is here on duty.",
+  "detailed_desc": "",
+  "flags_raw": "As all members of the Guard, Anne wears the chain mail required of",
+  "stats1_raw": "them as uniform.  She seems very well trained, and moves like a fighter",
+  "stats2_raw": "who has seen more than one battle, and longs to see the next!",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

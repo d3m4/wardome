@@ -1,0 +1,36 @@
+{
+  "id": 12037,
+  "producing": [
+    3030,
+    3031,
+    3032,
+    3033,
+    3036,
+    12003
+  ],
+  "profit_buy": 1.75,
+  "profit_sell": 0.6,
+  "buy_types": [],
+  "messages": [
+    "%s We don't have that item on stock.",
+    "%s I don't think you have that.",
+    "%s I don't stock that stuff.  Try another shop.",
+    "%s I can't afford it right now.  Come back tomorrow.",
+    "%s No cash, no goods!",
+    "%s Here you go.  That'll be... %d coins.",
+    "%s Thank-you very much.  Here are your %d coins as payment."
+  ],
+  "tail": [
+    2,
+    2,
+    12037,
+    0,
+    12063,
+    -1,
+    6,
+    20,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/120.shp"
+}

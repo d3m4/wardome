@@ -1,0 +1,26 @@
+{
+  "id": 5320,
+  "zone_id": 53,
+  "name": "A Small Fire",
+  "description": "Here a small fire burns in a nook in the rocks, providing some warmth and\ncomforting light in the cold, dark, dry air.\nStanding here is a strange-looking old man, who stares at you balefully.",
+  "header_raw": "53 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a massive crevasse that plunges into darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5319
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "man old",
+      "description": "The old man looks like he has been trapped down here far too long, and\nhas begun to lose his mind.  He moves about slowly, cackling to himself.\n\nHe turns to you and shouts, 'nope measse!  nope measse!', then turns \nback and stares into the fire.\n\n'What a strange person,' you think to yourself."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

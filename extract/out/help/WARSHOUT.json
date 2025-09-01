@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "WARSHOUT"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Barbarian (91)\n- Descricao: Esta skill permite, quando em um grupo, que se de um forte grito de guerra, estimulando ainda mais seus membros a lutar.\n- Exemplo de uso:\t> warshout\n\t\t\tYou yell, 'WWWWWWAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR!'\n\n- Observacoes: E necessario ser o lider de um grupo para utilizar esta skill; quando utilizada, ela da +5 pontos de DAMROLL para todos os membros do grupo por 2 horas; seu gasto e de 75 pontos de movimento por utilizacao.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

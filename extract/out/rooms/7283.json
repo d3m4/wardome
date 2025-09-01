@@ -1,0 +1,42 @@
+{
+  "id": 7283,
+  "zone_id": 72,
+  "name": "The T-Crossing",
+  "description": "You are in a small hallway.  There are doors to the east and to\nthe west.  To the south there are a black hole.  There is writing\nin the wall.  Wails can be heard from the south.",
+  "header_raw": "72 acd 1",
+  "flags_text": "acd",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is too dark to tell.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7286
+    },
+    {
+      "dir": 2,
+      "description": "A black hole in the wall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7282
+    },
+    {
+      "dir": 3,
+      "description": "You can see a big fire to the west.  It looks like a unhealthy\nplace to enter!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7284
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "writing",
+      "description": "The writing says 'The one to the east, belongs to the beast.\nTo the west you will surely END your quest!'."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

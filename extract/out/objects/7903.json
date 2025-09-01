@@ -1,0 +1,18 @@
+{
+  "id": 7903,
+  "alias": "treasure coins",
+  "short_desc": "a huge treasure",
+  "long_desc": "There is a huge treasure here, looking moderately valuable.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "7734 0 0 0",
+  "cost_raw": "5 7734 0",
+  "extra_descriptions": [
+    {
+      "keywords": "treasure",
+      "description": "This looks like a whole lot of coins, though not as many as you expected."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

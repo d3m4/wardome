@@ -1,0 +1,13 @@
+{
+  "id": 5005,
+  "alias": "bone leg",
+  "short_desc": "a large leg bone",
+  "long_desc": "A large leg bone rests on the ground.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 4 7",
+  "cost_raw": "5 300 60",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

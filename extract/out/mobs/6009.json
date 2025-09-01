@@ -1,0 +1,12 @@
+{
+  "id": 6009,
+  "alias": "robin",
+  "short_desc": "the robin",
+  "long_desc": "A robin is hopping around looking for bugs to eat.",
+  "detailed_desc": "",
+  "flags_raw": "The robin looks quite intent on finding a bug or worm to eat.",
+  "stats1_raw": "~",
+  "stats2_raw": "g 0 200 S",
+  "stats3_raw": "0 20 9 3d3+1 1d4+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

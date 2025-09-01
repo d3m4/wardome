@@ -1,0 +1,13 @@
+{
+  "id": 12016,
+  "alias": "sword quenched",
+  "short_desc": "a quenched sword",
+  "long_desc": "A very bloody, but quenched, sword has been left here.",
+  "action_desc": "",
+  "header_raw": "5 fmn 24577",
+  "values_raw": "0 3 5 3",
+  "cost_raw": "14 10000 4000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 5324,
+  "alias": "wand sun brass pipe",
+  "short_desc": "a blazing sun wand",
+  "long_desc": "A small length of brass pipe shines here with its own light.",
+  "action_desc": "",
+  "header_raw": "3 agp 16385",
+  "values_raw": "25 5 5 27",
+  "cost_raw": "10 25000 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "wand sun brass pipe",
+      "description": "This small brass shaft is a holy weapon used by the ancient people of \nthis land to defend against the deadliest of foes.  It shines with the \nbrilliant blazing light of the sun."
+    }
+  ],
+  "affects": [
+    {
+      "location": 21,
+      "modifier": -5
+    },
+    {
+      "location": 24,
+      "modifier": -5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

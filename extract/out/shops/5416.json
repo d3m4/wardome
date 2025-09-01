@@ -1,0 +1,39 @@
+{
+  "id": 5416,
+  "producing": [
+    5415,
+    5416,
+    5417,
+    5418,
+    5419,
+    5420,
+    5421
+  ],
+  "profit_buy": 1.3,
+  "profit_sell": 0.5,
+  "buy_types": [
+    "ARMOR"
+  ],
+  "messages": [
+    "%s Haven't got that on storage - try list!",
+    "%s You don't seem to have that.",
+    "%s I only buy armours.. Go away!",
+    "%s That is too expensive for me - Try a wizard!",
+    "%s You can't afford it!",
+    "%s That'll be %d coins, please.",
+    "%s You'll get %d coins for it!"
+  ],
+  "tail": [
+    2,
+    2,
+    5416,
+    40,
+    5529,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+}

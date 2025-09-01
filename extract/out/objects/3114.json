@@ -1,0 +1,13 @@
+{
+  "id": 3114,
+  "alias": "coins gold",
+  "short_desc": "a small pile of gold coins",
+  "long_desc": "A small pile of gold coins lies here.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "37 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

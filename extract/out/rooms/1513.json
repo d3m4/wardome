@@ -1,0 +1,29 @@
+{
+  "id": 1513,
+  "zone_id": 15,
+  "name": "Spiritual Danger",
+  "description": "Some evils are tangible, solid, so evident that they spit you right in\nthe face.  Others are more clever, more subtle, and it is these that present\nthe greatest danger.  Looking down the hall before you, a great fear fills\nyour heart, and a great, heavy longing.",
+  "header_raw": "15 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1514
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1506
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

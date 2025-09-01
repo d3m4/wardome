@@ -1,0 +1,18 @@
+{
+  "id": 12015,
+  "alias": "sword tempered",
+  "short_desc": "a tempered sword",
+  "long_desc": "A nasty looking tempered sword is lying here.",
+  "action_desc": "",
+  "header_raw": "5 bmn 8193",
+  "values_raw": "0 3 8 3",
+  "cost_raw": "16 15000 5000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

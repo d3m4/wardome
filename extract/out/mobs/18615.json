@@ -1,0 +1,12 @@
+{
+  "id": 18615,
+  "alias": "newbie smart",
+  "short_desc": "the smart newbie",
+  "long_desc": "A newbie is here, and he looks quite sure of himself.",
+  "detailed_desc": "",
+  "flags_raw": "Here is a guy who has it all together.  Nice equipment too, must have read",
+  "stats1_raw": "the help files, Eh?",
+  "stats2_raw": "~",
+  "stats3_raw": "68 0 500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

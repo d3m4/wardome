@@ -1,0 +1,12 @@
+{
+  "id": 5410,
+  "alias": "baker",
+  "short_desc": "the baker",
+  "long_desc": "The baker stands here playing solitaire.",
+  "detailed_desc": "",
+  "flags_raw": "You see a large man in a white apron covered in flour from head to toe.",
+  "stats1_raw": "~",
+  "stats2_raw": "blno d 100 S",
+  "stats3_raw": "35 0 0 1d1+30000 2d10+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

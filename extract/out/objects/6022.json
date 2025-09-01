@@ -1,0 +1,18 @@
+{
+  "id": 6022,
+  "alias": "egg blue robin",
+  "short_desc": "a blue robin's egg",
+  "long_desc": "A small bluish egg has been left here.",
+  "action_desc": "",
+  "header_raw": "19 0 1",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "1 10 0",
+  "extra_descriptions": [
+    {
+      "keywords": "egg blue robin",
+      "description": "It is small, but food nonetheless."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

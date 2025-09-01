@@ -1,0 +1,13 @@
+{
+  "id": 3500,
+  "alias": "sword small",
+  "short_desc": "a small sword",
+  "long_desc": "A small sword lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 6 11",
+  "cost_raw": "3 60 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/35.obj"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7212,
+  "zone_id": 72,
+  "name": "The Sewer Drain",
+  "description": "You are in a dry sewer drain which bends to the north.",
+  "header_raw": "72 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see the drain continuing north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7213
+    },
+    {
+      "dir": 3,
+      "description": "You can see the four-way junction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7210
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

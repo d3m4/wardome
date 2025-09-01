@@ -1,0 +1,12 @@
+{
+  "id": 2536,
+  "alias": "alchemist",
+  "short_desc": "the Mad Alchemist",
+  "long_desc": "The Mad Alchemist babbles something incomprehensible and attacks.",
+  "detailed_desc": "",
+  "flags_raw": "He looks like he has been quaffing too many potions.  His eyes dart",
+  "stats1_raw": "around wildly, and he starts to drool.",
+  "stats2_raw": "",
+  "stats3_raw": "The Mad Alchemist throws back his head and cackles with insane glee!",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

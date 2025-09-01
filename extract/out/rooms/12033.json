@@ -1,0 +1,45 @@
+{
+  "id": 12033,
+  "zone_id": 120,
+  "name": "Nero Drive",
+  "description": "You are walking on a paved road that runs north and south through the\ncity of Rome.  There are many people here, as polite as always.  Most of\nthem are either coming from or going to the town square which lies to the\nnorth.  Nero Drive continues to the south.  There is an observation area\noverlooking the aqueduct to the east and a paved road leads west.",
+  "header_raw": "120 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The town square lies in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12032
+    },
+    {
+      "dir": 1,
+      "description": "The aqueduct and mountain of the gods are in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12040
+    },
+    {
+      "dir": 2,
+      "description": "Nero Drive continues toward the South Gate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12034
+    },
+    {
+      "dir": 3,
+      "description": "A paved road runs west through the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

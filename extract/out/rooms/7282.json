@@ -1,0 +1,34 @@
+{
+  "id": 7282,
+  "zone_id": 72,
+  "name": "The Realm Of Lost Souls",
+  "description": "You are standing in nothing.  All around you there are stars.\nSometimes a shadow flies closely by you, wailing very loudly.  To\nthe north there is a small bright hole.  To the west there is a\nsmall red hole.",
+  "header_raw": "72 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You look into a very bright hole.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7283
+    },
+    {
+      "dir": 3,
+      "description": "You look into a red hole.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7281
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "shadow",
+      "description": "The shadow looks like a man in great pain."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

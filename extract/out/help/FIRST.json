@@ -1,0 +1,9 @@
+{
+  "keywords": [
+    "FIRST",
+    "AID"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Barbarian (108), Ranger (131), Thief (132)\n- Descricao: Esta skill permite que se aplique primeiros socorros em um player ou mob, restaurando um pequeno numero de HP. E util em casos como, por exemplo, um amigo tenha tomado golpes demais e ficado stunned/incapacitated/mortally wounded.\n- Numero de rounds necessarios para recuperacao do controle: \n- Exemplo de uso:\t> aid mordron\n\t\t\tYou succeed to stop some of the bleeding.\n\n- Observacoes: Nao e possivel usar estar skill durante uma luta.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

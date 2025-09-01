@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "autoexit"
+  ],
+  "aliases": [
+    "AUTOEXIT"
+  ],
+  "body": "Uso: autoexit\n\n    Liga ou desliga a exibicao automatica das saidas disponiveis no momento. Nem todas as \nsaidas possiveis serao exibidas, somente as imediatamente disponiveis. Se uma porta esta \nfechada ela nao aparecera como uma saida possivel.\n\n    Veja tambem: TOGGLE",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

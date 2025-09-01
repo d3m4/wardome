@@ -1,0 +1,12 @@
+{
+  "id": 1510,
+  "alias": "judas escariot apostle",
+  "short_desc": "Judas Escariot",
+  "long_desc": "The wayward apostle approaches slowly, extending his arms in a hug.",
+  "detailed_desc": "",
+  "flags_raw": "You see nothing but the sadness of a man who would sell his own God.",
+  "stats1_raw": "~",
+  "stats2_raw": "bc dk -1000 S",
+  "stats3_raw": "25 -3 -4 5d10+650 4d6+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5300,
+  "alias": "asp snake",
+  "short_desc": "the horrible asp",
+  "long_desc": "A small, poisonous asp slithers over your feet.",
+  "detailed_desc": "",
+  "flags_raw": "The asp is a small, smooth-scaled snake the color of worn pottery.",
+  "stats1_raw": "The poison bite of this snake has felled many a mighty pharoah.",
+  "stats2_raw": "~",
+  "stats3_raw": "afg 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/53.mob"
+}

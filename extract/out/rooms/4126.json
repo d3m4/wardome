@@ -1,0 +1,29 @@
+{
+  "id": 4126,
+  "zone_id": 40,
+  "name": "The Crawlway",
+  "description": "You are in a very narrow crawlway.  To back out of it, you would have\nto move carefully in order to not catch anything on the jutting rocks of\nthe ceiling and walls.  The diameter of the crawlway is about two feet,\nand is a rather tight squeeze.  You'd better hope that there aren't any\nworms or similar creatures down this way since it might be difficult to\ndefend yourself in here.",
+  "header_raw": "40 acdfgij 5",
+  "flags_text": "acdfgij",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see a small hole marking the north exit of the crawlway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4111
+    },
+    {
+      "dir": 2,
+      "description": "You can see the light emanating from the southern exit of the crawlway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4118
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

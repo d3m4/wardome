@@ -1,0 +1,26 @@
+{
+  "id": 15053,
+  "zone_id": 150,
+  "name": "The Top Of The Tower",
+  "description": "You have arrived at the top of the tower.  This tower is pretty\nuninteresting, and seems made purely for reasons of defence and \nguarding.  The windows are slits for bowmen, very narrow on the \noutward side and broad inwards to allow a wide shooting angle.\nThe only evident exit is down the stairs again.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The stairs go down to the second floor.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15049
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "window slit",
+      "description": "As you look out the windows, you are granted a view of the countryside."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

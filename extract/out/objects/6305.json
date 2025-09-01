@@ -1,0 +1,18 @@
+{
+  "id": 6305,
+  "alias": "potion thick white",
+  "short_desc": "a thick white potion",
+  "long_desc": "A thick white potion has been left here.",
+  "action_desc": "",
+  "header_raw": "10 g 1",
+  "values_raw": "25 15 35 19",
+  "cost_raw": "9 21000 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "potion thick white",
+      "description": "It is disgusting thick white gunk which looks like liquid web and smells like\nmedicine."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/63.obj"
+}

@@ -31,7 +31,8 @@
 # script.  Type "shutdown pause" from within the MUD to activate this feature.
 #
 
-dir_wdII=/home/wardome/wdII
+# Resolve dir_wdII relative to this script's location
+dir_wdII="$(cd "$(dirname "$0")" && pwd)"
 
 # The port on which to run the MUD
 PORT=2022
@@ -78,7 +79,7 @@ while ( : ) do
   mv $dir_wdII/log/syslog.5 $dir_wdII/log/syslog.4
   mv $dir_wdII/log/syslog.6 $dir_wdII/log/syslog.5
   mv $dir_wdII/syslog       $dir_wdII/log/syslog.6
-  touch syslog
+  touch "$dir_wdII/syslog"
 
   if [ ! -r .fastboot ]; then
     sleep 10

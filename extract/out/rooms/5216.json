@@ -1,0 +1,29 @@
+{
+  "id": 5216,
+  "zone_id": 52,
+  "name": "A Back Alley",
+  "description": "This alley leads to the rear of what used to be a meat stand.  You wince\nat the stench.  South is one of the city watchtowers.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the back-side of the market place meat stand.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5217
+    },
+    {
+      "dir": 2,
+      "description": "A tall watchtower stands a silent vigil over the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

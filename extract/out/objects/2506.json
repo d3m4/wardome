@@ -1,0 +1,18 @@
+{
+  "id": 2506,
+  "alias": "sandwich",
+  "short_desc": "a finger sandwich",
+  "long_desc": "A finger sandwich is here.",
+  "action_desc": "",
+  "header_raw": "19 q 1",
+  "values_raw": "20 0 0 0",
+  "cost_raw": "2 15 5",
+  "extra_descriptions": [
+    {
+      "keywords": "sandwich finger",
+      "description": "It would look quite tasty if someone had first removed the fingernails!"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

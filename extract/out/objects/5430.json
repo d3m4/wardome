@@ -1,0 +1,13 @@
+{
+  "id": 5430,
+  "alias": "sleeves studded leather",
+  "short_desc": "a pair of studded leather sleeves",
+  "long_desc": "A pair of studded leather sleeves lie here.",
+  "action_desc": "",
+  "header_raw": "9 0 257",
+  "values_raw": "3 0 0 0",
+  "cost_raw": "3 500 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

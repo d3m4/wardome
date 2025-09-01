@@ -1,0 +1,18 @@
+{
+  "id": 3302,
+  "alias": "zither",
+  "short_desc": "a big zither",
+  "long_desc": "A HUGE zither made of gold rests in the corner",
+  "action_desc": "",
+  "header_raw": "8 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "40 200000 20000",
+  "extra_descriptions": [
+    {
+      "keywords": "zither",
+      "description": "Someone truly huge with big fingers might be\nable to play this.  You can't."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

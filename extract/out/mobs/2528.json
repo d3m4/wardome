@@ -1,0 +1,12 @@
+{
+  "id": 2528,
+  "alias": "mage teacher",
+  "short_desc": "the spell teacher",
+  "long_desc": "A spell teacher is here relaxing.",
+  "detailed_desc": "",
+  "flags_raw": "The teacher looks to be worn out by a long day of magic working, difficult",
+  "stats1_raw": "spells, and inattentive students.",
+  "stats2_raw": "~",
+  "stats3_raw": "abg dk 200 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

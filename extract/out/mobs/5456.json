@@ -1,0 +1,12 @@
+{
+  "id": 5456,
+  "alias": "mage guildguard",
+  "short_desc": "the guildguard",
+  "long_desc": "The Guard for the Guild of Mages stand here.",
+  "detailed_desc": "",
+  "flags_raw": "This man looks like a mage/warrior, I wouldn't mess with him.",
+  "stats1_raw": "~",
+  "stats2_raw": "blno dhk 0 S",
+  "stats3_raw": "8 -1 -10 2d5+500 3d8+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

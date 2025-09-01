@@ -1,0 +1,45 @@
+{
+  "id": 3005,
+  "zone_id": 30,
+  "name": "The Temple Square",
+  "description": "You are standing on the temple square.  Huge marble steps lead up to the\ntemple gate.  The entrance to the Clerics' Guild is to the west, and the old\nGrunting Boar Inn, is to the east.  Just south of here you see the market\nsquare, the center of Midgaard.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the temple.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3001
+    },
+    {
+      "dir": 1,
+      "description": "You see the good old Grunting Boar Inn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3006
+    },
+    {
+      "dir": 2,
+      "description": "You see the Market Square.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3014
+    },
+    {
+      "dir": 3,
+      "description": "You see the entrance to the Clerics' Guild.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3004
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

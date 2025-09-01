@@ -1,0 +1,29 @@
+{
+  "id": 3046,
+  "zone_id": 30,
+  "name": "The Eastern End Of The Alley",
+  "description": "You are standing at the eastern end of the alley, the city wall is just\neast, blocking any further movement.  A small warehouse is directly south of\nhere.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the warehouse.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3050
+    },
+    {
+      "dir": 3,
+      "description": "You see the alley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3045
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3021,
+  "alias": "guildmaster master priest",
+  "short_desc": "the priests' guildmaster",
+  "long_desc": "Your guildmaster is prayer to your God here.",
+  "detailed_desc": "",
+  "flags_raw": "You are in no doubt that this guildmaster is truly close to your God; he",
+  "stats1_raw": "has a peaceful, loving look.  You notice that he is surrounded by a white",
+  "stats2_raw": "aura.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3081,
+  "alias": "pants leather",
+  "short_desc": "a pair of leather pants",
+  "long_desc": "A pair of leather pants is lying on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 33",
+  "values_raw": "3 0 0 0",
+  "cost_raw": "8 150 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

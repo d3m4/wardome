@@ -1,0 +1,29 @@
+{
+  "id": 7915,
+  "zone_id": 79,
+  "name": "The Chain Where It Is Too Windy",
+  "description": "Hanging on to the chain you figure out that there is no way of leaving\ndown from here.  The wind pulls you from left to right and back.  This\nseems like a totally impossible task.  The ascend is the only way ahead\nfor you.  Otherwise you would risk death by falling to the hard ground\nbelow.  DO NOT DESCEND NOW OR YOU WILL SURELY DIE!!!!",
+  "header_raw": "79 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "That way seems to be the only way away from here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7916
+    },
+    {
+      "dir": 5,
+      "description": "THAT WAY IS CERTAIN DEATH!!!!  You can see the wind tearing at the chain\ndown below you.  It swings like a furious serpent from side to side!  The\ndescent is ABSOLUTELY out of the QUESTION.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7920
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

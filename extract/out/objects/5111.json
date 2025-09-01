@@ -1,0 +1,18 @@
+{
+  "id": 5111,
+  "alias": "helmet small",
+  "short_desc": "a small helmet",
+  "long_desc": "A small helmet lies up against a rock.",
+  "action_desc": "",
+  "header_raw": "9 g 17",
+  "values_raw": "1 0 0 0",
+  "cost_raw": "5 6000 3000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/51.obj"
+}

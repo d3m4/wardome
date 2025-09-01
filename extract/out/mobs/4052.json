@@ -1,0 +1,12 @@
+{
+  "id": 4052,
+  "alias": "hobgoblin",
+  "short_desc": "the hobgoblin",
+  "long_desc": "A small hobgoblin stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The hobgoblin looks quite lost.",
+  "stats1_raw": "~",
+  "stats2_raw": "cg k -300 S",
+  "stats3_raw": "6 12 6 3d8+70 2d4+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12024,
+  "alias": "slimeball slime ball green",
+  "short_desc": "the slimeball",
+  "long_desc": "A green ball of slime is hanging over you, oozing downward.",
+  "detailed_desc": "",
+  "flags_raw": "There is a green 'ball' of slime oozing from the coating on the walls.",
+  "stats1_raw": "~",
+  "stats2_raw": "bcfqr dfk -500 E",
+  "stats3_raw": "12 9 2 3d4+145 2d6+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

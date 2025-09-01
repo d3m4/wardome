@@ -1,0 +1,12 @@
+{
+  "id": 5431,
+  "alias": "fatima elf invoker",
+  "short_desc": "Fatima",
+  "long_desc": "Fatima the Elven Invoker stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This female elf has dusky skin and black hair.  A combination you don't",
+  "stats1_raw": "see very often on elves.",
+  "stats2_raw": "~",
+  "stats3_raw": "gh d 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pc_class_types",
+  "values": [
+    "Sorcerer",
+    "Cleric",
+    "Thief",
+    "Warrior",
+    "Necromancer",
+    "Paladin",
+    "Ninja",
+    "Ranger",
+    "Psionicist",
+    "Warlock",
+    "Barbarian",
+    "Shaman",
+    "\n"
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/src/class.c"
+}

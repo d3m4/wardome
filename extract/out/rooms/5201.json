@@ -1,0 +1,45 @@
+{
+  "id": 5201,
+  "zone_id": 52,
+  "name": "Main Street",
+  "description": "This was once a magnificent street, but now is in total ruin.  The\nstreets are barren and windswept and the silence is unending.  To the south\nyou see a ruined cottage while north leads into a dark back alley.  Howls\nand screams echo through the deserted city.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It seems to be a dark alley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5239
+    },
+    {
+      "dir": 1,
+      "description": "The entrance to the city lies this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5200
+    },
+    {
+      "dir": 2,
+      "description": "A ruined shack lies to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5235
+    },
+    {
+      "dir": 3,
+      "description": "Main Street lies this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5202
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15002,
+  "alias": "ghost horrible",
+  "short_desc": "the horrible ghost",
+  "long_desc": "You hear a frightening wail, and see a horrible ghost approaching.",
+  "detailed_desc": "",
+  "flags_raw": "The ghost is almost translucent, and looks really SCARY!",
+  "stats1_raw": "~",
+  "stats2_raw": "bcefnopqr dks -700 S",
+  "stats3_raw": "15 6 -6 9d6+150 2d8+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

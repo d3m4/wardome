@@ -1,0 +1,22 @@
+{
+  "id": 5223,
+  "alias": "cloak green",
+  "short_desc": "a dark green cloak",
+  "long_desc": "A beautiful dark green cloak has been dropped here by someone.",
+  "action_desc": "",
+  "header_raw": "9 ag 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "12 14500 4000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 13,
+      "modifier": 8
+    },
+    {
+      "location": 17,
+      "modifier": -5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

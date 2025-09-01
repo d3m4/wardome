@@ -1,0 +1,18 @@
+{
+  "id": 18610,
+  "alias": "horns horn",
+  "short_desc": "the horns of the Minotaur",
+  "long_desc": "The horns of the great Minotaur lie here.",
+  "action_desc": "",
+  "header_raw": "9 8192 17",
+  "values_raw": "2 0 0 0",
+  "cost_raw": "8 100 0",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/186.obj"
+}

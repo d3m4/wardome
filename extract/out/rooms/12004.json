@@ -1,0 +1,34 @@
+{
+  "id": 12004,
+  "zone_id": 120,
+  "name": "The Southern Commoner's Seats",
+  "description": "This is the southeastern part of the common seating areas.  The benches\nhere are made of stone and are probably centuries old.  A few scratches on\none of the benches catch your eye.  An acrid smell is coming from the east\nand a tunnel leads off to the north.",
+  "header_raw": "120 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel looks like it leads to another seating area.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12003
+    },
+    {
+      "dir": 1,
+      "description": "There is an acrid smell coming from that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12011
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "marks scratches",
+      "description": "They look like they form the words \"Onivel Cinemod Semaj\"  But you could be\nmistaken."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

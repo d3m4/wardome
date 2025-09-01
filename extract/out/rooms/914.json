@@ -1,0 +1,34 @@
+{
+  "id": 914,
+  "zone_id": 9,
+  "name": "The Lane Of The Lying",
+  "description": "Bodies lie everywhere.  Commoner, peasant, duke, duchess.  The Gods\nwill not hear you call here.  Hence they will not answer you.  To the\nsouth the path ends at a dark cave entrance.\nA sign has been posted beside the entrance.",
+  "header_raw": "9 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 913
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 915
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign cave",
+      "description": "A sign beside the dark cave opening reads:\n\n   WARNING! Only fools and dead people pass this way.\n   The tests of Minos, our glorious ruler, await."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

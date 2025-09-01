@@ -1,0 +1,54 @@
+{
+  "id": 6070,
+  "zone_id": 60,
+  "name": "Off Of The Path In The Shaded Forest",
+  "description": "You are wandering amongst the trees in the light forest, without the aid\nof a path or trail.  More sunlight trickles through the treetops here, making\nyour travel a bit easier.  Small animals scurry away as you approach.  You\nare no longer on a path, so you may go whichever way you please.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The trees seem to part, exposing a trail into the shade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6078
+    },
+    {
+      "dir": 1,
+      "description": "The trees seem to part, exposing a trail into the shade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6070
+    },
+    {
+      "dir": 2,
+      "description": "The trees seem to part, exposing a trail into the shade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6061
+    },
+    {
+      "dir": 3,
+      "description": "The trees seem to part, exposing a trail into the shade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6072
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths",
+      "description": "The path is long behind you now... you aren't sure which direction it lies\nin anymore."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are younger here than to those to the west."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

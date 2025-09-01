@@ -1,0 +1,13 @@
+{
+  "id": 3076,
+  "alias": "cap leather",
+  "short_desc": "a leather cap",
+  "long_desc": "A leather cap is lying on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 17",
+  "values_raw": "3 0 0 0",
+  "cost_raw": "3 150 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

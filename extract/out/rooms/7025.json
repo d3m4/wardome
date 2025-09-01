@@ -1,0 +1,37 @@
+{
+  "id": 7025,
+  "zone_id": 70,
+  "name": "Another Intersection",
+  "description": "You have never seen anything so BORING... This is an intersection with\npipes leading north, south and east.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north there is an intersection, where the pipes are leading west and\neast.  You notice that the floor to the west is covered in mud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7024
+    },
+    {
+      "dir": 1,
+      "description": "East.  You see nothing of interest in that direction, just another \nintersection.  This one leads east and south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7038
+    },
+    {
+      "dir": 2,
+      "description": "Another intersection lies to the south.  It leads west and south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

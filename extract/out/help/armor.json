@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "armor"
+  ],
+  "aliases": [
+    "ARMOR"
+  ],
+  "body": "Syntax: cast 'armor' <target>\n\nArmor creates a magical protective field around the target, improving their\narmor class by 2 points. This is one of the most fundamental protective \nspells and is essential for survival in combat.\n\nClasses: Cleric, Mage\nLevel: 1 (Cleric), 4 (Mage)\nMana Cost: 5\nDuration: 24 hours\nPosition: Standing or Fighting\n\nThe armor spell can be cast on yourself or others. It provides basic magical\nprotection and is often the first spell learned by spellcasters.\n\nSee Also: BLESS, SANCTUARY",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

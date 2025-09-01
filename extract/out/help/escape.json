@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "escape"
+  ],
+  "aliases": [
+    "FLEE ESCAPE"
+  ],
+  "body": "&cSe voce estiver em uma luta e as coisas comecarem a ficar \ndesconfortaveis (talvez voce esteja morrendo), digite 'flee' ou \n'escape' e voce estara fora de perigo - isto e, SE houver uma saida \ndisponivel por perto, e SE essa saida nao mudar a sua situacao para \npior... mas, de qualquer modo, quem quer viver para sempre?\n\n&CExemplo:\n    &Yflee&c\n    &Yescape&c\n\n\n    &CVeja tambem: &rWIMPY&n",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

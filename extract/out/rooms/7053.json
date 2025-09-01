@@ -1,0 +1,50 @@
+{
+  "id": 7053,
+  "zone_id": 70,
+  "name": "The South End Of The Grand Pipe",
+  "description": "You stand in water to your knees.  A doorway leads west from here.  The\npipe stretches north.",
+  "header_raw": "70 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a lot of pictures decorating the walls.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7052
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door~ 1 -1 7047 S #7055 The Edge Of The Water Sewer~    You stand in a room where half of the floor is covered in water.  The water leads east and a doorway leads west.",
+      "door_flag": 70,
+      "key": null,
+      "to": 3
+    },
+    {
+      "dir": 1,
+      "description": "You can hardly make out much more than that the next place is in a pipe \nwith more water.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7061
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7050
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "water",
+      "description": "It looks dark and murky, and emanates a foul stench."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

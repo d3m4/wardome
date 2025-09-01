@@ -1,0 +1,12 @@
+{
+  "id": 5424,
+  "alias": "statue yama",
+  "short_desc": "the statue of Yama",
+  "long_desc": "The statue of Yama stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This is a statue of the God of Death.  It is covered with odd runes.",
+  "stats1_raw": "~",
+  "stats2_raw": "abelnopqr dhk 0 S",
+  "stats3_raw": "15 -10 -10 1d1+1200 6d10+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

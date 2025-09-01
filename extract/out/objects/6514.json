@@ -1,0 +1,18 @@
+{
+  "id": 6514,
+  "alias": "pick mining",
+  "short_desc": "a mining pick",
+  "long_desc": "There is a mining pick here.",
+  "action_desc": "",
+  "header_raw": "5 i 8193",
+  "values_raw": "0 2 3 11",
+  "cost_raw": "9 300 10",
+  "extra_descriptions": [
+    {
+      "keywords": "pick mining",
+      "description": "It looks almost blessed!"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

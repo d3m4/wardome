@@ -1,0 +1,12 @@
+{
+  "id": 5420,
+  "alias": "construction worker",
+  "short_desc": "the construction worker",
+  "long_desc": "A construction worker steadily works here.",
+  "detailed_desc": "",
+  "flags_raw": "A large sweaty looking man doesn't even return your glance.",
+  "stats1_raw": "~",
+  "stats2_raw": "bg 0 10 S",
+  "stats3_raw": "10 12 0 3d8+35 2d5+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

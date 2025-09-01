@@ -1,0 +1,29 @@
+{
+  "id": 4046,
+  "zone_id": 40,
+  "name": "Between The Mountains",
+  "description": "The trail between the mountains seems almost endless as you continue\nto trek along it.  It continues to both the east and west.",
+  "header_raw": "40 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The trail continues eastwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4047
+    },
+    {
+      "dir": 3,
+      "description": "The trail continues westwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4045
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

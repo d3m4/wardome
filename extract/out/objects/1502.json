@@ -1,0 +1,23 @@
+{
+  "id": 1502,
+  "alias": "sword blazing",
+  "short_desc": "a blazing sword",
+  "long_desc": "You are startled by the sight of a sword that glows as you approach it.",
+  "action_desc": "",
+  "header_raw": "5 abgkn an",
+  "values_raw": "0 3 4 11",
+  "cost_raw": "10 5000 900",
+  "extra_descriptions": [
+    {
+      "keywords": "sword blazing",
+      "description": "The edge of the blade is lined with writing, religious verse apparently, in\na fine, silver-laced and flowing script."
+    }
+  ],
+  "affects": [
+    {
+      "location": 13,
+      "modifier": -5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

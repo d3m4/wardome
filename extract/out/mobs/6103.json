@@ -1,0 +1,12 @@
+{
+  "id": 6103,
+  "alias": "wolf black",
+  "short_desc": "the large, black wolf",
+  "long_desc": "A large, black wolf is here, glaring hungrily at you.",
+  "detailed_desc": "",
+  "flags_raw": "The large, black wolf eyes you with interest while licking its lips.",
+  "stats1_raw": "~",
+  "stats2_raw": "fg k -150 S",
+  "stats3_raw": "3 18 7 1d12+45 1d7+3",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+}

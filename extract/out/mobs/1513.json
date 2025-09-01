@@ -1,0 +1,12 @@
+{
+  "id": 1513,
+  "alias": "umar second caliph",
+  "short_desc": "Umar",
+  "long_desc": "You see Umar, second of the Rashidun, the successors of the Prophet.",
+  "detailed_desc": "",
+  "flags_raw": "You are amazed at the piety of the man.  He looks at you in sadness,",
+  "stats1_raw": "saying: \"I do not wish to fight you, but if you refuse the truth of",
+  "stats2_raw": "the Word, then I must.\"",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

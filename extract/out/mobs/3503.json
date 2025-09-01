@@ -1,0 +1,12 @@
+{
+  "id": 3503,
+  "alias": "goblin leader",
+  "short_desc": "the goblin leader",
+  "long_desc": "The goblin leader surveys the room.",
+  "detailed_desc": "",
+  "flags_raw": "The leader doesn't look too happy that you have found him here.  He grabs",
+  "stats1_raw": "for his shortsword and lunges for your neck.",
+  "stats2_raw": "~",
+  "stats3_raw": "bcjlm dk -900 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+}

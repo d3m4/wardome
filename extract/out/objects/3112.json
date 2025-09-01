@@ -1,0 +1,18 @@
+{
+  "id": 3112,
+  "alias": "key city",
+  "short_desc": "the City Key",
+  "long_desc": "The very big City Key is lying here.",
+  "action_desc": "",
+  "header_raw": "18 c 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "30 10000 500",
+  "extra_descriptions": [
+    {
+      "keywords": "key city",
+      "description": "It is probably the biggest key you have seen in your life.  It is made from\npolished gold and has various patterns on it along with the Midgaard Coat of\nArms."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

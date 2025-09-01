@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "news"
+  ],
+  "aliases": [],
+  "body": "INFO NEWS POLICY VERSION\n\n    Estes comandos mostram informacoes importantes sobre o MUD. E uma boa \nideia verifica-los de vez em quando.\n\n   info     - informacoes uteis sobre o jogo para iniciantes\n   news     - ultimas mudancas no codigo e nas areas\n   policy   - politicas de topicos como matanca de players\n   credits  - as pessoas que tornaram o MUD possivel!\n   version  - mostra a versao atual do CircleMUD",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15012,
+  "alias": "vial large potion brown",
+  "short_desc": "a large vial",
+  "long_desc": "A large vial has been left here.",
+  "action_desc": "",
+  "header_raw": "10 g 1",
+  "values_raw": "15 15 -1 -1",
+  "cost_raw": "14 2000 2000",
+  "extra_descriptions": [
+    {
+      "keywords": "vial large brown potion",
+      "description": "It is filled with a disgusting brown liquid."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

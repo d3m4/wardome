@@ -1,0 +1,45 @@
+{
+  "id": 5202,
+  "zone_id": 52,
+  "name": "Main Street",
+  "description": "This was once a magnificent street, but now is in total ruin.  The\nstreets are barren and windswept and the silence is unending.  On one\nside is a collapsed house while on the other is the entrance to a large\nruined mansion.  Eerie sounds echo within the mansion.  Near the center of \ntown you see a large domed building, relatively intact.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The remnants of a store lie this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5236
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5201
+    },
+    {
+      "dir": 2,
+      "description": "It looks like what used to be the main building in the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5232
+    },
+    {
+      "dir": 3,
+      "description": "A withered garden path lies this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

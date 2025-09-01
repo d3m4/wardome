@@ -1,0 +1,21 @@
+{
+  "id": 15069,
+  "zone_id": 150,
+  "name": "A House",
+  "description": "This darkened room is barely lit by the outdoor light, but what\nyou can see of it gives you the creeps.  There are cobwebs dangling\nfrom everything, a thick layer of dust begins to rise up at your\npassage, and a strange howl comes from somewhere around you.  The\nfurniture in this house is old and of a type that hasn't been seen\naround these lands for some time.  If it was in better shape, you\nmight be able to sell it as antique.\n   The meager light of the road shines through the doorway to the\nwest.",
+  "header_raw": "150 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You can see the dirt road through the doorway to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15065
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2519,
+  "zone_id": 25,
+  "name": "The Magic Shop",
+  "description": "You are in the High Tower's store of magic.  This place sells all\nsorts of herbs, parchment and other reagents used in magical studies.\n   The only exit leads back east to the common room.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2514
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

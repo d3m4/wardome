@@ -1,0 +1,12 @@
+{
+  "id": 5467,
+  "alias": "horse",
+  "short_desc": "the horse",
+  "long_desc": "A horse stands here.",
+  "detailed_desc": "",
+  "flags_raw": "You see one of the fine Arabian beasts known about the land.",
+  "stats1_raw": "~",
+  "stats2_raw": "bgh 0 0 S",
+  "stats3_raw": "4 20 50 10d1+1 2d4+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4005,
+  "alias": "orc large",
+  "short_desc": "the orc",
+  "long_desc": "A large orc is here, looking really mean.",
+  "detailed_desc": "",
+  "flags_raw": "He looks dreadful.",
+  "stats1_raw": "~",
+  "stats2_raw": "cg k -500 S",
+  "stats3_raw": "7 11 2 3d20+75 2d6+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

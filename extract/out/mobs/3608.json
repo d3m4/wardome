@@ -1,0 +1,12 @@
+{
+  "id": 3608,
+  "alias": "black queen",
+  "short_desc": "the Black Queen",
+  "long_desc": "The Black Queen stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The Black Queen is a strikingly beautiful woman with pale skin and a",
+  "stats1_raw": "mass of dark hair that crowns her head like a black cloud.  If looks",
+  "stats2_raw": "could kill, you would already be dead.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

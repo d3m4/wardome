@@ -1,0 +1,12 @@
+{
+  "id": 3103,
+  "alias": "cityguard guard",
+  "short_desc": "the upset cityguard",
+  "long_desc": "A cityguard stands here, looking very upset.",
+  "detailed_desc": "",
+  "flags_raw": "A big, strong, angry guard.",
+  "stats1_raw": "~",
+  "stats2_raw": "bcf 0 1000 S",
+  "stats3_raw": "10 10 2 1d12+123 1d8+3",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+}

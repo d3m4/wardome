@@ -1,0 +1,12 @@
+{
+  "id": 3009,
+  "alias": "wally watermaster",
+  "short_desc": "Wally the Watermaster",
+  "long_desc": "Wally the Watermaster is standing behind the counter.",
+  "detailed_desc": "",
+  "flags_raw": "Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard",
+  "stats1_raw": "Natural Spring Water in his hand.  When he notices you, he proudly",
+  "stats2_raw": "displays his fine collection of contemporary waters.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

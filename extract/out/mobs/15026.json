@@ -1,0 +1,12 @@
+{
+  "id": 15026,
+  "alias": "jerry guard royal",
+  "short_desc": "Jerry",
+  "long_desc": "Jerry the Royal Guard is here off duty, playing dice.",
+  "detailed_desc": "",
+  "flags_raw": "As all members of the Guard, Jerry wears the chain mail required",
+  "stats1_raw": "of them as uniform.  He seems very well trained, and moves like",
+  "stats2_raw": "an experienced fighter.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

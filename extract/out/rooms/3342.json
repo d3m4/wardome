@@ -1,0 +1,29 @@
+{
+  "id": 3342,
+  "zone_id": 33,
+  "name": "A Rocky Slope",
+  "description": "You're slipping and sliding across this slope, trying to\nget to your destination without breaking your leg or falling\nand shattering your head.  Below, you spot some movement in\nthe village, giving proof the place is not a ghost-town.\n   The main road of the village starts at the bottom of \nthe slope just to the east, and the slope continues west\nand up far, far up the mountain.",
+  "header_raw": "33 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3343
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3341
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

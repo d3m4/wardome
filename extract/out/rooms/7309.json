@@ -1,0 +1,29 @@
+{
+  "id": 7309,
+  "zone_id": 73,
+  "name": "The Hot Room",
+  "description": "You are very surprised, as this room for a change are hot instead of\ncold.  To the north it goes downwards into some mud.  There are also an\nexit to the west.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a lot of mud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7307
+    },
+    {
+      "dir": 3,
+      "description": "You see a entrance to a small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7310
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

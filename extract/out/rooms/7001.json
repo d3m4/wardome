@@ -1,0 +1,26 @@
+{
+  "id": 7001,
+  "zone_id": 70,
+  "name": "The Muddy Sewer",
+  "description": "You are standing in mud to your knees.  This is not the kind of place\nfor a picnic.  The muddy sewer stretches further into the south.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the muddy sewer continuing into the darkness to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7002
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

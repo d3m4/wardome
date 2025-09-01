@@ -1,0 +1,12 @@
+{
+  "id": 4057,
+  "alias": "lion mountain",
+  "short_desc": "the mountain lion",
+  "long_desc": "A mountain lion is here, growling at you viciously.",
+  "detailed_desc": "",
+  "flags_raw": "The lion looks very nasty with huge claws and big teeth.",
+  "stats1_raw": "~",
+  "stats2_raw": "fg k -100 S",
+  "stats3_raw": "5 16 5 1d10+60 2d4+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

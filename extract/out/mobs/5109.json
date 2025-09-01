@@ -1,0 +1,12 @@
+{
+  "id": 5109,
+  "alias": "drider",
+  "short_desc": "the drider",
+  "long_desc": "The drider looks at you viciously while it draws its sword.",
+  "detailed_desc": "",
+  "flags_raw": "This half-spider, half-drow creature is a formidable opponent.",
+  "stats1_raw": "~",
+  "stats2_raw": "fgno dkp -1000 S",
+  "stats3_raw": "8 12 2 1d6+195 2d6+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

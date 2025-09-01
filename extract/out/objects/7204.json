@@ -1,0 +1,18 @@
+{
+  "id": 7204,
+  "alias": "potion blue neon",
+  "short_desc": "a neon blue potion",
+  "long_desc": "A neon blue potion stands on the floor.",
+  "action_desc": "",
+  "header_raw": "10 g 1",
+  "values_raw": "14 6 15 16",
+  "cost_raw": "4 100 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "potion blue",
+      "description": "In the flask is a transparent electric blue liquid."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/72.obj"
+}

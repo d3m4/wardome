@@ -1,0 +1,26 @@
+{
+  "id": 3554,
+  "zone_id": 35,
+  "name": "A Small Alcove",
+  "description": "A small alcove has been carved out here.  There are a bunch of twigs\nand leaves thrown into a pile here, probably serving as a bed.",
+  "header_raw": "35 a 1",
+  "flags_text": "a",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see the main passageway.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3553
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "twigs leaves bead",
+      "description": "The twigs and leaves have all been piled together as a makeshift bed for\nsome small humanoid."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

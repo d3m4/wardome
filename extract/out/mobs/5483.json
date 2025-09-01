@@ -1,0 +1,12 @@
+{
+  "id": 5483,
+  "alias": "patch bartender",
+  "short_desc": "Patch the bartender",
+  "long_desc": "A large half-orc with a patch over one eye pours beer behind the counter.",
+  "detailed_desc": "",
+  "flags_raw": "You see a really big guy here who seems to have lost an eye in one manner",
+  "stats1_raw": "or another.",
+  "stats2_raw": "~",
+  "stats3_raw": "blno d -500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

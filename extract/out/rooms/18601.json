@@ -1,0 +1,29 @@
+{
+  "id": 18601,
+  "zone_id": 186,
+  "name": "The Beginning Of The Passage",
+  "description": "You find yourself entering a long corridor.  You can hear the sound\nof creatures roaming about, but you can't tell where the sound emanates\nfrom exactly.\n   Exits lead to the east along the hallway, and south back to the\nentrance.",
+  "header_raw": "186 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "More of the hallway there... how exciting!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18602
+    },
+    {
+      "dir": 2,
+      "description": "The entrance to the newbie zone... how dull",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18600
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

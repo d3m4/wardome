@@ -1,0 +1,12 @@
+{
+  "id": 3093,
+  "alias": "rottweiler",
+  "short_desc": "the rottweiler",
+  "long_desc": "A large, loyal rottweiler is here.",
+  "detailed_desc": "",
+  "flags_raw": "The rottweiler looks like a strong, fierce fighter.",
+  "stats1_raw": "~",
+  "stats2_raw": "bco 0 0 E",
+  "stats3_raw": "3 18 7 1d12+35 1d7+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

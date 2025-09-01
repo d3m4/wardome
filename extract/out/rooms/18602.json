@@ -1,0 +1,29 @@
+{
+  "id": 18602,
+  "zone_id": 186,
+  "name": "The Dirty Hallway",
+  "description": "You continue wandering down the hallway.  Nothing much different here,\nbut you are positive you here noises behind the door to the south, and\ncoming from the east.  The walls are a bit slimy and moldy here... yeech,\ncouldn't they hire someone to clean this place?  What will the newbies\nthink?  Oh well, you can continue along the hallway to the east or west.",
+  "header_raw": "186 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "More of the hallway there... how exciting!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18603
+    },
+    {
+      "dir": 2,
+      "description": "A small room lies to the south... you hear something moving about inside.",
+      "keywords": "door~ 1 -1 18606 D3 More of the hallway there... how exciting!",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

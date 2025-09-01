@@ -1,0 +1,37 @@
+{
+  "id": 5312,
+  "zone_id": 53,
+  "name": "A Tiny Crawlway",
+  "description": "You have to go down onto your hands and knees to fit inside this tiny\nspace.  The crawlway is thick with sand and dust, and markings of the\npassage of other creatures.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The crawlway continues to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5313
+    },
+    {
+      "dir": 2,
+      "description": "The crawlway ends to the south in a musty chamber.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5309
+    },
+    {
+      "dir": 4,
+      "description": "A small hole above your head leads into a dank chamber.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5337
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

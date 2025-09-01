@@ -1,0 +1,29 @@
+{
+  "id": 1522,
+  "zone_id": 15,
+  "name": "The Light of the Rashidun",
+  "description": "The end of the Rashidun was the beginning of Schism.  The memories\nof the Prophet and the living example of the Caliphs proved to be\ninsufficient example to the faithful.  Ali died, and some say that\nwith him the Caliphate died too, a martyr, his blood still flowing in\nthe nameless river.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1531
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1521
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3338,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "The tunnel weaves around, twisting to the north and \nwest here.  The darkness around you is near total.  Ahead, \nyou hear the sounds of something metal banging against \nstone.  Could someone be mining out the tunnel, perhaps?",
+  "header_raw": "33 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3339
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3337
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12008,
+  "alias": "coach trainer",
+  "short_desc": "the coach",
+  "long_desc": "There is a coach standing here, going over last minute strategy.",
+  "detailed_desc": "",
+  "flags_raw": "As you try to look over his shoulder and listen in on his mumbling,",
+  "stats1_raw": "he looks up at you and gives you a glare that chills you to the",
+  "stats2_raw": "bone.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 12059,
+  "zone_id": 120,
+  "name": "A Mountain Path",
+  "description": "You are standing on a path that leads up through a stand of large trees.  \nEverything is green and it seems like eternal spring - this is Mother Nature\nat her finest.  It is possible to descend into a tranquil valley from here.",
+  "header_raw": "120 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The path leads further up the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12056
+    },
+    {
+      "dir": 5,
+      "description": "The path widens out into a tranquil valley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12058
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trees",
+      "description": "The trees are old and tower hundreds of feet above the ground.  If you stand\nstill and listen carefully, you can hear the birds singing."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

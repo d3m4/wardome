@@ -1,0 +1,34 @@
+{
+  "id": 7003,
+  "zone_id": 70,
+  "name": "The Mudhole",
+  "description": "You stand in mud all the way up to your thighs and it is not too \ncomfortable since you are used to a somewhat different environment.\nThe sewer leads to the north of here.  In the middle you can just\nmake out an enormous drainpipe leading down.",
+  "header_raw": "70 acd 5",
+  "flags_text": "acd",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  The muddy junction lies in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7002
+    },
+    {
+      "dir": 5,
+      "description": "The muddy drainpipe leads down through the mud, otherwise it is utterly dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7101
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

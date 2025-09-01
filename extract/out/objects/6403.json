@@ -1,0 +1,13 @@
+{
+  "id": 6403,
+  "alias": "jade jewel",
+  "short_desc": "a piece of jade",
+  "long_desc": "A small jewel gleams here.",
+  "action_desc": "",
+  "header_raw": "8 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 10000 1000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

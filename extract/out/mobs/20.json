@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "alias": "elemental",
+  "short_desc": "the elemental",
+  "long_desc": "An elemental is standing patiently here.",
+  "detailed_desc": "",
+  "flags_raw": "This creature is the essence of the elements, and appears to be",
+  "stats1_raw": "waiting patiently for something to occur.",
+  "stats2_raw": "~",
+  "stats3_raw": "b 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/0.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7041,
+  "alias": "hag sea",
+  "short_desc": "the sea hag",
+  "long_desc": "A sea hag is here, swimming around.",
+  "detailed_desc": "",
+  "flags_raw": "The sea hag is so ghastly looking that you feel the deepest fear:  Big",
+  "stats1_raw": "yellow eyes and sharp teeth.  Its ears are very big, and it has small",
+  "stats2_raw": "sharp horns.  This beast is obviously a hater of beauty.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

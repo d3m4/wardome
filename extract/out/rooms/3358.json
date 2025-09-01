@@ -1,0 +1,21 @@
+{
+  "id": 3358,
+  "zone_id": 33,
+  "name": "The Reception",
+  "description": "A hall leads away to the west lined with small brown\ndoors.  A small table has a ledger on it, seemingly\nalmost unused.  The hall is plain and without any \ndecoration, except for a nice painting of (what else)\na mountain hanging above the stairs that lead back\ndown to the inn proper.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3356
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

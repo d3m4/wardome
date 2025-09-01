@@ -1,0 +1,13 @@
+{
+  "id": 2524,
+  "alias": "key silvery",
+  "short_desc": "a silvery key",
+  "long_desc": "A silvery key has been left here.",
+  "action_desc": "",
+  "header_raw": "18 cdq 1",
+  "values_raw": "2524 0 0 0",
+  "cost_raw": "1 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

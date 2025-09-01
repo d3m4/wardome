@@ -1,0 +1,21 @@
+{
+  "id": 12055,
+  "zone_id": 120,
+  "name": "The Judge's Chambers",
+  "description": "You are in a small room that is filled with legal tombs.  There is a\nsmall desk here, literally buried under legal documents.  There is also\na small window overlooking the northern part of the city.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The courtroom lies in that direction.",
+      "keywords": "door~ 1 12039 12050 E tombs books~ The books are very large and filled with Roman legal precedent.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

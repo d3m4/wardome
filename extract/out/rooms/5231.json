@@ -1,0 +1,29 @@
+{
+  "id": 5231,
+  "zone_id": 52,
+  "name": "The South Wing Of The City Hall",
+  "description": "You stand in a large room attached to this end of the hallway which \nleads back north to the reception area.  Pedestals and columns have fallen\nand most of the valuable items have been taken, leaving worthless debris.\nA few chairs have survived, as well as a large curved desk.  To the east\nis a vine-covered archway leading out into a private courtyard.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The long hallway leads back to the main reception area of the city hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5232
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5234
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

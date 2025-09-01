@@ -1,0 +1,12 @@
+{
+  "id": 3312,
+  "alias": "waiter",
+  "short_desc": "a waiter",
+  "long_desc": "A waiter rushes by, intent on his business.",
+  "detailed_desc": "",
+  "flags_raw": "He looks harried from the way he hastily takes orders and",
+  "stats1_raw": "rushes in the back to get food, and to the bar for drinks.",
+  "stats2_raw": "He doesn't even spare you a glance as he passes by.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

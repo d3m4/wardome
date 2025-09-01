@@ -1,0 +1,13 @@
+{
+  "id": 5455,
+  "alias": "jacket silk",
+  "short_desc": "a silk jacket",
+  "long_desc": "A nicely made silk jacket lies here.",
+  "action_desc": "",
+  "header_raw": "9 0 1025",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 3800 100",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

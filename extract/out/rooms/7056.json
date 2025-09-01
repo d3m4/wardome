@@ -1,0 +1,29 @@
+{
+  "id": 7056,
+  "zone_id": 70,
+  "name": "The Dark Hallway",
+  "description": "You can't see much of this, even with a light.  The hallway goes into a\npassageway to the south.  A doorway leads west.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can see nothing at all because it is completely dark in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7057
+    },
+    {
+      "dir": 3,
+      "description": "You see a lot of light, bright as daylight, but nothing of interest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7052
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

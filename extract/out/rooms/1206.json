@@ -1,0 +1,21 @@
+{
+  "id": 1206,
+  "zone_id": 12,
+  "name": "The Social Gathering Room",
+  "description": "This elegantly decorated room has one simple purpose.  To socialize with\neveryone else around in one central location.",
+  "header_raw": "12 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The Immortal Board Room is just down through the floor.  Funny how you\ndidn't notice that exit before isn't it?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1204
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/12.wld"
+}

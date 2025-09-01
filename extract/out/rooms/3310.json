@@ -1,0 +1,37 @@
+{
+  "id": 3310,
+  "zone_id": 33,
+  "name": "A Small Plateau",
+  "description": "You are standing upon another mini-plateau, bordered by\na sheer wall of rock to the north.  You can climb up the \nslope to the east, or continue along the flat area to the \nwest.  Another slope leads downwards to the south, looking\nunsafe but climbable.",
+  "header_raw": "33 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3309
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3314
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3311
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

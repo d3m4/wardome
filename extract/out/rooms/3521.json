@@ -1,0 +1,42 @@
+{
+  "id": 3521,
+  "zone_id": 35,
+  "name": "The Carnage",
+  "description": "Here, you see a gruesome sight.  Blood is everywhere... on the trees and\nsoaked into the ground.  Two carcasses lie in front of you, seeming to look\nup at you.  The forest is impassible to the south, but the other directions\nlook ok.",
+  "header_raw": "35 1 3",
+  "flags_text": "1",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Darkness...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3519
+    },
+    {
+      "dir": 1,
+      "description": "Your light does not extend that far.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3523
+    },
+    {
+      "dir": 3,
+      "description": "More dark forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3522
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "carcass body corpse carcasses bodies corpses",
+      "description": "The corpses looked as if they have been pierced by a large, jagged\nspear.  The damage these people sustained is simply amazing.  Worse,\nthe lips on the bodies are a light shade of blue, hinting at poison\nin their systems."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

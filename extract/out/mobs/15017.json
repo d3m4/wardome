@@ -1,0 +1,12 @@
+{
+  "id": 15017,
+  "alias": "woman cleaning",
+  "short_desc": "the Cleaning Woman",
+  "long_desc": "There is a Cleaning Woman here, trying not be noticed.",
+  "detailed_desc": "",
+  "flags_raw": "Although she has a menial job, she seems to like it.",
+  "stats1_raw": "~",
+  "stats2_raw": "ag 0 800 S",
+  "stats3_raw": "1 20 9 4d6+1 1d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

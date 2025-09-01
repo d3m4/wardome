@@ -1,0 +1,13 @@
+{
+  "id": 5478,
+  "alias": "scroll recall",
+  "short_desc": "a scroll of recall",
+  "long_desc": "A scroll of recall lies here.",
+  "action_desc": "",
+  "header_raw": "2 g 16385",
+  "values_raw": "12 42 -1 -1",
+  "cost_raw": "4 2000 25",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

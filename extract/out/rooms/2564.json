@@ -1,0 +1,45 @@
+{
+  "id": 2564,
+  "zone_id": 25,
+  "name": "The Spellmasters' Lounge",
+  "description": "You are in a large comfortable looking lounge.  Off duty spell teachers\nare here relaxing in their idle time.  A large coffee machine is against\nthe far wall.\n   The only apparent exit leads back west to the hallway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden~ 1 -1 2562 S #2565 A Bedroom~    You are in a large, plush bedroom.  The owner is obviously someone of high standing in the magical community here.  An ice mirror is on one wall, and a scrying globe sit on a stand in the middle of the room.  An enormous bed can be seen floating about a meter above the floor.    The only exit leads back west to the hallway.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door wooden~ 1 -1 2563 S #2566 A Hallway~    You are in a long hallway leading north and south.  The walls emit a faint magical glow providing enough light to see by.    A glass door can be seen to the east.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2568
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door glass~ 1 -1 2567 D2",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 18604,
+  "alias": "keeper guard monster",
+  "short_desc": "the Newbie Guard",
+  "long_desc": "The Newbie Guard is here wondering where that dragon went.",
+  "detailed_desc": "",
+  "flags_raw": "The Guard also had the job of taking care of the Alchemist's pet dragon,",
+  "stats1_raw": "but he doesn't seem to be doing a good job of it.  He looks at you and",
+  "stats2_raw": "says, 'Have you seen that dragon?  Master will have my head if I don't find",
+  "stats3_raw": "him.'",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

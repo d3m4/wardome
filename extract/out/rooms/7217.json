@@ -1,0 +1,46 @@
+{
+  "id": 7217,
+  "zone_id": 72,
+  "name": "The Half-Dry Drain",
+  "description": "You are in a half-dry sewer drain.  To the north the drain runs a little\nbit downwards into some water to the east you can see a small hole.  To the\nwest you see another drain.",
+  "header_raw": "72 ad 4",
+  "flags_text": "ad",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the drain running down into some water.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7216
+    },
+    {
+      "dir": 1,
+      "description": "Through the hole you can just make out a very small room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7218
+    },
+    {
+      "dir": 3,
+      "description": "You see a drain running to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7219
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "water",
+      "description": "The water is dirty but it looks like you would be able to swim in it."
+    },
+    {
+      "keywords": "hole",
+      "description": "Through the hole you can just make out a very small room."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

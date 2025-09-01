@@ -1,0 +1,12 @@
+{
+  "id": 909,
+  "alias": "hag sea",
+  "short_desc": "the sea hag",
+  "long_desc": "You notice the face of an ugly hag in the sea weeds.",
+  "detailed_desc": "",
+  "flags_raw": "The sea hag is terribly fightful and has razor sharp teeth.",
+  "stats1_raw": "~",
+  "stats2_raw": "fg dkp -700 S",
+  "stats3_raw": "4 16 6 4d4+35 2d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+}

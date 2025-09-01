@@ -1,0 +1,29 @@
+{
+  "id": 3366,
+  "zone_id": 33,
+  "name": "Near The Peak",
+  "description": "This is as close to the peak as you're going to get, \nunless you use that tiny, tiny path leading up to your \nnorth.  Up the side of the mountain you see a great cave \nhollowed out, the inside pitch black.  The path leads down \nthe mountains to your east, which seems to be the best \nplace to go.",
+  "header_raw": "33 gj 5",
+  "flags_text": "gj",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3367
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3365
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

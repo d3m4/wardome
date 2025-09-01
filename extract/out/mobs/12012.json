@@ -1,0 +1,12 @@
+{
+  "id": 12012,
+  "alias": "peddler",
+  "short_desc": "the peddler",
+  "long_desc": "A poor peddler is standing here, trying to support his meager existence.",
+  "detailed_desc": "",
+  "flags_raw": "You see a small, dirty man who doesn't look very healthy.",
+  "stats1_raw": "~",
+  "stats2_raw": "bghn 0 250 S",
+  "stats3_raw": "4 17 6 3d4+40 1d8+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

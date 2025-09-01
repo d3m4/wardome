@@ -1,0 +1,18 @@
+{
+  "id": 7920,
+  "alias": "plates arm silvery silver",
+  "short_desc": "some silvery arm plates",
+  "long_desc": "On the floor you see some arm plates.",
+  "action_desc": "",
+  "header_raw": "9 gkl 257",
+  "values_raw": "7 7000 0 0",
+  "cost_raw": "40 12500 5000",
+  "extra_descriptions": [
+    {
+      "keywords": "plates arm silvery silver",
+      "description": "They seem to be made from silver or platinum.  You see the outline of a\nrose."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

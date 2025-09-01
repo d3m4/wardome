@@ -1,0 +1,29 @@
+{
+  "id": 4045,
+  "zone_id": 40,
+  "name": "The Steep Trail",
+  "description": "This trail leads up a steep hill to a point where it levels out as\nit begins to pass between the mountains that surround you.  It continues\nthrough the hills to the east and heads down to the valley to the west.",
+  "header_raw": "40 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The rocky trail continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4046
+    },
+    {
+      "dir": 3,
+      "description": "The valley lies at the bottom of the steep trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4031
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

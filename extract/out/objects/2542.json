@@ -1,0 +1,18 @@
+{
+  "id": 2542,
+  "alias": "boots worn",
+  "short_desc": "a pair of old boots",
+  "long_desc": "A pair of old boots is here, they look very comfortable.",
+  "action_desc": "",
+  "header_raw": "9 g 65",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "2 3500 900",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 14,
+      "modifier": 15
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

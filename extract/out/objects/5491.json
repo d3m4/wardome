@@ -1,0 +1,13 @@
+{
+  "id": 5491,
+  "alias": "seed sesame",
+  "short_desc": "a sesame seed",
+  "long_desc": "A sesame seed lies here.",
+  "action_desc": "",
+  "header_raw": "19 0 16385",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "1 10 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

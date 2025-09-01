@@ -1,0 +1,37 @@
+{
+  "id": 7221,
+  "zone_id": 72,
+  "name": "The Sewer Drain",
+  "description": "You are in a sewer drain, there is nothing special in here, except for a \nloud echo.",
+  "header_raw": "72 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can see another sewer drain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7222
+    },
+    {
+      "dir": 3,
+      "description": "You can make out a sewer drain to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7220
+    },
+    {
+      "dir": 4,
+      "description": "You can see a sewer line.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7129
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

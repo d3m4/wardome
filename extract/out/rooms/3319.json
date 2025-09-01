@@ -1,0 +1,29 @@
+{
+  "id": 3319,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "The passage turns here, one end leading south, towards \nthe cave's entrance, and east -- that much deeper into the\nmountain.  The light sconces keep the area bright enough \nto see, but not nearly bright enough for you to be quite \ncomfortable in this strange place.  From far off you hear \nthe echoes of what sound to be voices.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3320
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3318
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

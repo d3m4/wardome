@@ -1,0 +1,12 @@
+{
+  "id": 12018,
+  "alias": "gateguard guard",
+  "short_desc": "the gateguard",
+  "long_desc": "A gateguard stands here, tending the gate.",
+  "detailed_desc": "",
+  "flags_raw": "You see a strong, loyal public defender.",
+  "stats1_raw": "~",
+  "stats2_raw": "abcel 0 1000 S",
+  "stats3_raw": "11 10 2 3d6+130 1d6+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

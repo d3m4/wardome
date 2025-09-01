@@ -1,0 +1,22 @@
+{
+  "id": 2585,
+  "alias": "ivory dagger",
+  "short_desc": "an ivory hilted dagger",
+  "long_desc": "An ivory hilted dagger has been left here",
+  "action_desc": "",
+  "header_raw": "5 gikl 8193",
+  "values_raw": "0 2 6 11",
+  "cost_raw": "8 12000 1500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 1
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

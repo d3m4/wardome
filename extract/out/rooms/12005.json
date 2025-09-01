@@ -1,0 +1,74 @@
+{
+  "id": 12005,
+  "zone_id": 120,
+  "name": "The Abandoned Gate",
+  "description": "This used to be a gateway to and from western Rome.  There is an iron gate\nblocking your way and judging by the amount of rust and foliage growing on the\nbars, it hasn't been open for years.  Looking through the gate at the barren\nlandscape that lies beyond, you can see why.  A dirt road leads off to the \neast, and a store is directly south.",
+  "header_raw": "120 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the clouds of dust, you can make out a passable road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12012
+    },
+    {
+      "dir": 2,
+      "description": "You can barely make out a storefront through the foliage.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12006
+    },
+    {
+      "dir": 3,
+      "description": "The gate has been permanently rusted shut and is further secured by a large \nchain and padlock.  Don't even bother THINKING about trying to open it.",
+      "keywords": "gate~ 2 -1 -1 E gate~ The gate has been permanently rusted shut and is further secured by a large  chain and padlock.  Don't even bother THINKING about trying to open it.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 0,
+      "description": "You can see a city gate to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12005
+    },
+    {
+      "dir": 2,
+      "description": "There is a very secure looking door blocking your progress.",
+      "keywords": "door~ 2 12034 12007 E swords weapons armor halberds whips~ Titus has enough hardware in here to outfit a large army.  Maybe that's why he has a lucrative contract to sell weapons to the Emperor's armies for  outrageous prices.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 0,
+      "description": "Through the piles of weapons, you can see a door leading north to the rest of \nthe store.",
+      "keywords": "door~ 2 12034 12006 E weapons swords crates armor weapon sword crate~ There are literally thousands of each.  Take your pick.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 5,
+      "description": "Watch your step!",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12015
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "landscape country",
+      "description": "You can see the entire city of Rome from here.  The buildings housing the \nRoman government are to the east.  To the south east, off in the distance,\nis the massive aqueduct and further in that direction lies the Mountain of\nthe Gods."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

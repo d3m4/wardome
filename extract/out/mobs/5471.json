@@ -1,0 +1,12 @@
+{
+  "id": 5471,
+  "alias": "minotaur lizard",
+  "short_desc": "the minotaur lizard",
+  "long_desc": "the minotaur lizard stands here.",
+  "detailed_desc": "",
+  "flags_raw": "A huge lizard like reptile with horns like a minotaur.",
+  "stats1_raw": "~",
+  "stats2_raw": "fg k 0 S",
+  "stats3_raw": "8 8 5 1d10+55 3d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

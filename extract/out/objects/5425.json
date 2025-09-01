@@ -1,0 +1,13 @@
+{
+  "id": 5425,
+  "alias": "cap leather",
+  "short_desc": "a leather cap",
+  "long_desc": "A leather cap lies here",
+  "action_desc": "",
+  "header_raw": "9 0 17",
+  "values_raw": "1 0 0 0",
+  "cost_raw": "2 65 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

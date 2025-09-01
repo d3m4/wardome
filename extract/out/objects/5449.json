@@ -1,0 +1,13 @@
+{
+  "id": 5449,
+  "alias": "girdle",
+  "short_desc": "a girdle",
+  "long_desc": "A nicely made girdle lies here.",
+  "action_desc": "",
+  "header_raw": "9 0 2049",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 375 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2549,
+  "alias": "dagger silvery",
+  "short_desc": "a silvery dagger",
+  "long_desc": "A long dagger that seems to be made of silver is here.",
+  "action_desc": "",
+  "header_raw": "5 g 8193",
+  "values_raw": "0 2 4 11",
+  "cost_raw": "5 1200 500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2532,
+  "alias": "master scribe",
+  "short_desc": "the Master Scribe",
+  "long_desc": "The Master Scribe is here looking a little upset",
+  "detailed_desc": "",
+  "flags_raw": "He seems to be so old, his skin has become nothing but a giant wrinkle.",
+  "stats1_raw": "The master scribe screams 'How dare you interrupt my important work???'",
+  "stats2_raw": "~",
+  "stats3_raw": "abfgh dk 100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

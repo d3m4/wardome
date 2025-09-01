@@ -1,0 +1,18 @@
+{
+  "id": 6119,
+  "alias": "belt silver",
+  "short_desc": "a broad silver belt",
+  "long_desc": "A broad silver belt has been left here.",
+  "action_desc": "",
+  "header_raw": "9 ag 2049",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "4 5000 3500",
+  "extra_descriptions": [
+    {
+      "keywords": "belt silver",
+      "description": "It is a broad belt made from tiny silver rings woven together."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

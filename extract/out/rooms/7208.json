@@ -1,0 +1,26 @@
+{
+  "id": 7208,
+  "zone_id": 72,
+  "name": "The Lair Entrance",
+  "description": "You are in a dry part of the sewer.  To the north is a wooden door,\nyou can see some slime at the lower part of the door.  You also see\nsome skulls and some broken bones.",
+  "header_raw": "72 acd 2",
+  "flags_text": "acd",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see the lair.",
+      "keywords": "door wooden~ 1 -1 7204 D1 You see a crawlway.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "slime",
+      "description": "The slime is slimy and uninteresting."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3050,
+  "alias": "scroll identify",
+  "short_desc": "a scroll of identify",
+  "long_desc": "A scroll has carelessly been left here.",
+  "action_desc": "",
+  "header_raw": "2 g 16385",
+  "values_raw": "12 201 -1 -1",
+  "cost_raw": "1 2001 10",
+  "extra_descriptions": [
+    {
+      "keywords": "scroll identify",
+      "description": "The scroll has a magic formula drawn upon it:\n\n     ???\n    ?   ?\n       ?\n      ?\n      ?\n      *"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4002,
+  "alias": "centipede",
+  "short_desc": "the centipede",
+  "long_desc": "A small centipede is here, making its way across the floor.",
+  "detailed_desc": "",
+  "flags_raw": "It looks completely harmless.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 100 S",
+  "stats3_raw": "3 20 6 2d10+20 1d6+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

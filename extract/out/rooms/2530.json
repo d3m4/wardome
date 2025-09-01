@@ -1,0 +1,29 @@
+{
+  "id": 2530,
+  "zone_id": 25,
+  "name": "The Hallway",
+  "description": "You are in a long hallway leading east and west.  The walls emit a faint\nmagical glow which provides enough light to see by.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door wooden~ 1 -1 2532 D1",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door wooden~ 1 -1 2533 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

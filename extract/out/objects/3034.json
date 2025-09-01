@@ -1,0 +1,18 @@
+{
+  "id": 3034,
+  "alias": "atm teller bank machine",
+  "short_desc": "an automatic teller machine",
+  "long_desc": "An automatic teller machine has been installed in the wall here.",
+  "action_desc": "",
+  "header_raw": "12 cdeg 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "5000 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "atm teller bank machine",
+      "description": "There is a small note on the machine which says:\n\nTo use, type 'BALANCE', 'WITHDRAW <amount>', or 'DEPOSIT <amount>'.\nPlease report any strange occurrences to the bank manager."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

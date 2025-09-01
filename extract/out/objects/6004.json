@@ -1,0 +1,22 @@
+{
+  "id": 6004,
+  "alias": "lantern brass hooded",
+  "short_desc": "a hooded brass lantern",
+  "long_desc": "A hooded brass lantern has been left here.",
+  "action_desc": "",
+  "header_raw": "1 0 16385",
+  "values_raw": "0 0 100 0",
+  "cost_raw": "4 60 10",
+  "extra_descriptions": [
+    {
+      "keywords": "lantern brass hooded",
+      "description": "It is a large and robust but somewhat battered oil lantern made from brass,\nand it is equipped with a handle to make it handy and a hood to protect its\nflame.  Some letters have been scratched on its bottom."
+    },
+    {
+      "keywords": "letters",
+      "description": "The letters say:\n\nUse 'hold lantern' to activate."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

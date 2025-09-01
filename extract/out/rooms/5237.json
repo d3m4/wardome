@@ -1,0 +1,37 @@
+{
+  "id": 5237,
+  "zone_id": 52,
+  "name": "A Tall Dwelling",
+  "description": "This seems to be the tallest structure remaining in the city.  At\none time this could have been an inn of some sort, but now it is just\na mess.  The back wall as been completely knocked down revealing an \nentrance into another building through yet another collapsed wall.\nBetween the two buildings are a few blast craters and boulders.  An old\nset of wooden steps leads up to a creaking second floor.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5238
+    },
+    {
+      "dir": 3,
+      "description": "A small side street winds past the dwelling.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5211
+    },
+    {
+      "dir": 4,
+      "description": "The stairs and even the entire second floor itself looks very unsafe\nfor travel.  Gusts of wind make them creak and shudder.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5245
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2661,
+  "zone_id": 25,
+  "name": "The Chamber Of Darkness",
+  "description": "You are in a vast chamber.  The walls fade into darkness, leaving you\nwith a very vague idea of the actual size of the room.  Swirling here and\nthere in the dark, are patches of pure black which seem to suck in your\nlight and leave it that much darker here.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2662
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2664
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2663
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door obsidian~ 1 -1 2660 S #2662 It Is Very Dark Here...~    It is very dark here...",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2661
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 7921,
+  "alias": "barrel water",
+  "short_desc": "a barrel",
+  "long_desc": "A water barrel has been left here.",
+  "action_desc": "",
+  "header_raw": "17 0 1",
+  "values_raw": "40 40 15 0",
+  "cost_raw": "45 60 20",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

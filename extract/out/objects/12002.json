@@ -1,0 +1,22 @@
+{
+  "id": 12002,
+  "alias": "helmet roman combat",
+  "short_desc": "a Roman combat helmet",
+  "long_desc": "A Roman combat helmet has been left here.",
+  "action_desc": "",
+  "header_raw": "9 a 17",
+  "values_raw": "8 0 0 0",
+  "cost_raw": "25 12000 8000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 2,
+      "modifier": -2
+    },
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

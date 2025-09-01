@@ -1,0 +1,12 @@
+{
+  "id": 3026,
+  "alias": "assassin",
+  "short_desc": "the assassin",
+  "long_desc": "An assassin is guarding the entrance.",
+  "detailed_desc": "",
+  "flags_raw": "He is a thief who has specialized in killing others as effectively as",
+  "stats1_raw": "possible, using all sorts of weapons.  His superior knowledge of how",
+  "stats2_raw": "and where to use them combined with his extraordinary stealth makes",
+  "stats3_raw": "him a deadly opponent.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

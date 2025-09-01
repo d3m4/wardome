@@ -1,0 +1,29 @@
+{
+  "id": 3311,
+  "zone_id": 33,
+  "name": "A Small Plateau",
+  "description": "This plateau ends here, with a steep drop-off to the \nsouth, and a solid wall of rock to the north.  Eastwards \nthe plateau continues, and you think you can climb up the \nsteep rocky slope just west of here.  You are afforded a \ngood view of the lower regions of this depression, and you\nthink you spot what might be a cave south and down from \nhere...",
+  "header_raw": "33 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3310
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3312
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 12020,
+  "zone_id": 120,
+  "name": "The Outhouse",
+  "description": "PEEEEEEEEEEEEEEEE-YEEEEEWWWWWWWW!!!!!  Boy does it stink in here!!!  You\ntaste bile in your mouth and your eyes begin to water.  As you wipe away your\ntears, you see that this is a small room, in the far corner of which a hole\nis dug.  The odor intensifies as you move closer and there is a roll of toilet\npaper sitting on the ground.  The only exit is to the west and your nose and\nstomach are strongly suggesting that you use it.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The living quarters lie in that direction.  Why don't you stop pussyfooting \naround and go that way??!!  Please?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12013
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hole toilet",
+      "description": "You walk over to the hole and see that there is a large turd floating in a \npool black water about 2 feet below the surface of the ground.  As you lean\ncloser to get a better look, your nose catches a concentrated dose of the \nfragrant aroma wafting upwards.  Your stomach decides that it has had enough\nof this shoddy treatment and you puke until it is empty."
+    },
+    {
+      "keywords": "roll paper",
+      "description": "Hey!!  This is first-class stuff!! - White Cloud brand with lotion.  The roll\nis about half-used."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

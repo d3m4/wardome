@@ -1,0 +1,13 @@
+{
+  "id": 2512,
+  "alias": "bar adamantite",
+  "short_desc": "a bar of adamantite",
+  "long_desc": "A bar of adamantite has been left here.",
+  "action_desc": "",
+  "header_raw": "8 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "15 5000 1000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

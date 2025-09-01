@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "gold"
+  ],
+  "aliases": [
+    "GOLD"
+  ],
+  "body": "Uso: gold\n\n    Mostra quanto ouro voce esta carregando.\n\n    Veja tambem: BALANCE, DEPOSIT, WITHDRAW",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

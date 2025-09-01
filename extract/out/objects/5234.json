@@ -1,0 +1,18 @@
+{
+  "id": 5234,
+  "alias": "stone pink",
+  "short_desc": "a pink stone",
+  "long_desc": "A tiny pink stone lies at your feet.",
+  "action_desc": "",
+  "header_raw": "8 dg 16385",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "10 5500 600",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 5,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4107,
+  "alias": "kobold",
+  "short_desc": "the kobold",
+  "long_desc": "A green kobold is here.",
+  "detailed_desc": "",
+  "flags_raw": "It looks slimy..",
+  "stats1_raw": "~",
+  "stats2_raw": "cfg k -100 S",
+  "stats3_raw": "7 14 4 4d10+25 1d9+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

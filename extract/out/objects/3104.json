@@ -1,0 +1,18 @@
+{
+  "id": 3104,
+  "alias": "canteen water",
+  "short_desc": "a canteen",
+  "long_desc": "A canteen has been set on the ground here.",
+  "action_desc": "",
+  "header_raw": "17 0 1",
+  "values_raw": "80 80 15 0",
+  "cost_raw": "20 45 15",
+  "extra_descriptions": [
+    {
+      "keywords": "canteen",
+      "description": "It is a fairly big canteen.  Looks like it can hold a lot of liquid."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

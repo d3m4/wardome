@@ -1,0 +1,18 @@
+{
+  "id": 3106,
+  "alias": "key rusty",
+  "short_desc": "a rusty key",
+  "long_desc": "A rusty key has been left here.",
+  "action_desc": "",
+  "header_raw": "18 c 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 0 10",
+  "extra_descriptions": [
+    {
+      "keywords": "key rusty",
+      "description": "The key is a fairly large rusty key.  You notice a lot of dirt it."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

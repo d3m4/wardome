@@ -1,0 +1,13 @@
+{
+  "id": 5403,
+  "alias": "morningstar morning star",
+  "short_desc": "a morningstar",
+  "long_desc": "A small spiked metal ball connected to a rod by links of chain lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 5 6",
+  "cost_raw": "5 1200 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

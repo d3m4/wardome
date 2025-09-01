@@ -1,0 +1,21 @@
+{
+  "id": 2670,
+  "zone_id": 25,
+  "name": "The Meditation Chamber",
+  "description": "You are in a small meditation chamber.  White silk cushions are\neverywhere, looking very comfortable.  You get an easy peaceful\nfeeling of relaxation here, almost making you want to lie down and\nfall asleep.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2669
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

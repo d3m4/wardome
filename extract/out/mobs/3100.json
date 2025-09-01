@@ -1,0 +1,12 @@
+{
+  "id": 3100,
+  "alias": "maid",
+  "short_desc": "the Maid",
+  "long_desc": "The Maid is waiting for your order.",
+  "detailed_desc": "",
+  "flags_raw": "She is very beautiful with golden hair, and deep blue eyes.  A good reason",
+  "stats1_raw": "for coming here more often, you think to yourself.",
+  "stats2_raw": "~",
+  "stats3_raw": "ablno d 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+}

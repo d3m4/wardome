@@ -1,0 +1,18 @@
+{
+  "id": 6103,
+  "alias": "branch grey long",
+  "short_desc": "a long, grey branch",
+  "long_desc": "A long, grey branch rests heavily on the ground.",
+  "action_desc": "",
+  "header_raw": "1 0 16385",
+  "values_raw": "0 0 25 0",
+  "cost_raw": "20 1 3",
+  "extra_descriptions": [
+    {
+      "keywords": "branch grey long",
+      "description": "It is quite heavy and looks as if it has been dropped from great height.  It\nis long dead and very dry.  Could probably be lighted quite easily."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

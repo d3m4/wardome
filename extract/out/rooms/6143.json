@@ -1,0 +1,26 @@
+{
+  "id": 6143,
+  "zone_id": 61,
+  "name": "The Cave Of The Green Dragon",
+  "description": "You are in a big natural cave.  The floor is littered with bones of\nall sorts and the stench is so massive that you could cut it with a\nknife.  The only exit is to the south.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The exit leads out into the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6142
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bone bones floor",
+      "description": "Most of the bones on the floor appear to be of human origin."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

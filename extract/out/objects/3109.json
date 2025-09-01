@@ -1,0 +1,22 @@
+{
+  "id": 3109,
+  "alias": "desk drawer",
+  "short_desc": "the desk",
+  "long_desc": "A desk is set against the western wall.",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "34 15 3107 0",
+  "cost_raw": "100 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "desk",
+      "description": "The desk looks very sparse, there is a drawer in the left side."
+    },
+    {
+      "keywords": "drawer",
+      "description": "You notice a keyhole in the drawer."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

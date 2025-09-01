@@ -1,0 +1,12 @@
+{
+  "id": 6308,
+  "alias": "slave human",
+  "short_desc": "the slave",
+  "long_desc": "A human slave of Arachnos works here relentlessly.",
+  "detailed_desc": "",
+  "flags_raw": "The slave does not mind you, but will fight like a warrior if attacked.",
+  "stats1_raw": "He serves the spider Empress, Arachnos, though whether it is by choice",
+  "stats2_raw": "or because he was beguiled, you are not fully certain.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

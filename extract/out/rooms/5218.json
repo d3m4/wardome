@@ -1,0 +1,29 @@
+{
+  "id": 5218,
+  "zone_id": 52,
+  "name": "A Back Alley",
+  "description": "A narrow alley leads east to a wider street and west to one of \nthe city watchtowers.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small side street greets you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5214
+    },
+    {
+      "dir": 3,
+      "description": "A tall watchtower stands a silent vigil over the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5215
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

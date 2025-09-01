@@ -1,0 +1,29 @@
+{
+  "id": 18623,
+  "zone_id": 186,
+  "name": "A Corner In The Hallway",
+  "description": "You can hear creatures moving all around you... and it is not\na comforting sound at all.  The furnishing is nothing to speak of\neither, plain grey brick walls with green fungus (or something)\ngrowing on them.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18624
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18627
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

@@ -26,6 +26,9 @@ extern struct char_data *ch;
 //estruturas internas
 short int numero_clans = 0;
 
+/* Global clans table (declared extern in clan.h) */
+struct estrutura_clan *clans = NULL;
+
 struct comando_clan {
    char *comando;
    void (*procedimento_comando) (char *argumento, struct char_data *ch);
@@ -2083,4 +2086,3 @@ salvar_clan(clan);
 		}
 	      }
 }
-

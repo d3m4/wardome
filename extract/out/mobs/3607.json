@@ -1,0 +1,12 @@
+{
+  "id": 3607,
+  "alias": "white bishop priest",
+  "short_desc": "the White Bishop",
+  "long_desc": "A light priest stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The White Bishop seems willing to help you in any possible so that he can",
+  "stats1_raw": "attain a higher spirituality.",
+  "stats2_raw": "~",
+  "stats3_raw": "b d 500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

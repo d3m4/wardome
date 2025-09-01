@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "take"
+  ],
+  "aliases": [
+    "GET TAKE"
+  ],
+  "body": "&YGet&c e &YTake&c sao exatamente a mesma coisa e podem ser \nintercambiados. Se voce encontrar algo interessante no chao, voce pode \nusar 'get' para pega-la. 'get' tambem pode ser usado para extrair itens \nde reciientes.\n\n&CExemplos:\n    &Yget &Rsword &Ccorpse\n    &Yget &R5 &Csword\n    &Yget &Rall &Ccorpse\n    &Yget &Rall &Call.bag\n    &Yget &Rall.bread &Call.bag\n\n    &Cveja tambem: &rDROP&G, &rPUT&n",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

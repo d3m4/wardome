@@ -1,0 +1,21 @@
+{
+  "id": 2602,
+  "zone_id": 25,
+  "name": "The Master Spellbinder's Chamber",
+  "description": "You are in the chambers of the Master Spellbinder.  Unlike other work\nshops of similar nature, this one is without furnishings or tools.  The\nspell binder obviously needs none for the working of his art.\n   A silver door can be seen to the west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door silver~ 1 -1 2601 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

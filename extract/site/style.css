@@ -1,0 +1,23 @@
+:root{ --bg:#0a0f0a; --fg:#e6ffe6; --muted:#9ab49a; --card:#0f150f; --accent:#39ff14; --accent2:#00e676; }
+html,body{ margin:0; padding:0; background:var(--bg); color:var(--fg); font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, sans-serif; }
+header{ padding:16px 20px; background:var(--card); border-bottom:1px solid #222; }
+h1{ margin:0 0 6px; font-size:20px; }
+header .hint{ color:var(--muted); font-size:12px; margin-top:8px; }
+nav{ display:flex; gap:8px; padding:12px 20px; border-bottom:1px solid #222; position:sticky; top:0; background:var(--bg); align-items:center; }
+nav #search{ flex:1; background:var(--card); color:var(--fg); border:1px solid #222; padding:8px 10px; border-radius:6px; }
+nav button{ background:var(--card); color:var(--fg); border:1px solid #222; padding:8px 12px; border-radius:6px; cursor:pointer; }
+nav button:hover{ border-color:var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+main{ display:grid; grid-template-columns: 1fr 1fr; gap:12px; padding:12px 20px; }
+#list, #details{ background:var(--card); border:1px solid #222; border-radius:8px; padding:12px; min-height:60vh; overflow:auto; }
+/* Limit JSON blocks to prevent overflow */
+#details pre { max-height: 40vh; overflow: auto; background:#0b0f14; padding:8px; border-radius:6px; }
+svg.map { width:100%; height:60vh; background:#071107; border:1px solid #193319; border-radius:8px; }
+svg .edge { stroke:#1aff66; stroke-width:1.2; opacity:0.5; }
+svg .node circle { fill:#0b1a0b; stroke:#39ff14; stroke-width:1.2; }
+svg .node.highlight circle { fill:#0e2a0e; stroke:#00e676; }
+svg text { fill:#9cff9c; font-size:10px; }
+table{ width:100%; border-collapse: collapse; font-size:14px; }
+th, td{ padding:6px 8px; border-bottom:1px solid #222; text-align:left; }
+a{ color:var(--accent2); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+code{ background:#111; padding:2px 4px; border-radius:4px; }

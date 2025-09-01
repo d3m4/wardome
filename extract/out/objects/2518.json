@@ -1,0 +1,18 @@
+{
+  "id": 2518,
+  "alias": "scimitar",
+  "short_desc": "a curved scimitar",
+  "long_desc": "A curved scimitar is here in a jewel-covered sheath.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 7 3",
+  "cost_raw": "10 17500 1950",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 13,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

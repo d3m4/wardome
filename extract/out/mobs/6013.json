@@ -1,0 +1,12 @@
+{
+  "id": 6013,
+  "alias": "chipmunk",
+  "short_desc": "the small chipmunk",
+  "long_desc": "A small brown-red chipmunk dashes from tree to tree here.",
+  "detailed_desc": "",
+  "flags_raw": "The absolute zenith of hyperactivity, this small rodent seems to never tire",
+  "stats1_raw": "of running up, down, and around the trees in this area.  If you could ever",
+  "stats2_raw": "catch it, you imagine it would make an easy meal.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

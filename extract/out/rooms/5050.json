@@ -1,0 +1,45 @@
+{
+  "id": 5050,
+  "zone_id": 50,
+  "name": "The Great Eastern Desert",
+  "description": "A vast desert stretches for miles, the sands constantly shifting around  \nyou.  A pyramid lies to the north.",
+  "header_raw": "50 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Sand as far as the eye can see... and a pyramid in the distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5300
+    },
+    {
+      "dir": 1,
+      "description": "Sand as far as the eye can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5054
+    },
+    {
+      "dir": 2,
+      "description": "Sand as far as the eye can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5044
+    },
+    {
+      "dir": 3,
+      "description": "Sand as far as the eye can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5042
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

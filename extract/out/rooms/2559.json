@@ -1,0 +1,37 @@
+{
+  "id": 2559,
+  "zone_id": 25,
+  "name": "The Training Room",
+  "description": "You are in a large training room.  It is filled with battle scared\nmanikins, and many other devices used in the practice of fighting.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door~ 1 -1 2556 S #2560 A Bend In The Hallway~    You are at a bend in the hallway.  The walls emit a faint magical glow which provides enough light to see by.    The hallway continues north and west.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2562
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2558
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

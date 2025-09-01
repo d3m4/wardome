@@ -1,0 +1,12 @@
+{
+  "id": 5206,
+  "alias": "mimic planks wooden",
+  "short_desc": "the mimic",
+  "long_desc": "A few wooden planks lie stacked on a low shelf.",
+  "detailed_desc": "",
+  "flags_raw": "The fact that these planks still rest on this shelf leads you to believe",
+  "stats1_raw": "that someone has been here before you...",
+  "stats2_raw": "~",
+  "stats3_raw": "bqr 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+}

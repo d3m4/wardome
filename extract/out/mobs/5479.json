@@ -1,0 +1,12 @@
+{
+  "id": 5479,
+  "alias": "elriva",
+  "short_desc": "Elriva",
+  "long_desc": "Elriva stands here mixing a love potion.",
+  "detailed_desc": "",
+  "flags_raw": "You see a very healthy female dressed in black, with long flowing",
+  "stats1_raw": "hair to match her outfit.",
+  "stats2_raw": "~",
+  "stats3_raw": "blno 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2592,
+  "zone_id": 25,
+  "name": "Inside The Energy Field",
+  "description": "You feel a stomach twisting sensation as you enter the energy field.\nNice going!  You might as well wait here until the wizard who built this\ntrap comes back to imprison your soul as well as your body.",
+  "header_raw": "25 cdefgj 0",
+  "flags_text": "cdefgj",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

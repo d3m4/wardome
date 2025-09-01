@@ -1,0 +1,27 @@
+{
+  "id": 6118,
+  "alias": "cloak black",
+  "short_desc": "a black, hooded cloak",
+  "long_desc": "A large, hooded cloak, as dark as the night, has been left here.",
+  "action_desc": "",
+  "header_raw": "11 g 1025",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "20 8000 4000",
+  "extra_descriptions": [
+    {
+      "keywords": "cloak black",
+      "description": "It is a heavy, black cloak with a large hood.  The word 'Isha' is written\ninside it with a silver thread."
+    }
+  ],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -6
+    },
+    {
+      "location": 24,
+      "modifier": -4
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

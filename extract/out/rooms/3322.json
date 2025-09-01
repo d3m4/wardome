@@ -1,0 +1,37 @@
+{
+  "id": 3322,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "This is a T-intersection in the cave passageway, the \nnorth leading back towards the cave's entrance (you \nthink!), the west leading towards a well-lighted area.  \nEastwards the passageway continues into the shadowy \nrecesses of the mountain uninvitingly.  The echoes of \nvoices are confusing you a bit, and you are not sure \nwhether you should try to remain quiet or not.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3321
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3324
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3323
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

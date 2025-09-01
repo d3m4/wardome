@@ -1,0 +1,430 @@
+{
+  "id": 63,
+  "name": "Arachnos",
+  "header": {
+    "raw": "6300 6399 34 2",
+    "min_room": 6300,
+    "top_room": 6399,
+    "lifespan": 34,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6301,
+        10,
+        6301
+      ],
+      "comment": "Young Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6301,
+        10,
+        6306
+      ],
+      "comment": "Young Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6301,
+        10,
+        6306
+      ],
+      "comment": "Young Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6301,
+        10,
+        6304
+      ],
+      "comment": "Young Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6305,
+        1,
+        6303
+      ],
+      "comment": "Wasp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6310,
+        1,
+        6342
+      ],
+      "comment": "Bird Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6303,
+        1,
+        6313
+      ],
+      "comment": "Wolf Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6308,
+        5,
+        6308
+      ],
+      "comment": "Slave"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6308,
+        5,
+        6308
+      ],
+      "comment": "Slave"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6308,
+        5,
+        6308
+      ],
+      "comment": "Slave"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6308,
+        5,
+        6308
+      ],
+      "comment": "Slave"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6308,
+        5,
+        6308
+      ],
+      "comment": "Slave"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6309,
+        2,
+        6327
+      ],
+      "comment": "Quasit"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6307,
+        5,
+        6335
+      ],
+      "comment": "Ethereal Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6307,
+        5,
+        6333
+      ],
+      "comment": "Ethereal Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6304,
+        1,
+        6332
+      ],
+      "comment": "Stuck Orc"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6300,
+        1
+      ],
+      "comment": "Key To Arachnos' Chambers"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6306,
+        3,
+        6321
+      ],
+      "comment": "Drone Spider"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6305,
+        10
+      ],
+      "comment": "Black Potion"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6306,
+        3,
+        6331
+      ],
+      "comment": "Drone Spider"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6305,
+        10
+      ],
+      "comment": "Black Potion"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6311,
+        1,
+        6373
+      ],
+      "comment": "Hermit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6302,
+        2
+      ],
+      "comment": "Wizard's Hat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6315,
+        1,
+        6350
+      ],
+      "comment": "Ki-Rin"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6109,
+        10
+      ],
+      "comment": "Blue Potion"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6109,
+        10
+      ],
+      "comment": "Blue Potion"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6314,
+        1,
+        6399
+      ],
+      "comment": "Arachnos"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6301,
+        5
+      ],
+      "comment": "Thief's Knife"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6302,
+        2
+      ],
+      "comment": "Wizard's Hat"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6303,
+        2
+      ],
+      "comment": "Pontiff's Headdress"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6304,
+        2
+      ],
+      "comment": "Black Knight's Visor"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6312,
+        1,
+        6370
+      ],
+      "comment": "Donjonkeeper"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6301,
+        5
+      ],
+      "comment": "Thief's Knife"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6109,
+        10
+      ],
+      "comment": "Blue Potion"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6313,
+        1,
+        6367
+      ],
+      "comment": "Guardian"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6306,
+        3,
+        6330
+      ],
+      "comment": "Drone Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6302,
+        1,
+        6360
+      ],
+      "comment": "Yevaud"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6304,
+        2
+      ],
+      "comment": "Black Knight's Visor"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7203,
+        1
+      ],
+      "comment": "Purple Cloak"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6316,
+        1,
+        6330
+      ],
+      "comment": "Baby Dragon"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6317,
+        1,
+        6340
+      ],
+      "comment": "Elder Wormkin"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6392,
+        0,
+        2
+      ],
+      "comment": "Arachnos' Lair"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6399,
+        2,
+        2
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/63.zon"
+}

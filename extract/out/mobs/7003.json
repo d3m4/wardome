@@ -1,0 +1,12 @@
+{
+  "id": 7003,
+  "alias": "spider small hairy",
+  "short_desc": "the small Spider",
+  "long_desc": "The small hairy Spider is here, busy with its web.",
+  "detailed_desc": "",
+  "flags_raw": "This small spider seems to pay you no attention at all as it builds",
+  "stats1_raw": "its intricately designed web.",
+  "stats2_raw": "~",
+  "stats3_raw": "f sk -700 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

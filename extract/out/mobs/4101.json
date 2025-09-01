@@ -1,0 +1,12 @@
+{
+  "id": 4101,
+  "alias": "troll",
+  "short_desc": "the troll",
+  "long_desc": "A large mean-looking troll is here.",
+  "detailed_desc": "",
+  "flags_raw": "Well, it looks dangerous!",
+  "stats1_raw": "~",
+  "stats2_raw": "bcf k -800 S",
+  "stats3_raw": "12 8 1 2d10+100 2d7+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

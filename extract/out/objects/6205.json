@@ -1,0 +1,27 @@
+{
+  "id": 6205,
+  "alias": "Starkblade knife dagger blade",
+  "short_desc": "Starkblade",
+  "long_desc": "A knife hums with eternal energy here.",
+  "action_desc": "",
+  "header_raw": "5 bp 8193",
+  "values_raw": "0 3 7 3",
+  "cost_raw": "1 100000 20000",
+  "extra_descriptions": [
+    {
+      "keywords": "starkblade knife dagger blade",
+      "description": "It is an odd knife, with an inset of sapphire in the\npommel.  It hums constantly, and your hand stings a \nbit when you touch it."
+    }
+  ],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 10
+    },
+    {
+      "location": 13,
+      "modifier": -20
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/62.obj"
+}

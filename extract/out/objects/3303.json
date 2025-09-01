@@ -1,0 +1,18 @@
+{
+  "id": 3303,
+  "alias": "barrel perfume",
+  "short_desc": "a barrel of perfume",
+  "long_desc": "You can smell a barrel on the other side of the room from here.",
+  "action_desc": "",
+  "header_raw": "8 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "20 100000 10000",
+  "extra_descriptions": [
+    {
+      "keywords": "barrel perfume",
+      "description": "Smells good...the label reads:\n\n   \"Somewhere between GPA and MUD there lies...\n\t\tOBSESSION\""
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 12001,
+  "alias": "belt bronze",
+  "short_desc": "a bronze belt",
+  "long_desc": "There is a bronze belt on the ground here.",
+  "action_desc": "",
+  "header_raw": "9 f 2049",
+  "values_raw": "4 0 0 0",
+  "cost_raw": "5 10000 500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": -2
+    },
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6503,
+  "alias": "storekeeper",
+  "short_desc": "the Hide & Tooth storekeeper",
+  "long_desc": "The Hide & Tooth storekeeper is standing here, waiting patiently.",
+  "detailed_desc": "",
+  "flags_raw": "The storekeeper is very rotund, but looks in excellent condition.",
+  "stats1_raw": "~",
+  "stats2_raw": "ablm d 1000 S",
+  "stats3_raw": "33 0 -10 1d1+30000 2d8+32",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+}

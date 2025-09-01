@@ -1,0 +1,37 @@
+{
+  "id": 7116,
+  "zone_id": 71,
+  "name": "The Northeastern Corner Of The Ledge",
+  "description": "You stand, swaying out from the ledge, with only a couple of inches of\nsafe, solid ledge under your feet.  The ledge continues to the west and\nleads south from here into darkness.",
+  "header_raw": "71 acd 5",
+  "flags_text": "acd",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7117
+    },
+    {
+      "dir": 3,
+      "description": "The ledge continues west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7113
+    },
+    {
+      "dir": 5,
+      "description": "You can just make out the outline of a trapdoor here in the soil.  The earth\nis probably there to conceal a secret entrance.  This looks as if it leads\ndown into the seemingly solid rock face of the ledge.",
+      "keywords": "trapdoor secret entrance~ 1 -1 7280 E ground ledge rock~ The ground here seems a little different from all the other ledges along the Abyss.  There is a kind of soft soil on this ledge, maybe you should look  carefully at this.  It seems to be of some interest.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+}

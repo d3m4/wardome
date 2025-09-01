@@ -1,0 +1,12 @@
+{
+  "id": 4056,
+  "alias": "orc",
+  "short_desc": "the orc",
+  "long_desc": "An orc is here, looking for something (or perhaps someone?) to eat.",
+  "detailed_desc": "",
+  "flags_raw": "Well, he doesn't seem to be friendly.",
+  "stats1_raw": "~",
+  "stats2_raw": "cfg k -800 S",
+  "stats3_raw": "8 13 2 3d10+100 2d5+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

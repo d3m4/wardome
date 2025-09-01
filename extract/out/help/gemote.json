@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "gemote"
+  ],
+  "aliases": [
+    "GEMOTE"
+  ],
+  "body": "Uso: gemote <social> <player>\n    \n    Esta e uma acao social que todos no mud verao voce executando-a, nao e um canal \nreservado. Voce precisa possuir no minimo um nivel igual a 3 para poder usa-la.\n\nExemplos:\n     > John is going to left the world, so...\n     > gemote shake John\n     > Os outros verao desse modo: [GEMOTE] (your name) shakes John's hand.\n\n    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT, GOSSIP",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

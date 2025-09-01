@@ -1,0 +1,42 @@
+{
+  "id": 6132,
+  "zone_id": 61,
+  "name": "Up In The Tree",
+  "description": "You are hanging on the outside of a huge tree trunk covered in a sticky\nsubstance.  Directly to the west is an immense spider web suspended between\nnumerous of the giant trees including the one you are hanging on.  To the\nnorth is what looks like a large webbed entrance.",
+  "header_raw": "61 acd 6",
+  "flags_text": "acd",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north is what looks like a large expanse of webbing which extends\nvery far into the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6301
+    },
+    {
+      "dir": 3,
+      "description": "To the west is the immense spider web.  It seems to move softly.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6133
+    },
+    {
+      "dir": 5,
+      "description": "Downwards is the narrow forest path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6130
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "web",
+      "description": "The spider web stretches out to the west.  It looks as if it is possible to\nwalk on it."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 15022,
+  "alias": "chef cook",
+  "short_desc": "the Chef",
+  "long_desc": "The Chef is here, shouting orders to the other cooks.",
+  "detailed_desc": "",
+  "flags_raw": "It seems he has been tasting his own food a bit too enthusiastically.",
+  "stats1_raw": "He is, in other words, a bit fat.",
+  "stats2_raw": "~",
+  "stats3_raw": "behlno 0 500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2554,
+  "alias": "apprentice",
+  "short_desc": "the Master's apprentice",
+  "long_desc": "The Master's apprentice leaps to halt your passage.",
+  "detailed_desc": "",
+  "flags_raw": "A powerful wizard in his own right, the apprentice of the master of balance",
+  "stats1_raw": "has given up his station in the mage guild hierarchy in order to serve the",
+  "stats2_raw": "Great Master in hopes of gleaning secrets one could never hope to uncover",
+  "stats3_raw": "alone.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

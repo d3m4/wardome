@@ -1,0 +1,12 @@
+{
+  "id": 5452,
+  "alias": "jailer",
+  "short_desc": "the jailer",
+  "long_desc": "The Jailer sleeps here, snoring loudly.",
+  "detailed_desc": "",
+  "flags_raw": "You see a pathetic soul lying here.  Probably some ex-nobleman that has",
+  "stats1_raw": "fallen out of grace with the Sultan.",
+  "stats2_raw": "~",
+  "stats3_raw": "bch 0 -100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

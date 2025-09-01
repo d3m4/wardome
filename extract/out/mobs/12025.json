@@ -1,0 +1,12 @@
+{
+  "id": 12025,
+  "alias": "froboz wizard",
+  "short_desc": "Froboz",
+  "long_desc": "Froboz the wizard is standing here, working on a new spell.",
+  "detailed_desc": "",
+  "flags_raw": "You see a middle-aged man whose knowledge of magic, both offensive and",
+  "stats1_raw": "defensive, is legendary.  He literally glows with a pink aura.",
+  "stats2_raw": "~",
+  "stats3_raw": "abelno dh 300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

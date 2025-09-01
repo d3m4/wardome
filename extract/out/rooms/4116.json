@@ -1,0 +1,34 @@
+{
+  "id": 4116,
+  "zone_id": 40,
+  "name": "The Passage",
+  "description": "You find yourself in quite an ordinary passageway which leads north\nand south.  It looks to be wide enough for two people to walk side by\nside with plenty of room.  The passage appears to be almost rectangular\nin form.  Far off to the south you can see the pinpoint of a light.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4113
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4120
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "light",
+      "description": "Well, you can't see where it comes from..."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

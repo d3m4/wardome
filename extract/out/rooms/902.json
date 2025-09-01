@@ -1,0 +1,29 @@
+{
+  "id": 902,
+  "zone_id": 9,
+  "name": "The Twisty Part Of The River",
+  "description": "The river twists and turns and nearly tosses you out of your boat.\nThe water is dark, cold, almost reptilian in sheen.  It seems almost\nalive.  The river runs east and south.",
+  "header_raw": "9 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 901
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 903
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

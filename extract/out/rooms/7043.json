@@ -1,0 +1,29 @@
+{
+  "id": 7043,
+  "zone_id": 70,
+  "name": "The Sewer Entrance",
+  "description": "You stand in the middle of a pipe that leads from north to south.  Above\nyou an air shaft leads up into sunlight.  It seems totally impossible to go\nup that way.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north you can just make out a huge shaft leading down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7041
+    },
+    {
+      "dir": 2,
+      "description": "To the south you can see a triple junction leading west and east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7044
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

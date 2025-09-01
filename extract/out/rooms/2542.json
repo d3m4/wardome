@@ -1,0 +1,21 @@
+{
+  "id": 2542,
+  "zone_id": 25,
+  "name": "The Apprentices' Barracks",
+  "description": "You are in the barracks of the apprentice magic users.  Here and there,\na young apprentice sits engrossed in magical study, or practicing a feeble\ncantrip.  Cots line the walls, and the room continues west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door oak~ 1 -1 2540 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

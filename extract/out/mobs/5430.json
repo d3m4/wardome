@@ -1,0 +1,12 @@
+{
+  "id": 5430,
+  "alias": "mustafah human robber",
+  "short_desc": "Mustafah",
+  "long_desc": "Mustafah the Human Robber stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This man is lithe and has an evil smirk upon his face.",
+  "stats1_raw": "~",
+  "stats2_raw": "gh d 0 S",
+  "stats3_raw": "7 17 30 3d8+41 2d4+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

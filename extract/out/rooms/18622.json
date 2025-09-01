@@ -1,0 +1,29 @@
+{
+  "id": 18622,
+  "zone_id": 186,
+  "name": "Another Corner",
+  "description": "The passage turns from north to west here.  The walls are still\ncovered with the same disgusting green fungus you have seen all\nalong, and you hear sounds of creatures moving all around you...",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18628
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18621
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

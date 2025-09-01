@@ -1,0 +1,29 @@
+{
+  "id": 3002,
+  "zone_id": 30,
+  "name": "The Clerics' Inner Sanctum",
+  "description": "This is the inner sanctum.  A picture of the mighty Thor, is hanging on\nthe wall, just above the altar which is set against the western wall.  A well\nin the middle of the floor leads down into darkness.  Vile smells waft from\nthe depths.",
+  "header_raw": "30 cd 0",
+  "flags_text": "cd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see your favorite place, the bar of divination.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3003
+    },
+    {
+      "dir": 5,
+      "description": "You can't see what is down there, it is too dark.  Looks like it would be\nimpossible to climb back up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

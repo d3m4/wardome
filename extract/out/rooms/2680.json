@@ -1,0 +1,45 @@
+{
+  "id": 2680,
+  "zone_id": 25,
+  "name": "The Altar",
+  "description": "You are in a small chapel designed around a beautifully crafted golden\naltar.  Many icons to lesser deities line the room, but it is obvious by\none glance at the symbols on the altar, that this room was designed for\nthe worship of Mystra, the goddess of magic.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door secret~ 1 -1 2681 D2",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door secret~ 1 -1 2682 S #2681 The Treasury~    You are in a small chamber, the stale air here is testament to the fact that it has gone undisturbed for many years.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door secret~ 1 -1 2680 S #2682 A Passage~    You are in a small dark passage, which would be unremarkable if not for the fact that it ends in a blinding blue light to the west.  On hooks set into the wall here there hang several travel worthy cloaks, and a small leather backpack.  It looks as if someone has prepared this room to be used in the event speedy of a evacuation.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door~ 1 -1 2680 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

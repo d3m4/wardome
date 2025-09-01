@@ -1,0 +1,39 @@
+{
+  "id": 3002,
+  "producing": [
+    3030,
+    3031,
+    3032,
+    3033,
+    3036
+  ],
+  "profit_buy": 1.5,
+  "profit_sell": 0.4,
+  "buy_types": [
+    "LIGHT",
+    "TREASURE",
+    "CONTAINER"
+  ],
+  "messages": [
+    "%s Haven't got that on storage - try list!",
+    "%s You don't seem to have that.",
+    "%s I don't buy THAT... Try another shop.",
+    "%s I can't afford such a treasure.",
+    "%s You can't afford it!",
+    "%s That'll be %d coins, please.",
+    "%s You'll get %d coins for it!"
+  ],
+  "tail": [
+    0,
+    2,
+    3002,
+    0,
+    3010,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/30.shp"
+}

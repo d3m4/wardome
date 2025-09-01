@@ -1,0 +1,18 @@
+{
+  "id": 3107,
+  "alias": "key wooden",
+  "short_desc": "a wooden key",
+  "long_desc": "A wooden key has been left here.",
+  "action_desc": "",
+  "header_raw": "18 c 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 0 10",
+  "extra_descriptions": [
+    {
+      "keywords": "key wooden",
+      "description": "The wooden key is not special.  In fact it is just about the most boring\nkey you've ever seen in your life."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

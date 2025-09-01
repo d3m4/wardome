@@ -1,0 +1,12 @@
+{
+  "id": 3610,
+  "alias": "black king",
+  "short_desc": "the Black King",
+  "long_desc": "The Black King stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The Black King is a menacing figure.  You can easily understand why he",
+  "stats1_raw": "is the king and you are not.",
+  "stats2_raw": "~",
+  "stats3_raw": "bcefl dh -999 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

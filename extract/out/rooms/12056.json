@@ -1,0 +1,38 @@
+{
+  "id": 12056,
+  "zone_id": 120,
+  "name": "A Mountain Path",
+  "description": "You are standing on a small trail that leads through a grove of trees.\nEvery thing is lush and green here and it appears to have been raining\nrecently.  'This would be an ideal place for a picnic.' , you think to\nyourself.",
+  "header_raw": "120 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a small trail leading further up the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12052
+    },
+    {
+      "dir": 5,
+      "description": "You see a small trail, leading down.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12059
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tree trees vegetation",
+      "description": "All of the vegetation is lush, green and in full bloom.  You wish that you \ncould take the time to stop and enjoy it properly."
+    },
+    {
+      "keywords": "trail path",
+      "description": "The path is a little muddy, possibly due to a recent thundershower."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

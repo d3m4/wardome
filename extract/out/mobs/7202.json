@@ -1,0 +1,12 @@
+{
+  "id": 7202,
+  "alias": "mindflayer junior mind",
+  "short_desc": "the junior mindflayer",
+  "long_desc": "The junior mindflayer is here, watching you carefully from the corner.",
+  "detailed_desc": "",
+  "flags_raw": "This mindflayer is six feet high.  It has a small mace in its belt, and is",
+  "stats1_raw": "dressed in purple and black cloth.  It has four small tentacles in the center",
+  "stats2_raw": "of its head.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+}

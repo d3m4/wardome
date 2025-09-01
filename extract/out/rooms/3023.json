@@ -1,0 +1,29 @@
+{
+  "id": 3023,
+  "zone_id": 30,
+  "name": "The Tournament And Practice Yard",
+  "description": "This is the practice yard of the fighters.  To the north is the bar.\nA well leads down into darkness.",
+  "header_raw": "30 cd 0",
+  "flags_text": "cd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the bar.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3022
+    },
+    {
+      "dir": 5,
+      "description": "You can't see what is down there, it is too dark.  Looks like it would be\nimpossible to climb back up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7048
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

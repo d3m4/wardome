@@ -86,5 +86,4 @@ struct estrutura_clan {
  	
 };
 
-struct estrutura_clan *clans;
-
+extern struct estrutura_clan *clans;

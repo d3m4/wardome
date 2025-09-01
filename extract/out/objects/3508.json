@@ -1,0 +1,18 @@
+{
+  "id": 3508,
+  "alias": "gyroscope toy",
+  "short_desc": "the gyroscope",
+  "long_desc": "A small toy is spinning about on the ground here.",
+  "action_desc": "",
+  "header_raw": "9 b 16387",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "1 25 600",
+  "extra_descriptions": [
+    {
+      "keywords": "gyroscope toy",
+      "description": "As the gyroscope spins around and around you find yourself almost\nhypnotized by its movement."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/35.obj"
+}

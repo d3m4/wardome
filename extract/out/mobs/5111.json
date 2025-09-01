@@ -1,0 +1,12 @@
+{
+  "id": 5111,
+  "alias": "yochlol",
+  "short_desc": "the yochlol",
+  "long_desc": "A yochlol forms out of a swirling mist...",
+  "detailed_desc": "",
+  "flags_raw": "The yochlol is not in a good mood.",
+  "stats1_raw": "~",
+  "stats2_raw": "beflnoqr dfhkp -1000 S",
+  "stats3_raw": "23 0 -6 25d2+450 15d2+30",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3372,
+  "zone_id": 33,
+  "name": "The Pit",
+  "description": "You fall through the illusionary floor.\n\n  You hit the poisoned spikes below.\n\n  You die very slowly of bloodloss, your head impaled at \nan awkward angle.",
+  "header_raw": "33 bdgj 0",
+  "flags_text": "bdgj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3371
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

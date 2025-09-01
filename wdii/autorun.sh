@@ -30,10 +30,8 @@
 # off for a couple of minutes and then bring it back up without killing the
 # script.  Type "shutdown pause" from within the MUD to activate this feature.
 #
-# wdII_dir=/home/wardome/wardome/wdII
-# Jedi - 27/08/03
-# Modificado para refletir a posicao correta dos arquivos
-wdII_dir=/home/d3m4/Dev/Cpp/wardome/wardome/wdii
+# Resolve wdII_dir relative to this script's location
+wdII_dir="$(cd "$(dirname "$0")" && pwd)"
 # The port on which to run the MUD
 PORT=2022
 # Default flags to pass to the MUD server (see admin.txt for a description
@@ -91,4 +89,3 @@ do
     sleep 60
   done
 done
-

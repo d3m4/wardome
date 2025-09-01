@@ -1,0 +1,12 @@
+{
+  "id": 6005,
+  "alias": "fox brown",
+  "short_desc": "the brown fox",
+  "long_desc": "A brown fox is stalking rabbits through the underbrush here.",
+  "detailed_desc": "",
+  "flags_raw": "It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.",
+  "stats1_raw": "~",
+  "stats2_raw": "g 0 -50 S",
+  "stats3_raw": "2 18 6 1d4+18 1d6+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

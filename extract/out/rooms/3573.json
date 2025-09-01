@@ -1,0 +1,29 @@
+{
+  "id": 3573,
+  "zone_id": 35,
+  "name": "Behind The Inn",
+  "description": "You now stand behind the Inn.  The smell here is not so pleasant as\nthe keeper and his help throw a good deal of garbage here.  A couple of\npiles of rubbish are to the west, but you will smell the worse for\nmeddling there.  As a clean alternative, you can go north or east around\nthe Inn.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can go around the Inn this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3572
+    },
+    {
+      "dir": 3,
+      "description": "Only rats and fool adventurers play in garbage.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3578
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

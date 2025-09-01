@@ -1,0 +1,22 @@
+{
+  "id": 5202,
+  "alias": "gauntlets iron",
+  "short_desc": "a pair of iron gauntlets",
+  "long_desc": "A pair of iron gauntlets rests heavily on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 129",
+  "values_raw": "7 0 0 0",
+  "cost_raw": "10 2200 900",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -3
+    },
+    {
+      "location": 19,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

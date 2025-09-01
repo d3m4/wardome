@@ -1,0 +1,37 @@
+{
+  "id": 7302,
+  "zone_id": 73,
+  "name": "Cave Room",
+  "description": "You are standing in a room.  It is much cooler now.  The walls are glowing.",
+  "header_raw": "73 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "To the east you see the tunnel going downwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7303
+    },
+    {
+      "dir": 2,
+      "description": "To the south you see a dark cave tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7301
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7321
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

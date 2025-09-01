@@ -1,0 +1,58 @@
+{
+  "id": 6081,
+  "zone_id": 60,
+  "name": "In The Dense Forest Between The Hills",
+  "description": "You are standing among tightly packed trees between several hills.  You\nlost track of the path long ago, and now must rely on your instincts to guide\nyou.  The ground is very rough and rocky here, and only the most hardy plants\nsurvive.  The crowns of the old trees leave the hills in an unreal twilight\nillumination.",
+  "header_raw": "60 c 4",
+  "flags_text": "c",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "All you see are trees and hillsides.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6078
+    },
+    {
+      "dir": 1,
+      "description": "All you see are trees and hillsides.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6077
+    },
+    {
+      "dir": 2,
+      "description": "All you see are trees and hillsides.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6076
+    },
+    {
+      "dir": 3,
+      "description": "All you see are trees and a shadowy path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6073
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths",
+      "description": "The path is probably around here somewhere...if only you had paid more\nattention."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    },
+    {
+      "keywords": "hills hill",
+      "description": "Hills rise up all around you, blocking your view of the terrain."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

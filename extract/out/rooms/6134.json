@@ -1,0 +1,30 @@
+{
+  "id": 6134,
+  "zone_id": 61,
+  "name": "The Den Of The Queen Spider",
+  "description": "You are inside a cave-like structure that seems to be made entirely\nfrom countless layers of spider web.  Temperature and humidity is very\nhigh making it hard to breathe the foul air that lingers here.  The walls\nare covered with open cocoons.",
+  "header_raw": "61 ad 6",
+  "flags_text": "ad",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Compared to this place the east exit looks inviting.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6133
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "web wall walls",
+      "description": "The sticky walls are covered with open cocoons."
+    },
+    {
+      "keywords": "cocoon cocoons",
+      "description": "The cocoons are burst open as if something inside really wanted to get\nout.  They are at the size of a human head."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

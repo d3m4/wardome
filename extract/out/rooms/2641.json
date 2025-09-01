@@ -1,0 +1,45 @@
+{
+  "id": 2641,
+  "zone_id": 25,
+  "name": "In The Library",
+  "description": "You are in the great library of magic.  A strong musty smell permeates\nthe entire area.  Upon shelves which float just out of reach are hundreds\nof books, tomes and scrolls of every possible shape size and colour.  The\nelusive books seem to wink in and out of existence before your untrained\neyes.  It is very quiet here.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2642
+    },
+    {
+      "dir": 1,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2639
+    },
+    {
+      "dir": 2,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2638
+    },
+    {
+      "dir": 3,
+      "description": "All you can see are books.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2640
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

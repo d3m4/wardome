@@ -1,0 +1,53 @@
+{
+  "id": 12043,
+  "zone_id": 120,
+  "name": "The Waiting Room",
+  "description": "You are standing in a very large room with a high ceiling and there\nare a few people waiting here to see the Emperor on urgent matters.  The\nmaster scheduler tells you to have a seat and sends a page to inform the\nhis highness of your arrival.  There are large doors to the east and west\nand an exit leads south to the foyer.",
+  "header_raw": "120 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "There is a sign on the door that says:  MUNICIPAL COURT OF ROME.  It appears \nto be open.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12050
+    },
+    {
+      "dir": 2,
+      "description": "The foyer is directly to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12044
+    },
+    {
+      "dir": 3,
+      "description": "There is a large door to the west.",
+      "keywords": "door~ 2 12035 12036 S #12044 The Entrance Foyer~    You have just entered the main government building of the Roman Empire and are standing in a massive room with an elaborately decorated domed roof. There are many people here; messengers and senators being the most numerous. There is a large, ornate door to the west, a hallway leads north and marble stairs that lead out of the building are to the south.",
+      "door_flag": 120,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "You see a hallway leading north to what looks like a waiting room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12043
+    },
+    {
+      "dir": 3,
+      "description": "There is a large door to the west that blocks your path.",
+      "keywords": "door~ 1 12036 12037 D5 You see a stairway leading out of the building.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

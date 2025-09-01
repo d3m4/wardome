@@ -1,0 +1,12 @@
+{
+  "id": 5472,
+  "alias": "dog death",
+  "short_desc": "the death dog",
+  "long_desc": "The death dog stands here.",
+  "detailed_desc": "",
+  "flags_raw": "A large two-headed hound barks at you vicously.",
+  "stats1_raw": "~",
+  "stats2_raw": "fgl k 0 S",
+  "stats3_raw": "4 19 7 1d15+76 1d10+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

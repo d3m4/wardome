@@ -1,0 +1,12 @@
+{
+  "id": 5249,
+  "zone_id": 52,
+  "name": "Under A Watchtower",
+  "description": "As you descend the ladder, the rotted rungs break, sending you quickly\nto your demise far below on the city street.  Splat.",
+  "header_raw": "52 bd 1",
+  "flags_text": "bd",
+  "sector": 1,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

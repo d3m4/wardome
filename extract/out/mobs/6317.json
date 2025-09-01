@@ -1,0 +1,12 @@
+{
+  "id": 6317,
+  "alias": "dragon wormkin elder",
+  "short_desc": "the elder wormkin",
+  "long_desc": "A wormkin that has grown a bit stares at you inquisitively.",
+  "detailed_desc": "",
+  "flags_raw": "A medium-sized dragon -- seems it hasn't killed anything yet by itself,",
+  "stats1_raw": "though there is a first time for everything...",
+  "stats2_raw": "~",
+  "stats3_raw": "b dk -300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

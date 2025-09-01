@@ -1,0 +1,21 @@
+{
+  "id": 5059,
+  "zone_id": 50,
+  "name": "The Warriors' Tent",
+  "description": "This tent has a few furnishings, but mainly it holds the band's \nprotectors.  They all stare at you coldly as you enter.",
+  "header_raw": "50 dg 2",
+  "flags_text": "dg",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "Outside you see some peaceful camels.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5058
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

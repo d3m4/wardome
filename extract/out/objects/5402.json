@@ -1,0 +1,13 @@
+{
+  "id": 5402,
+  "alias": "fountain water",
+  "short_desc": "the large central fountain",
+  "long_desc": "The large central fountain domintating the central square rests here.",
+  "action_desc": "",
+  "header_raw": "23 ce 0",
+  "values_raw": "9999 9999 0 0",
+  "cost_raw": "9999 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}
