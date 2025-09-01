@@ -1,9 +1,0 @@
-{
-  "keywords": [
-    "DUAL",
-    "WIELD"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (155), Ninja (115), Ranger (68)\n- Descricao: Esta skill permite empunhar uma segunda arma, para causar algum dano extra.\n- Dano: 1/2x o dano de um golpe normal\n- Exemplo de uso:\t> wield excalibur\n\t\t\tYou wield as a secondary weapon Excalibur.\n\n- Observacoes: E necessario ja estar empunhando uma arma para que seja possivel empunhar a segunda; nao e possivel utilizar equipamentos na posicao �hold� quando se empunha duas armas; na verdade, com DUAL WIELD aplica-se mais um golpe por round, mas o dano deste e de 50% o dano normal.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

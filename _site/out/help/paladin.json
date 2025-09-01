@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "paladin"
-  ],
-  "aliases": [],
-  "body": "&yPALADIN&n\n\n<descricao da classe>\n\n&RSendo um &yPALADIN&R, voce aprendera as seguintes &Gskills&R e &Yspells&R, nos niveis indicados:&n\n\n&Y[&y  3&Y]&y cure light&n          &Y[&y 10&Y]&y create water&n        &Y[&y 15&Y]&y create food&n        \n&Y[&y 21&Y]&y bless&n               &G[&g 28&G]&g sting&n               &Y[&y 36&Y]&y protection from evil&n\n&Y[&y 51&Y]&y sacrifice&n           &Y[&y 55&Y]&y cure critic&n         &G[&g 64&G]&g crush&n              \n&G[&g 66&G]&g rescue&n              &G[&g 78&G]&g second attack&n       &Y[&y 81&Y]&y concentration&n      \n&Y[&y 91&Y]&y armor&n               &Y[&y 92&Y]&y revitalize&n          &G[&g 97&G]&g stroke&n             \n&Y[&y103&Y]&y peace&n               &Y[&y105&Y]&y dispel evil&n         &Y[&y112&Y]&y conviction&n         \n&G[&g120&G]&g slash&n               &G[&g125&G]&g third attack&n        &Y[&y126&Y]&y champion strenght&n  \n&Y[&y136&Y]&y holy mace&n           &G[&g139&G]&g shield block&n        &G[&g141&G]&g thrash&n             \n&Y[&y145&Y]&y holy shout&n          &Y[&y146&Y]&y god pact&n            &Y[&y153&Y]&y holy shield&n        \n&Y[&y159&Y]&y sanctuary&n           &G[&g160&G]&g combo&n               &Y[&y166&Y]&y lay on hands&n       \n&Y[&y171&Y]&y holy word&n           &Y[&y184&Y]&y holy fury&n           &Y[&y190&Y]&y holy bolt&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

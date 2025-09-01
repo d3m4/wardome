@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "THROW"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (140), Ninja (130), Barbarian (155), Ranger (109), Thief (124)\n- Descricao: Esta skill permite que se atire objetos e armas nos inimigos, causando algum dano.\n- Dano: ((STR do executor/2) + peso do objeto + level do executor)\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> throw stone zombie\n\t\t\tYou throw a pearly white stone at A zombie and hit it in the chest.\n\n- Observacoes: Uma vez atirado o objeto, este ira desaparecer.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

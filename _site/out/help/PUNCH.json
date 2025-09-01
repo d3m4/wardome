@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "PUNCH"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (94)\n- Descricao: Esta skill passiva melhora a habilidade na luta com armas do tipo punch (sim, por mais estranho que pareca, existem armas do tipo punch)\n\n- Observacoes: Este bonus nao e aplicado quando se luta com as maos nuas (neste caso, o que conta e HAND DAMAGE)",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

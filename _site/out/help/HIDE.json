@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "HIDE"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Thief (19), Ranger (59)\n- Descricao: Esta skill permite se esconder na sala.\n- Exemplo de uso:\t> hide\n\t\t\tYou attempt to hide yourself.\n\t\t\tYou are hide on the room now.\n\n- Observacoes: Qualquer comando utilizado enquanto o player estiver escondido, ate mesmo um simples toque na tecla <ENTER>, o fara aparecer novamente; um player com HIDE pode ser visto com SENSE LIFE ou ser detectado (porem nao visto) com LISTEN; ele pode tambem ser atingido com qualquer skill ou spell de area.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

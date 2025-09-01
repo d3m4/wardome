@@ -1,9 +1,0 @@
-{
-  "keywords": [
-    "PICK",
-    "LOCK"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (91), Thief (4)\n- Descricao: Esta skill permite que se abra certos objetos trancados, como portas e baus, sem a necessidade de chaves.\n- Exemplo de uso:\t> pick chest\n\t\t\tThe lock quickly yields to your skills.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "KICK"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (5), Ninja (11), Ranger (15), Barbarian (15)\n- Descricao: Esta skill permite chutar o inimigo.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> kick zombie\n\t\t\tYour kick hits A zombie in the solar plexus!",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

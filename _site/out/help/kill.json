@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "kill"
-  ],
-  "aliases": [],
-  "body": "&y\n    Kill permite atacar um mob ou player. Lembrando que para atacar um player,\nas regras de PK devem ser obedecidas (veja o help de PK para maiores detalhes).\n&n\n&y\n    > kill tarrasque\n    Your pierce <-:-*-:-> SUPERNOVAS <-:-*-:-> tarrasque. [1380]\n&n\n    &YVeja tambem:&y look, diagnose, consider, kill, skills, spells, pk, revive\n&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "pour"
-  ],
-  "aliases": [],
-  "body": "&y    Este comando permite que voce esvazie um recipiente com liquido dentro, ou\npasse seu conteudo para outro recipiente.\n&y\n    > pour bottle out\n    You empty a bottle.\n&y\n    > pour canteen bottle\n    You pour the clear water into the bottle.\n&n\n    &YVeja tambem:&y sip, taste, drink, eat\n&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

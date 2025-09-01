@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "recharge"
-  ],
-  "aliases": [],
-  "body": "Se o level da wand for menor que 50, entao o preco da carga eh 50k.\nCaso contrario o valor da carga eh valor da wand * 1000.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

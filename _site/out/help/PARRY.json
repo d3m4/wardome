@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "PARRY"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (149)\n- Descricao: Segunda das 5 skills passivas de defesa; segura um dos golpes que seriam tomados em um round.\n- Exemplo de uso:\t[Skill Passiva]: You skillfully parry Tarrasque attack!",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

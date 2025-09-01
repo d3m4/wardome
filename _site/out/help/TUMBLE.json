@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "TUMBLE"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Thief (155)\n- Descricao: Quarta das 5 skills passivas de defesa; evita, com o uso de acrobacias, um dos golpes que seriam tomados em um round.\n- Exemplo de uso:\t[Skill Passiva]: You skillfully tumble Tarrasque attack!",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

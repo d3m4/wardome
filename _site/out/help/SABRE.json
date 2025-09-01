@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "SABRE"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (181), Ranger (191)\n- Descricao: Esta skill permite aplicar uma devastadora sequencia de cortes durante uma luta.\n- Dano: de 0 a 8 golpes.\n- Numero de rounds necessarios para recuperacao do controle: 3\n\n- Observacoes: E necessario estar empunhando uma arma cortante (tipo slash) para utilizar esta skill.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

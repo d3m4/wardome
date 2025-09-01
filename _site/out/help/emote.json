@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "emote"
-  ],
-  "aliases": [],
-  "body": "EMOTE :\n\nUso: emote <mensagem>\n     : <mensagem>\n\n    Mostra as pessoas como voce esta se sentindo. O atalho e \":\". \"emote \n<string>\" mostrara seu nome e entao a string. \n\nExemplo:\n\n    Se seu nome e \"Helt\",\n\n      > emote is feeling very sad today.\n\n    mostrara:\n\n      Helt is feeling very sad today.\n\n    Veja tambem: SOCIALS",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

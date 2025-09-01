@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "msp"
-  ],
-  "aliases": [],
-  "body": "1.Baixe o cliente do mud em www.geocities.com/wardome2004.\n2.Instale o cliente em qualquer pasta.\n3.Crie um diretorio chamado: audio (no mesmo local de wardome.exe)\n4.Baixe regularmente os Sons .wav na pagina do Mud.\n5.Descompacte os sons(.wav) dentro da pasta 'audio' .\n6.Digite 'msp' no mud para ligar a opcao.\n\nObs:. Os arquivos .wav devem estar soltos na pasta 'audio', e nao dentro de diretorios.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

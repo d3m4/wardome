@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "LISTEN"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (55), Thief (34)\n- Descricao: Esta skill permite prestar atencao aos sons de uma sala, podendo-se detectar se ha alguem invisivel ou escondido ali.\n- Exemplo de uso:\t> listen\n\t\t\tYou hear what might be 6 creatures invisible, or hiding.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

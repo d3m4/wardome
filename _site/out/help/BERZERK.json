@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "BERZERK"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Barbarian (153)\n- Descricao: Esta skill permite deixar que a furia tome conta de seu corpo durante a luta, passando a lutar furiosamente ate a morte.\n- Dano: (dano normal)+25%\n- Numero de rounds necessarios para recuperacao do controle: 1\n- Exemplo de uso:\t> berzerk\n\t\t\tYou work up a frenzy and will fight to death!\n\n- Observacoes: E necessario estar lutando; o wimpy e automaticamente setado para 0 quando se usa BERZERK, ate que a luta acabe.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

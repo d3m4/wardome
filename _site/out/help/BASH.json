@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "BASH"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (97)\n- Descricao: Esta skill permite desferir um poderoso golpe no inimigo, derrubando-o.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> bash zombie\n\t\t\tYour bash at A zombie sends it sprawling!\n\n- Observacoes: E necessario estar empunhando uma arma de qualquer tipo para utilizar esta skill; quando o inimigo cai, ele recebe dano normal, mas nao pode atacar e so pode se levantar apos 2 rounds; caso o golpe falhe, seu executor perdera o equilibrio e caira.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

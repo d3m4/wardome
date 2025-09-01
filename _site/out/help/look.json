@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "look"
-  ],
-  "aliases": [],
-  "body": "&y\n    Look permite que voce obtenha detalhes sobre o que foi olhado. E possivel\nolhar players, mobs, npcs, objetos, saidas da sala atual, entre outros. Look\nusado sem parametros exibe detalhes da sala em que voce se encontra.\n&y\n    > look heimdall\n    You see nothing special about him.\n    Heimdall is in excellent condition.\n&n\n    &YVeja tambem:&y examine, diagnose\n&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "MEDITATE"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Psionicist (75), Shaman (62), Warlock (54), Sorcerer (100)\n- Descricao: Esta skill permite meditar, aumentando a taxa de recuperacao de MP.\n- Exemplo de uso:\t> meditate\n\t\t\tYou try to start meditate.\n\t\t\tYou start to meditate.\n\n- Observacoes: E necessario estar sentado para utilizar esta skill; qualquer comando utilizado enquanto o player estiver meditando, ate mesmo um simples toque na tecla <ENTER>, o fara perder a concentracao e parar de meditar.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

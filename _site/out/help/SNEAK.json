@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "SNEAK"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (23), Thief (1)\n- Descricao: Esta skill permite andar em silencio, podendo-se entrar e sair de salas sem ser notado.\n- Exemplo de uso:\t> sneak\n\t\t\tOkay, you'll try to move silently for a while.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

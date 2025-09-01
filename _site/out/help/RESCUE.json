@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "RESCUE"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Warrior (31), Paladin (66)\n- Descricao: Esta skill permite defender um amigo em uma luta. O player que a utiliza passa a proteger heroicamente o amigo, recebendo o dano que este receberia.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> rescue kefren\n\t\t\tBanzai!  To the rescue...\n\n- Observacoes: Esta skill so funciona em players dentro do PK Range e desde que a flag de PK seja a mesma para os dois, ou seja, ambos sejam PKs ou ambos sejam NOPKs.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

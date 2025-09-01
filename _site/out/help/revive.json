@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "revive"
-  ],
-  "aliases": [],
-  "body": "&y\n    Aqui no Mud, como em qualquer RPG, voce pode morrer. Isto pode acontecer\nde duas formas: caso voce atinja uma sala com armadilhas, tambem chamada de\nsala DT (Death Trap), ou se durante uma luta, seus hit points tornem-se\nnegativos. Caso isto aconteca, sua alma ira para o purgatorio, onde voce podera\nreviver... porem, com um alto custo.\n    Digite &Yrevive&y neste momento, e voce retornara ao seu templo. Voce estara\npraticamente sem hit points, mana points e move points, perdera uma certa\nquantidade de experiencia, e caso sua experiencia se torne negativa, voce sera\namaldicoado por 6hr (DAMNED CURSE), perdendo preciosos pontos de HITROLL e\nDAMROLL durante este tempo.\n    Caso sua morte tenha sido durante uma luta, voce tambem nao tera nenhum\nequipamento ou item... eles estarao em seu corpo, no local em que voce morreu.\n    Vale lembrar que, pelo policy, nenhum player pode lootear o corpo de outro\nplayer, a nao ser que o tenha matado... entao, caso alguem roube algo de seu\ncorpo, entre em contato com algum god!\n&n\n    &YVeja tambem:&y dt, policy, pk, kill, damned curse\n&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

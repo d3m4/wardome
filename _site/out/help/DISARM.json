@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "DISARM"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (73), Thief (82)\n- Descricao: Esta skill permite que se desarme o oponente durante uma luta, fazendo com que a arma dele caia no chao.\n- Dano: 0\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> disarm arkanis\n\t\t\tYou send its weapon flying.\n\n- Observacoes: E necessario estar lutando para utilizar a skill.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

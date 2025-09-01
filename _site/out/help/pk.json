@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "pk"
-  ],
-  "aliases": [],
-  "body": "&y\n    O Wardome Mud eh um mud onde voce pode optar por ser ou nao um Player\nKiller. Voce podera fazer esta opcao no nivel 10.\n    Caso escolha ser, voce sera setado com a flag permanente PK, e podera\natacar e ser atacado por players dentro de seu PK Range. No Wardome, o PK Range\neh de 9 niveis, ou seja, voce podera atacar players 9 niveis acima e abaixo do\nseu nivel, bem como ser atacado por estes. Os players que voce podera atacar\nterao um * vermelho ao lado de seus niveis, exibidos no comando who. Uma vez\nque voce opte por ser Player Killer, voce nao podera mudar de ideia mais tarde.\nE voce deve aceitar o fato de, caso voce venha a ser morto por um outro Player\nKiller, ele (e somente ele) tem todo o direito de roubar tudo o que voce\nestiver usando ou carregando.\n    Caso voce escolha nao ser Player Killer, ou passe para o nivel 11 sem ter\nfeito a escolha, voce sera um No Player Killer. NOPKs sao protegidos pelo\ncodigo, nao podendo matar, roubar, serem mortos ou serem roubados por outros\nplayers. Porem, voce podera optar por ser um Player Killer no nivel 10 de cada\nRemort que voce atinja futuramente.\n    Existem ainda alguns casos especiais de PK, que podem ocorrer quando um\nplayer esta marcado com alguma flag especial: THIEF quando um Player Killer\ntenta roubar outro player com a skill STEAL e falha, e KILLER, quando um Player\nKiller mata mais de 10 players ou ataca os guardioes de um clan. Veja o help de\nflags para mais detalhes nestes casos.\n&n\n    &YVeja tambem:&y kill, diagnose, consider, who, remort, flags, revive\n&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

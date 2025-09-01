@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "religion_commands"
-  ],
-  "aliases": [],
-  "body": "&y                          RELIGION COMMANDS&n\n&n\n&gPara usar os poderes dos deuses, execute os seguintes comandos:&n\n&n\n&WDeuses       &cComandos&n\n&CM&cuir       &w: &cHonor&n\n&YI&ylma&wna&yteu&Yr &w: &cHumility&n\n&CS&ce&Cl&cu&Cn&ce     &w: &cFreedom&n\n&YH&Welm       &w: &cLaw&n\n&YOhgma      &w: &cIdentify &w(&gObj&w|&yMob&w|&cPlayer&w)&n\n&WT&wempus     &w: &cWarrior&n\n&WB&wa&Wn&we       &w: &cOppression&n\n&MPa&mndo&Mra    &w: &cSeduction&n\n&RT&ra&wl&ro&Rs      &w: &cDestruction&n\n&n\n&n\n&WVEJA TAMBEM: &Yreligions&w, &Yalinhamento.&n",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

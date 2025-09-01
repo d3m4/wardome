@@ -1,9 +1,0 @@
-{
-  "keywords": [
-    "SHIELD",
-    "BLOCK"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Paladin (139)\n- Descricao: Primeira das 5 skills passivas de defesa; bloqueia com o escudo um dos golpes que seriam tomados em um round.\n- Exemplo de uso:\t[Skill Passiva]: You skillfully shield block Tarrasque attack!\n\n- Observacoes: E necessario estar usando um escudo para que a skill funcione.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

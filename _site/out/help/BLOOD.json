@@ -1,9 +1,0 @@
-{
-  "keywords": [
-    "BLOOD",
-    "RITUAL"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Necromancer (26)\n- Descricao: Esta skill permite evocar as forcas da escuridao e sacrificar o proprio sangue para obter poder, ou seja, perder HP para ganhar MP.\n- Exemplo de uso:\t> blood\n\t\t\tYou called out the darkness.\n\t\t\tDarkness answered your call. Your blood turns into power.\n\n- Observacoes: Nao e possivel utilizar esta skill durante uma luta.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

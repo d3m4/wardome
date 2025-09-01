@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "AGILITY"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (166)\n- Descricao: Quinta das 5 skills passivas de defesa; evita parcialmente, atraves da agilidade, um dos golpes que seriam tomados em um round.\n- Exemplo de uso:\t[Skill Passiva]: You evade Tarrasque attack and suffer a lower damage!\n\n- Observacoes: O dano recebido e reduzido em 50%.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

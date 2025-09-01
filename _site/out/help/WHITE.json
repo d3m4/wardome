@@ -1,9 +1,0 @@
-{
-  "keywords": [
-    "WHITE",
-    "GAS"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (100)\n- Descricao: Esta skill permite que se faca uma cortina de fumaca na sala, ocultando o player.\n- Exemplo de uso:\t> gas\n\t\t\tYou are hide on the room now.\n\n- Observacoes: Um player escondido com WHITE GAS pode ser detectado com LISTEN e atingido com qualquer skill ou spell de area, mas diferentemente de HIDE, nao pode ser visto com SENSE LIFE.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}

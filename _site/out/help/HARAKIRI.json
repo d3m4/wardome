@@ -1,8 +1,0 @@
-{
-  "keywords": [
-    "HARAKIRI"
-  ],
-  "aliases": [],
-  "body": "- Classes que aprendem: Ninja (50)\n- Descricao: Esta skill permite que o player se mate durante uma luta.\n- Exemplo de uso:\t> harakiri\n\t\t\tYou slash yourself on the heart and you die.\n\n- Observacoes: E necessario estar lutando; utilizando esta skill, as punicoes (perda de xp, perda de equipamentos) acontecem como em uma morte normal; embora nao pareca, esta skill pode ser util em uma WAR, por exemplo, para que o inimigo nao ganhe mais um ponto ao matar o player.",
-  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
-}
