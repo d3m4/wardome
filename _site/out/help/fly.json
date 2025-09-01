@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "fly"
+  ],
+  "aliases": [
+    "FLY"
+  ],
+  "body": "Syntax: cast 'fly' <target>\n\nFly grants the target the ability to fly, allowing movement over water\nand other terrain that would normally be impassable. Flying characters\nalso gain advantages in combat positioning.\n\nClasses: Mage, Sorcerer\nLevel: 10 (Mage), 15 (Sorcerer)\nMana Cost: 15\nDuration: 24 hours\nPosition: Standing or Fighting\n\nThis spell can be cast on yourself or others. Flying is essential for\nexploring certain areas and provides tactical advantages in battle.\n\nSee Also: WATERWALK, GROUP FLY",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

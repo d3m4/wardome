@@ -1,0 +1,12 @@
+{
+  "id": 2517,
+  "alias": "apprentice young",
+  "short_desc": "the young apprentice",
+  "long_desc": "A young apprentice is sleeping here.",
+  "detailed_desc": "",
+  "flags_raw": "He seems to be dreaming.",
+  "stats1_raw": "~",
+  "stats2_raw": "abcgh dk 350 S",
+  "stats3_raw": "7 7 2 7d6+25 2d4+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4043,
+  "zone_id": 40,
+  "name": "The Cave Entrance",
+  "description": "You stand in a large tunnel, much larger than it seemed from\nthe outside.  The ceiling is at least twenty feet above, and the\nwidth of the tunnel runs at least fifteen feet.  You can feel the\nfresh air coming from the east, and off to the west, it looks to\nlead into darkness.",
+  "header_raw": "40 d 2",
+  "flags_text": "d",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4042
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4044
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

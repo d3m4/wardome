@@ -1,0 +1,27 @@
+{
+  "id": 2592,
+  "alias": "green scale shirt",
+  "short_desc": "a tight fitting green dragon scale shirt",
+  "long_desc": "Some green dragon scales which have been sewn together are here.",
+  "action_desc": "",
+  "header_raw": "9 g 9",
+  "values_raw": "10 0 0 0",
+  "cost_raw": "9 10000 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "green scale shirt",
+      "description": "this Green dragon scale shirt was made from a poor unfortunate green dragon."
+    }
+  ],
+  "affects": [
+    {
+      "location": 2,
+      "modifier": 3
+    },
+    {
+      "location": 17,
+      "modifier": -5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

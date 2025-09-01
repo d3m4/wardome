@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "practices"
+  ],
+  "aliases": [
+    "SPELLS SKILLS PRACTICES"
+  ],
+  "body": "Neste mundo, as pericias e magias que voce ganha apos um dia dura passando de nivel sao \ndiferentes de outros Muds. Ao passar de nivel, nao e necessario ir ate o seu mestre para \ntreinar. Quando voce passa de nivel, voce aprende 30% da pericia/magia, mas para chegar a \n100%  voce precisa pratica-la durante o jogo.\n\n    Para ver uma lista de magias e pericias da sua classe, use: SLIST",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

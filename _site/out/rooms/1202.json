@@ -1,0 +1,12 @@
+{
+  "id": 1202,
+  "zone_id": 12,
+  "name": "The Ice Box Of The Gods",
+  "description": "The Ice Box is for little boys and girls that cannot play nice. Be good\nand maybe someone will come and get you.",
+  "header_raw": "12 defh 0",
+  "flags_text": "defh",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/12.wld"
+}

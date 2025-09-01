@@ -1,0 +1,12 @@
+{
+  "id": 3046,
+  "alias": "filthy",
+  "short_desc": "Filthy",
+  "long_desc": "Filthy is standing here, eager to serve you a special drink.",
+  "detailed_desc": "",
+  "flags_raw": "Filthy looks real, ehm, dirty.  He likes to keep his customers happy,",
+  "stats1_raw": "but do not mess with him or else he'll get upset.",
+  "stats2_raw": "~",
+  "stats3_raw": "belno d 600 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

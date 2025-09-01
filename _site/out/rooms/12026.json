@@ -1,0 +1,34 @@
+{
+  "id": 12026,
+  "zone_id": 120,
+  "name": "A Paved Road",
+  "description": "You are on a paved road that runs east to west.  You can see an elaborate\nlooking estate to the south and to the north-west, off in the distance, you\ncan see a very large stone structure.",
+  "header_raw": "120 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The road leads off to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12033
+    },
+    {
+      "dir": 2,
+      "description": "It looks like a Nobleman's estate.  We are talking RICH nobleman's estate.",
+      "keywords": "estate house~ 0 -1 12027 D3 The road leads west towards the highway.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "structure",
+      "description": "That would probably be the Coliseum.  There are a few good matches scheduled\nfor today."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

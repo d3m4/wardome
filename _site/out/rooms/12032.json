@@ -1,0 +1,46 @@
+{
+  "id": 12032,
+  "zone_id": 120,
+  "name": "The Town Square",
+  "description": "You are standing in the middle of a large open area which is the common\narea of Rome.  During the day, this place is alive with the hustle and\nbustle of all of the citizens of Rome and everyone in the city is sure to\nstop by at some time or another.  There are several street vendors peddling\ntheir wares and the overall atmosphere is carnival-like in nature.  To the\nsoutheast, off in the distance, you can see the aqueduct and the buildings\nof the Roman government lie to the northwest.  Nero Drive leads north and\nsouth from here and Clay Avenue runs east.",
+  "header_raw": "120 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Nero Drive heads in the direction of the northern gate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12031
+    },
+    {
+      "dir": 2,
+      "description": "A street made of hard packed clay runs in that direction towards the\naqueduct and buildings of the Roman government.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12033
+    },
+    {
+      "dir": 1,
+      "description": "Nero Drive heads in the direction of the south gate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12039
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "vendor vendors",
+      "description": "There are several sidewalk vendors here, selling fresh fruits and vegetables,\nhome baked goods, fine jewelry and other items.  Most of the items for sale\nare of very high quality."
+    },
+    {
+      "keywords": "aqueduct",
+      "description": "To the southeast, off in the distance, stands a large stone structure that\nis used to channel water into the city."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

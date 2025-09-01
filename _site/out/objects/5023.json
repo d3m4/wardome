@@ -1,0 +1,13 @@
+{
+  "id": 5023,
+  "alias": "chest iron bound",
+  "short_desc": "an iron bound chest",
+  "long_desc": "An iron bound chest with a shiny lock sits here.",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "200 13 5024 0",
+  "cost_raw": "200 1000 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

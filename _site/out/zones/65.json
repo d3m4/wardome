@@ -1,0 +1,1198 @@
+{
+  "id": 65,
+  "name": "The Dwarven Kingdom",
+  "header": {
+    "raw": "6500 6599 40 2",
+    "min_room": 6500,
+    "top_room": 6599,
+    "lifespan": 40,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6505
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6505,
+        100,
+        5
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6515,
+        3,
+        17
+      ],
+      "comment": "Key To Entrance Of Mountain"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6540
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6505,
+        100,
+        5
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6502,
+        100,
+        17
+      ],
+      "comment": "Key To The Mines"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6505
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6505,
+        100,
+        5
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6540
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6505,
+        100,
+        5
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6509
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6512,
+        100,
+        9
+      ],
+      "comment": "Dwarven Gloves"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6509,
+        100,
+        16
+      ],
+      "comment": "Two-Handed Dwarven Axe"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6521
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        6500,
+        11,
+        6521
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        6500,
+        11,
+        6521
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6512
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6512
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6500,
+        11,
+        6509
+      ],
+      "comment": "Dwarf Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6509,
+        100,
+        16
+      ],
+      "comment": "Two-Handed Dwarven Axe"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6510,
+        100,
+        6
+      ],
+      "comment": "Dwarven Helmet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6511,
+        100,
+        1
+      ],
+      "comment": "Golden Dwarf Ring"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6501,
+        9,
+        6503
+      ],
+      "comment": "Dwarven Worker"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6501,
+        9,
+        6502
+      ],
+      "comment": "Dwarven Worker"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6501,
+        9,
+        6501
+      ],
+      "comment": "Dwarven Worker"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6502,
+        1,
+        6527
+      ],
+      "comment": "Wraith"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6503,
+        100,
+        17
+      ],
+      "comment": "Key To The Castle"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6503,
+        1,
+        6516
+      ],
+      "comment": "Hide & Tooth Storekeeper"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3022,
+        100
+      ],
+      "comment": "Long Sword"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6504,
+        100
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6505,
+        100
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6510,
+        100
+      ],
+      "comment": "Dwarven Helmet"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6512,
+        100
+      ],
+      "comment": "Dwarven Gloves"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6504,
+        1,
+        6535
+      ],
+      "comment": "Granite Head The Baker"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3000,
+        100
+      ],
+      "comment": "Beer Barrel"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3003,
+        100
+      ],
+      "comment": "Firebreather"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3010,
+        100
+      ],
+      "comment": "Loaf Of Bread"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3011,
+        100
+      ],
+      "comment": "Danish Pastry"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3031,
+        100
+      ],
+      "comment": "Lantern"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6013,
+        100
+      ],
+      "comment": "Water Barrel"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6505,
+        2,
+        6515
+      ],
+      "comment": "Lizard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6505,
+        2,
+        6520
+      ],
+      "comment": "Lizard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6506,
+        2,
+        6508
+      ],
+      "comment": "Giant"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6505,
+        100,
+        5
+      ],
+      "comment": "Dwarven Plate"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6507,
+        4,
+        6543
+      ],
+      "comment": "Dwarven Mineworker"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6507,
+        4,
+        6543
+      ],
+      "comment": "Dwarven Mineworker"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6507,
+        4,
+        6542
+      ],
+      "comment": "Dwarven Mineworker"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6507,
+        4,
+        6542
+      ],
+      "comment": "Dwarven Mineworker"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6508,
+        1,
+        6543
+      ],
+      "comment": "Dwarven Mineleader"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6512,
+        100,
+        9
+      ],
+      "comment": "Dwarven Gloves"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6508,
+        100,
+        16
+      ],
+      "comment": "Dwarven Club"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6509,
+        1,
+        6534
+      ],
+      "comment": "Dwarf Doctor"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6506,
+        100,
+        17
+      ],
+      "comment": "Long Black Heal Stick"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6510,
+        4,
+        6534
+      ],
+      "comment": "Dwarf Peon"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6510,
+        4,
+        6534
+      ],
+      "comment": "Dwarf Peon"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6523
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6523
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6523
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6524
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6504,
+        100,
+        16
+      ],
+      "comment": "Dwarven Hammer"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6524
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6511,
+        8,
+        6524
+      ],
+      "comment": "Barrack Dwarf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7211,
+        100,
+        16
+      ],
+      "comment": "Short Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6514,
+        4,
+        6521
+      ],
+      "comment": "Barrack Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6509,
+        100,
+        16
+      ],
+      "comment": "Two-Handed Dwarven Axe"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6514,
+        4,
+        6521
+      ],
+      "comment": "Barrack Guard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6509,
+        100,
+        16
+      ],
+      "comment": "Two-Handed Dwarven Axe"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6516,
+        1,
+        6553
+      ],
+      "comment": "Mazekeeper"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6500,
+        1,
+        17
+      ],
+      "comment": "Key To The Treasury"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        6501,
+        1,
+        6554
+      ],
+      "comment": "Treasure"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6517,
+        2,
+        6548
+      ],
+      "comment": "Giant Snake"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6517,
+        2,
+        6549
+      ],
+      "comment": "Giant Snake"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6513,
+        6507
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6507,
+        4,
+        6513
+      ],
+      "comment": "Long Black Light Stick"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6505,
+        6507
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6507,
+        4,
+        6505
+      ],
+      "comment": "Long Black Light Stick"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6503,
+        6507
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6507,
+        4,
+        6503
+      ],
+      "comment": "Long Black Light Stick"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6540,
+        6507
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6507,
+        4,
+        6540
+      ],
+      "comment": "Long Black Light Stick"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6513,
+        6,
+        6545
+      ],
+      "comment": "Chunk Of Coal"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6551,
+        6514
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6514,
+        3,
+        6551
+      ],
+      "comment": "Mining Pick"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6516,
+        1,
+        6532
+      ],
+      "comment": "Key To The Mine Maze"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6505,
+        3,
+        2
+      ],
+      "comment": "Mountain Entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6513,
+        1,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6509,
+        0,
+        2
+      ],
+      "comment": "Kingdom Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6510,
+        2,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6512,
+        1,
+        2
+      ],
+      "comment": "Castle Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6525,
+        3,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6521,
+        2,
+        1
+      ],
+      "comment": "Barracks Entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6523,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6526,
+        5,
+        1
+      ],
+      "comment": "Wine Cellar"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6527,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6531,
+        0,
+        1
+      ],
+      "comment": "Queen's Bedroom"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6532,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6532,
+        3,
+        2
+      ],
+      "comment": "Treasury Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6554,
+        1,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6540,
+        1,
+        2
+      ],
+      "comment": "Mine Entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6541,
+        3,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6544,
+        0,
+        2
+      ],
+      "comment": "Maze Entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6546,
+        2,
+        2
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/65.zon"
+}

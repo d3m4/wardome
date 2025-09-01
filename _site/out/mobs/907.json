@@ -1,0 +1,12 @@
+{
+  "id": 907,
+  "alias": "minos king minotaur",
+  "short_desc": "King Minos the Minotaur",
+  "long_desc": "King Minos the Minotaur is ready and waiting to gore you to death.",
+  "detailed_desc": "",
+  "flags_raw": "He smells something awful.",
+  "stats1_raw": "~",
+  "stats2_raw": "bflmnoq dfhkp -1000 S",
+  "stats3_raw": "26 0 -2 12d8+590 4d6+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+}

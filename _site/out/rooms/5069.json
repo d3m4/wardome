@@ -1,0 +1,29 @@
+{
+  "id": 5069,
+  "zone_id": 50,
+  "name": "A Small Cavern",
+  "description": "It is dark and damp and bats hang from the ceiling.  A narrow crack is\nin the east wall.  The floor now slopes upwards.",
+  "header_raw": "50 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5068
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5070
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

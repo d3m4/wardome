@@ -1,0 +1,29 @@
+{
+  "id": 7301,
+  "zone_id": 73,
+  "name": "Cave Tunnel",
+  "description": "You are walking in a tunnel.  It is very cold.  You can feel the presence\nof a living thing... SOMEWHERE.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north you can see the tunnel continuing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7302
+    },
+    {
+      "dir": 2,
+      "description": "To the south tunnel continuing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7300
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

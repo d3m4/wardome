@@ -1,0 +1,21 @@
+{
+  "id": 15006,
+  "zone_id": 150,
+  "name": "A Small Passage",
+  "description": "You are standing in a small passage, that is clearly intended mostly\nfor the servants of the Castle.  It is only dimly lit and quite narrow.\nThe passage leads west, and to the east there is a small door.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The door is small and uninteresting.",
+      "keywords": "door small~ 1 -1 15007 D3 You hear clanging of pots, and smell cooking meat.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

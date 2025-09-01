@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "HEADBASH"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Barbarian (135)\n- Descricao: Esta skill permite acertar um poderoso golpe no inimigo, fazendo com que este desmaie. Estando o inimigo desmaiado, os golpes que o atingirem causarao o dobro do dano normal.\n- Dano: 0\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> headbash arkanis\n\t\t\tYou hit its head forcing a fainting.\n\n- Observacoes: E necessario estar lutando para utilizar esta skill; e necessario estar empunhando uma arma de qualquer tipo para utiliza-la.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

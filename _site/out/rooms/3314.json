@@ -1,0 +1,29 @@
+{
+  "id": 3314,
+  "zone_id": 33,
+  "name": "A Rocky Slope",
+  "description": "You slip and slide your way across the steep ground, \ntrying desperately to keep your balance.  You can climb \nup to a small plateau to the north from here, or carefully\nhead down to the floor of the depression to the west.  \nYou're not sure which is safer...",
+  "header_raw": "33 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3310
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

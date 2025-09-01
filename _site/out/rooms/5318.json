@@ -1,0 +1,34 @@
+{
+  "id": 5318,
+  "zone_id": 53,
+  "name": "Under The Hole",
+  "description": "You are in a small chamber underneath the slippery hole, far below\nthe pyramid now.   The floor is strewn with bones.  To the south is a\nsmall rocky crevasse.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a rocky crevasse that proceeds deep under the pyramid.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5319
+    },
+    {
+      "dir": 4,
+      "description": "The hole looks far too slippery to climb back up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bones",
+      "description": "The bones have whitened and cracked in the dry air, apparently the remains \nof adventurers, thieves, and creatures that did not survive the fall."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1200,
+  "alias": "innkeeper",
+  "short_desc": "the Immortal Innkeeper",
+  "long_desc": "The Immortal Innkeeper is organizing her books here.",
+  "detailed_desc": "",
+  "flags_raw": "She appears to be having no problem tallying things up.",
+  "stats1_raw": "~",
+  "stats2_raw": "ab p 0 S",
+  "stats3_raw": "30 0 -10 1d49+901 4d8+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/12.mob"
+}

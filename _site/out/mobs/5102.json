@@ -1,0 +1,12 @@
+{
+  "id": 5102,
+  "alias": "drow noble warrior",
+  "short_desc": "the drow warrior",
+  "long_desc": "A drow warrior stands here guarding his home.",
+  "detailed_desc": "",
+  "flags_raw": "He looks kind of annoyed!",
+  "stats1_raw": "~",
+  "stats2_raw": "bflm dk -1000 S",
+  "stats3_raw": "12 9 0 1d5+160 14d1+7",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

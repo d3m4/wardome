@@ -1,0 +1,22 @@
+{
+  "id": 12019,
+  "alias": "boots combat",
+  "short_desc": "a pair of Roman combat boots",
+  "long_desc": "A pair of combat boots have been left here.",
+  "action_desc": "",
+  "header_raw": "9 a 65",
+  "values_raw": "8 0 0 0",
+  "cost_raw": "45 8750 9000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": -1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

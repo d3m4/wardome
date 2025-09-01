@@ -1,0 +1,685 @@
+{
+  "id": 64,
+  "name": "Rand's Tower",
+  "header": {
+    "raw": "6400 6499 20 1",
+    "min_room": 6400,
+    "top_room": 6499,
+    "lifespan": 20,
+    "reset_mode": 1
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6400
+      ],
+      "comment": "Goats"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6402
+      ],
+      "comment": "Goats"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6400,
+        3,
+        6404
+      ],
+      "comment": "Goats"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        2,
+        6407
+      ],
+      "comment": "Demons"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6401,
+        2,
+        6407
+      ],
+      "comment": "Demons"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6402,
+        1,
+        6412
+      ],
+      "comment": "Book Monster"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6410,
+        20
+      ],
+      "comment": "Chaos Book"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6411,
+        20
+      ],
+      "comment": "Elder Book"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6403,
+        1,
+        6411
+      ],
+      "comment": "Bad Feeling"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6405,
+        1,
+        6437
+      ],
+      "comment": "Door Guardian"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6416,
+        1,
+        6416
+      ],
+      "comment": "Chest"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6404,
+        3,
+        6416
+      ],
+      "comment": "Worst Nightmare"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6401,
+        50,
+        6416
+      ],
+      "comment": "Glowing Platemail"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6417,
+        1,
+        6416
+      ],
+      "comment": "Chest"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6404,
+        3,
+        6416
+      ],
+      "comment": "Worst Nightmare"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6405,
+        100,
+        6417
+      ],
+      "comment": "Dragon's Blood"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6407,
+        50,
+        6417
+      ],
+      "comment": "Tent Pole"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6418,
+        1,
+        6416
+      ],
+      "comment": "Chest"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6404,
+        1,
+        6416
+      ],
+      "comment": "Worst Nightmare"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6406,
+        100,
+        6418
+      ],
+      "comment": "Amulet"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6408,
+        1,
+        6418
+      ],
+      "comment": "Powder Of Wealth"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6412,
+        10,
+        6418
+      ],
+      "comment": "Occluded Lens"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6411,
+        6404
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6404,
+        5,
+        6411
+      ],
+      "comment": "Sculpture"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6409,
+        1,
+        6411
+      ],
+      "comment": "Desk"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6402,
+        50,
+        6409
+      ],
+      "comment": "Agate"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6403,
+        50,
+        6409
+      ],
+      "comment": "Jade"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        0,
+        6400,
+        50,
+        6409
+      ],
+      "comment": "Glowing Dagger"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6441,
+        6413
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6413,
+        100,
+        6441
+      ],
+      "comment": "Mevais"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6441,
+        6414
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6414,
+        100,
+        6441
+      ],
+      "comment": "Peska"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6436,
+        6415
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6415,
+        10,
+        6436
+      ],
+      "comment": "Rand's Staff"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6410,
+        6419
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6419,
+        1,
+        6410
+      ],
+      "comment": "Water Basin"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6424,
+        6420
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6420,
+        10,
+        6424
+      ],
+      "comment": "Food"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6424,
+        6420
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6420,
+        10,
+        6424
+      ],
+      "comment": "Food"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6406,
+        5,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6407,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6407,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6408,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6409,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6409,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6410,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6411,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6412,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6412,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6413,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6414,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6414,
+        5,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6415,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6416,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6417,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6418,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6419,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6420,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6421,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6423,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6424,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6435,
+        3,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6436,
+        1,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6437,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6438,
+        1,
+        1
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/64.zon"
+}

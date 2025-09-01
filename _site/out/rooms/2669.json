@@ -1,0 +1,45 @@
+{
+  "id": 2669,
+  "zone_id": 25,
+  "name": "The Chamber Of The White Light",
+  "description": "You are in a vast chamber, its walls floor and ceiling are of an\nunknown metallic material, the brightest white, almost blindingly stark.\nA flickering flame is in the center of the room, seeming to feed off of\ndarkness and cleansing the room of any evil.  You feel a slight tug at\nyour being as the flame flickers towards you.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2670
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2667
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2671
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2672
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

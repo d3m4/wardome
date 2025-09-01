@@ -1,0 +1,29 @@
+{
+  "id": 3320,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "This twisty passage leads east and west from here.  \nEastwards you hear the unmistakable sounds of low \nvoices.  The echoes seem to be playing funny effects \non you, however, and you are not sure  from how far \noff these voices might be coming.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3321
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3319
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

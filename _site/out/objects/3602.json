@@ -1,0 +1,13 @@
+{
+  "id": 3602,
+  "alias": "sword black pawn",
+  "short_desc": "a Black Pawn's Sword",
+  "long_desc": "The sword of a Black Pawn lies here.",
+  "action_desc": "",
+  "header_raw": "5 j 8193",
+  "values_raw": "0 3 4 3",
+  "cost_raw": "10 100 1",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3307,
+  "alias": "salle woman",
+  "short_desc": "Salle",
+  "long_desc": "A woman ignores you completely, so intent is she upon her sword.",
+  "detailed_desc": "",
+  "flags_raw": "She is a stunning woman, all hair and eyes, it seems.",
+  "stats1_raw": "Her clothing is of the same tawny brown of her skin and",
+  "stats2_raw": "hair.  Her blue eyes look at you appraisingly, seemingly",
+  "stats3_raw": "to show great intelligence.  Her mouth twitches into a",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

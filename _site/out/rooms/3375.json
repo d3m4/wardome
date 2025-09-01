@@ -1,0 +1,21 @@
+{
+  "id": 3375,
+  "zone_id": 33,
+  "name": "The Lair",
+  "description": "This place is huge!!!  It should be considering the \ndragon's great bulk.  However, instead of seeing the \ncustomary carnage and mound of gold that one is accustomed \nto seeing in a dragon lair, this one is decorated subtly \nwith tapestries and drapes, and other comforts of human \nlife.  There is even a huge-dragon sized bed -- undoubtedly \nconjured to life by its elder dragon owner.",
+  "header_raw": "33 dgj 4",
+  "flags_text": "dgj",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3374
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

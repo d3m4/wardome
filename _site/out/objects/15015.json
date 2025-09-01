@@ -1,0 +1,13 @@
+{
+  "id": 15015,
+  "alias": "hauberk mail chain",
+  "short_desc": "a guard's chain mail hauberk",
+  "long_desc": "A chain mail hauberk lies on the floor",
+  "action_desc": "",
+  "header_raw": "9 0 9",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "60 2000 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

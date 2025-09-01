@@ -1,0 +1,13 @@
+{
+  "id": 5012,
+  "alias": "stakes bundle bunch",
+  "short_desc": "a bunch of stakes",
+  "long_desc": "A small bundle of stakes lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 2 11",
+  "cost_raw": "6 250 30",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

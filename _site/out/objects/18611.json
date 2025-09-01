@@ -1,0 +1,22 @@
+{
+  "id": 18611,
+  "alias": "hide skin",
+  "short_desc": "the smelly hide of the Minotaur",
+  "long_desc": "The hide of the great Minotaur is lying here.",
+  "action_desc": "",
+  "header_raw": "11 8192 1033",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "6 100 0",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -6
+    },
+    {
+      "location": 13,
+      "modifier": 15
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/186.obj"
+}

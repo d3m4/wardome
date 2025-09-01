@@ -1,0 +1,21 @@
+{
+  "id": 2660,
+  "zone_id": 25,
+  "name": "The End Of The Hallway",
+  "description": "You are at the end of a long dark hallway.  The darkness here is almost\ntangible in its thickness.  A deep sense of fear and loathing comes over\nyou.\n   A pair of obsidian doors can be seen to the east.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door obsidian~ 1 -1 2661 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

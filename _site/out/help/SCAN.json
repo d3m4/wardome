@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "SCAN"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (133), Thief (87)\n- Descricao: Esta skill permite verificar se ha alguem nas salas ao redor de seu executor, indicando seu nome, direcao e distancia que se encontra.\n- Exemplo de uso:\t> scan\n\t\t\tYou quickly scan the area and see:\n\t\t\tLuigi, right here\n\t\t\tSeker, right here\n\t\t\tthe Immortal Innkeeper, immediately to the north\n\t\t\tthe wandering spirit, immediately to the east\n\t\t\tthe wandering spirit, immediately to the east\n\t\t\tZhantar, immediately to the east\n\t\t\tthe Immortal Postmaster, immediately to the west\n\t\t\tMordron, immediately downwards\n\t\t\tthe Questmaster Ashlandar, immediately downwards\n- Calculo da distancia ate o alvo: \n\t\t\tright here\tse encontra na mesma sala\n\t\t\timmediately\t1 sala de distancia\n\t\t\tnearby\t\t2 salas de distancia\n\t\t\ta ways\t\t3 salas de distancia\n\t\t\tfar\t\t4 salas de distancia\n\t\t\tvery far\t\t5 salas de distancia\n\t\t\textremely far\t6 salas de distancia\n\t\t\timpossibly far\t7 salas de distancia\n\n- Observacoes: O gasto, em pontos de movimento, e de (Nivel do player/9) pontos por uso do SCAN.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

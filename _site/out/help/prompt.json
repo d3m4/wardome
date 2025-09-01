@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "prompt"
+  ],
+  "aliases": [
+    "DISPLAY PROMPT"
+  ],
+  "body": "Uso: display < H | M | V | MT | all | off >\n\n    Modifica seu prompt para mostrar seus hps, mana e/ou pontos de movimento.\n\n    > display hv          Mostra pontos de vida e movimento\n    > display off         Mostra o prompt normal\n    > display all         Mostra pontos de vida, mana e pontos de movimento\n\n    Veja tambem: TOGGLE",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

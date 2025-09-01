@@ -1,0 +1,13 @@
+{
+  "id": 5463,
+  "alias": "chicken whole",
+  "short_desc": "a whole chicken",
+  "long_desc": "A whole skinned chicken lies here.",
+  "action_desc": "",
+  "header_raw": "19 0 1",
+  "values_raw": "12 0 0 0",
+  "cost_raw": "3 12 30",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

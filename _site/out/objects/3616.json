@@ -1,0 +1,13 @@
+{
+  "id": 3616,
+  "alias": "coins gold black royal treasure",
+  "short_desc": "the Black Royal Treasure",
+  "long_desc": "There are a LOT of coins here.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "10000 0 0 0",
+  "cost_raw": "10 10000 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

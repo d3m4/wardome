@@ -1,0 +1,29 @@
+{
+  "id": 15003,
+  "zone_id": 150,
+  "name": "On The King's Road Outside A Castle",
+  "description": "You are standing on the King's Road.  Before you is a large\nCastle, evidently built not so much for strength as for beauty.\nIt is not totally without defences, though, for it is surrounded\nby a deep moat, and its windows are just narrow slits for archers\nto shoot through.  To the north there is a drawbridge across the\nmoat.",
+  "header_raw": "150 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the drawbridge.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15004
+    },
+    {
+      "dir": 3,
+      "description": "The King's Road continues in a straight line to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15002
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

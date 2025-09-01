@@ -1,0 +1,21 @@
+{
+  "id": 7039,
+  "zone_id": 70,
+  "name": "The Sewer Store Room",
+  "description": "You stand in a small room lit by a single torch set in the wall.  The only \nway out of here is to the north.",
+  "header_raw": "70 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north you see a pipe junction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7038
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5490,
+  "alias": "chessboard",
+  "short_desc": "a chessboard",
+  "long_desc": "A heavy marble chessboard lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 16385",
+  "values_raw": "0 1 30 6",
+  "cost_raw": "10 100 20",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

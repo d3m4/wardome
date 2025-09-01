@@ -1,0 +1,12 @@
+{
+  "id": 6111,
+  "alias": "tree ancient",
+  "short_desc": "the ancient tree",
+  "long_desc": "A huge, ancient tree towers above you.",
+  "detailed_desc": "",
+  "flags_raw": "Its roots are extremely big and large parts of them are above ground.",
+  "stats1_raw": "Something about it makes you think that this is not a normal oak tree.",
+  "stats2_raw": "",
+  "stats3_raw": "The enormous grey trunk emits a deep, moaning sound.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 7316,
+  "zone_id": 73,
+  "name": "The Treasure Room",
+  "description": "This room is richly ornamented.  The walls have been carved to show\npeople dancing around a moon which is drawn on the floor.  It looks very\nold, and it is very dusty.  To the south you see the back side of a secret\ndoor.",
+  "header_raw": "73 adj 1",
+  "flags_text": "adj",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can see a picture with some peeple crawling around a huge moon.",
+      "keywords": "moon door~ 1 -1 7315 S #7317 The Square Lair~    You are standing in the south-east part of the lair.  You can see a skeleton lying in the corner.",
+      "door_flag": 73,
+      "key": null,
+      "to": 1
+    },
+    {
+      "dir": 0,
+      "description": "Another part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7318
+    },
+    {
+      "dir": 3,
+      "description": "Another part of the lair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7320
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7314
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "skeleton",
+      "description": "It looks like a adventurer who wasn't lucky.  You'd better watch out..."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

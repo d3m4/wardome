@@ -1,0 +1,29 @@
+{
+  "id": 2630,
+  "zone_id": 25,
+  "name": "A Corridor",
+  "description": "You are in a long corridor.  Obsidian walls engraved with ancient runes\nof power stretch out before you.  Magical energies seem to crackle with\npower all around and whisper in tongues long forgotten, almost as if the\ncorridor itself were alive.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2629
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2631
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

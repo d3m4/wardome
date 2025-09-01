@@ -1,0 +1,12 @@
+{
+  "id": 2505,
+  "alias": "strick bartender",
+  "short_desc": "Strick the bartender",
+  "long_desc": "Strick is here levitating drinks to his customers.",
+  "detailed_desc": "",
+  "flags_raw": "He looks rather harmless, but then again so does a sleeping dragon.",
+  "stats1_raw": "~",
+  "stats2_raw": "b dk 750 S",
+  "stats3_raw": "25 1 -6 1d1+30000 3d7+20",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

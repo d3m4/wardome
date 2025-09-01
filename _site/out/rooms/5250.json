@@ -1,0 +1,45 @@
+{
+  "id": 5250,
+  "zone_id": 52,
+  "name": "The Temple Of Thalos",
+  "description": "You stand within one of the most holy places in the realm.  This\nstunning domed temple once housed the city's worshipers en masse.  \nUnfortunately, it succumbed to the destruction brought on this city.\nLong benches lie toppled and the altar desecrated.  Large chunks of stone\nhave fallen from the walls and roof, sending sunlight streaming in on\nyou.  A few books lie about, conveying to you a holy message in a\nstrange tongue.  \n     Wind gusts through the four archways and howls and screams can be\nheard from all parts of the city.",
+  "header_raw": "52 cdh 1",
+  "flags_text": "cdh",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A side street leads to the northern half of the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5204
+    },
+    {
+      "dir": 1,
+      "description": "Main street leads out to the main gate of the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5203
+    },
+    {
+      "dir": 2,
+      "description": "A side street leads to the southern part of the city.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5206
+    },
+    {
+      "dir": 3,
+      "description": "The market place lies this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5205
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5488,
+  "alias": "saddle",
+  "short_desc": "a saddle",
+  "long_desc": "A saddle lies here.",
+  "action_desc": "",
+  "header_raw": "12 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "4 100 50",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

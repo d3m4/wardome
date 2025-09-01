@@ -1,0 +1,29 @@
+{
+  "id": 6443,
+  "zone_id": 64,
+  "name": "The Stairs",
+  "description": "Stairs lead up here to the first level of the basement, or\nyou can go east to another big room.",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6444
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6442
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

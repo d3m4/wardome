@@ -1,0 +1,1054 @@
+{
+  "id": 53,
+  "name": "The Great Pyramid",
+  "header": {
+    "raw": "5300 5399 20 2",
+    "min_room": 5300,
+    "top_room": 5399,
+    "lifespan": 20,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5300,
+        6,
+        5302
+      ],
+      "comment": "Asp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5300,
+        6,
+        5305
+      ],
+      "comment": "Asp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5300,
+        6,
+        5313
+      ],
+      "comment": "Asp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5300,
+        6,
+        5340
+      ],
+      "comment": "Asp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5301,
+        4,
+        5303
+      ],
+      "comment": "Cobra"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5301,
+        4,
+        5341
+      ],
+      "comment": "Cobra"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5302,
+        3,
+        5306
+      ],
+      "comment": "Mongoose"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5302,
+        3,
+        5316
+      ],
+      "comment": "Mongoose"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5302,
+        3,
+        5326
+      ],
+      "comment": "Mongoose"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5309
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5300,
+        6,
+        16
+      ],
+      "comment": "Egyptian Mace"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5309
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5301,
+        10,
+        12
+      ],
+      "comment": "Sand-Coloured Robes"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5337
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5300,
+        6,
+        16
+      ],
+      "comment": "Egyptian Mace"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5337
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5301,
+        10,
+        12
+      ],
+      "comment": "Sand-Coloured Robes"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5340
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5300,
+        6,
+        16
+      ],
+      "comment": "Egyptian Mace"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5303,
+        6,
+        5340
+      ],
+      "comment": "Pyramid Watcher"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5301,
+        10,
+        12
+      ],
+      "comment": "Sand-Coloured Robes"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5325
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5326
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5333
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5334
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5335
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5304,
+        6,
+        5342
+      ],
+      "comment": "Tomb Thief"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5305,
+        1,
+        5343
+      ],
+      "comment": "Ali Baba"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5303,
+        4,
+        6
+      ],
+      "comment": "Cloth Turban"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5302,
+        7,
+        16
+      ],
+      "comment": "Obsidian Dagger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5306,
+        1,
+        5323
+      ],
+      "comment": "Magic Carpet"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5307,
+        4,
+        5325
+      ],
+      "comment": "Mummy"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5304,
+        5,
+        5
+      ],
+      "comment": "Cloth Wrappings"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5306,
+        3
+      ],
+      "comment": "Jar Of Formaldehyde"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5307,
+        4,
+        5325
+      ],
+      "comment": "Mummy"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5304,
+        5,
+        5
+      ],
+      "comment": "Cloth Wrappings"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5305,
+        2
+      ],
+      "comment": "Bottle Of Embalming Fluid"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5307,
+        4,
+        5337
+      ],
+      "comment": "Mummy"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5304,
+        5,
+        5
+      ],
+      "comment": "Cloth Wrappings"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5307,
+        4,
+        5341
+      ],
+      "comment": "Mummy"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5304,
+        5,
+        5
+      ],
+      "comment": "Cloth Wrappings"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5308,
+        4,
+        5354
+      ],
+      "comment": "Sandman"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5308,
+        4,
+        5355
+      ],
+      "comment": "Sandman"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5308,
+        4,
+        5356
+      ],
+      "comment": "Sandman"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5308,
+        4,
+        5357
+      ],
+      "comment": "Sandman"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5309,
+        1,
+        5311
+      ],
+      "comment": "Efreet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5307,
+        4,
+        17
+      ],
+      "comment": "Ball Of Flame"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5310,
+        2,
+        5345
+      ],
+      "comment": "Caryatid"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5308,
+        3,
+        16
+      ],
+      "comment": "Stone Scimitar"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5310,
+        2,
+        5345
+      ],
+      "comment": "Caryatid"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5308,
+        3,
+        16
+      ],
+      "comment": "Stone Scimitar"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5309,
+        1
+      ],
+      "comment": "Stone Key"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5311,
+        1,
+        5323
+      ],
+      "comment": "Djinn"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5313,
+        4,
+        17
+      ],
+      "comment": "Lamp"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5312,
+        3,
+        5348
+      ],
+      "comment": "Hieracosphinx"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5312,
+        3,
+        5349
+      ],
+      "comment": "Hieracosphinx"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5312,
+        3,
+        5351
+      ],
+      "comment": "Hieracosphinx"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5313,
+        2,
+        5350
+      ],
+      "comment": "Gynosphinx"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5313,
+        2,
+        5350
+      ],
+      "comment": "Gynosphinx"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5314,
+        2
+      ],
+      "comment": "Ankh"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5314,
+        2,
+        5352
+      ],
+      "comment": "Criosphinx"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5314,
+        2,
+        5352
+      ],
+      "comment": "Criosphinx"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5315,
+        2
+      ],
+      "comment": "Book Of Riddles"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5315,
+        1,
+        5347
+      ],
+      "comment": "Androsphinx"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5316,
+        2
+      ],
+      "comment": "Lion's Paw"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5316,
+        1,
+        5358
+      ],
+      "comment": "Great Sphinx"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5317,
+        1,
+        17
+      ],
+      "comment": "Answer"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        5317,
+        1,
+        5332
+      ],
+      "comment": "Lord Ramses"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5319,
+        1
+      ],
+      "comment": "Pile Of Sand"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5320,
+        3
+      ],
+      "comment": "Curse Of The Mummy"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5321,
+        2
+      ],
+      "comment": "Small Elixir"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        5321,
+        2
+      ],
+      "comment": "Small Elixir"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        5322,
+        1,
+        6
+      ],
+      "comment": "Golden Mask"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5318,
+        1,
+        5359
+      ],
+      "comment": "The Treasure Of The Sphinx"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5324,
+        1,
+        5359
+      ],
+      "comment": "A Sun Wand"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5325,
+        1,
+        5359
+      ],
+      "comment": "A Sandy Ring"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5326,
+        1,
+        5359
+      ],
+      "comment": "A Small Golden Sphinx"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        5327,
+        1,
+        5359
+      ],
+      "comment": "Sphinxian Leggings"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5323,
+        1,
+        5319
+      ],
+      "comment": "Key"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        5310,
+        1,
+        5345
+      ],
+      "comment": "The Stone Sarcophagus"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5311,
+        2,
+        5310
+      ],
+      "comment": "Dust"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        5312,
+        1,
+        5310
+      ],
+      "comment": "The Scarab"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5306,
+        5,
+        1
+      ],
+      "comment": "Stone Atop The Pyramid"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5308,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5309,
+        3,
+        1
+      ],
+      "comment": "Fire Pool"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5310,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5322,
+        2,
+        2
+      ],
+      "comment": "Entrance To The Vault Of The Lamp"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5323,
+        0,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5326,
+        3,
+        2
+      ],
+      "comment": "Coffin Lid"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5327,
+        1,
+        2
+      ],
+      "comment": "* Note That This Has No Key Number, Locking You In"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5329,
+        2,
+        1
+      ],
+      "comment": "Stone Into The Ancient Hall"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5330,
+        0,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5331,
+        5,
+        1
+      ],
+      "comment": "The Stone Into The Tomb Of Ramses"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5332,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5343,
+        5,
+        1
+      ],
+      "comment": "Floor Into The Tomb"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5344,
+        4,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5344,
+        0,
+        1
+      ],
+      "comment": "Tomb Of The Pharoahs"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5345,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        5358,
+        2,
+        2
+      ],
+      "comment": "Entrance To The Hole In The Sand"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/53.zon"
+}

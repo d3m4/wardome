@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "spellbook"
+  ],
+  "aliases": [
+    "SPELLBOOK SPELLBOOKS"
+  ],
+  "body": "Spellbooks are a way of learning spells that might not otherwise be\navailable to you.  Some spellbooks can be found in the Library in\n<YOUR TOWN HERE>, while others may be scattered throughout the game.  There \nare typically two things you can do with a spellbook:  read it, or study it.\nReading a spellbook gives you a simple description of the spell (or spells)\nit contains.  Any character can read a spellbook.\nStudying a spellbook causes your character to learn the spell (or spells)\nit contains.  Only characters of the proper class and level will be able to\nstudy a spellbook.  Once you have learned a spell, you are can improve your\nproficiency at it by practicing in your guild.  Studying a spellbook will\ndestroy the book.\nSee also: STUDY",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

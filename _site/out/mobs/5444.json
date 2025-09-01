@@ -1,0 +1,12 @@
+{
+  "id": 5444,
+  "alias": "vulture",
+  "short_desc": "the vulture",
+  "long_desc": "A vulture circles above you.",
+  "detailed_desc": "",
+  "flags_raw": "As you look up at this bird, you see the only thing it wants is a corpse.",
+  "stats1_raw": "~",
+  "stats2_raw": "gh 0 -200 S",
+  "stats3_raw": "2 18 7 1d3+1 1d6+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

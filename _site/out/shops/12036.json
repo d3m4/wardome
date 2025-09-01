@@ -1,0 +1,37 @@
+{
+  "id": 12036,
+  "producing": [
+    3000,
+    3001,
+    3009,
+    3010,
+    3011,
+    12006,
+    12007
+  ],
+  "profit_buy": 1.1,
+  "profit_sell": 0.8,
+  "buy_types": [],
+  "messages": [
+    "%s We don't have that item in stock right now.",
+    "%s I don't think you have that item.",
+    "%s Hmmmm... if I was in a good mood, I'd consider it.  But I'm not.",
+    "%s The Emperor's tax collector just came.  I don't have the cash.  Sorry.",
+    "%s NO CREDIT!  We don't even take the Renaissance Express card!",
+    "%s That will be %d coins.  Enjoy!",
+    "%s You'll get %d coins for that."
+  ],
+  "tail": [
+    2,
+    2,
+    12036,
+    0,
+    12062,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/120.shp"
+}

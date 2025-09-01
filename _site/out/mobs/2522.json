@@ -1,0 +1,12 @@
+{
+  "id": 2522,
+  "alias": "student",
+  "short_desc": "the student of spells",
+  "long_desc": "A student of spells is here trying to master invisibility.",
+  "detailed_desc": "",
+  "flags_raw": "He blinks in and out of existence, trying to master the spell.",
+  "stats1_raw": "~",
+  "stats2_raw": "abcgh bdk 400 S",
+  "stats3_raw": "8 8 -2 8d8+80 2d4+6",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

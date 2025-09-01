@@ -1,0 +1,29 @@
+{
+  "id": 4012,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "You find yourself at a turn in this narrow tunnel.  The tunnel\nappears to open up to the north into a cave of some sort while to\nthe east it leads onwards through the mountain.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4016
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4013
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

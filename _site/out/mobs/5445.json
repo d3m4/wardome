@@ -1,0 +1,12 @@
+{
+  "id": 5445,
+  "alias": "old man",
+  "short_desc": "the old man",
+  "long_desc": "An old man sits here playing chess.",
+  "detailed_desc": "",
+  "flags_raw": "He seems intent on winning.",
+  "stats1_raw": "~",
+  "stats2_raw": "h 0 200 S",
+  "stats3_raw": "4 17 80 2d3+1 1d3+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

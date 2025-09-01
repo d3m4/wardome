@@ -1,0 +1,42 @@
+{
+  "id": 4108,
+  "zone_id": 40,
+  "name": "The Golden Cave",
+  "description": "You are standing in what appears to be the south-east corner of\nthis large cavern.  The cave is lit by the eerie, soft, golden light\nwhich looks to be emanating from the walls themselves.  The cave\nitself is enormous, extending quite a distance to the west and north.\nA crack in the wall to the east appears to lead into a passageway of\nsorts.",
+  "header_raw": "40 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4105
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4107
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4109
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "light gold golden",
+      "description": "It looks good, but as you look closely you notice that it has no value."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

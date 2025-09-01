@@ -1,0 +1,12 @@
+{
+  "id": 6004,
+  "alias": "deer fallow",
+  "short_desc": "the fallow deer",
+  "long_desc": "A fallow deer is grazing peacefully here.",
+  "detailed_desc": "",
+  "flags_raw": "She is a graceful creature on long, slender legs, and with large, brown eyes",
+  "stats1_raw": "looking back at you with an air of watchful interest.",
+  "stats2_raw": "~",
+  "stats3_raw": "gh d 350 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

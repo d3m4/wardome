@@ -1,0 +1,26 @@
+{
+  "id": 4030,
+  "zone_id": 40,
+  "name": "The Light Cave",
+  "description": "You are in a light cave, through a hole large above you, you\nsee the sky.  A small tunnel to the south is the only way out.\nYou notice the source of the strange smell, all around you there\nare corpses of several monsters.",
+  "header_raw": "40 d 2",
+  "flags_text": "d",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4028
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "corpse corpses",
+      "description": "Looking at the corpses lying around the cave, they all appear to\nhave been torn to shreds by some large creature.  As a further\nnot too unexpected point to note, they all smell terrible."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

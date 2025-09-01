@@ -1,0 +1,29 @@
+{
+  "id": 5313,
+  "zone_id": 53,
+  "name": "A Tiny Crawlway",
+  "description": "You are on your hands and knees, inside a small crawlway that winds\nthrough the inside of the pyramid.  The crawlway is thick with sand, dust, \nand markings of the passage of other creatures.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The crawlway continues to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5312
+    },
+    {
+      "dir": 3,
+      "description": "The crawlway continues to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5314
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 18612,
+  "alias": "newbie clueless moron",
+  "short_desc": "the clueless newbie",
+  "long_desc": "A newbie is here looking terribly confused.",
+  "detailed_desc": "",
+  "flags_raw": "What a moron!  Every question that is answered in the help files, he will",
+  "stats1_raw": "ask and he will probably ask 2 or 3 times too.  This guy just doesn't get",
+  "stats2_raw": "it, best put him out of his misery.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

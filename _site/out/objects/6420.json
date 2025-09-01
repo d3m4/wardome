@@ -1,0 +1,18 @@
+{
+  "id": 6420,
+  "alias": "food",
+  "short_desc": "some food",
+  "long_desc": "There's some food lying here.",
+  "action_desc": "",
+  "header_raw": "19 0 1",
+  "values_raw": "8 0 0 0",
+  "cost_raw": "3 20 10",
+  "extra_descriptions": [
+    {
+      "keywords": "food",
+      "description": "It is just random and assorted food.\nDon't ask questions.  It is only a game."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

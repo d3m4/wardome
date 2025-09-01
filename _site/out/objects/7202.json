@@ -1,0 +1,23 @@
+{
+  "id": 7202,
+  "alias": "mace small",
+  "short_desc": "the small mace",
+  "long_desc": "a small mace has been left here.",
+  "action_desc": "",
+  "header_raw": "5 g 8193",
+  "values_raw": "0 1 6 7",
+  "cost_raw": "6 600 200",
+  "extra_descriptions": [
+    {
+      "keywords": "small mace",
+      "description": "This weapon does look like it does a lot of damage, but then you never know.\nIt consists of a black handle and a purple head."
+    }
+  ],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/72.obj"
+}

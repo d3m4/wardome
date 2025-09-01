@@ -1,0 +1,534 @@
+{
+  "id": 61,
+  "name": "Haon-Dor, Dark Forest",
+  "header": {
+    "raw": "6100 6199 30 2",
+    "min_room": 6100,
+    "top_room": 6199,
+    "lifespan": 30,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6100,
+        2,
+        6116
+      ],
+      "comment": "Vicious Warg"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6100,
+        2,
+        6116
+      ],
+      "comment": "Vicious Warg"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6101,
+        2,
+        6127
+      ],
+      "comment": "Ferocious Warg"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6101,
+        2,
+        6127
+      ],
+      "comment": "Ferocious Warg"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6102,
+        4,
+        6108
+      ],
+      "comment": "Grey Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6102,
+        4,
+        6108
+      ],
+      "comment": "Grey Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6102,
+        4,
+        6104
+      ],
+      "comment": "Grey Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6102,
+        4,
+        6104
+      ],
+      "comment": "Grey Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6103,
+        4,
+        6112
+      ],
+      "comment": "Black Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6103,
+        4,
+        6112
+      ],
+      "comment": "Black Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6103,
+        4,
+        6118
+      ],
+      "comment": "Black Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6103,
+        4,
+        6118
+      ],
+      "comment": "Black Wolf"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6110,
+        4,
+        6120
+      ],
+      "comment": "Tree"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6110,
+        4,
+        6123
+      ],
+      "comment": "Tree"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6111,
+        4,
+        6109
+      ],
+      "comment": "Tree"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6111,
+        4,
+        6105
+      ],
+      "comment": "Tree"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6112,
+        1,
+        6143
+      ],
+      "comment": "Green Dragon"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6108,
+        10
+      ],
+      "comment": "10,000 Gold"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6110,
+        10
+      ],
+      "comment": "Strength Potion"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6112,
+        1
+      ],
+      "comment": "Iron Crown"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        6111,
+        10,
+        6143
+      ],
+      "comment": "Shield"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6113,
+        3,
+        6133
+      ],
+      "comment": "Poisonous Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6113,
+        3,
+        6133
+      ],
+      "comment": "Poisonous Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6113,
+        3,
+        6133
+      ],
+      "comment": "Poisonous Spider"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6114,
+        1,
+        6134
+      ],
+      "comment": "Queen Spider"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6108,
+        10
+      ],
+      "comment": "10,000 Gold"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6109,
+        3
+      ],
+      "comment": "Healing Potion"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6113,
+        2
+      ],
+      "comment": "Iron Sceptre"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6115,
+        1,
+        6100
+      ],
+      "comment": "Shargugh The Forest Brownie"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6114,
+        1,
+        1
+      ],
+      "comment": "Iron Ring"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6116,
+        1,
+        6155
+      ],
+      "comment": "Druid"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6115,
+        1,
+        16
+      ],
+      "comment": "Morning Star"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3055,
+        3,
+        17
+      ],
+      "comment": "Metal Staff"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6117,
+        1,
+        6134
+      ],
+      "comment": "Isha The Dark Elf"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6116,
+        1,
+        5
+      ],
+      "comment": "Dragon Scale Shirt"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6117,
+        1,
+        7
+      ],
+      "comment": "Dragon Scale Skirt"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6118,
+        1,
+        12
+      ],
+      "comment": "Black Cloak"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6119,
+        1,
+        13
+      ],
+      "comment": "Silver Belt"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6120,
+        1,
+        16
+      ],
+      "comment": "Long, Slender Sword"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6102,
+        1,
+        6103
+      ],
+      "comment": "Hollow Tree"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6103,
+        1,
+        6113
+      ],
+      "comment": "Branch, Light"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6104,
+        1,
+        6125
+      ],
+      "comment": "Branch, Weapon"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6105,
+        1,
+        6105
+      ],
+      "comment": "Branch, Unusable"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6104,
+        6106
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6106,
+        4,
+        6104
+      ],
+      "comment": "Toadstool"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6111,
+        6106
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6106,
+        4,
+        6111
+      ],
+      "comment": "Toadstool"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6122,
+        6106
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6106,
+        4,
+        6122
+      ],
+      "comment": "Toadstool"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6119,
+        6107
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6107,
+        4,
+        6119
+      ],
+      "comment": "Poisonous Toadstool"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        6152,
+        1,
+        1
+      ],
+      "comment": "Tree"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        1,
+        6153,
+        3,
+        1
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/61.zon"
+}

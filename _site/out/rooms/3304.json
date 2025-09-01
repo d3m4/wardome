@@ -1,0 +1,29 @@
+{
+  "id": 3304,
+  "zone_id": 33,
+  "name": "The Smithery",
+  "description": "Devastation greets your eyes.\n   The forge has been blasted apart, along with most of \nthe back door.  Hammers, tongs, and anvils lie about in \none gigantic mess, and the smith's bed smoulders yet.  \nThis place has been utterly wrecked and blasted apart, by \nmore than one man you would think from all the tracks in \nthe dust...",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is a normal hole torn in the wall leading outside into\na garden.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3305
+    },
+    {
+      "dir": 3,
+      "description": "It is a normal front door.",
+      "keywords": "door front~ 1 -1 3303 E bed~ Ha!  Lucky, you were always lucky!  Under the pillow is a half-written letter, unaddressed.  The bits of text that aren't smudged, burnt, and smeared tell tale of the smith/mage Gabadiel's masterwork: a sword of unequalled power, and two swords that came before, discarded as 'Not quite what I was working towards'.  Looking around, you notice a distinct lack of any swords.  You think you may have a motive now...",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

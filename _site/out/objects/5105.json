@@ -1,0 +1,22 @@
+{
+  "id": 5105,
+  "alias": "longsword black",
+  "short_desc": "a black longsword",
+  "long_desc": "A black longsword has been carelessly left here.",
+  "action_desc": "",
+  "header_raw": "5 agm 8193",
+  "values_raw": "0 2 8 3",
+  "cost_raw": "12 10250 4000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/51.obj"
+}

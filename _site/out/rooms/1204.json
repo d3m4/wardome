@@ -1,0 +1,61 @@
+{
+  "id": 1204,
+  "zone_id": 12,
+  "name": "The Immortal Board Room",
+  "description": "The main hang out of the Gods, the Immortal Board Room is the place to\nbe.  Gods exchange messages here most every day.  The mortal board room is\nto the east and the meeting room for the gods is to the south.  To the north\nis the Gods' Inn and to the west is a post office for Gods.  There is a large\nstaircase leading down to the main temple in the city of Midgaard.  In the\nnortheast corner you spot a small staircase leading upwards.",
+  "header_raw": "12 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Gods' Inn can be seen just to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1201
+    },
+    {
+      "dir": 1,
+      "description": "The Mortal Board Room can be seen just to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1203
+    },
+    {
+      "dir": 2,
+      "description": "The Gods' Meeting Room is located to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1200
+    },
+    {
+      "dir": 3,
+      "description": "The Gods' Post Office is just to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1205
+    },
+    {
+      "dir": 4,
+      "description": "There is a small stair in the corner leading up to the social room of\nthe Gods.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1206
+    },
+    {
+      "dir": 5,
+      "description": "You see the hustle and bustle of the Temple of Midgaard at the bottom of\nthe stairs.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/12.wld"
+}

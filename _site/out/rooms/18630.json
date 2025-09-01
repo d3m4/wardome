@@ -1,0 +1,37 @@
+{
+  "id": 18630,
+  "zone_id": 186,
+  "name": "A Branching Passage",
+  "description": "The north-south passage branches to the east here.  There is a queer red\nglow coming from that way as well, along with a faint breeze.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18624
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18634
+    },
+    {
+      "dir": 3,
+      "description": "A very odd red glow emanates from that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18629
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

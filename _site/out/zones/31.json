@@ -1,0 +1,525 @@
+{
+  "id": 31,
+  "name": "Southern part of Midgaard",
+  "header": {
+    "raw": "3100 3299 40 2",
+    "min_room": 3100,
+    "top_room": 3299,
+    "lifespan": 40,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "Cityguard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "Long Sword"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3105,
+        2
+      ],
+      "comment": "Key To HQ"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "Cityguard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "Long Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "Cityguard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "Long Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3060,
+        20,
+        3111
+      ],
+      "comment": "Cityguard"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3022,
+        100,
+        16
+      ],
+      "comment": "Long Sword"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3068,
+        4,
+        3106
+      ],
+      "comment": "Green Blob"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3100,
+        1,
+        3106
+      ],
+      "comment": "Maid"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3100,
+        500
+      ],
+      "comment": "Cup Of Tea"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3101,
+        500
+      ],
+      "comment": "Cup Of Coffee"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3102,
+        500
+      ],
+      "comment": "Cup Of Water"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3101,
+        1,
+        3106
+      ],
+      "comment": "Sexton"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3106,
+        2
+      ],
+      "comment": "Key To Graveyard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3102,
+        1,
+        3110
+      ],
+      "comment": "Chief Guard"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        3107,
+        2
+      ],
+      "comment": "Key To The Desk"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3103,
+        4,
+        3110
+      ],
+      "comment": "Mad Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        3103,
+        4,
+        3110
+      ],
+      "comment": "Mad Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        3103,
+        4,
+        3110
+      ],
+      "comment": "Mad Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        1,
+        3103,
+        4,
+        3110
+      ],
+      "comment": "Mad Guard"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3104,
+        1,
+        3137
+      ],
+      "comment": "Secretary"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3105,
+        1,
+        3138
+      ],
+      "comment": "Mayor"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        3112,
+        1,
+        17
+      ],
+      "comment": "City Key"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3106,
+        1,
+        3120
+      ],
+      "comment": "Town Crier"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3120,
+        1,
+        3114
+      ],
+      "comment": "Swan"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3121,
+        1,
+        3114
+      ],
+      "comment": "Duckling"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3122,
+        1,
+        3109
+      ],
+      "comment": "Sparrow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3123,
+        2,
+        3113
+      ],
+      "comment": "Duck"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        3123,
+        2,
+        3115
+      ],
+      "comment": "Duck"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3109,
+        1,
+        3110
+      ],
+      "comment": "Desk"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3108,
+        1,
+        3109
+      ],
+      "comment": "Key To Safe"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3110,
+        1,
+        3110
+      ],
+      "comment": "Safe"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        3115,
+        1,
+        3110
+      ],
+      "comment": "Money"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        3101,
+        3111
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3111,
+        3,
+        3101
+      ],
+      "comment": "Bench"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        3102,
+        3111
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3111,
+        3,
+        3102
+      ],
+      "comment": "Bench"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        3103,
+        3111
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3111,
+        3,
+        3103
+      ],
+      "comment": "Bench"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        3141,
+        3113
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3113,
+        1,
+        3141
+      ],
+      "comment": "Fountain"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3114,
+        1,
+        3141,
+        20
+      ],
+      "comment": "Coins"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3116,
+        1,
+        3155
+      ],
+      "comment": "Candlestick"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        3117,
+        1,
+        3124
+      ],
+      "comment": "Elm Tree"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3111,
+        3,
+        2
+      ],
+      "comment": "Cityguard HQ"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3110,
+        1,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3129,
+        2,
+        2
+      ],
+      "comment": "Graveyard"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3150,
+        0,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3154,
+        2,
+        1
+      ],
+      "comment": "Chapel"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        3155,
+        0,
+        1
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/31.zon"
+}

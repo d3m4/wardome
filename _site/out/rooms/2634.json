@@ -1,0 +1,21 @@
+{
+  "id": 2634,
+  "zone_id": 25,
+  "name": "A Corridor",
+  "description": "You are at the end of a long corridor.  Obsidian walls engraved with\nancient runes of power stretch out before you.  A darkened door is to the\neast.  Tendrils of mist cling to the floor here, they seem to be seeping\nfrom under the door.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door black~ 1 -1 2635 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

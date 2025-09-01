@@ -1,0 +1,29 @@
+{
+  "id": 4025,
+  "zone_id": 40,
+  "name": "The Cave",
+  "description": "You find yourself standing in the northern end of a reasonably\nlarge cave.  The cave wall to the east has an opening that appears\nto lead to a junction of several tunnels.",
+  "header_raw": "40 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4026
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

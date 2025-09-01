@@ -1,0 +1,22 @@
+{
+  "id": 7190,
+  "alias": "ring silver",
+  "short_desc": "a glinting silver ring",
+  "long_desc": "A lovely silver ring has been left here.",
+  "action_desc": "",
+  "header_raw": "11 g 3",
+  "values_raw": "0 0 10 0",
+  "cost_raw": "9 16000 5000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -10
+    },
+    {
+      "location": 18,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/71.obj"
+}

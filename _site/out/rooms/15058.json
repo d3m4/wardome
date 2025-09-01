@@ -1,0 +1,53 @@
+{
+  "id": 15058,
+  "zone_id": 150,
+  "name": "A Cell",
+  "description": "This cell is in a shambles.  There is a small hole in the\nwestern wall where something has broken through the stones\ninto the cell.  There is a cell door in the eastern wall.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The cell door to the east leads back to the prison hallway.",
+      "keywords": "door cell~ 2 15017 15057 E hole~ The hole is much too small for you to clamber through.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 0,
+      "description": "The cell door to the north leads back to the prison hallway.",
+      "keywords": "door cell~ 2 15017 15057 S #15060 A Cell~    This small cell is damp and dark and looks like noone and nothing has lived in it for quite some time.  A small cell door is located in the west wall.",
+      "door_flag": 150,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 3,
+      "description": "The cell door to the west leads back to the prison hallway.",
+      "keywords": "door cell~ 2 15017 15057 S #15061 An Overgrown Trail~    Moving off of the King's Road, you find yourself on a small fading trail which appears to have been so little used that it has almost completely grown over with vegitation from the woods here.  Sounds of the forest can be heard all round and you feel a peaceful feeling come over you as you realize that mankind has not passed this way for some time.    The faded trail appears to lead north and south.",
+      "door_flag": 150,
+      "key": 0,
+      "to": 4
+    },
+    {
+      "dir": 0,
+      "description": "The travel upon the King's Road can be heard off to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15000
+    },
+    {
+      "dir": 2,
+      "description": "The trail continues southwards.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15062
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

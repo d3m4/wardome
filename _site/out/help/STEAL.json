@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "STEAL"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Thief (13)\n- Descricao: Esta skill permite o furto de ouro, itens ou equipamento de outros players e mobs.\n- Exemplo de uso:\t> steal gold zombie\n\t\t\tBingo!  You got 236 gold coins.\n\n- Observacoes: Para furtar um player, e necessario que o player que pretende roubar e o player a ser roubado sejam PKs e estejam dentro do PK Range; para furtar um equipamento vestido, seja de mob ou player, o alvo deve estar dormindo; o alvo nao pode estar lutando; caso o furto falhe, o alvo imediatamente atacara aquele que tentou rouba-lo; caso falhe com player, o ladrao ainda sera setado com a flag THIEF, podendo ser morto por qualquer player, mesmo fora do PK Range.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

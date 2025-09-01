@@ -1,0 +1,12 @@
+{
+  "id": 5442,
+  "alias": "man wandering prophet",
+  "short_desc": "the wandering prophet",
+  "long_desc": "A small grey-haired man walks around spouting gospel.",
+  "detailed_desc": "",
+  "flags_raw": "This sad case may have been an evangelist in another lifetime. He is known",
+  "stats1_raw": "to stand on corners and accost passers-by with his doomsday preaching.",
+  "stats2_raw": "~",
+  "stats3_raw": "h 0 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

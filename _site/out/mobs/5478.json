@@ -1,0 +1,12 @@
+{
+  "id": 5478,
+  "alias": "pegasus",
+  "short_desc": "the pegasus",
+  "long_desc": "The pegasus stands here, flexing its wings.",
+  "detailed_desc": "",
+  "flags_raw": "A magnificant winged steed, this horse looks much like the Arabian",
+  "stats1_raw": "thoroughbreds you have seen in stables.",
+  "stats2_raw": "~",
+  "stats3_raw": "bglmpq dgk 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

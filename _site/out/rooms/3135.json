@@ -1,0 +1,29 @@
+{
+  "id": 3135,
+  "zone_id": 31,
+  "name": "Park Road",
+  "description": "You are at a bend on Park Road.  To the north the road goes on and to the\neast is the Road Crossing.",
+  "header_raw": "31 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3118
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3120
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

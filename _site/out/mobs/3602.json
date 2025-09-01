@@ -1,0 +1,12 @@
+{
+  "id": 3602,
+  "alias": "black rook castle",
+  "short_desc": "the Black Rook",
+  "long_desc": "In the corner you see a large, black, stone castle on wheels.",
+  "detailed_desc": "",
+  "flags_raw": "The Black Rook is a very large man-made tomb on wheels.  Just",
+  "stats1_raw": "from the looks of it, it will probably be YOUR tomb.",
+  "stats2_raw": "~",
+  "stats3_raw": "bpqr d -600 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

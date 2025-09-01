@@ -1,0 +1,12 @@
+{
+  "id": 5470,
+  "alias": "cryohydra",
+  "short_desc": "the cryohydra",
+  "long_desc": "The cryohydra stands here.",
+  "detailed_desc": "",
+  "flags_raw": "A grey-brown reptillian creature with amber eyes stands before you.",
+  "stats1_raw": "~",
+  "stats2_raw": "fglpq k 0 S",
+  "stats3_raw": "8 9 5 10d1+1 1d10+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

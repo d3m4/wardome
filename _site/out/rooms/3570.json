@@ -1,0 +1,50 @@
+{
+  "id": 3570,
+  "zone_id": 35,
+  "name": "The Front Of The Inn",
+  "description": "You are standing on a well-worn path which opens into a clearing.\nAn old, wooden building is here with smoke billowing from its\nchimney.  A painted sign is visible on the porch to the west.  You\ncould go north or south around the building or leave this place and\nreturn to the forest.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can go north around the Inn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3571
+    },
+    {
+      "dir": 1,
+      "description": "Back through the trees to the Miden'nir.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3505
+    },
+    {
+      "dir": 2,
+      "description": "You can go south around the Inn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3572
+    },
+    {
+      "dir": 3,
+      "description": "The front door of the Inn beckons.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3574
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign reads:\n\n   The Woodsman"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

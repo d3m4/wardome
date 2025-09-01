@@ -1,0 +1,12 @@
+{
+  "id": 6500,
+  "alias": "guard dwarf dwarven",
+  "short_desc": "the dwarf guard",
+  "long_desc": "A dwarven guard is here.",
+  "detailed_desc": "",
+  "flags_raw": "The guard looks very tough and mean.  He wears his beard long, and he",
+  "stats1_raw": "smells like he hasn't bathed in over a month.",
+  "stats2_raw": "~",
+  "stats3_raw": "ablm dhk 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/65.mob"
+}

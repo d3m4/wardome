@@ -1,0 +1,42 @@
+{
+  "id": 15049,
+  "zone_id": 150,
+  "name": "The Grand Staircase",
+  "description": "You are standing on a great staircase, that leads up and down.  To \nthe east, there is a large oak door, and a corridor leads south.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The door is large and made out of oak.",
+      "keywords": "door oak large~ 1 15014 15050 D2 You see the corridor.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 4,
+      "description": "The stairs continue up to the top of the tower.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15053
+    },
+    {
+      "dir": 5,
+      "description": "The stairs lead down to the first floor of the Castle.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15025
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stairs",
+      "description": "The stairs are made of marble, and there are pillars carved in the\nlikenesses of trees with little animals running up and down the\ntrunks."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1523,
+  "alias": "soul",
+  "short_desc": "the bodyless soul",
+  "long_desc": "You are overwhelmed by the presence of a soul that has transcended its body.",
+  "detailed_desc": "",
+  "flags_raw": "You sense certain tastes and smells, the winds through the gardens.",
+  "stats1_raw": "Nothing can explain or describe this perfection, this utter bliss.",
+  "stats2_raw": "~",
+  "stats3_raw": "bf dk 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

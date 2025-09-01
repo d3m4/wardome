@@ -1,0 +1,18 @@
+{
+  "id": 3316,
+  "alias": "crate",
+  "short_desc": "a crate",
+  "long_desc": "A crate is stacked here.",
+  "action_desc": "",
+  "header_raw": "15 0 1",
+  "values_raw": "200 5 0 0",
+  "cost_raw": "50 100 20",
+  "extra_descriptions": [
+    {
+      "keywords": "crate",
+      "description": "It's a standard wooden crate."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

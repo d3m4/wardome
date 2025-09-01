@@ -1,0 +1,50 @@
+{
+  "id": 12041,
+  "zone_id": 120,
+  "name": "The Aqueduct",
+  "description": "You are in a massive stone structure that has been designed to channel\nwater into the city of Rome.  Due to the recent drought, the water level\nis low, allowing passage without a boat.  The walls and floor are covered\nwith algae and slime producing treacherous footing conditions.  There are\nexits to the north, south and east.",
+  "header_raw": "120 cd 6",
+  "flags_text": "cd",
+  "sector": 6,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see a wide street to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12039
+    },
+    {
+      "dir": 1,
+      "description": "You see more aqueduct.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12048
+    },
+    {
+      "dir": 2,
+      "description": "You see more aqueduct.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12041
+    },
+    {
+      "dir": 3,
+      "description": "You see more aqueduct.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12054
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "slime algae",
+      "description": "Due to the availability of moisture and nutrients, a green, viscous slime has \ngrown and covered everything with a slippery coating.  It seems to go out of\nits way to drip on you."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

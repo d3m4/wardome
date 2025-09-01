@@ -1,0 +1,12 @@
+{
+  "id": 5476,
+  "alias": "couatl",
+  "short_desc": "the couatl",
+  "long_desc": "A couatl hovers here.",
+  "detailed_desc": "",
+  "flags_raw": "A beautiful creature with the body of a serpent and feathered wings the",
+  "stats1_raw": "colour of the rainbow.",
+  "stats2_raw": "~",
+  "stats3_raw": "belnoq dghkp 300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

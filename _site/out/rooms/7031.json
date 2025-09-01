@@ -1,0 +1,37 @@
+{
+  "id": 7031,
+  "zone_id": 70,
+  "name": "A Triple Junction",
+  "description": "You stand in a junction with pipes leading west, north and east.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north there is an ENORMOUS quadruple sewer junction, all lit up by\nan odd light.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7030
+    },
+    {
+      "dir": 1,
+      "description": "East.  You can just make out a triple junction leading north and east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7044
+    },
+    {
+      "dir": 3,
+      "description": "West.  You can just make out a triple junction leading north and west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

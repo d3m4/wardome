@@ -1,0 +1,37 @@
+{
+  "id": 1533,
+  "zone_id": 15,
+  "name": "The Upper Reaches",
+  "description": "You have traveled the righteous path, and your own journey has\nimitated the evolution of the most perfect soul.  Only one final\npath awaits you; die as the one in the room before, and your death\nwill mean nothing.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1527
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1532
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1536
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

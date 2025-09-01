@@ -1,0 +1,50 @@
+{
+  "id": 3343,
+  "zone_id": 33,
+  "name": "Main Road",
+  "description": "This place leaves you very unimpressed.  And bored.  \nYou are definitely bored by this place.  The people are \nlistless, going about their daily chores with a slowness \nthat pains your eyes.  A slope to the west climbs up the \nmountainside, and two open shops made of wood and stone \nare to your north and south.  East-wards this road continues.\n   There is a small sign here.",
+  "header_raw": "33 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3344
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3346
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3345
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3342
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": ",_____________________________.\n        |                             |\n\t|   Stanneg by the Mountains  |\n\t|                             |\n\t|       Population: 27        |\n\t|\t\t\t      |\n        |           -- BUAG SIGNS INC.|\n\t`-----------------------------'\n\t\t     |  |\n\t\t     |  |\n\t\t     |  |\n\t\t     |  |"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

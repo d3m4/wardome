@@ -1,0 +1,53 @@
+{
+  "id": 5306,
+  "zone_id": 53,
+  "name": "The Apex Of The Great Pyramid",
+  "description": "Bathed in sweat, you have managed to reach the summit of the great\npyramid.  The four sides of the pyramid slope sharply down into the\nhot sands in all four cardinal directions.\nA plaque has been set into the sandy stones beneath your feet.",
+  "header_raw": "53 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The north side of the pyramid slopes down into the sands.\nIt looks really dangerous.  I wouldn't go that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5307
+    },
+    {
+      "dir": 1,
+      "description": "The east side of the pyramid slopes down into the sands.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5305
+    },
+    {
+      "dir": 2,
+      "description": "The south side of the pyramid slopes down into the sands.\nIt looks really dangerous.  I wouldn't go that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5307
+    },
+    {
+      "dir": 3,
+      "description": "The west side of the pyramid slopes down into the sands.\nIt looks really dangerous.  I wouldn't go that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5307
+    },
+    {
+      "dir": 5,
+      "description": "You see some sandy stones pressed closely together to form a hard surface.",
+      "keywords": "stones~ 1 -1 5308 E stones~ As you look closer you can make out a crack in the center of the stones beneath your feet.  With some effort you might be able to lift that  section up and get inside!",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

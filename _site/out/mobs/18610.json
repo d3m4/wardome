@@ -1,0 +1,12 @@
+{
+  "id": 18610,
+  "alias": "spectre ghost",
+  "short_desc": "the dark spectre",
+  "long_desc": "The dark spectre is lurking in the shadows.",
+  "detailed_desc": "",
+  "flags_raw": "The soul of a long since passed on adventurer... it lurks here waiting for",
+  "stats1_raw": "a chance to bring death to any who cross its path.",
+  "stats2_raw": "~",
+  "stats3_raw": "2122 524298 -850 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

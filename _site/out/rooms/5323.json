@@ -1,0 +1,26 @@
+{
+  "id": 5323,
+  "zone_id": 53,
+  "name": "The Vault Of The Lamp",
+  "description": "The jaws of the massive stone tiger part wide to reveal a great vault.\nAn arched ceiling lies far above your head... and all about you is a low\nguttural rumbling noise and a chill wind.\nGiant heaps of ancient treasure, gold coins, and valuables surround you\non all sides.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the jaws of the tiger you see the blackness of the crevasse.",
+      "keywords": "",
+      "door_flag": 2,
+      "key": 5323,
+      "to": 5322
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "treasure gold coins valuables",
+      "description": "You reach for some of the tasty goodies, when you hear a loud rumbling\nsound and see a bright flash of light...\n\nThen the words: 'TAKE ONLY THE LAMP... TOUCH NOTHING ELSE.'\n\n... All is silent once again."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

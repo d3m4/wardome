@@ -1,0 +1,13 @@
+{
+  "id": 902,
+  "alias": "potion speckled",
+  "short_desc": "a speckled potion",
+  "long_desc": "A speckled potion speckles here.",
+  "action_desc": "",
+  "header_raw": "10 g 1",
+  "values_raw": "15 15 15 15",
+  "cost_raw": "2 1300 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/9.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5106,
+  "alias": "drow weaponsmaster",
+  "short_desc": "the weaponsmaster",
+  "long_desc": "A drow weaponsmaster is here shadow boxing.",
+  "detailed_desc": "",
+  "flags_raw": "He definitely know his way around in combat.",
+  "stats1_raw": "~",
+  "stats2_raw": "bflm dkp -1000 S",
+  "stats3_raw": "23 0 -2 1d25+405 12d2+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

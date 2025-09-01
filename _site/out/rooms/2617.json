@@ -1,0 +1,21 @@
+{
+  "id": 2617,
+  "zone_id": 25,
+  "name": "The Illusion Master's Chamber",
+  "description": "You are in the chamber of the Master of Illusions.  The walls here\nare ever changing in colour and texture, as if they were reforming before\nyour very eyes.  Many splendorous treasures lie all around in heaps and\npiles, or at least they seem to be treasures...",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door emerald~ 1 -1 2616 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

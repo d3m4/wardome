@@ -1,0 +1,29 @@
+{
+  "id": 1504,
+  "zone_id": 15,
+  "name": "A Long Road",
+  "description": "Looking ahead, you can see that the path you have been following will\nsoon come to an end, but something in the cold and the breeze tells you\nthat that will be only the beginning of the journey.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1505
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1503
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

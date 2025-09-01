@@ -1,0 +1,34 @@
+{
+  "id": 3300,
+  "zone_id": 33,
+  "name": "A Scraggly Trail",
+  "description": "This trail slopes up and away from the main road to \nthe west.  At points the trail seems to fade into \nobscurity against the grey stone and near-grey mountain \ngrass prevalent here.  The trail leads generally eastward \nand up higher into the rocky ground.  There is a sign \nhere, seemingly out-of-place in this rough country.",
+  "header_raw": "33 cg 5",
+  "flags_text": "cg",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3301
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3500
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": ",_____________________________.\n        |                             |\n\t|         Gabadiel's          |\n\t|          Smithery           |\n\t|      -------------->        |\n\t|\t\t\t      |\n        |           -- BUAG SIGNS INC.|\n\t`-----------------------------'\n\t\t     |  |\n\t\t     |  |\n\t\t     |  |\n\t\t     |  |"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

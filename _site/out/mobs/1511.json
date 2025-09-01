@@ -1,0 +1,12 @@
+{
+  "id": 1511,
+  "alias": "pharoah",
+  "short_desc": "Pharoah",
+  "long_desc": "Pharoah has been sent here in retribution for a lifetime of evils.",
+  "detailed_desc": "",
+  "flags_raw": "Richly clothed and postured in arrogance and love of power, he looks at",
+  "stats1_raw": "you with nothing more than a smirk of contempt.",
+  "stats2_raw": "~",
+  "stats3_raw": "b dk -1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

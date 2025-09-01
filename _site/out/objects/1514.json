@@ -1,0 +1,18 @@
+{
+  "id": 1514,
+  "alias": "image azathoth graven",
+  "short_desc": "a graven image of Azathoth",
+  "long_desc": "You frown in disgust at the hideous icon of a false god that you have found.",
+  "action_desc": "",
+  "header_raw": "1 jlq ao",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "2 1000 500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 6,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

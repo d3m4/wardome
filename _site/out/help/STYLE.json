@@ -1,0 +1,9 @@
+{
+  "keywords": [
+    "STYLE",
+    "PRO"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Ninja (65)\n- Descricao: Esta skill permite lutar no estilo Pro, combinacao perfeita dos estilos Offensive e Defensive.\n- Exemplo de uso:\t> style pro\n\t\t\tYou changed your style to pro.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

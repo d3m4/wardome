@@ -1,0 +1,29 @@
+{
+  "id": 18637,
+  "zone_id": 186,
+  "name": "Yet Another Corner",
+  "description": "The passage turns here and heads north.  You sense something up ahead\nthat way, but you aren't sure what.  You aren't sure if you want to know\nwhat either at this point.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18634
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18636
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

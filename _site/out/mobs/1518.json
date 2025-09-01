@@ -1,0 +1,12 @@
+{
+  "id": 1518,
+  "alias": "serpent dragon devil iblis",
+  "short_desc": "the raging dragon",
+  "long_desc": "A raging dragon turns to you in violent lust for your soul.",
+  "detailed_desc": "",
+  "flags_raw": "The serpent of babylon, the aged and violet hued monster that has",
+  "stats1_raw": "watched all of mankind succumb before its power, turns to you as",
+  "stats2_raw": "its last victim.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

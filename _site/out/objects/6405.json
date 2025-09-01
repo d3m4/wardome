@@ -1,0 +1,13 @@
+{
+  "id": 6405,
+  "alias": "vial dragons blood",
+  "short_desc": "a vial of dragon's blood",
+  "long_desc": "A small vial filled with a red fluid lies in the dust here.",
+  "action_desc": "",
+  "header_raw": "10 0 1",
+  "values_raw": "7 39 39 39",
+  "cost_raw": "5 48000 20500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

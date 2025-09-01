@@ -1,0 +1,37 @@
+{
+  "id": 7049,
+  "zone_id": 70,
+  "name": "The Junction",
+  "description": "You stand in a junction leading north, west and east.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7048
+    },
+    {
+      "dir": 1,
+      "description": "Darkness has closed in on that part of the sewer system, you can't see\na thing in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7060
+    },
+    {
+      "dir": 3,
+      "description": "West.  You see another junction very similar to this one that leads north\nand west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7044
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

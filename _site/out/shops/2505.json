@@ -1,0 +1,39 @@
+{
+  "id": 2505,
+  "producing": [
+    2504,
+    2545,
+    2546,
+    3010,
+    3100,
+    3101
+  ],
+  "profit_buy": 2.1,
+  "profit_sell": 0.5,
+  "buy_types": [
+    "FOOD",
+    "LIQ CONTAINER"
+  ],
+  "messages": [
+    "%s Haven't got that in storage, try LIST!",
+    "%s You can't sell what you don't HAVE!",
+    "%s Sorry, I'm not a fence.",
+    "%s I'd love to buy it, I just can't spare the coinage",
+    "%s Bah, come back when you can pay!",
+    "%s That'll be %d coins -- thank you.",
+    "%s I'll give ya %d coins for that!"
+  ],
+  "tail": [
+    0,
+    2,
+    2505,
+    112,
+    2518,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/25.shp"
+}

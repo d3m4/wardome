@@ -1,0 +1,22 @@
+{
+  "id": 12022,
+  "alias": "necklace crystal venus",
+  "short_desc": "a crystal necklace",
+  "long_desc": "Someone has left the crystal necklace of knowledge here.",
+  "action_desc": "",
+  "header_raw": "11 b 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "35 50000 12000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 3
+    },
+    {
+      "location": 4,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

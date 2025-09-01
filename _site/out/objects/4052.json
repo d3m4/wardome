@@ -1,0 +1,18 @@
+{
+  "id": 4052,
+  "alias": "mushroom",
+  "short_desc": "a mushroom",
+  "long_desc": "A small mushroom is here.",
+  "action_desc": "",
+  "header_raw": "19 0 16385",
+  "values_raw": "2 0 0 1",
+  "cost_raw": "1 9 3",
+  "extra_descriptions": [
+    {
+      "keywords": "mushroom",
+      "description": "Let's put it this way - I wouldn't eat it!!"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/40.obj"
+}

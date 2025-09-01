@@ -1,0 +1,26 @@
+{
+  "id": 7304,
+  "zone_id": 73,
+  "name": "The Cave Turning-Point",
+  "description": "The mud is getting deeper.  You are wondering, 'Would it be an idea to\nleave, before I disappear?'.  To the south you notice a flat round stone\nis blocking the way.  To the west you can see mud.",
+  "header_raw": "73 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can see an opening behind the stone.",
+      "keywords": "stone flat round~ 1 -1 7305 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "flat round stone",
+      "description": "The stone looks very uninteresting.  BUT as you are about to turn away, you\nsee a strip of light coming through a small hole.  Conclusion: The stone is\nmoveable."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

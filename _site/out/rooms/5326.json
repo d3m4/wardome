@@ -1,0 +1,29 @@
+{
+  "id": 5326,
+  "zone_id": 53,
+  "name": "A Demolished Tomb",
+  "description": "This tomb has been utterly destroyed by thieves and looters in search of\nthe treasures of the pharoahs.  Nothing of interest remains in this room,\nexcept a large stone coffin that leans against the western wall.",
+  "header_raw": "53 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "To the east is another tomb.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5325
+    },
+    {
+      "dir": 3,
+      "description": "You see a large stone coffin.",
+      "keywords": "coffin lid~ 2 5312 5327 E coffin lid~ The coffin is sculpted into the form of a man, standing several heads above you, and clad in the garments of pharoahs.  It has apparently been untouched by the ravages of time and the activities of looters.  Several markings on the  side indicate spots where unsuccessful attempts were made to open the coffin.  You can't see any way to open it.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

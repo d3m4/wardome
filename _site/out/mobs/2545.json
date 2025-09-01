@@ -1,0 +1,12 @@
+{
+  "id": 2545,
+  "alias": "golem cloth",
+  "short_desc": "the cloth golem",
+  "long_desc": "A cloth golem wanders around here.",
+  "detailed_desc": "",
+  "flags_raw": "It looks like a bunch of old rags, quite surprising it can actually walk.",
+  "stats1_raw": "~",
+  "stats2_raw": "bfgmnopqr dk 350 S",
+  "stats3_raw": "8 10 1 8d8+80 3d4+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

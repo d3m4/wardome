@@ -1,0 +1,22 @@
+{
+  "id": 2587,
+  "alias": "cloak shimmering",
+  "short_desc": "a shimmering cloak of many colors",
+  "long_desc": "A multi-colored pile of cloth is here.",
+  "action_desc": "",
+  "header_raw": "15 ag 5",
+  "values_raw": "100 0 -1 0",
+  "cost_raw": "8 25000 5500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -15
+    },
+    {
+      "location": 24,
+      "modifier": -5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

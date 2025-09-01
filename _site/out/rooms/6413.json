@@ -1,0 +1,29 @@
+{
+  "id": 6413,
+  "zone_id": 64,
+  "name": "The Stairwell",
+  "description": "This stairwell continues up and down, and there is\na door to the west.",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door~ 1 -1 6412 D4",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6415
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12021,
+  "alias": "guard royal bodyguard",
+  "short_desc": "the royal bodyguard",
+  "long_desc": "There is a royal bodyguard here, ready to die for the Emperor, if necessary.",
+  "detailed_desc": "",
+  "flags_raw": "The bodyguard is dressed in the finest of armor and wields only the",
+  "stats1_raw": "deadliest of weapons.  He is very strong and would put up one hell",
+  "stats2_raw": "of a fight.  He has been trained to be suspicious of all but the",
+  "stats3_raw": "most innocent visitors, and likely to take offense of anyone with",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

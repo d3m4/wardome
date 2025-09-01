@@ -1,0 +1,37 @@
+{
+  "id": 3369,
+  "zone_id": 33,
+  "name": "The Cave Entrance",
+  "description": "You are standing in the entrance of a simply huge cave!\nThe size is stunning!  All around the entrance are burnt \nbones and various types of wooden and metal debris.  Giant \nclaw marks are all along the ground, leading back deeper \ninto the cave.\n   Two tunnels lead off from here, one up, one down.  There\nare claw marks leading in either direction.",
+  "header_raw": "33 adgj 4",
+  "flags_text": "adgj",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3368
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3370
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3373
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

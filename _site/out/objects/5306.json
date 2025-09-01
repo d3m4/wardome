@@ -1,0 +1,18 @@
+{
+  "id": 5306,
+  "alias": "jar formaldehyde",
+  "short_desc": "a jar of formaldehyde",
+  "long_desc": "A small jar lies here on the ground.",
+  "action_desc": "",
+  "header_raw": "10 0 1",
+  "values_raw": "10 16 -1 -1",
+  "cost_raw": "6 300 60",
+  "extra_descriptions": [
+    {
+      "keywords": "jar formaldehyde",
+      "description": "The jar is sticky and smells really bad."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

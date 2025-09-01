@@ -1,0 +1,18 @@
+{
+  "id": 6404,
+  "alias": "sculpture",
+  "short_desc": "a piece of sculpture",
+  "long_desc": "A nice piece of sculpture is here.",
+  "action_desc": "",
+  "header_raw": "8 0 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "75 20000 2000",
+  "extra_descriptions": [
+    {
+      "keywords": "sculpture",
+      "description": "It is of a beautiful woman, straining\nbeneath a heavy weight.  She looks\ntired, with chiseled tears staining\nher cheeks.  It makes you sad."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

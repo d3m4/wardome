@@ -1,0 +1,12 @@
+{
+  "id": 12037,
+  "alias": "grocer",
+  "short_desc": "the grocer",
+  "long_desc": "A grocer stands at the counter, with a slightly impatient look on his face.",
+  "detailed_desc": "",
+  "flags_raw": "A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.",
+  "stats1_raw": "~",
+  "stats2_raw": "bl d 900 S",
+  "stats3_raw": "33 0 -10 1d1+30000 2d8+22",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

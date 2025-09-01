@@ -1,0 +1,12 @@
+{
+  "id": 905,
+  "alias": "franz henchman",
+  "short_desc": "Franz the Henchman",
+  "long_desc": "Franz, Minos' henchman, is here ready to pump you up.",
+  "detailed_desc": "",
+  "flags_raw": "Franz is no girlie man.  He is very muscular and looks as if he could",
+  "stats1_raw": "squeeze your head like a grapefruit.",
+  "stats2_raw": "~",
+  "stats3_raw": "bflm dhkp -300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3032,
+  "zone_id": 30,
+  "name": "Pet Shop Store",
+  "description": "This  is the small dark room in which the Pet shop keeps his pets.\nIt is vital that this room's virtual number is exactly one larger\nthan the Pet Shop number.",
+  "header_raw": "30 dk 0",
+  "flags_text": "dk",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

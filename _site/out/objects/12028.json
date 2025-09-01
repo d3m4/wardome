@@ -1,0 +1,13 @@
+{
+  "id": 12028,
+  "alias": "staff kodarta",
+  "short_desc": "a Kodarta staff",
+  "long_desc": "A Kodarta staff has been carelessly left here.",
+  "action_desc": "",
+  "header_raw": "4 0 16385",
+  "values_raw": "17 3 3 15",
+  "cost_raw": "6 35000 4000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

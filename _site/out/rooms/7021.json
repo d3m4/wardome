@@ -1,0 +1,37 @@
+{
+  "id": 7021,
+  "zone_id": 70,
+  "name": "A Quiet Pipe Junction",
+  "description": "This is the kind of place to rest, though the smell could be a LOT\nbetter than this.  The sewer goes east, north and west from here.",
+  "header_raw": "70 acd 1",
+  "flags_text": "acd",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "In that direction, you can't see anything.  It is just too dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7011
+    },
+    {
+      "dir": 1,
+      "description": "There is an ordinary junction in the pipe system to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7029
+    },
+    {
+      "dir": 3,
+      "description": "West.  There is an ordinary bend leading south into the sewer system in\nthat direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7016
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

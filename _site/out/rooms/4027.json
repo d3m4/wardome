@@ -1,0 +1,37 @@
+{
+  "id": 4027,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "You find yourself at an elbow turn in the tunnel as it turns to the\nwest and north.  You spot a small alcove hidden in the shadows just to\nthe south of you, and you can feel a breeze coming from somewhere to the\nnorth you believe.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4029
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4020
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

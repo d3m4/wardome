@@ -1,0 +1,50 @@
+{
+  "id": 6026,
+  "zone_id": 60,
+  "name": "The Northern Section Of A Grassy Field",
+  "description": "As you come close, scavenging animals and birds of all sorts scatter,\nleaving only the boldest and stupidest encircling the corpse of a large boar.\nCarrion birds circle overhead, and smaller animals stare out of the tall grass\nat you.  The grass here has been trampled, and a large area around the corpse\nis stained by blood.  A trail leads down the sloping field to a lake, and to\nthe south you see the path back to the forest.",
+  "header_raw": "60 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small lake lies down the sloping field to the east.  Some of the animals\nthat fled from here have gone there, and are watching, waiting for you to\nleave so they can resume their feasting.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6025
+    },
+    {
+      "dir": 2,
+      "description": "The field continues to the south, and you can see the path back to the forest\nthere.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6023
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "grass",
+      "description": "The tall grass makes a nice hiding place for animals.  You see some of the\nanimals you frightened away peeking furtively out at you."
+    },
+    {
+      "keywords": "path",
+      "description": "The narrow path is probably used by the animals living in the forest."
+    },
+    {
+      "keywords": "tree trees thicket",
+      "description": "The trees form a close thicket, blocking any exit to the north and west."
+    },
+    {
+      "keywords": "birds circling",
+      "description": "Many birds of varying size circle overhead, waiting for you to leave.  You\nhope they don't decide that you could be a corpse with just a little effort."
+    },
+    {
+      "keywords": "animal animals small",
+      "description": "Several pairs of eyes peer out at you, urging you to leave.  The just might\ndecide that en masse they could kill you, so you probably don't want to tarry\nhere."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

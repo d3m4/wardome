@@ -1,0 +1,18 @@
+{
+  "id": 5109,
+  "alias": "gauntlets",
+  "short_desc": "a pair of gauntlets",
+  "long_desc": "A pair of gauntlets is lying on the ground.",
+  "action_desc": "",
+  "header_raw": "11 a 129",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "2 10000 3000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/51.obj"
+}

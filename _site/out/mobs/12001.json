@@ -1,0 +1,12 @@
+{
+  "id": 12001,
+  "alias": "scorekeeper",
+  "short_desc": "the scorekeeper",
+  "long_desc": "A scorekeeper has one eye on his stopwatch and the other on a clipboard.",
+  "detailed_desc": "",
+  "flags_raw": "The scorekeeper is a young man of about 25 years of age and is very intently",
+  "stats1_raw": "studying his clipboard.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl 0 100 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

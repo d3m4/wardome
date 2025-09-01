@@ -1,0 +1,29 @@
+{
+  "id": 15041,
+  "zone_id": 150,
+  "name": "The Ball Room",
+  "description": "You are standing in the great Ball Room.  It is a truly large room,\nwith a stage for an orchestra in the south-east end.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Ball Room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15046
+    },
+    {
+      "dir": 1,
+      "description": "To the east you see the stage.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15042
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

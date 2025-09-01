@@ -1,0 +1,22 @@
+{
+  "id": 12000,
+  "alias": "ring pewter",
+  "short_desc": "a pewter ring",
+  "long_desc": "There is a pewter ring lying here.",
+  "action_desc": "",
+  "header_raw": "11 fg 3",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "5 15000 2500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 13,
+      "modifier": 10
+    },
+    {
+      "location": 2,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

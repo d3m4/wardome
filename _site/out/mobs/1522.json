@@ -1,0 +1,12 @@
+{
+  "id": 1522,
+  "alias": "man",
+  "short_desc": "the man",
+  "long_desc": "A middle-aged man is here, kneeling in prayer.",
+  "detailed_desc": "",
+  "flags_raw": "He is tired, the lines of age marking his face, but in his robe,",
+  "stats1_raw": "kneeling, he is the image of perfect contentment.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl dk 1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

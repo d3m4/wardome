@@ -1,0 +1,18 @@
+{
+  "id": 6014,
+  "alias": "water brook",
+  "short_desc": "a small brook",
+  "long_desc": "A small brook trickles through the forest beside the path.",
+  "action_desc": "",
+  "header_raw": "23 0 0",
+  "values_raw": "50000 50000 15 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "water brook",
+      "description": "The water looks clean and refreshing."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

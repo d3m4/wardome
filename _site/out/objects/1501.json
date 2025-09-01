@@ -1,0 +1,27 @@
+{
+  "id": 1501,
+  "alias": "scroll parchment",
+  "short_desc": "the Scroll of the Messenger",
+  "long_desc": "You see a solid and silver-lined scroll resting on the ground.",
+  "action_desc": "",
+  "header_raw": "12 g ao",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 500 500",
+  "extra_descriptions": [
+    {
+      "keywords": "scroll parchment",
+      "description": "It seems to be some sort of spell designed to transport its user across\nvast distances, but how to make use of it is impossible to tell."
+    }
+  ],
+  "affects": [
+    {
+      "location": 14,
+      "modifier": 15
+    },
+    {
+      "location": 19,
+      "modifier": -1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

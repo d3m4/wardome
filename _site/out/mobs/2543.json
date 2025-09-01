@@ -1,0 +1,12 @@
+{
+  "id": 2543,
+  "alias": "golem bronze",
+  "short_desc": "the bronze golem",
+  "long_desc": "A bronze golem stands here shining in the light.",
+  "detailed_desc": "",
+  "flags_raw": "He looks rather dim witted.",
+  "stats1_raw": "~",
+  "stats2_raw": "bfgmnopqr dk 350 S",
+  "stats3_raw": "18 8 -3 18d18+180 4d5+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

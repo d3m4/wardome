@@ -1,0 +1,29 @@
+{
+  "id": 15055,
+  "zone_id": 150,
+  "name": "The Bottom Of The Stairs",
+  "description": "The stairs lead down to a damp part of the castle, you can hear\nwater dripping somewhere around you.  The area is lit by a single\ntorch flickering in the room which this staircase is built off of.\n   The stairs lead upwards and they open up onto a fairly small\nroom to the east.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small room opens up to the east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15056
+    },
+    {
+      "dir": 4,
+      "description": "The stairs lead upwards out of this dank, dark place.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15029
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

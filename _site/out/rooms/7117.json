@@ -1,0 +1,29 @@
+{
+  "id": 7117,
+  "zone_id": 71,
+  "name": "The Narrow Eastern Ledge",
+  "description": "You are in the process of walking all the way around the ledge since\nthere is no way of turning around on this all too narrow path.  There IS\nanother exit from here but that leads right into mid-air and with high\nprobability of a free fall session afterwards.  And THAT is west of here\nso watch your step.",
+  "header_raw": "71 acd 5",
+  "flags_text": "acd",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The ledge leads further south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7118
+    },
+    {
+      "dir": 3,
+      "description": "You stare into mid-air, and right under there is absolutely nothing but\ndarkness.  You shiver by the thought of falling that distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7114
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+}

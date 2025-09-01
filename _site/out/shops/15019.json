@@ -1,0 +1,38 @@
+{
+  "id": 15019,
+  "producing": [
+    15012,
+    3050,
+    3052
+  ],
+  "profit_buy": 1.2,
+  "profit_sell": 0.3,
+  "buy_types": [
+    "SCROLL",
+    "WAND",
+    "STAFF",
+    "POTION"
+  ],
+  "messages": [
+    "%s But I have no such thing for sale.",
+    "%s But you do not have this item.",
+    "%s I have no interest in that.",
+    "%s I am sorry, but I can not afford such a valuable item.",
+    "%s But you can not afford that item.",
+    "%s It will cost you %d coins.",
+    "%s Here, you shall have %d coins for it."
+  ],
+  "tail": [
+    2,
+    2,
+    15019,
+    40,
+    15052,
+    -1,
+    2,
+    8,
+    20,
+    28
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/150.shp"
+}

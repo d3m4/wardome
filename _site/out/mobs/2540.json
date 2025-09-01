@@ -1,0 +1,12 @@
+{
+  "id": 2540,
+  "alias": "master spellbinder",
+  "short_desc": "the Master Spellbinder",
+  "long_desc": "The Master Spellbinder is here re-charging a blackened wand.",
+  "detailed_desc": "",
+  "flags_raw": "The Master Spellbinder snarls at you and attacks.",
+  "stats1_raw": "~",
+  "stats2_raw": "abfgh dk -500 S",
+  "stats3_raw": "23 5 -4 23d23+230 3d5+8",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

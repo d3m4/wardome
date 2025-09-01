@@ -1,0 +1,22 @@
+{
+  "id": 5203,
+  "alias": "sleeves iron",
+  "short_desc": "a pair of iron sleeves",
+  "long_desc": "A set of iron sleeves lies on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 257",
+  "values_raw": "7 0 0 0",
+  "cost_raw": "10 2450 500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -4
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

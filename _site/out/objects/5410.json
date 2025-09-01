@@ -1,0 +1,13 @@
+{
+  "id": 5410,
+  "alias": "guisarme",
+  "short_desc": "a guisarme",
+  "long_desc": "A guisarme lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 4 4",
+  "cost_raw": "4 1953 20",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

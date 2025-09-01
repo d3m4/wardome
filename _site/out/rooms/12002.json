@@ -1,0 +1,21 @@
+{
+  "id": 12002,
+  "zone_id": 120,
+  "name": "Caesar's Private Box",
+  "description": "This is the best view in the house!  You can see gladiators fighting or\nthe chariot races with an unobstructed view.  The seats are upholstered in\nred velvet and are in top-notch condition.  There is a rickety ladder leading\nup and a marble staircase leading down.",
+  "header_raw": "120 cd 0",
+  "flags_text": "cd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "You see a rickety ladder with a trapdoor leading up.",
+      "keywords": "trapdoor~ 1 12033 12001 D5 There is a marble staircase leading down.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

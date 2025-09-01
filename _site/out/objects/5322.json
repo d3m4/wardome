@@ -1,0 +1,27 @@
+{
+  "id": 5322,
+  "alias": "mask golden",
+  "short_desc": "a golden mask",
+  "long_desc": "A beautiful, intricately detailed mask has been forgotten here.",
+  "action_desc": "",
+  "header_raw": "9 g 17",
+  "values_raw": "10 0 0 0",
+  "cost_raw": "10 15000 750",
+  "extra_descriptions": [
+    {
+      "keywords": "mask golden",
+      "description": "This beautiful mask was shaped from solid gold and magically enchanted\nto perfectly fit the face of any who choose to wear it, its golden features\nand turquoise highlights even moving to match the expressions of the face\nof the wearer."
+    }
+  ],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 25
+    },
+    {
+      "location": 13,
+      "modifier": 10
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

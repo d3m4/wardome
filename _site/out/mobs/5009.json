@@ -1,0 +1,12 @@
+{
+  "id": 5009,
+  "alias": "slave young",
+  "short_desc": "the slave",
+  "long_desc": "A young slave sits here staring at you with pleading eyes.",
+  "detailed_desc": "",
+  "flags_raw": "She looks quite thin and weak.",
+  "stats1_raw": "~",
+  "stats2_raw": "bh 0 1000 S",
+  "stats3_raw": "3 18 9 1d4+25 1d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/50.mob"
+}

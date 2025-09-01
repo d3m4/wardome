@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "COMBO"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (150), Paladin (160)\n- Descricao: Esta skill permite aplicar uma rapida sequencia de golpes durante uma luta.\n- Dano: De 0 a 8 golpes.\n- Numero de rounds necessarios para recuperacao do controle: 4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

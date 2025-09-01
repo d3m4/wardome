@@ -1,0 +1,29 @@
+{
+  "id": 907,
+  "zone_id": 9,
+  "name": "The Pier",
+  "description": "You float next to a crumbling pier long since neglected.\nTo the west the water gets sluggish and there are many weeds and\nsome seaweed floating about.",
+  "header_raw": "9 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 906
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 908
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

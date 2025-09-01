@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "improved"
+  ],
+  "aliases": [
+    "IMPROVED BERZERK"
+  ],
+  "body": "- Classes que aprendem: Barbarian (198)\n- Descricao: Esta skill permite ficar ainda mais furioso durante a luta, aumentando ainda mais o dano causado por golpe.\n- Dano: (dano normal)+50%\n- Numero de rounds necessarios para recuperacao do controle: 1\n- Exemplo de uso:\t> berzerk\n\t\t\tYou work up a frenzy and will fight to death!\n\n- Observacoes: E necessario estar lutando; o wimpy e automaticamente setado para 0 quando se usa IMPROVED BERZERK, ate que a luta acabe.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7001,
+  "alias": "bat small fierce",
+  "short_desc": "the small bat",
+  "long_desc": "The small fierce-looking bat is hanging from the ceiling, obviously sleeping.",
+  "detailed_desc": "",
+  "flags_raw": "You have never in your entire life seen such a mean looking small creature,",
+  "stats1_raw": "though it looks rather peaceful, hanging there, sleeping.  The thought of",
+  "stats2_raw": "arousing this cruel creature doesn't sit well in your bones.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

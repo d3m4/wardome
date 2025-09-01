@@ -1,0 +1,18 @@
+{
+  "id": 7914,
+  "alias": "plate breast silvery silver",
+  "short_desc": "a silvery breast plate",
+  "long_desc": "There is a silvery breast plate on the floor.",
+  "action_desc": "",
+  "header_raw": "9 gkl 9",
+  "values_raw": "10 7000 0 0",
+  "cost_raw": "70 20000 5000",
+  "extra_descriptions": [
+    {
+      "keywords": "plate breast silvery silver",
+      "description": "On the breast plate you notice a relief of large rose.  The metal seems\nto be some kind of silver or platinum."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

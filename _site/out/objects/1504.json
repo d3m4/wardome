@@ -1,0 +1,27 @@
+{
+  "id": 1504,
+  "alias": "armband band faded",
+  "short_desc": "a faded armband",
+  "long_desc": "A ragged and faded looking piece of cloth has been left here, forgotten.",
+  "action_desc": "",
+  "header_raw": "12 j ai",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "0 15 50",
+  "extra_descriptions": [
+    {
+      "keywords": "armband faded band",
+      "description": "It has some sort of militia insignia on it, perhaps an indication of a rank\nor award in some military order unknown to you."
+    }
+  ],
+  "affects": [
+    {
+      "location": 6,
+      "modifier": 2
+    },
+    {
+      "location": 5,
+      "modifier": -1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/15.obj"
+}

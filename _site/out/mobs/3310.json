@@ -1,0 +1,12 @@
+{
+  "id": 3310,
+  "alias": "innkeeper",
+  "short_desc": "the innkeeper",
+  "long_desc": "An aged innkeeper greets you as you enter.",
+  "detailed_desc": "",
+  "flags_raw": "He is old and greying, but seems to have been able to",
+  "stats1_raw": "keep his mental faculties through the years.  A large",
+  "stats2_raw": "woolen sweater is wrapped about him for warmth.  His",
+  "stats3_raw": "blue eyes dance with amusement as he notices your weapons,",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

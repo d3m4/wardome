@@ -1,0 +1,12 @@
+{
+  "id": 6018,
+  "alias": "duckling",
+  "short_desc": "the duckling",
+  "long_desc": "A duckling is swimming around in the pond.",
+  "detailed_desc": "",
+  "flags_raw": "The duckling is adorable, it looks most of all like a tiny furball.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 1000 S",
+  "stats3_raw": "0 20 10 1d1+0 1d1+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

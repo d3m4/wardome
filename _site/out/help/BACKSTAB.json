@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "BACKSTAB"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Thief (26)\n- Descricao: Esta skill permite apunhalar um inimigo pelas costas, causando um alto dano.\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> backstab zombie\n\t\t\tA zombie makes a strange sound as you place a dagger in its back!\n\n- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; so e possivel que ela seja executada antes da luta comecar.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

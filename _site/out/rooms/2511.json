@@ -1,0 +1,45 @@
+{
+  "id": 2511,
+  "zone_id": 25,
+  "name": "A Small Clearing",
+  "description": "You are in a small clearing in the shadow grove.  There is charred grass\nunderfoot, and the signs of fire here and there.  It is almost as if the\nplant life shuns this spot.  The shadowy mist hovers all around, obscuring\nyour view into the grove.\n   A small path leads north to some shadowy structure.  All other exits are\nshrouded in shadowy mist.",
+  "header_raw": "25 ag 3",
+  "flags_text": "ag",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can barely make out some sort of building to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2512
+    },
+    {
+      "dir": 1,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2506
+    },
+    {
+      "dir": 2,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2502
+    },
+    {
+      "dir": 3,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

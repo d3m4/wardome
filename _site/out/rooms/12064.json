@@ -1,0 +1,45 @@
+{
+  "id": 12064,
+  "zone_id": 120,
+  "name": "Before Rome",
+  "description": "You travel upon an East-West road wide enough for 30 men to march\nabreast.  It is packed hard through heavy use.  To the west stands the\nGates of Rome inviting you to enter and partake of all the glory and\nsplendor that is Rome.",
+  "header_raw": "120 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12065
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "gate~ 1 -1 12051 S #12065 Clay Road~    You travel upon an East-West road wide enough for 30 men to march abreast.  It is packed hard through heavy use.  To the west, your eyes catch the splendors of a mighty city.",
+      "door_flag": 120,
+      "key": null,
+      "to": 1
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12066
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12064
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2555,
+  "alias": "cat grey familiar",
+  "short_desc": "the grey cat",
+  "long_desc": "A grey cat is lounging lazily here.",
+  "detailed_desc": "",
+  "flags_raw": "The grey cat cocks an ear towards you, sensing your scrutiny, then purrs",
+  "stats1_raw": "contentedly.  It looks rather harmless, until you notice its very large",
+  "stats2_raw": "claws.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

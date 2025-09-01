@@ -1,0 +1,37 @@
+{
+  "id": 7018,
+  "zone_id": 70,
+  "name": "The Ordinary Junction",
+  "description": "This looks like an ordinary junction, actually it seems very quiet\nhere.  The pipelines lead west, east and north.",
+  "header_raw": "70 acd 1",
+  "flags_text": "acd",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "To the north you can see a junction like this one, leading north and west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7017
+    },
+    {
+      "dir": 1,
+      "description": "To the east there is nothing of particular interest, though there is a \njunction with pipelines leading north and east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7031
+    },
+    {
+      "dir": 3,
+      "description": "There is a bend to the west leading north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7010
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

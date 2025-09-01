@@ -1,0 +1,12 @@
+{
+  "id": 5462,
+  "alias": "sultans guard",
+  "short_desc": "the Sultan's Guard",
+  "long_desc": "A guard stands here, watching the gate.",
+  "detailed_desc": "",
+  "flags_raw": "You see a trained fighter, ready to defend the city.",
+  "stats1_raw": "~",
+  "stats2_raw": "abg 0 1000 S",
+  "stats3_raw": "10 10 8 2d4+120 1d8+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

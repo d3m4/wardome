@@ -1,0 +1,12 @@
+{
+  "id": 3062,
+  "alias": "fido dog",
+  "short_desc": "the beastly fido",
+  "long_desc": "A beastly fido is mucking through the garbage looking for food here.",
+  "detailed_desc": "",
+  "flags_raw": "The fido is a small dog that has a foul smell and pieces of rotted meat",
+  "stats1_raw": "hanging around his teeth.",
+  "stats2_raw": "~",
+  "stats3_raw": "afghq p -200 E",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

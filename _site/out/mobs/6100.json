@@ -1,0 +1,12 @@
+{
+  "id": 6100,
+  "alias": "warg vicious",
+  "short_desc": "the vicious warg",
+  "long_desc": "A vicious warg is here, snarling angrily at you.",
+  "detailed_desc": "",
+  "flags_raw": "It is an exceptionally large wolf with thick, black fur.  Saliva is dripping",
+  "stats1_raw": "quickly from its long, white fangs.  It looks quite dangerous and very angry.",
+  "stats2_raw": "~",
+  "stats3_raw": "fg k -350 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/61.mob"
+}

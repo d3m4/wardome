@@ -1,0 +1,29 @@
+{
+  "id": 1537,
+  "zone_id": 15,
+  "name": "A Straight Path",
+  "description": "The Compassionate, the Merciful, Sovereign of the Day of Judgment!\nYou alone we worship, and to You alone we turn for help.  Guide us to\nthe Straight Path, the path of those whom You have favored, not of\nthose who have gone astray.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1535
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1538
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

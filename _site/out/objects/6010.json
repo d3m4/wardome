@@ -1,0 +1,18 @@
+{
+  "id": 6010,
+  "alias": "blackberries berries",
+  "short_desc": "some blackberries",
+  "long_desc": "Some blackberries grow on a bush nearby.",
+  "action_desc": "",
+  "header_raw": "19 c 1",
+  "values_raw": "3 0 0 0",
+  "cost_raw": "1 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "blackberries berries",
+      "description": "They look very tasty indeed."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

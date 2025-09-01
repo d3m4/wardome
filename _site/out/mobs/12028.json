@@ -1,0 +1,12 @@
+{
+  "id": 12028,
+  "alias": "bailiff",
+  "short_desc": "the bailiff",
+  "long_desc": "The bailiff stands here, keeping order in the courtroom.",
+  "detailed_desc": "",
+  "flags_raw": "He is a very stern man and insists on absolute quiet in his courtroom",
+  "stats1_raw": "unless the judge has given someone permisson to speak.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl d 900 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

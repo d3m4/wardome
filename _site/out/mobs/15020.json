@@ -1,0 +1,12 @@
+{
+  "id": 15020,
+  "alias": "tim guard lifeguard",
+  "short_desc": "Tim, the King's Lifeguard",
+  "long_desc": "Tim, the King's Lifeguard, is standing here.",
+  "detailed_desc": "",
+  "flags_raw": "This guy looks just like his twin, Tom.  There seems to be no",
+  "stats1_raw": "doubt that he is completely prepared to give his life for the",
+  "stats2_raw": "King, if necessary.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

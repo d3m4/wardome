@@ -1,0 +1,12 @@
+{
+  "id": 12032,
+  "alias": "mars god",
+  "short_desc": "Mars",
+  "long_desc": "Mars, the God of War and State, is sitting down here.",
+  "detailed_desc": "",
+  "flags_raw": "Mars is a tall God with burning, hateful eyes and a large scowl on",
+  "stats1_raw": "his face.",
+  "stats2_raw": "~",
+  "stats3_raw": "abelnopqr dhkp 1000 E",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3500,
+  "zone_id": 35,
+  "name": "The Plains",
+  "description": "You are standing on the plains.  This is a vast desolate place where\nthe wind can howl undisturbed since nothing but you bars its way.  However\nyou are not the first to wander here.  Before you somebody has left a small\npath.  The path looks rather bewildered and is not the kind of path to lead\nto anywhere significant or important but it seems to have made up its mind\nto enter the hills far away north.  A narrow trail scars its way off to the\neast as it leads up towards a hillside.",
+  "header_raw": "35 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4000
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3300
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3501
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

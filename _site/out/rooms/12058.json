@@ -1,0 +1,42 @@
+{
+  "id": 12058,
+  "zone_id": 120,
+  "name": "The Valley Of The Gods",
+  "description": "You stand in a tranquil valley at the base of a large mountain.  A quiet \nstream, with fruit trees growing along its banks, winds its way peacefully\nthrough the valley and enters a large stone structure that lies to the west.\nThere are birds singing and every now and then a ripple breaks the surface\nof the stream.  You can see a path leading through the trees to the up.",
+  "header_raw": "120 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A small path winds its way through the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12057
+    },
+    {
+      "dir": 4,
+      "description": "You see a path leading up the mountain.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12059
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "stream brook",
+      "description": "A stream of the clearest, cleanest water that you have ever seen winds its\nway through the valley."
+    },
+    {
+      "keywords": "fish",
+      "description": "A variety of species swims peacefully in the cool, clear water."
+    },
+    {
+      "keywords": "trees fruit",
+      "description": "The fruit trees, nourished by the fertile ground at the edge of the stream\nand sustained by the brilliant sunshine, line the banks of the stream and\nare laden with fruit."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

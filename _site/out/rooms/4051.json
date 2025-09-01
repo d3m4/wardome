@@ -1,0 +1,29 @@
+{
+  "id": 4051,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "Standing in this part of the tunnel, you notice that not only does\nthe tunnel get suddenly narrower, but the floor does not seem to be\nnearly as smooth as it was before.  In fact, the floor drops almost\nfive feet in jagged steps as you look eastward.  The western path\nseems to be quite smooth however.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4052
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4050
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3303,
+  "alias": "horse",
+  "short_desc": "the horse",
+  "long_desc": "A horse does horsely things here.",
+  "detailed_desc": "",
+  "flags_raw": "This horse looks like a nice horse.  It looks at you",
+  "stats1_raw": "with soft brown eyes and you want to give it a carrot.",
+  "stats2_raw": "~",
+  "stats3_raw": "b 0 250 E",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

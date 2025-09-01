@@ -1,0 +1,12 @@
+{
+  "id": 7200,
+  "alias": "mindflayer master mind",
+  "short_desc": "the master mindflayer",
+  "long_desc": "The master mindflayer is here, looking at you with an evil look.",
+  "detailed_desc": "",
+  "flags_raw": "It is a seven foot tall humanoid dressed in a purple cloak, and swinging a",
+  "stats1_raw": "black and purple rod above its head as if it was going to attack you any",
+  "stats2_raw": "moment now.  In the middle of its head are four tentacles with sharp points.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+}

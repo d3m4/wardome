@@ -1,0 +1,12 @@
+{
+  "id": 3504,
+  "alias": "boy small",
+  "short_desc": "the small boy",
+  "long_desc": "A small boy sits here, licking his wounds.",
+  "detailed_desc": "",
+  "flags_raw": "The poor boy has numerous cuts and scratches, but appears to be all right.",
+  "stats1_raw": "He is apparently the only survivor of the ambush.",
+  "stats2_raw": "~",
+  "stats3_raw": "bh 0 500 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/35.mob"
+}

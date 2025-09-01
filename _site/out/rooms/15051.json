@@ -1,0 +1,38 @@
+{
+  "id": 15051,
+  "zone_id": 150,
+  "name": "King Welmar's Bedroom",
+  "description": "This is a large room, with a wonderful view.  To one side of the\nroom, stands a large four-poster bed.  All around the room there are\nmassive bookshelves, filled with all kinds of books.  The titles include\nworks such as: 'A Treatise on the History of Midgaard and surrounding\nareas', 'Magic - A Beginner's Introduction' and many others.  There is\nan exit to the west.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "There is a large and cosy room to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15050
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "books book shelf shelves bookshelf bookshelves",
+      "description": "Most of the books seem worn, as if thoroughly studied.  The King\nevidently is interested in keeping himself educated."
+    },
+    {
+      "keywords": "bed",
+      "description": "Seems nice enough to sleep in, though you would never dare to, since\nit is a Royal Bed!"
+    },
+    {
+      "keywords": "history midgaard",
+      "description": "A dry tome, filled with boring knowledge."
+    },
+    {
+      "keywords": "magic",
+      "description": "Beginner?  This book goes beyond most of what YOU know about magic\nanyway.  But then, there are levels of magical knowledge, it seems."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

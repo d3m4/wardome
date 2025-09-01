@@ -1,0 +1,29 @@
+{
+  "id": 6139,
+  "zone_id": 61,
+  "name": "On The Narrow Trail",
+  "description": "The trail continues to the north and south as it leads through\nthe heavy underbrush of this part of the Haon-Dor Forest.  The\ntrail looks surprisingly well trodden along this part.  The brush\nseems to be bending closely over the path in a somewhat ominous\nmanner, but you easily shrug it off.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A short distance to the north, you can see something shimmering.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6203
+    },
+    {
+      "dir": 2,
+      "description": "The path leads southwards through the underbrush.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6138
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

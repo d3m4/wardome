@@ -1,0 +1,12 @@
+{
+  "id": 5464,
+  "alias": "mercenary",
+  "short_desc": "the mercenary",
+  "long_desc": "A mercenary stands here waiting for a job.",
+  "detailed_desc": "",
+  "flags_raw": "You see an assassin down on his luck looking to be freelanced out.",
+  "stats1_raw": "~",
+  "stats2_raw": "g 0 0 S",
+  "stats3_raw": "5 15 9 1d8+14 1d4+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

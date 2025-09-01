@@ -1,0 +1,12 @@
+{
+  "id": 2564,
+  "alias": "guildmaster grand mistress",
+  "short_desc": "the Grand Mistress",
+  "long_desc": "The Grand Mistress of Magic is sitting here.",
+  "detailed_desc": "",
+  "flags_raw": "She looks quite comfortable on her emerald throne. Amazingly young and",
+  "stats1_raw": "pretty for one of such stature in the guild, no doubt she has kept her",
+  "stats2_raw": "youthful appearance through the use of strong magics.",
+  "stats3_raw": "The Grand Mistress pets her familiar and smiles at you in confidence.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

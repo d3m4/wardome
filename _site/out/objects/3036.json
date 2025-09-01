@@ -1,0 +1,18 @@
+{
+  "id": 3036,
+  "alias": "cashcard card atm",
+  "short_desc": "a cashcard",
+  "long_desc": "A handy dandy cashcard is sitting on the ground here.",
+  "action_desc": "",
+  "header_raw": "12 cdeg 16385",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 10000 10",
+  "extra_descriptions": [
+    {
+      "keywords": "cashcard card atm",
+      "description": "There is some writing on the back of the card which reads:\n\nTo use, type 'BALANCE', 'WITHDRAW <amount>', or 'DEPOSIT <amount>'.\nPlease report any strange occurrences to the bank manager."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

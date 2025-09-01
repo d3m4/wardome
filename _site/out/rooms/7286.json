@@ -1,0 +1,21 @@
+{
+  "id": 7286,
+  "zone_id": 72,
+  "name": "The Hell Yard",
+  "description": "You are standing in a lot of mud.  A disgusting smell surrounds\nthe place, and makes you feel sick.  Small flames sometimes shoot\nup from the hot mud.  To the west there is a small door.  To the \nnorth you can see an iron door.",
+  "header_raw": "72 cd 5",
+  "flags_text": "cd",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "It is too dark to tell.",
+      "keywords": "door iron~ 1 -1 7285 D3 It is too dark to tell.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

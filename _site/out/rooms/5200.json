@@ -1,0 +1,29 @@
+{
+  "id": 5200,
+  "zone_id": 52,
+  "name": "The Grand Gate Of Thalos",
+  "description": "You stand in the archway of a gigantic stone archway.  The two\nsteel gates have been forced open and have rusted in place.  A hollow\ngust of wind blows by you into the deserted, and seemingly destroyed,\ncity.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The desert sands stretch on for miles and miles.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5044
+    },
+    {
+      "dir": 3,
+      "description": "You see devastation everywhere.  Houses lie in ruin and skeletons litter\nthe streets.  You see strange beasts stalking the shadows.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5201
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

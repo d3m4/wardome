@@ -1,0 +1,12 @@
+{
+  "id": 5439,
+  "alias": "chulainn knight",
+  "short_desc": "Chulainn",
+  "long_desc": "Chulainn the Knight stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This large man does not seem to be surprised at your approach and",
+  "stats1_raw": "looks at you quizically.",
+  "stats2_raw": "~",
+  "stats3_raw": "chlm dk 800 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

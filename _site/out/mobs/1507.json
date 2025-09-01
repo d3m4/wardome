@@ -1,0 +1,12 @@
+{
+  "id": 1507,
+  "alias": "jinn sprite",
+  "short_desc": "the jinn",
+  "long_desc": "One of the jinn dances in and out of the air before your eyes, taunting you.",
+  "detailed_desc": "",
+  "flags_raw": "You have heard legends of these creatures, the mischievous little demons",
+  "stats1_raw": "said to be trapped in lamps and bottles, capable of granting all kinds of",
+  "stats2_raw": "powerful wishes.  To you, it looks like nothing more than an annoying little",
+  "stats3_raw": "sprite.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

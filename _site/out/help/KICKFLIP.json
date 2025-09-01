@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "KICKFLIP"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Ninja (45)\n- Descricao: Esta skill permite aplicar um chute giratorio no inimigo, fazendo com que ele caia.\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> kickflip zombie\n\t\t\tYou flip head over heels kicking A zombie onto its butt in the process!\n\n- Observacoes: Caso o golpe falhe, o inimigo derrubara seu executor no chao, e este levara 2 rounds para se levantar.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

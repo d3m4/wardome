@@ -1,0 +1,54 @@
+{
+  "id": 6031,
+  "zone_id": 60,
+  "name": "Out On A Limb In A Large Oak",
+  "description": "This sturdy branch hangs far out over a path to the west, which you might\nbe able to jump down to.  Several squirrels scamper into hiding as you\napproach, leaving you alone and swaying slightly with the wind.  To your north\nyou can see a small log cabin through the trees, and to the southeast there\nseems to be some sort of clearing, with many birds circling above it.",
+  "header_raw": "60 c 3",
+  "flags_text": "c",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Back to the east you see the tree trunk.  It is much less precarious there\ncompared to here... perhaps you should go back.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6030
+    },
+    {
+      "dir": 5,
+      "description": "Below you is a small path, probably used by the forest animals.  You think\nthat you could jump down with a little effort.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6016
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "nest nests",
+      "description": "You notice that several of the squirrels sought refuge in a large nest that is\nwell within your reach.  Looking into the nest, you see two pairs of eyes\nstaring back at you."
+    },
+    {
+      "keywords": "animals bird birds",
+      "description": "A variety of squirrels, chipmunks, and birds make their homes in this and the\nsurrounding trees.  If you look closely you may be able to see some of their\nrapidly emptying nests."
+    },
+    {
+      "keywords": "feline",
+      "description": "The shape above you moves with definite grace and confidence.  You think that\nit must be a Bobcat, stalking smaller tree-dwelling animals."
+    },
+    {
+      "keywords": "pacing pace animal shape",
+      "description": "From here it looks feline.  You still don't think it has noticed you, despite\nthe noise you made while climbing up here."
+    },
+    {
+      "keywords": "limb limbs",
+      "description": "The limbs look quite sturdy, certainly capable of holding your weight should\nyou decide to climb around in the tree using them."
+    },
+    {
+      "keywords": "top highest high",
+      "description": "You could probably see most of the forest, and perhaps even the city from the\ntop of the tree... of course, you would have to deal with whatever that shape\nis that you see pacing on one of the upper limbs."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

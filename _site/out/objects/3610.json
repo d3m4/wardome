@@ -1,0 +1,22 @@
+{
+  "id": 3610,
+  "alias": "crown black queen",
+  "short_desc": "the Crown of the Black Queen",
+  "long_desc": "The Crown of the Black Queen lies here, looking neglected.",
+  "action_desc": "",
+  "header_raw": "9 bgj 17",
+  "values_raw": "2 0 0 0",
+  "cost_raw": "4 3000 5",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 1
+    },
+    {
+      "location": 4,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

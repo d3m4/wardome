@@ -1,0 +1,13 @@
+{
+  "id": 12038,
+  "alias": "key opal",
+  "short_desc": "an opal key",
+  "long_desc": "An opal key has been left here.",
+  "action_desc": "",
+  "header_raw": "18 c 1",
+  "values_raw": "12038 0 0 0",
+  "cost_raw": "20 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6012,
+  "alias": "grey squirrel",
+  "short_desc": "the grey squirrel",
+  "long_desc": "A grey squirrel with a bushy tail is foraging for nuts here.",
+  "detailed_desc": "",
+  "flags_raw": "This happy creature seems to pay you no heed as it goes about its search for",
+  "stats1_raw": "nuts among the leaves and twigs on the ground here.",
+  "stats2_raw": "~",
+  "stats3_raw": "g s 150 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

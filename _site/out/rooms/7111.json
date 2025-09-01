@@ -1,0 +1,50 @@
+{
+  "id": 7111,
+  "zone_id": 71,
+  "name": "The Southwestern Corner Of The Ledge",
+  "description": "This seems like a ledge that is a little broader than the one just to\nthe north of here.  The ledge seems to lead around some sort of Abyss of\ntotal darkness.  The ledge seems to have an odd-looking edge here.",
+  "header_raw": "71 acd 5",
+  "flags_text": "acd",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  The ledge leads further north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7110
+    },
+    {
+      "dir": 1,
+      "description": "You see a broad ledge leading eastward.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7115
+    },
+    {
+      "dir": 2,
+      "description": "South of here is the exit from the ledge.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7112
+    },
+    {
+      "dir": 5,
+      "description": "The Abyss lies down there.  Who knows what might lurk down there?",
+      "keywords": "rock step edge~ 1 -1 7279 E edge odd-looking~ This is truly a weird piece of craftsmanship in your eyes.  The edge seems to form a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there  leading to seemingly total destruction.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rock",
+      "description": "It looks as if it can be opened in a door-like fashion.  Maybe this will lead\nthe way down."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+}

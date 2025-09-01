@@ -1,0 +1,29 @@
+{
+  "id": 3059,
+  "zone_id": 30,
+  "name": "Behind The Temple Altar",
+  "description": "You are on a dirt path leading away from the Temple Altar which is south\nof here.  To the north, the path continues through the lush contryside of\nMidgaard towards the Dragonhelm Mountains far off to the north.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the lush, green countryside of Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3060
+    },
+    {
+      "dir": 2,
+      "description": "You see the Temple Altar.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3054
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

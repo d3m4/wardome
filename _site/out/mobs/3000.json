@@ -1,0 +1,12 @@
+{
+  "id": 3000,
+  "alias": "wizard",
+  "short_desc": "the wizard",
+  "long_desc": "A wizard walks around behind the counter, talking to himself.",
+  "detailed_desc": "",
+  "flags_raw": "The wizard looks old and senile, and yet he looks like a very powerful",
+  "stats1_raw": "wizard.  He is equipped with fine clothing, and is wearing many fine",
+  "stats2_raw": "rings and bracelets.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

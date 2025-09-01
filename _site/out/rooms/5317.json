@@ -1,0 +1,34 @@
+{
+  "id": 5317,
+  "zone_id": 53,
+  "name": "A Slippery Hole",
+  "description": "The sides of this hole are slippery-smooth.  You lower yourself in, and \nproceed to move downward... when suddenly you lose your purchase!\n\nYou fall for what seems like an eternity, and smash into the stones below...\n\n\n\nUnder The Hole\n   You are in a small chamber underneath the slippery hole, far below\nthe pyramid now.   The floor is strewn with bones.  To the south is a\nsmall rocky crevasse.",
+  "header_raw": "53 acd 0",
+  "flags_text": "acd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a rocky crevasse that proceeds deep under the pyramid.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5319
+    },
+    {
+      "dir": 4,
+      "description": "The hole looks far too slippery to climb back up.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bones",
+      "description": "The bones have whitened and cracked in the dry air, apparently the remains \nof adventurers, thieves, and creatures that did not survive the fall."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

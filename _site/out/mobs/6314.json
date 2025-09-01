@@ -1,0 +1,12 @@
+{
+  "id": 6314,
+  "alias": "arachnos spider empress",
+  "short_desc": "Arachnos",
+  "long_desc": "Arachnos the Empress of Spiders welcomes you with an evil smile.",
+  "detailed_desc": "",
+  "flags_raw": "She is a very attractive spider with an ornate gown.  She tempts you",
+  "stats1_raw": "into being one of her many slaves.  She does not possess the venomous",
+  "stats2_raw": "fangs of normal spiders, but then, as you realize, she does not need",
+  "stats3_raw": "them.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

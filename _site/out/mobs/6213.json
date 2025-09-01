@@ -1,0 +1,12 @@
+{
+  "id": 6213,
+  "alias": "mutant thing",
+  "short_desc": "the mutant thing",
+  "long_desc": "A mutant... thing tries to get you, but cannot move into range!",
+  "detailed_desc": "",
+  "flags_raw": "It might have been an orc, once.  Now it is a living terror,",
+  "stats1_raw": "pushing everything out of its way to get at you.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl k -800 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/62.mob"
+}

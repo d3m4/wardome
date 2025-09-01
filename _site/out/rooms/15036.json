@@ -1,0 +1,26 @@
+{
+  "id": 15036,
+  "zone_id": 150,
+  "name": "By The Treasure Room",
+  "description": "You are standing by a great iron door.  The door is very large, and\nseems very solid indeed.  There is a sign posted by it.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see a large steel door.",
+      "keywords": "door steel large~ 2 15007 15037 D3 You see the corridor.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "TREASURE ROOM\n\n   Authorized personnel only - all others keep out.\n   ANY trespassing will be SEVERELY punished!!"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

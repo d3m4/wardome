@@ -1,0 +1,29 @@
+{
+  "id": 4035,
+  "zone_id": 40,
+  "name": "At The Foothills' End",
+  "description": "You find yourself standing at the northern edge of the foothills\nwhere they meet the plains which lie to the north.  You can head back\ninto the foothills to the south or the plains to the north.",
+  "header_raw": "40 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4036
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4034
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

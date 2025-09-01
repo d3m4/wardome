@@ -1,0 +1,29 @@
+{
+  "id": 5060,
+  "zone_id": 50,
+  "name": "The Main Tent",
+  "description": "This tent is as lavishly decorated on the inside as it is on the\noutside.  A fancy carpet lies on the sand and numerous baskets line the\nwalls.",
+  "header_raw": "50 dg 2",
+  "flags_text": "dg",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5061
+    },
+    {
+      "dir": 2,
+      "description": "You see some peaceful camels.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5058
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

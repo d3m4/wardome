@@ -1,0 +1,42 @@
+{
+  "id": 7331,
+  "zone_id": 73,
+  "name": "The Glittering Room",
+  "description": "This room is very bright.  On the walls you can see some silver.  Exits\nare west, east and south.",
+  "header_raw": "73 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7332
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7326
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7333
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "glitter walls silver",
+      "description": "The glittering silver looks like it is INSIDE the walls."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

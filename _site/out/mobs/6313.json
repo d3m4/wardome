@@ -1,0 +1,12 @@
+{
+  "id": 6313,
+  "alias": "guardian",
+  "short_desc": "the guardian",
+  "long_desc": "The guardian is obviously not doing his job.",
+  "detailed_desc": "",
+  "flags_raw": "He looks like a lazy bum who sleeps half the time.",
+  "stats1_raw": "~",
+  "stats2_raw": "fg dks 250 S",
+  "stats3_raw": "17 4 1 1d12+200 2d8+8",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

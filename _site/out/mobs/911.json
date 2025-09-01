@@ -1,0 +1,12 @@
+{
+  "id": 911,
+  "alias": "crab crusty",
+  "short_desc": "the crusty crab",
+  "long_desc": "A crusty looking crab is crawling around here searching for food.",
+  "detailed_desc": "",
+  "flags_raw": "It looks like a crab... what more can be said?",
+  "stats1_raw": "~",
+  "stats2_raw": "hfq dkp 0 S",
+  "stats3_raw": "2 18 4 5d2+25 1d5+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3063,
+  "alias": "mercenary",
+  "short_desc": "the mercenary",
+  "long_desc": "A mercenary is waiting for a job here.",
+  "detailed_desc": "",
+  "flags_raw": "He looks pretty mean, and you imagine he'd do anything for money.",
+  "stats1_raw": "~",
+  "stats2_raw": "bl 0 -330 S",
+  "stats3_raw": "5 15 5 2d6+60 1d6+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

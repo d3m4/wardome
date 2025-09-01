@@ -1,0 +1,13 @@
+{
+  "id": 5407,
+  "alias": "guisarme bill",
+  "short_desc": "a bill-guisarme",
+  "long_desc": "A bill-guisarme lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 10 3",
+  "cost_raw": "3 1300 50",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

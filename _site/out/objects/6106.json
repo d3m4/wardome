@@ -1,0 +1,18 @@
+{
+  "id": 6106,
+  "alias": "toadstool",
+  "short_desc": "a toadstool",
+  "long_desc": "A large toadstool grows nearby.",
+  "action_desc": "",
+  "header_raw": "19 0 1",
+  "values_raw": "12 0 0 0",
+  "cost_raw": "5 20 20",
+  "extra_descriptions": [
+    {
+      "keywords": "toadstool",
+      "description": "It is a large, brown boletus that must weigh nearly five pounds.  The top\nsurface is covered in a thin layer of transparent slime that emits a weak,\nmusty smell.  Not the most delicious thing you have seen."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7000,
+  "alias": "mudmonster mud monster",
+  "short_desc": "the horrifying Mudmonster",
+  "long_desc": "A horrifying Mudmonster is slowly evolving from the mud...",
+  "detailed_desc": "",
+  "flags_raw": "It sure looks like something out of a horror movie.  It strongly resembles",
+  "stats1_raw": "a huge figure made up from mud alone, and it sure looks like it had human",
+  "stats2_raw": "flesh for breakfast and is strongly intent on having the same for dinner",
+  "stats3_raw": "- Perhaps you?",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

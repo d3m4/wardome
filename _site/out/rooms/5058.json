@@ -1,0 +1,45 @@
+{
+  "id": 5058,
+  "zone_id": 50,
+  "name": "Beside The Camels",
+  "description": "Here stand about ten camels, all hitched to some stakes plugged into \nthe ground.  To the east you see a small tent while to the north you see a \nlarger, fancier tent.",
+  "header_raw": "50 g 2",
+  "flags_text": "g",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "This tent seems to be the temporary abode of the nomad leader.  You make a\nmental note to visit it before you leave.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5060
+    },
+    {
+      "dir": 1,
+      "description": "In this tent there are very large men, all carrying weapons.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5059
+    },
+    {
+      "dir": 2,
+      "description": "You see the center of the nomad camp.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5056
+    },
+    {
+      "dir": 3,
+      "description": "Sand as far as the eye can see.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5024
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

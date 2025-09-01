@@ -1,0 +1,22 @@
+{
+  "id": 5204,
+  "alias": "boots iron",
+  "short_desc": "a pair of iron boots",
+  "long_desc": "A pair of iron boots has been left here.",
+  "action_desc": "",
+  "header_raw": "9 0 65",
+  "values_raw": "4 0 0 0",
+  "cost_raw": "6 800 200",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -1
+    },
+    {
+      "location": 2,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

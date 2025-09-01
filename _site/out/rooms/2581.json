@@ -1,0 +1,29 @@
+{
+  "id": 2581,
+  "zone_id": 25,
+  "name": "A Very Hot Room",
+  "description": "You are in a very hot room.  Against one wall is a large forge, magical\nfires crackle within and heavy blue smoke pours into a vent in the ceiling.\nA rune-encrusted mithril anvil is in the center of the room, looking well\nused.  Other tools of metallurgy hang on a rack which floats about three\nmeters in the air of its own force.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "door~ 2 2515 2579 D1",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door~ 1 -1 2582 D4",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

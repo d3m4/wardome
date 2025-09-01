@@ -1,0 +1,30 @@
+{
+  "id": 5350,
+  "zone_id": 53,
+  "name": "A Golden Crypt",
+  "description": "You stand inside a small crypt with walls and ceiling made of\ngolden bricks that obscure the large sandy stones of the pyramid.\nSmall rugs and tapestries are scattered about the floor here, and\nthey appear to have been used recently.",
+  "header_raw": "53 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You see an arched hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5349
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "rug rugs tapestry tapestries",
+      "description": "The rugs and tapestries are very fine and worn with age, their colors\nnow faded.  They depict scenes of life in an ancient desert city."
+    },
+    {
+      "keywords": "bricks",
+      "description": "The small golden bricks are very smooth and also quite soft."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6504,
+  "alias": "hammer dwarven",
+  "short_desc": "a dwarven hammer",
+  "long_desc": "There is a dwarven hammer lying here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 6 7",
+  "cost_raw": "13 5500 1000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

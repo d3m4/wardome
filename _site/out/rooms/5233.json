@@ -1,0 +1,29 @@
+{
+  "id": 5233,
+  "zone_id": 52,
+  "name": "The East Wing Of The City Hall",
+  "description": "Here lies the remnants of a fancy office, possibly the mayor's.  A few\nwithered plants and broken pieces of furniture make this place anything\nbut fancy, though.  The only thing remaining intact here is a large\nglass cabinet.  A long hallway leads west back to the reception area and\nan ivy-covered archway leads south into a private courtyard.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5234
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5232
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

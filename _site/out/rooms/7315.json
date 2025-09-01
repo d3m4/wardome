@@ -1,0 +1,26 @@
+{
+  "id": 7315,
+  "zone_id": 73,
+  "name": "The Blind End Room",
+  "description": "This room is obviously a blind end.  To the north you see a primitive\npicture.",
+  "header_raw": "73 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a primitive picture of some people dancing around a huge sun.  The\nsun is about 7 feet in diameter, which shows the size of the picture.",
+      "keywords": "sun~ 1 -1 7316 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "primitive picture",
+      "description": "You see some people dancing around a huge sun.  The sun is about 7 feet in\ndiameter, which shows the size of the picture."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

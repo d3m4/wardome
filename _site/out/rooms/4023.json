@@ -1,0 +1,29 @@
+{
+  "id": 4023,
+  "zone_id": 40,
+  "name": "The Large Cave",
+  "description": "You are in the western part of the large cave, to the east you can\nsee a tunnel.  The air near the tunnel entrance is heavy with moisture,\ngiving you a feeling as if you were standing in the rain.  The walls\nof the cave are almost totally shrouded in darkness and shadow as is\nthe southern end of the cavern.",
+  "header_raw": "40 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4016
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4022
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "follow"
+  ],
+  "aliases": [
+    "FOLLOW"
+  ],
+  "body": "Uso: follow <lider>\n\n    Use FOLLOW para seguir outra pessoa automaticamente.\n\nExemplos:\n\n    > follow ras\n    > follow self\n\n    Veja tambem: GROUP, SNEAK",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

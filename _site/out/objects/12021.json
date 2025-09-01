@@ -1,0 +1,22 @@
+{
+  "id": 12021,
+  "alias": "loincloth red mars",
+  "short_desc": "a red loincloth",
+  "long_desc": "Mars' red loincloth is resting here.",
+  "action_desc": "",
+  "header_raw": "9 bk 2049",
+  "values_raw": "15 0 0 0",
+  "cost_raw": "30 100000 20000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 1,
+      "modifier": 2
+    },
+    {
+      "location": 2,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

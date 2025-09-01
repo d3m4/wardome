@@ -1,0 +1,29 @@
+{
+  "id": 3049,
+  "zone_id": 30,
+  "name": "The Levee",
+  "description": "You are at the levee.  South of here you see the river gently flowing west.\nThe river bank is very low making it possible to enter the river.",
+  "header_raw": "30 h 1",
+  "flags_text": "h",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the alley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3045
+    },
+    {
+      "dir": 2,
+      "description": "You see the river flowing west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

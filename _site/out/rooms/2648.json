@@ -1,0 +1,29 @@
+{
+  "id": 2648,
+  "zone_id": 25,
+  "name": "The Arched Entrance",
+  "description": "You feel a slight tingle as you pass through the archway, as if the living\nmagical energies here had infused your body, found it wanting and left.  The\nintense glow from the arch above you is almost blinding.  Through the light\nyou can barely make out a stairway leading up.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2647
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2649
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

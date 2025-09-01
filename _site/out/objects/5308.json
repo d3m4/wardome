@@ -1,0 +1,27 @@
+{
+  "id": 5308,
+  "alias": "scimitar stone",
+  "short_desc": "a stone scimitar",
+  "long_desc": "A curved scimitar made of stone rests on the ground.",
+  "action_desc": "",
+  "header_raw": "5 bgmno 8193",
+  "values_raw": "0 4 3 3",
+  "cost_raw": "18 10000 750",
+  "extra_descriptions": [
+    {
+      "keywords": "scimitar stone",
+      "description": "The scimitar is formed from solid stone, chipped and carved to perfection,\nwith a sharp, cold blade that is marred only by a few nicks here and there."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

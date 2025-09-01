@@ -1,0 +1,22 @@
+{
+  "id": 15003,
+  "alias": "crown golden",
+  "short_desc": "a golden crown",
+  "long_desc": "A magnificently jewelled golden crown has been left here.",
+  "action_desc": "",
+  "header_raw": "9 gk 17",
+  "values_raw": "7 0 0 0",
+  "cost_raw": "40 12000 10000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 30
+    },
+    {
+      "location": 3,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

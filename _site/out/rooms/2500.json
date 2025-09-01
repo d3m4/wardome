@@ -1,0 +1,29 @@
+{
+  "id": 2500,
+  "zone_id": 25,
+  "name": "The Entrance To The Shadow Grove",
+  "description": "Before you, the grove of shadows lies.  Giant grey trees are all that\ncan be seen through the thick shadows.  A great sense of both power and\nmenace permeates the surrounding area.  You have a strange urge to turn\nback and go back the way you've come.\n   A small path leads north into the shadows and back south to the plains.",
+  "header_raw": "25 cg 3",
+  "flags_text": "cg",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The shadows obscure your vision.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2508
+    },
+    {
+      "dir": 2,
+      "description": "The copse of trees and plains are back to the south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4075
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

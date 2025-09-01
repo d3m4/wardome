@@ -1,0 +1,29 @@
+{
+  "id": 7313,
+  "zone_id": 73,
+  "name": "The Spongy Room",
+  "description": "You definitely do NOT like this area.  It is very dank, and most of the\nroom is wet.",
+  "header_raw": "73 cd 3",
+  "flags_text": "cd",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7312
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7345
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

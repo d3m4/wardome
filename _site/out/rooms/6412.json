@@ -1,0 +1,26 @@
+{
+  "id": 6412,
+  "zone_id": 64,
+  "name": "The Library",
+  "description": "A great mages' library is contained on this floor of \nthe tower.  You feel you could learn anything you wanted\nto if you only looked and read long enough.  A door\nopens up back on the stairwell to the east.",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door~ 1 -1 6413 D3 A big bookcase, that looks rather odd.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "book books",
+      "description": "There are lots of books about everything here!"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

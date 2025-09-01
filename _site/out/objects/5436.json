@@ -1,0 +1,13 @@
+{
+  "id": 5436,
+  "alias": "backpack back pack",
+  "short_desc": "a backpack",
+  "long_desc": "A backpack lies here",
+  "action_desc": "",
+  "header_raw": "15 0 1025",
+  "values_raw": "75 1 0 0",
+  "cost_raw": "8 100 100",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

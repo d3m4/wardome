@@ -1,0 +1,18 @@
+{
+  "id": 6109,
+  "alias": "potion blue",
+  "short_desc": "a blue potion",
+  "long_desc": "A blue potion has been left here.",
+  "action_desc": "",
+  "header_raw": "10 g 1",
+  "values_raw": "15 28 -1 -1",
+  "cost_raw": "2 68000 5000",
+  "extra_descriptions": [
+    {
+      "keywords": "potion blue",
+      "description": "It has a nice deep blue color and a smell like peppermint."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

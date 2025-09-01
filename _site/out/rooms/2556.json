@@ -1,0 +1,29 @@
+{
+  "id": 2556,
+  "zone_id": 25,
+  "name": "A Hallway",
+  "description": "You are in a long hallway leading east and west.  The walls emit a\nfaint magical glow which provides enough light to see by.\n   There is a large oaken door to the south.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2558
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door large oaken~ 1 -1 2559 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

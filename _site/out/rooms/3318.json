@@ -1,0 +1,37 @@
+{
+  "id": 3318,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "You are near the entrance of the cave.  The outside \nlight streams in from the west, accompanied by a slight \nbreeze, making the flames in the sconces flutter a bit\nand throw stange shadows upon the walls.  This passageway \nheads north and south from here, each way seeming dark and\nstuffy compared to outdoors.  From the tracks in the \nfloor, you guess that the north is the more used.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3319
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3331
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3317
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

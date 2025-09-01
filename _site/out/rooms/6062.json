@@ -1,0 +1,46 @@
+{
+  "id": 6062,
+  "zone_id": 60,
+  "name": "A Shaded Path Through The Dense Forest",
+  "description": "You are on a small shaded path leading through the dense forest.  The\ncrowns of the old trees leave the forest floor in an unreal twililght\nillumination.  To the north you see a small clearing.  Paths lead east and\nwest.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Through the underbrush you see a small clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6067
+    },
+    {
+      "dir": 1,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6061
+    },
+    {
+      "dir": 3,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6063
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths shaded shadowy",
+      "description": "The shaded path is probably used by the small animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

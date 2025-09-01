@@ -1,0 +1,832 @@
+{
+  "skills": [
+    {
+      "id": 301,
+      "name": "backstab"
+    },
+    {
+      "id": 302,
+      "name": "bash"
+    },
+    {
+      "id": 303,
+      "name": "hide"
+    },
+    {
+      "id": 304,
+      "name": "kick"
+    },
+    {
+      "id": 305,
+      "name": "pick lock"
+    },
+    {
+      "id": 306,
+      "name": "stroke"
+    },
+    {
+      "id": 307,
+      "name": "rescue"
+    },
+    {
+      "id": 308,
+      "name": "sneak"
+    },
+    {
+      "id": 309,
+      "name": "steal"
+    },
+    {
+      "id": 310,
+      "name": "track"
+    },
+    {
+      "id": 311,
+      "name": "combo"
+    },
+    {
+      "id": 312,
+      "name": "shield block"
+    },
+    {
+      "id": 313,
+      "name": "swim"
+    },
+    {
+      "id": 314,
+      "name": "vitalize health"
+    },
+    {
+      "id": 315,
+      "name": "vitalize mana"
+    },
+    {
+      "id": 316,
+      "name": "spy"
+    },
+    {
+      "id": 317,
+      "name": "critical attack"
+    },
+    {
+      "id": 318,
+      "name": "second attack"
+    },
+    {
+      "id": 319,
+      "name": "third attack"
+    },
+    {
+      "id": 320,
+      "name": "fourth attack"
+    },
+    {
+      "id": 321,
+      "name": "scan"
+    },
+    {
+      "id": 322,
+      "name": "sabre"
+    },
+    {
+      "id": 323,
+      "name": "hand damage"
+    },
+    {
+      "id": 324,
+      "name": "white gas"
+    },
+    {
+      "id": 325,
+      "name": "harakiri"
+    },
+    {
+      "id": 326,
+      "name": "circle arround"
+    },
+    {
+      "id": 327,
+      "name": "second stab"
+    },
+    {
+      "id": 328,
+      "name": "parry"
+    },
+    {
+      "id": 329,
+      "name": "dodge"
+    },
+    {
+      "id": 330,
+      "name": "tumble"
+    },
+    {
+      "id": 331,
+      "name": "hit"
+    },
+    {
+      "id": 332,
+      "name": "bludgeon especialization"
+    },
+    {
+      "id": 333,
+      "name": "slash especialization"
+    },
+    {
+      "id": 334,
+      "name": "focus(slash)"
+    },
+    {
+      "id": 335,
+      "name": "pierce especialization"
+    },
+    {
+      "id": 336,
+      "name": "focus(bludgeon)"
+    },
+    {
+      "id": 337,
+      "name": "peek"
+    },
+    {
+      "id": 338,
+      "name": "SEM USO"
+    },
+    {
+      "id": 339,
+      "name": "SEM USO"
+    },
+    {
+      "id": 340,
+      "name": "SEM USO"
+    },
+    {
+      "id": 341,
+      "name": "SEM USO"
+    },
+    {
+      "id": 342,
+      "name": "focus(pierce)"
+    },
+    {
+      "id": 343,
+      "name": "SEM USO"
+    },
+    {
+      "id": 344,
+      "name": "SEM USO"
+    },
+    {
+      "id": 345,
+      "name": "SEM USO"
+    },
+    {
+      "id": 346,
+      "name": "disarm"
+    },
+    {
+      "id": 347,
+      "name": "berzerk"
+    },
+    {
+      "id": 348,
+      "name": "first aid"
+    },
+    {
+      "id": 349,
+      "name": "headbash"
+    },
+    {
+      "id": 350,
+      "name": "escape"
+    },
+    {
+      "id": 351,
+      "name": "dual wield"
+    },
+    {
+      "id": 352,
+      "name": "meditate"
+    },
+    {
+      "id": 353,
+      "name": "levitate"
+    },
+    {
+      "id": 354,
+      "name": "listen"
+    },
+    {
+      "id": 355,
+      "name": "agility"
+    },
+    {
+      "id": 356,
+      "name": "kaiser"
+    },
+    {
+      "id": 357,
+      "name": "warshout"
+    },
+    {
+      "id": 358,
+      "name": "knockout"
+    },
+    {
+      "id": 359,
+      "name": "throw"
+    },
+    {
+      "id": 360,
+      "name": "gut"
+    },
+    {
+      "id": 361,
+      "name": "drown"
+    },
+    {
+      "id": 362,
+      "name": "chop"
+    },
+    {
+      "id": 363,
+      "name": "kickflip"
+    },
+    {
+      "id": 364,
+      "name": "whirlwind"
+    },
+    {
+      "id": 365,
+      "name": "blood ritual"
+    },
+    {
+      "id": 366,
+      "name": "style pro"
+    },
+    {
+      "id": 367,
+      "name": "sprite"
+    },
+    {
+      "id": 368,
+      "name": "werewolf"
+    },
+    {
+      "id": 369,
+      "name": "sucubus"
+    },
+    {
+      "id": 370,
+      "name": "behemoth"
+    },
+    {
+      "id": 371,
+      "name": "tyrael"
+    },
+    {
+      "id": 372,
+      "name": "slayer"
+    },
+    {
+      "id": 373,
+      "name": "improved berzerk"
+    },
+    {
+      "id": 374,
+      "name": "power kick"
+    },
+    {
+      "id": 375,
+      "name": "brew"
+    },
+    {
+      "id": 376,
+      "name": "craft"
+    },
+    {
+      "id": 377,
+      "name": "forest walk"
+    },
+    {
+      "id": 378,
+      "name": "forest agility"
+    },
+    {
+      "id": 379,
+      "name": "forest wilderness"
+    },
+    {
+      "id": 380,
+      "name": "howl"
+    },
+    {
+      "id": 381,
+      "name": "silent spell"
+    },
+    {
+      "id": 382,
+      "name": "snake fight"
+    },
+    {
+      "id": 383,
+      "name": "arm traps"
+    },
+    {
+      "id": 384,
+      "name": "shuriken"
+    },
+    {
+      "id": 385,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 386,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 387,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 388,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 389,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 390,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 391,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 392,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 393,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 394,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 395,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 396,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 397,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 398,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 399,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 400,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 401,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 402,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 403,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 404,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 405,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 406,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 407,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 408,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 409,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 410,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 411,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 412,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 413,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 414,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 415,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 416,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 417,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 418,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 419,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 420,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 421,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 422,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 423,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 424,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 425,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 426,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 427,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 428,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 429,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 430,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 431,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 432,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 433,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 434,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 435,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 436,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 437,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 438,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 439,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 440,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 441,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 442,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 443,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 444,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 445,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 446,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 447,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 448,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 449,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 450,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 451,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 452,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 453,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 454,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 455,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 456,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 457,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 458,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 459,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 460,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 461,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 462,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 463,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 464,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 465,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 466,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 467,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 468,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 469,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 470,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 471,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 472,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 473,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 474,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 475,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 476,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 477,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 478,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 479,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 480,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 481,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 482,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 483,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 484,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 485,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 486,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 487,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 488,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 489,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 490,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 491,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 492,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 493,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 494,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 495,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 496,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 497,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 498,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 499,
+      "name": "!UNUSED!"
+    },
+    {
+      "id": 500,
+      "name": "identify"
+    },
+    {
+      "id": 501,
+      "name": "fire breath"
+    },
+    {
+      "id": 502,
+      "name": "gas breath"
+    },
+    {
+      "id": 503,
+      "name": "frost breath"
+    },
+    {
+      "id": 504,
+      "name": "acid breath"
+    },
+    {
+      "id": 505,
+      "name": "lightning breath"
+    },
+    {
+      "id": 506,
+      "name": "restore mana"
+    },
+    {
+      "id": 507,
+      "name": "\n"
+    }
+  ]
+}

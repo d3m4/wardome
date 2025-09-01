@@ -1,0 +1,18 @@
+{
+  "id": 7907,
+  "alias": "bracelet spiked",
+  "short_desc": "a large spiked bracelet",
+  "long_desc": "A large spiked bracelet has been left here.",
+  "action_desc": "",
+  "header_raw": "11 g 4097",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 1200 2000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -4
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2525,
+  "alias": "wizard speaker mage",
+  "short_desc": "the wizard",
+  "long_desc": "An old wizard is here making a speech here.",
+  "detailed_desc": "",
+  "flags_raw": "This wizzened old man looks like he could easily pass for the oldest",
+  "stats1_raw": "living man.  Of course, having heard stories about some of the magic",
+  "stats2_raw": "available to the people living here, and what toll the magic draws...",
+  "stats3_raw": "this man might be as young as you.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6510,
+  "alias": "helmet dwarven",
+  "short_desc": "a dwarven helmet",
+  "long_desc": "A dwarven helmet is here.",
+  "action_desc": "",
+  "header_raw": "9 0 17",
+  "values_raw": "4 0 0 0",
+  "cost_raw": "4 2500 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

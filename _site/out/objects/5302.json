@@ -1,0 +1,27 @@
+{
+  "id": 5302,
+  "alias": "dirk obsidian",
+  "short_desc": "an obsidian dirk",
+  "long_desc": "A flat dirk made of chipped obsidian lies here.",
+  "action_desc": "",
+  "header_raw": "5 g 8193",
+  "values_raw": "0 3 3 11",
+  "cost_raw": "8 1000 100",
+  "extra_descriptions": [
+    {
+      "keywords": "dirk obsidian",
+      "description": "The blade of the dirk is black, glassy obsidian, chipped razor sharp."
+    }
+  ],
+  "affects": [
+    {
+      "location": 2,
+      "modifier": 1
+    },
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

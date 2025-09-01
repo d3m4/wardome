@@ -1,0 +1,45 @@
+{
+  "id": 5205,
+  "zone_id": 52,
+  "name": "A Garden Path",
+  "description": "A circular path surrounds a magnificent domed temple in the center\nof the city.  Flowers have withered away and the once lush trees are bare.\nVines and ivy creep up the sides of the temple and entangle themselves \naround your feet.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The garden path continues around the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5204
+    },
+    {
+      "dir": 1,
+      "description": "Inside the temple, small patches of light shoot through each doorway as\nwell as a few cracks in the ceiling.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5250
+    },
+    {
+      "dir": 2,
+      "description": "The garden path continues around the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5206
+    },
+    {
+      "dir": 3,
+      "description": "What looks like a market place lies this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5207
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

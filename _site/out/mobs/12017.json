@@ -1,0 +1,12 @@
+{
+  "id": 12017,
+  "alias": "citizen",
+  "short_desc": "the citizen",
+  "long_desc": "A citizen of Rome is standing here.",
+  "detailed_desc": "",
+  "flags_raw": "It appears to be your ordinary citizen going about his business.",
+  "stats1_raw": "~",
+  "stats2_raw": "gl 0 900 S",
+  "stats3_raw": "5 16 5 1d4+85 1d8+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

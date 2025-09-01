@@ -1,0 +1,12 @@
+{
+  "id": 12015,
+  "alias": "master",
+  "short_desc": "the ticket master",
+  "long_desc": "A ticket master is here, looking at you expectantly.",
+  "detailed_desc": "",
+  "flags_raw": "He seems to be waiting for you to either buy a ticket or to get out",
+  "stats1_raw": "of his way so that he can sell tickets to people that actually want",
+  "stats2_raw": "them.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

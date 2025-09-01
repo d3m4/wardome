@@ -1,0 +1,29 @@
+{
+  "id": 3555,
+  "zone_id": 35,
+  "name": "A Tunnel In The Mountains",
+  "description": "As you explore further into the mountainside, the tunnel gets smaller\nand smaller to the south.  You almost have to hunch over to make your way\nthrough this area.  A small archway to the south leads into a large chamber.",
+  "header_raw": "35 a 1",
+  "flags_text": "a",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The tunnel continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3553
+    },
+    {
+      "dir": 2,
+      "description": "You see a small cavern.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3556
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

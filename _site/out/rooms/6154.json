@@ -1,0 +1,29 @@
+{
+  "id": 6154,
+  "zone_id": 61,
+  "name": "The Underground Hallway",
+  "description": "This hallway is apparently one of the roots of the tree hollowed out.\nThe hall leads south to a room where you hear strange noises or you can\ngo up the steps.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "The hallway looks quite grand.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6155
+    },
+    {
+      "dir": 4,
+      "description": "The steps appear like they will hold your weight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6153
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

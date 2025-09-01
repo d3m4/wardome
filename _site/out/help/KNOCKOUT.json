@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "KNOCKOUT"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (30), Ninja (28), Thief (24)\n- Descricao: Esta skill permite nocautear o inimigo.\n- Dano: 0\n- Numero de rounds necessarios para recuperacao do controle: 3\n- Exemplo de uso:\t> knockout zombie\n\t\t\tA zombie sees stars, and slumps over, knocked out.\n\t\t\tA zombie goes to sleep.\n\n- Observacoes: Nao e possivel utilizar esta skill durante uma luta; e necessario empunhar uma arma de impacto (tipo bludgeon) para utiliza-la; caso ela falhe, o inimigo ira contra-atacar imediatamente; caso acerte, o proximo golpe que acerta-lo (enquanto estiver dormindo) causara o dobro do dano normal e o fara acordar.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

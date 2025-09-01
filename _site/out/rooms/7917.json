@@ -1,0 +1,29 @@
+{
+  "id": 7917,
+  "zone_id": 79,
+  "name": "The Chain",
+  "description": "As you descend, the chain seems to absorb all weather around it, making\nit swing less and less in the very powerful wind tearing at it.  The Chain\nseems to chuckle quietly, and as you descend further you hear a soft whisper\noriginating from within the Chain *ITSELF*.  It says 'Welcome back some\nother time, stranger.  Your company is always... hmmm... interesting.  God\nSpeed.'  The chain extends further down through the now spreading clouds.",
+  "header_raw": "79 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "It seems to you that the Chain is dissolving again.  Maybe it is just an \nillusion, but still...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 5,
+      "description": "That way seems safe enough... now.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7914
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

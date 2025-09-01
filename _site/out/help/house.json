@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "house"
+  ],
+  "aliases": [
+    "HOUSE"
+  ],
+  "body": "O comando HOUSE e usado para adicionar ou remover convidados da lista \nde convidados da sua casa. Voce deve estar em sua casa para usar esse \ncomando. Somente o dono da casa (nao convidados) pode mudar a lista de \nconvidados usando o comando HOUSE.\n\n    Uso: house [<nome>]\n\n    Digitando 'house' sem argumentos retorna a lista de pessoas que estao \natualmente na sua lista de convidados. Digitando 'house' com o nome do \njogador adicionara esse jogador a sua lista de convidados se este jogador \nnao estiver na lista, ou o removera da lista se ele ja estiver na lista. O \njogador especificado deve existir na base de dados do MUD, apesar de ele \nnao precisar estar logado no momento.\n    Convidados da sua casa sao capazes de entrar nela ate que voce os \nremova da lista de convidados.\n\n    Veja tambem: HOUSES\n\n    Houses possuem cantrole de acesso e protecao contra quedas do MUD. Se \nvoce quiser ua casa, voce precisa de 100,000,000 em ouro, 1,000 Holy \npoints e 100 Quest poins... Peca aos deuses.....",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2589,
+  "zone_id": 25,
+  "name": "A Bend In The Hallway",
+  "description": "You are at a bend in a long hallway.  The walls emit a faint magical\nglow which provides enough light to see by.\n   The hallway continues north and west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2591
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2587
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

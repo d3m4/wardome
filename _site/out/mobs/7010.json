@@ -1,0 +1,12 @@
+{
+  "id": 7010,
+  "alias": "chr-eff'n chreffn",
+  "short_desc": "the evil chr-eff'n",
+  "long_desc": "The chr-eff'n are crawling here, looking around with its yellow eyes.",
+  "detailed_desc": "",
+  "flags_raw": "The head and torso of a chr-eff'n is copper-covered, with yellow,",
+  "stats1_raw": "glowing eyes.  The lower body is in an orange shading.",
+  "stats2_raw": "~",
+  "stats3_raw": "ch dks -830 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

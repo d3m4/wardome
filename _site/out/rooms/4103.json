@@ -1,0 +1,37 @@
+{
+  "id": 4103,
+  "zone_id": 40,
+  "name": "The Long Tunnel",
+  "description": "You are standing in a long east-west tunnel.  It is not all that\nwide at this point, perhaps wide enough for two people to stand side\nby side without impeding each other.  Off to the west it appears that\nthe tunnel opens up some more while to the east it dives further down\ninto the earth, and you can see a small hole about two feet in diameter\nabout waist height in the southern wall.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4104
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4106
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4102
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

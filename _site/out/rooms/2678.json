@@ -1,0 +1,21 @@
+{
+  "id": 2678,
+  "zone_id": 25,
+  "name": "A Dressing Room",
+  "description": "You are in a plush dressing room.  Fine garments of many styles and some\noutlandish colours hang from a rack suspended in mid air at eye level.  The\nonly other interesting feature in the room is a large silver mirror on a\nfinely crafted gold stand.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2677
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

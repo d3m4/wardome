@@ -1,0 +1,33 @@
+{
+  "id": 5483,
+  "producing": [
+    5475,
+    5476,
+    5477
+  ],
+  "profit_buy": 1.3,
+  "profit_sell": 1.0,
+  "buy_types": [],
+  "messages": [
+    "%s It's very noisy in here, what did you say you wanted to buy?",
+    "%s I don't buy!",
+    "%s I don't buy!",
+    "%s I don't buy!",
+    "%s Are you drunk or what ?? - NO CREDIT!",
+    "%s That'll be - say %d coins.",
+    "%s Oops - %d a minor bug - please report!"
+  ],
+  "tail": [
+    0,
+    2,
+    5483,
+    0,
+    5538,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+}

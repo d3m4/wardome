@@ -1,0 +1,12 @@
+{
+  "id": 5423,
+  "alias": "statue indra",
+  "short_desc": "the statue of Indra",
+  "long_desc": "The statue of Indra stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This statue looks like an enormous elephant.",
+  "stats1_raw": "~",
+  "stats2_raw": "abelnopqr dhk 1000 S",
+  "stats3_raw": "15 -10 -10 1d1+1200 6d10+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

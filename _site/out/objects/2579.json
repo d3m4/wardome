@@ -1,0 +1,18 @@
+{
+  "id": 2579,
+  "alias": "bracelet onyx",
+  "short_desc": "an onyx bracelet",
+  "long_desc": "A hoop of black onyx is here.",
+  "action_desc": "",
+  "header_raw": "9 gjl 4097",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "6 8500 850",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

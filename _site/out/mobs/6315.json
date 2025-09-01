@@ -1,0 +1,12 @@
+{
+  "id": 6315,
+  "alias": "ki-rin",
+  "short_desc": "the Ki-Rin",
+  "long_desc": "The Ki-Rin smiles good-naturedly to you.",
+  "detailed_desc": "",
+  "flags_raw": "She is the last bastion of good in this realm.  Her mission is to",
+  "stats1_raw": "someday free the slaves of the Empress.  She has been trapped here for",
+  "stats2_raw": "time eternal, and now the evil power of Arachnos feeds upon her intense",
+  "stats3_raw": "magical energies.  She will never give up here fight against evil,",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

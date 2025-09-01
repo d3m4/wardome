@@ -1,0 +1,30 @@
+{
+  "id": 3009,
+  "zone_id": 30,
+  "name": "The Bakery",
+  "description": "You are standing inside the small bakery.  A sweet scent of Danish and\nfine bread fills the room.  The bread and Danish are arranged in fine order\non the shelves, and seem to be of the finest quality.\nA small sign is on the counter.",
+  "header_raw": "30 dh 0",
+  "flags_text": "dh",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see the main street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3013
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "danish pastry",
+      "description": "You see that this is truly delicious pastry.  Must be made by a Dane from\nDenmark (which surely is not the capital of Sweden!).  Former ruler of\nScandinavia, England, Northern Germany, Northern France, Russia, Greenland,\nIceland, Estonia etc.  etc.\n   The sight of those large, wholesome chokoladeboller makes your mouth water\nand your soul sing."
+    },
+    {
+      "keywords": "sign",
+      "description": "Free instructions provided by the store:\n\n   Buy  - Will buy you some bread or pastry.\n   List - The baker will kindly tell you the price and sort of the bread in\n          his bakery."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

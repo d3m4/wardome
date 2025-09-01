@@ -1,0 +1,42 @@
+{
+  "id": 12018,
+  "zone_id": 120,
+  "name": "The South Entrance To The Coliseum",
+  "description": "You are standing at the south entrance to the Coliseum.  There are\ncitizens of Rome everywhere, apparently in a mad rush to get in.  A\nstatue of Caligula the Mad Emperor overlooks the area.  There are long\nlines standing to the east, and an acrid smell is coming from the west.\nA busy road lies to the south.",
+  "header_raw": "120 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The lines are very long and people look impatient.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12025
+    },
+    {
+      "dir": 2,
+      "description": "A road lies in that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12019
+    },
+    {
+      "dir": 3,
+      "description": "An acrid, almost medicinal smell is coming from that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12011
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "statue caligula",
+      "description": "A larger than life stone statue of Caligula, the Mad Emperor, looks at you.\nIt looks like it is holding a phallus.  He has got a grin on his face that\nseems to say 'My horse would like you, I bet...'"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

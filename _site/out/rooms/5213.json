@@ -1,0 +1,45 @@
+{
+  "id": 5213,
+  "zone_id": 52,
+  "name": "A Side Street",
+  "description": "This small side street is lined with the remains of once great\nbuildings.  To the west is a dark, foreboding structure while to the\neast lies the entrance to a small tavern.  The street continues north\nand south.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5212
+    },
+    {
+      "dir": 1,
+      "description": "From the looks of it, this was once a two story abode.  The entire second\nfloor has collapsed leaving a very little part of the bar still free\nfrom debris.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5230
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5214
+    },
+    {
+      "dir": 3,
+      "description": "This seems to be the only guild house in the entire city.  Its dark nature\nmakes you wonder about its origins.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5219
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

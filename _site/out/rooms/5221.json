@@ -1,0 +1,21 @@
+{
+  "id": 5221,
+  "zone_id": 52,
+  "name": "The Smithy",
+  "description": "In here you find tools and anvils used to make various weapons\nand items.  The walls have been stripped clean and only a few incomplete\npieces of armor and weaponry are left.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small side street runs past the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5212
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

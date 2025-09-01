@@ -1,0 +1,42 @@
+{
+  "id": 7008,
+  "zone_id": 70,
+  "name": "A Muddy Intersection",
+  "description": "You have both your feet safely stuck in mud.  It isn't the mud that is\nwrong it is the smell, the sounds, the total darkness that surrounds you.\nEverything here is so depressing.  The pipe leads on with a trail of thick\nmud to the north, east and south.",
+  "header_raw": "70 ad 4",
+  "flags_text": "ad",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  The pipe goes into a bend with a load of mud all the way up the walls.\nThe bend leads west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7007
+    },
+    {
+      "dir": 1,
+      "description": "East.  This way looks like a place for the annual mud festival, although the\nstench wouldn't allow any happiness at all.  The pipe leads into a bend that\nleads north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7014
+    },
+    {
+      "dir": 2,
+      "description": "South.  There is much less mud in that direction.  Your light doesn't \nuncover enough space for you to see much more than that it leads into\nsome sort of junction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7009
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

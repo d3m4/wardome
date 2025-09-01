@@ -1,0 +1,21 @@
+{
+  "id": 2657,
+  "zone_id": 25,
+  "name": "A Bedroom",
+  "description": "You are in the bedroom of the Master Magician of Neutrality.\nCurtained windows can be seen on the south wall.  A large\ncomfortable looking bed takes up most of the room.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2654
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "TRACK"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (22), Ninja (78), Ranger (19), Thief (32)\n- Descricao: Esta skill permite localizar alguem que esteja nas redondezas, mostrando uma trilha ate o alvo.\n- Exemplo de uso:\t> track elemental\n\t\t\tYou sense a trail west from here!",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

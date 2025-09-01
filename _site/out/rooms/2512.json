@@ -1,0 +1,45 @@
+{
+  "id": 2512,
+  "zone_id": 25,
+  "name": "The Entrance To The High Tower",
+  "description": "You have reached the entrance to the High Tower of Sorcery.  The\ntower looms above you at an incredible height.  It seems to disappear\ninto the storm clouds above.\n   A diamond gate is to the north, whilst the trail back south has\ndisappeared behind you.",
+  "header_raw": "25 g 0",
+  "flags_text": "g",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The diamond gate looks incredibly strong.",
+      "keywords": "gate diamond~ 2 2500 2513 S #2513 Inside The High Tower Of Sorcery~    You are inside the High Tower of Sorcery.  The sight is truly amazing. From here, it is obvious that somehow, the tower is much larger on the inside than it is on the outside.  Young mages walk about, completely oblivious to your presence.    Exits lead north to the common room, west to the dinning room, east to a plain hallway and back south through the gate.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "The common room looks quite busy and noisy.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2514
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2515
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "gate diamond~ 2 2500 2512 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

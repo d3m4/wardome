@@ -1,0 +1,21 @@
+{
+  "id": 3303,
+  "zone_id": 33,
+  "name": "Outside A House",
+  "description": "The path you are on leads from the front door of the\ncottage to your east, to the edge of the small valley\nto the west.  The building seems quiet...almost too\nquiet.  A small voice in the back of your head, the\nsame voice that has saved your life on countless\noccasions, seems to be telling you that something is\nvery, very wrong here.",
+  "header_raw": "33 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "It is a normal front door to a house.",
+      "keywords": "door front~ 1 -1 3304 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

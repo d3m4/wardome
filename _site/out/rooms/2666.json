@@ -1,0 +1,37 @@
+{
+  "id": 2666,
+  "zone_id": 25,
+  "name": "A Bright Hallway",
+  "description": "You are in a long well lit hallway leading east and west.  The walls\nhere are a milky white colour, and glow with a warm luminescence, as does\nthe floor.  A feeling of goodness permeates the area, and you feel unworthy\nto tread upon these sacred floors.\n   A huge set of double doors in finely worked ivory can be seen to the\nwest.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2665
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door ivory~ 1 -1 2667 S #2667 An Antechamber~    You are in a small antechamber.  It is well lit here, though the source of light cannot be seen.  It is almost as if the room itself exudes a warm glow of goodness.  A larger chamber can be seen to the west, but you do not feel worthy to pass into it.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door ivory~ 1 -1 2666 D3",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

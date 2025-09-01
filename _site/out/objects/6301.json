@@ -1,0 +1,27 @@
+{
+  "id": 6301,
+  "alias": "knife thief",
+  "short_desc": "a very sharp knife",
+  "long_desc": "A very sharp knife lies here.",
+  "action_desc": "",
+  "header_raw": "5 glmnp 8193",
+  "values_raw": "0 8 1 11",
+  "cost_raw": "9 1000 2500",
+  "extra_descriptions": [
+    {
+      "keywords": "knife thief",
+      "description": "A keen knife, very sharp -- you could cut the air in two!"
+    }
+  ],
+  "affects": [
+    {
+      "location": 2,
+      "modifier": 2
+    },
+    {
+      "location": 18,
+      "modifier": 3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/63.obj"
+}

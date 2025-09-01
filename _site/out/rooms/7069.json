@@ -1,0 +1,34 @@
+{
+  "id": 7069,
+  "zone_id": 70,
+  "name": "A Ledge By A Dark Pool",
+  "description": "You can't see much here but the echo tells you that there is quite a drop\ndown.  You can just make out a huge dark pool out there in the darkness, \nmostly because of the trickling of water.  The water from the sewer actually\nwashes over this ledge and makes it quite slippery.  From here it drops, \nlike a waterfall, into the pool far down.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You can't see a thing.  It is too dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7070
+    },
+    {
+      "dir": 3,
+      "description": "You can't see a thing.  It is too dark.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7064
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "water",
+      "description": "It looks dark and murky, and emanates a foul stench."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

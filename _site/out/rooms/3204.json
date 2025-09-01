@@ -1,0 +1,29 @@
+{
+  "id": 3204,
+  "zone_id": 31,
+  "name": "On The River",
+  "description": "You see the warehouse on the northern riverbank.  East of here you see the\ncity wall.  The river flows west towards the levee.",
+  "header_raw": "31 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3205
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3203
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

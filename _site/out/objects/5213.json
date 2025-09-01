@@ -1,0 +1,13 @@
+{
+  "id": 5213,
+  "alias": "staff serpentine",
+  "short_desc": "a green serpentine staff",
+  "long_desc": "A green serpentine staff has been left here.",
+  "action_desc": "",
+  "header_raw": "4 fg 16385",
+  "values_raw": "15 2 2 23",
+  "cost_raw": "12 6600 300",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

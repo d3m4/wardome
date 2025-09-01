@@ -1,0 +1,13 @@
+{
+  "id": 2595,
+  "alias": "key white ivory",
+  "short_desc": "a white key",
+  "long_desc": "A key made of white ivory has been left here.",
+  "action_desc": "",
+  "header_raw": "18 cdq 16385",
+  "values_raw": "2595 0 0 0",
+  "cost_raw": "2 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

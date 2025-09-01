@@ -1,0 +1,29 @@
+{
+  "id": 5010,
+  "zone_id": 50,
+  "name": "A Cave Entrance",
+  "description": "You stand in the middle of a large and beautiful cave.  A path leads\ndeeper into the darkness.",
+  "header_raw": "50 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5009
+    },
+    {
+      "dir": 5,
+      "description": "You look down into the cave.  Bones are strewn about everywhere.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5011
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

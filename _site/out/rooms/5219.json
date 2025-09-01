@@ -1,0 +1,21 @@
+{
+  "id": 5219,
+  "zone_id": 52,
+  "name": "The Guild House",
+  "description": "You are standing in what once was this city's ONLY guild house.\nTables and chairs have been smashed and broken weapons lie strewn about\nthe floor as if some massive battle had taken place here.  Draped along \nthe back wall is a tattered, jet-black banner with the symbol of the\nDarkside set upon it.",
+  "header_raw": "52 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "A small side street runs past the building.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5213
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

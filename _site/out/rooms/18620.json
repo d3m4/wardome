@@ -1,0 +1,29 @@
+{
+  "id": 18620,
+  "zone_id": 186,
+  "name": "A Turn In The Passage",
+  "description": "This corner is much like all the others... except you see a strange\nglow coming from the south.  Could be an exit... you hope.",
+  "header_raw": "186 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The passage continues east quite a ways.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18621
+    },
+    {
+      "dir": 2,
+      "description": "You see an odd red glow from that direction.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18629
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/186.wld"
+}

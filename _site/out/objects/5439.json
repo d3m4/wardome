@@ -1,0 +1,13 @@
+{
+  "id": 5439,
+  "alias": "candle",
+  "short_desc": "a candle",
+  "long_desc": "A candle lies here",
+  "action_desc": "",
+  "header_raw": "1 0 16385",
+  "values_raw": "0 0 50 0",
+  "cost_raw": "1 35 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 7007,
+  "alias": "wanderer evil",
+  "short_desc": "the evil wanderer",
+  "long_desc": "The evil wanderer stares at you with a piercing gaze.",
+  "detailed_desc": "",
+  "flags_raw": "The evil wanderer is very thin.  He is dressed in a grey cloak.  He",
+  "stats1_raw": "doesn't look like he'd be your first choice as a travelling companion.",
+  "stats2_raw": "~",
+  "stats3_raw": "ch f -1000 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

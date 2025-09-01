@@ -1,0 +1,58 @@
+{
+  "id": 4119,
+  "zone_id": 40,
+  "name": "The Cave",
+  "description": "This rather large cave is surprisingly very well lit.  There are\nabout twenty torches spread about the room set in sconces which hang\nseveral feet above your head.  The dancing shadows created by the\nflickering flames catch your eyes for a few minutes and threaten to\nhold you entranced.\n   Looking about the cave, it appears to continue to the east and\nsouth.",
+  "header_raw": "40 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4118
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4124
+    },
+    {
+      "dir": 3,
+      "description": "The rock wall to the west looks odd for some strange reason.",
+      "keywords": "wall rock~ 1 -1 4121 S #4120 The Passage~    You stand in a fairly normal passage, slightly wider than is necessary for one person, but not quite wide enough for two.  The ceiling dips here rather surprisingly, or wait, is that because the floor climbs upwards toward it?  The tunnel seems to narrow slightly more as you look to the south, and widens up somewhat as you look northward.  The light to the south continues to flicker.",
+      "door_flag": 40,
+      "key": null,
+      "to": 3
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4116
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4125
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "light",
+      "description": "It nearly is enough to light the passage."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

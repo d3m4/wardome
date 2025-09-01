@@ -1,0 +1,45 @@
+{
+  "id": 3516,
+  "zone_id": 35,
+  "name": "Some Muddy Ground",
+  "description": "The ground is quite muddy here and puddles are all around.  Your\nboots make a disgusting SQUISH as you walk here.  You can go in any\nof the four cardinal directions from here.  Hopefully, it will be\ndryer.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The Miden'nir continues.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3510
+    },
+    {
+      "dir": 1,
+      "description": "More trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3517
+    },
+    {
+      "dir": 2,
+      "description": "The trees get VERY thick to the south.  You can barely see...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3519
+    },
+    {
+      "dir": 3,
+      "description": "Some light trees and daylight.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

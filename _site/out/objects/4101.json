@@ -1,0 +1,27 @@
+{
+  "id": 4101,
+  "alias": "gloves swordmans",
+  "short_desc": "a pair of swordsmans' gloves",
+  "long_desc": "A pair of finely crafted gloves are lying on the ground here.",
+  "action_desc": "",
+  "header_raw": "9 j 129",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 3500 800",
+  "extra_descriptions": [
+    {
+      "keywords": "gloves swordsmans",
+      "description": "They look like the right kind of equipment to use when fighting."
+    }
+  ],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/40.obj"
+}

@@ -1,0 +1,498 @@
+{
+  "id": 79,
+  "name": "Redferne's Residence",
+  "header": {
+    "raw": "7900 7999 50 2",
+    "min_room": 7900,
+    "top_room": 7999,
+    "lifespan": 50,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7900,
+        1,
+        7900
+      ],
+      "comment": "Grand Knight of Paladins"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7901,
+        4,
+        17
+      ],
+      "comment": "Copper Key"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7910,
+        2,
+        16
+      ],
+      "comment": "Bastard Sword"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7914,
+        2,
+        5
+      ],
+      "comment": "Silvery Breast-Plate"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7915,
+        2,
+        7
+      ],
+      "comment": "Silvery Leg Plates"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7916,
+        2,
+        9
+      ],
+      "comment": "Silvery Gloves"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7917,
+        2,
+        6
+      ],
+      "comment": "Silvery Helmet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7918,
+        2,
+        11
+      ],
+      "comment": "Shield of the Rose"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7919,
+        2,
+        8
+      ],
+      "comment": "Heavy Boots"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7920,
+        2,
+        10
+      ],
+      "comment": "Silvery Arm Plates"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7901,
+        2,
+        7907
+      ],
+      "comment": "Rat"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7900,
+        1
+      ],
+      "comment": "Brass Key"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7901,
+        2,
+        7907
+      ],
+      "comment": "Rat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        7902,
+        1,
+        7913
+      ],
+      "comment": "The Cleaver"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7907,
+        6,
+        14
+      ],
+      "comment": "Spiked Bracelet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7907,
+        6,
+        15
+      ],
+      "comment": "Spiked Bracelet"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        7911,
+        2,
+        6
+      ],
+      "comment": "Large Helmet"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        7902,
+        1
+      ],
+      "comment": "Steel Key"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7907,
+        7908
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        7908,
+        40,
+        7907
+      ],
+      "comment": "Waybread"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7908,
+        7921
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        7921,
+        10,
+        7908
+      ],
+      "comment": "Water Barrel"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7903,
+        7904
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        7904,
+        1,
+        7903
+      ],
+      "comment": "Chest"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        7903,
+        1,
+        7904
+      ],
+      "comment": "Money"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        7909,
+        4,
+        7904
+      ],
+      "comment": "Golden Ring"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        7913,
+        7905
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        1,
+        7905,
+        1,
+        7913
+      ],
+      "comment": "Chest"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        7906,
+        5,
+        7905
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        7912,
+        3,
+        7905
+      ],
+      "comment": "Chaos Helmet"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        7913,
+        2,
+        7905
+      ],
+      "comment": "Two-Handed Sword"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7900,
+        0,
+        2
+      ],
+      "comment": "Residence Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7901,
+        2,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7901,
+        1,
+        1
+      ],
+      "comment": "Treasure Room Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7910,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7901,
+        3,
+        1
+      ],
+      "comment": "Library Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7902,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7910,
+        1,
+        2
+      ],
+      "comment": "Safe Entrance"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7903,
+        3,
+        2
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7904,
+        1,
+        1
+      ],
+      "comment": "Monster Pen Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7913,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7904,
+        3,
+        1
+      ],
+      "comment": "Sitting Room Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7905,
+        1,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7906,
+        0,
+        1
+      ],
+      "comment": "Larder Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7907,
+        2,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7906,
+        1,
+        1
+      ],
+      "comment": "Fridge Door"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7908,
+        3,
+        1
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7911,
+        2,
+        1
+      ],
+      "comment": "Balcony Doors"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        7912,
+        0,
+        1
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/79.zon"
+}

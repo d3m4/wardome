@@ -1,0 +1,12 @@
+{
+  "id": 1509,
+  "alias": "caliph hakim al-hakim",
+  "short_desc": "al-Hakim",
+  "long_desc": "The mad Caliph al-Hakim is here, dissecting a young boy.",
+  "detailed_desc": "",
+  "flags_raw": "The darkest skin, and eyes so white.  Covered only in a shoddy woolen",
+  "stats1_raw": "tunic, he has not bathed in months nor eaten in days, and yet his smile,",
+  "stats2_raw": "so charming.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

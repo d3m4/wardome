@@ -1,0 +1,54 @@
+{
+  "id": 6023,
+  "zone_id": 60,
+  "name": "A Grassy Field",
+  "description": "You are in a grass covered field somewhere in the forest.  The tall grass\nnearly reaches your waist, and the surrounding oaks and beeches form an almost\nwall-like thicket on the east side of the field.  To the northeast you can see\na small lake.  A small path leads south through the trees, and the field opens\nup to the north and west.",
+  "header_raw": "60 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Wind blowing in from the north carries with it the smell of a newly killed\nanimal, as well as the noise of many birds, which you can see circling there.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6026
+    },
+    {
+      "dir": 1,
+      "description": "The ground slopes gently downward to the eastern tree line.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6024
+    },
+    {
+      "dir": 2,
+      "description": "The small path leads south in between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6018
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "grass",
+      "description": "The tall grass makes a nice hiding place for animals."
+    },
+    {
+      "keywords": "path",
+      "description": "The narrow path is probably used by the animals living in the forest."
+    },
+    {
+      "keywords": "tree trees thicket",
+      "description": "The trees form a close thicket, blocking any exit to the west."
+    },
+    {
+      "keywords": "birds bird circling",
+      "description": "Many carrion birds are circling to the north, you presume they are waiting for\ntheir turn to feast on a corpse."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

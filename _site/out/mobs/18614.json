@@ -1,0 +1,12 @@
+{
+  "id": 18614,
+  "alias": "newbie lost",
+  "short_desc": "the lost newbie",
+  "long_desc": "A newbie is here wandering about aimlessly.",
+  "detailed_desc": "",
+  "flags_raw": "Hmmm... looks like he has been around a while, but he wandered a little",
+  "stats1_raw": "too far from home this time.  Don't think he knows quite where he is,",
+  "stats2_raw": "maybe you should help him out?",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

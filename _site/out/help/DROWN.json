@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "DROWN"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (155), Ninja (147), Ranger (140), Thief (147)\n- Descricao: Esta skill permite afogar o inimigo.\n- Numero de rounds necessarios para recuperacao do controle: 1\n- Exemplo de uso:\t> drown serpent\n\t\t\tthe sea serpent staggers back from the solid chop you deliver to him.\n\n- Observacoes: E necessario estar em uma sala do tipo aquatica, como nadando em um rio; nao e possivel afogar players da raca Sea Elf.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

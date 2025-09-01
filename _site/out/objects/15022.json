@@ -1,0 +1,13 @@
+{
+  "id": 15022,
+  "alias": "wail sound",
+  "short_desc": "the wailing sound from the east",
+  "long_desc": "There is an eerie wailing sound coming from the house to the east.",
+  "action_desc": "",
+  "header_raw": "13 0 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/150.obj"
+}

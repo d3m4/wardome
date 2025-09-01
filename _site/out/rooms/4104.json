@@ -1,0 +1,21 @@
+{
+  "id": 4104,
+  "zone_id": 40,
+  "name": "The Long Tunnel",
+  "description": "You find yourself in a small bulbous cavern ending.  The somewhat\ncircular 'room' is about thirty feet in diameter and you can see one\nexit from it; a tunnel leading sharply upwards from the western wall.\nThe walls of this cavern are quite indistinct and you cannot see any\nmoss or dampness on them whatsoever.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

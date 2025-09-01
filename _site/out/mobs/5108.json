@@ -1,0 +1,12 @@
+{
+  "id": 5108,
+  "alias": "drow matron mother",
+  "short_desc": "the Matron Mother",
+  "long_desc": "The Matron Mother of the first house is waiting for you.",
+  "detailed_desc": "",
+  "flags_raw": "She looks like she is about to rip your head of and eat it.",
+  "stats1_raw": "~",
+  "stats2_raw": "abfl dhkp -1000 S",
+  "stats3_raw": "25 0 -4 5d10+350 12d2+24",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/51.mob"
+}

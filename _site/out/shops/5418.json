@@ -1,0 +1,31 @@
+{
+  "id": 5418,
+  "producing": [],
+  "profit_buy": 2.0,
+  "profit_sell": 0.5,
+  "buy_types": [
+    "FOOD"
+  ],
+  "messages": [
+    "%s Sorry buddy, I don't sell that.",
+    "%s Why don't you sell something you own?",
+    "%s I don't buy such items!",
+    "%s That is much to valuable for you to let go!",
+    "%s No money.  Off with ya then!",
+    "%s That will be %d gold.",
+    "%s Here is %d gold for that."
+  ],
+  "tail": [
+    0,
+    2,
+    5418,
+    0,
+    5432,
+    -1,
+    6,
+    12,
+    13,
+    20
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+}

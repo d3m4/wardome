@@ -1,0 +1,12 @@
+{
+  "id": 5446,
+  "alias": "lugh librarian",
+  "short_desc": "Lugh the Librarian",
+  "long_desc": "Lugh the Librarian sits behind a desk.",
+  "detailed_desc": "",
+  "flags_raw": "The huge hulking mass rises as someone asks him a question.",
+  "stats1_raw": "~",
+  "stats2_raw": "belno 0 300 S",
+  "stats3_raw": "10 1 0 10d10+430 3d6+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

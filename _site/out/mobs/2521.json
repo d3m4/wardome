@@ -1,0 +1,12 @@
+{
+  "id": 2521,
+  "alias": "instructor teacher mage",
+  "short_desc": "the instructor of magic",
+  "long_desc": "The instructor screams at your interruption and attacks you.",
+  "detailed_desc": "",
+  "flags_raw": "He looks quite angry at your interruption.",
+  "stats1_raw": "~",
+  "stats2_raw": "abfh dk 300 S",
+  "stats3_raw": "14 6 -2 14d14+140 3d4+8",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

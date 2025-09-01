@@ -1,0 +1,29 @@
+{
+  "id": 6150,
+  "zone_id": 61,
+  "name": "The Narrow Trail",
+  "description": "This trail looks much spookier than any other that's you have seen.  The\nusual animal claw marks and bites on the trees are becoming few and far\nbetween.  The trail continues north.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The narrow trail continues north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6151
+    },
+    {
+      "dir": 2,
+      "description": "The trail intersects the main forest path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6103
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

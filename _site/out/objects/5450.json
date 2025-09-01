@@ -1,0 +1,13 @@
+{
+  "id": 5450,
+  "alias": "hose",
+  "short_desc": "a pair of hose",
+  "long_desc": "A nicely made pair of hose lies here.",
+  "action_desc": "",
+  "header_raw": "9 0 33",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 120 10",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6021,
+  "alias": "nest bird",
+  "short_desc": "the bird's nest",
+  "long_desc": "",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "30 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

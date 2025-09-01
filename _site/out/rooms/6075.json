@@ -1,0 +1,54 @@
+{
+  "id": 6075,
+  "zone_id": 60,
+  "name": "A Shaded Path Through The Forest",
+  "description": "You are on a small shaded path leading between the trees.  The forest\ngradually becomes more dense to the west, and to the northwest the terrain\nis quite hilly.  The path continues north and south.  To the east you see a\ntrail winding through the younger section of the forest.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6078
+    },
+    {
+      "dir": 1,
+      "description": "You think you see the beginnings of a small trail through the younger part of\nthe forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6074
+    },
+    {
+      "dir": 2,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6072
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths shaded",
+      "description": "The shaded path is probably used by the animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    },
+    {
+      "keywords": "hills hill terrain",
+      "description": "To the northwest the ground becomes more hilly. You have heard that a halfling\nvillage is somewhere in the hills."
+    },
+    {
+      "keywords": "trail",
+      "description": "You think you see the beginnings of a small trail to the east, winding through\nthe younger part of the forest."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

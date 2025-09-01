@@ -1,0 +1,12 @@
+{
+  "id": 5204,
+  "alias": "mimic floor",
+  "short_desc": "the mimic",
+  "long_desc": "The stone floor of this house has been ripped apart.",
+  "detailed_desc": "",
+  "flags_raw": "What a mess, you wonder to yourself what could have caused this rampant",
+  "stats1_raw": "destruction.",
+  "stats2_raw": "~",
+  "stats3_raw": "bqr 0 -140 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/52.mob"
+}

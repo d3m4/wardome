@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "LEVITATE"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Psionicist (66), Shaman (83), Warlock (79)\n- Descricao: Esta skill permite levitar um objeto, podendo usa-lo como equipamento na posicao �floating in the air�.\n- Exemplo de uso:\t> wear stone\n\t\t\tYou levitate a clear stone and it stay floating around your head.\n\n- Observacoes: Apenas certos objetos, como pedras, podem ser levitados.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

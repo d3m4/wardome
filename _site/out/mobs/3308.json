@@ -1,0 +1,12 @@
+{
+  "id": 3308,
+  "alias": "duwick man",
+  "short_desc": "Duwick",
+  "long_desc": "A truly immense man laughs at you, and draws his knife!",
+  "detailed_desc": "",
+  "flags_raw": "This has to be one of the biggest men you've ever seen.  He is",
+  "stats1_raw": "a full seven feet toe to head, and weighs a good three hundred",
+  "stats2_raw": "pounds -- mostly on his biceps and pectorals it appears.  An",
+  "stats3_raw": "ornate scabbard slaps by his side, with the pommel of a silvered",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/33.mob"
+}

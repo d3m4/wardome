@@ -1,0 +1,12 @@
+{
+  "id": 3604,
+  "alias": "black knight",
+  "short_desc": "the Black Knight",
+  "long_desc": "Here stands a magnificent knight of the dark realm.",
+  "detailed_desc": "",
+  "flags_raw": "The Black Knight is here, riding his ebony black war horse.  His eyes",
+  "stats1_raw": "flash behind his visor in vengence.",
+  "stats2_raw": "~",
+  "stats3_raw": "bf d -400 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6302,
+  "alias": "hat wizard",
+  "short_desc": "a wizard's hat",
+  "long_desc": "A blue wizard's hat lies here.",
+  "action_desc": "",
+  "header_raw": "9 fgnop 17",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "5 20000 10000",
+  "extra_descriptions": [
+    {
+      "keywords": "hat wizard",
+      "description": "A hat made of blue cloth.  It looks very comfortable."
+    }
+  ],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 2
+    },
+    {
+      "location": 12,
+      "modifier": 17
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/63.obj"
+}

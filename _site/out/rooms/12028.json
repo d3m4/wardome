@@ -1,0 +1,34 @@
+{
+  "id": 12028,
+  "zone_id": 120,
+  "name": "An Opulent House",
+  "description": "You stand in a house, the size and splendor of which almost defies the\nimagination.  The floor is done with hand crafted marble tile with silver\nand jeweled inlays.  The light coming through the exquisitely crafted stained\nglass windows bathes the room in splendor and the furniture looks as though\nit was made by master craftsmen from all over the empire.  A path through the\nestate is north of here.",
+  "header_raw": "120 cd 0",
+  "flags_text": "cd",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a well manicured path that winds through the estate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12027
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "floor tile",
+      "description": "Very expensive!  A lot of master craftsmen labored long and hard to produce\nsuch a work of art."
+    },
+    {
+      "keywords": "windows",
+      "description": "They are intricate and the scenes that they depict cast honor on several of\nthe gods."
+    },
+    {
+      "keywords": "furniture",
+      "description": "You hope to eventually be able to own a piece of furniture just like these \nsomeday.  These are only dreams, of course."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

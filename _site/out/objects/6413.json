@@ -1,0 +1,18 @@
+{
+  "id": 6413,
+  "alias": "mevais herb leaf",
+  "short_desc": "a leaf of mevais",
+  "long_desc": "A small black leaf of a mevais plant lies here, well preserved.",
+  "action_desc": "",
+  "header_raw": "10 0 1",
+  "values_raw": "30 27 33 4",
+  "cost_raw": "1 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "mevais herb leaf",
+      "description": "Quaffing this down might provide interesting effects."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

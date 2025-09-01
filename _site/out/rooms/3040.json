@@ -1,0 +1,46 @@
+{
+  "id": 3040,
+  "zone_id": 30,
+  "name": "Inside The West Gate Of Midgaard",
+  "description": "You are by two small towers that have been built into the city wall and\nconnected with a footbridge across the heavy wooden gate.  Main Street leads\neast and Wall Road leads south from here.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see Main Street.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3012
+    },
+    {
+      "dir": 2,
+      "description": "You see the road running along the inner side of the city wall.  You notice\nthat it is called Wall Road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3042
+    },
+    {
+      "dir": 3,
+      "description": "The city gate is to the west.",
+      "keywords": "gate~ 1 3112 3052 E bridge footbridge~ It is too high up to reach but it looks as if one easily could walk across it from one tower to the other.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tower towers",
+      "description": "Both of the towers are built from large grey rocks that have been fastened to\neach other with some kind of mortar, just like the city wall."
+    },
+    {
+      "keywords": "wall",
+      "description": "It is built from large grey rocks that have been fastened to each other with\nsome kind of mortar.  It is far too high to climb."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5002,
+  "alias": "halberd",
+  "short_desc": "a halberd",
+  "long_desc": "A mighty halberd lies against the wall.",
+  "action_desc": "",
+  "header_raw": "5 gi 8193",
+  "values_raw": "0 3 5 3",
+  "cost_raw": "16 12000 10000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 2
+    },
+    {
+      "location": 19,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

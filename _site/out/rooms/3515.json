@@ -1,0 +1,37 @@
+{
+  "id": 3515,
+  "zone_id": 35,
+  "name": "The Light Forest",
+  "description": "The forest is light here and you can easily pick your way through the \ntrail.  To the east, the forest becomes thick and darker.  South, the\ntrail continues.",
+  "header_raw": "35 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "A trail leading north-south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3511
+    },
+    {
+      "dir": 1,
+      "description": "The trees get thicker as you go east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3516
+    },
+    {
+      "dir": 2,
+      "description": "More trees and some small hills.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3518
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

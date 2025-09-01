@@ -1,0 +1,12 @@
+{
+  "id": 6015,
+  "alias": "grotesque vulture",
+  "short_desc": "the grotesque vulture",
+  "long_desc": "A grotesque vulture covered in blood and gore is here feeding madly.",
+  "detailed_desc": "",
+  "flags_raw": "It sickens you to even look at this foul bird.  Bits of dried gore stick to",
+  "stats1_raw": "its beak, and unidentifiable organs hang from its talons and feathers.",
+  "stats2_raw": "It sees you and attacks, protecting its horrible feast!",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

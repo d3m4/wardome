@@ -1,0 +1,12 @@
+{
+  "id": 5245,
+  "zone_id": 52,
+  "name": "On The Second Floor",
+  "description": "The minute you step off onto this floor you realize it was a mistake.\nThe old rotted floorboards suddenly give way and you fall down, impaling\nyourself on jagged boards below.",
+  "header_raw": "52 bd 1",
+  "flags_text": "bd",
+  "sector": 1,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

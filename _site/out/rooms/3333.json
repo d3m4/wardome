@@ -1,0 +1,29 @@
+{
+  "id": 3333,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "The passageway makes a U-turn here, heading north and\nwestwards to the other side of the 'U'.  The air seems\nhumid and hard to breathe.  Some algae grows near the\nfloor in the slick spots, giving a definite subtle smell\nof rot to the air.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3334
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3332
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

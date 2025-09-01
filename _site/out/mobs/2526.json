@@ -1,0 +1,12 @@
+{
+  "id": 2526,
+  "alias": "mage young",
+  "short_desc": "the young mage",
+  "long_desc": "A young mage is here learning hand to hand combat.",
+  "detailed_desc": "",
+  "flags_raw": "This young fellow looks quite confident in his abilities to defend",
+  "stats1_raw": "himself.",
+  "stats2_raw": "~",
+  "stats3_raw": "abcgh dk 300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6415,
+  "alias": "staff rand",
+  "short_desc": "Rand's staff",
+  "long_desc": "There is a metal-shod staff here.",
+  "action_desc": "",
+  "header_raw": "9 agnop 16385",
+  "values_raw": "8 0 0 0",
+  "cost_raw": "7 100000 25000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 5
+    },
+    {
+      "location": 17,
+      "modifier": 5
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

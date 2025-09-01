@@ -1,0 +1,29 @@
+{
+  "id": 5066,
+  "zone_id": 50,
+  "name": "A Wide Tunnel",
+  "description": "This tunnel seems to go on forever into the darkness.  You carefully\nfeel your way along the walls.",
+  "header_raw": "50 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5065
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5067
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

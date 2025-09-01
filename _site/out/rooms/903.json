@@ -1,0 +1,29 @@
+{
+  "id": 903,
+  "zone_id": 9,
+  "name": "The Scenic Route",
+  "description": "The dark forest of Haon-Dor recedes behind you to the northeast.\nThe river continues in a westerly direction toward the river delta,\nwhere you can just make out a large island.",
+  "header_raw": "9 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 902
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 904
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

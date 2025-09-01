@@ -1,0 +1,21 @@
+{
+  "id": 2671,
+  "zone_id": 25,
+  "name": "A Study",
+  "description": "You are in a spacious study.  It is extremely tidy here, to an almost\nantiseptic nature.  One would wonder how anyone could study without a\nmess all around them, the master of this chamber obviously can.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2669
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

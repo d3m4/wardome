@@ -1,0 +1,21 @@
+{
+  "id": 3576,
+  "zone_id": 35,
+  "name": "The Bar",
+  "description": "This is where people use to come and enjoy the food, drink and\nhospitality of the Innkeeper, but as of late, he only serves the\nfew adventurers that manage to survive a trip through the forest.\nYou can leave south and return to the common room.",
+  "header_raw": "35 df 1",
+  "flags_text": "df",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You may retreat south back to the common room.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3574
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/35.wld"
+}

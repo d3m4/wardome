@@ -1,0 +1,34 @@
+{
+  "id": 3065,
+  "zone_id": 30,
+  "name": "The Great Field Of Midgaard",
+  "description": "You are walking on a wide dirt path through the lush, green, fresh\nMidgaard countryside.  You can see to the horizon to the north, east,\nand west; the busy city of Midgaard lies to the south.  All around you\nis healthy green grass and an occasional large oak tree.  The sun feels\nwonderful on your face and a pleasant wind blows through your hair.  Birds\nchirp quietly to themselves and you can smell the faint scent of flowers\nand freshly cut grass.  You feel like you could lie down in the grass and\nstay here forever, surrounded by powerful beauty in all directions.\n   The way north appears to be blocked by a large plot device and you cannot\nsee any way around it.",
+  "header_raw": "30 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "Unfortunately the way north is blocked by a large plot device and there\ndoes not seem to be any way around it.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    },
+    {
+      "dir": 2,
+      "description": "The path continues through the field to the south past an odd structure\non the eastern side of the path.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3061
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "plot device",
+      "description": "What more is a plot device than something to block a certain direction\nfor reasons beyond your comprehension."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

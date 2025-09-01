@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "WHIRLWIND"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (60), Barbarian (55), Ranger (78)\n- Descricao: Esta skill permite realizar um ataque giratorio com a arma, atingindo a todos na sala.\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> whirlwind\n\t\t\tYou make a whirlwind attack, wounding ALL of your opponents!\n\n- Observacoes: E a �nica skill de ataque de area existente; gasta 30 pontos de movimento por inimigo que acertar.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

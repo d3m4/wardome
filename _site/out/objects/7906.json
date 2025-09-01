@@ -1,0 +1,22 @@
+{
+  "id": 7906,
+  "alias": "dagger plain black",
+  "short_desc": "a plain dagger",
+  "long_desc": "A long black, but very plain, dagger rests here.",
+  "action_desc": "",
+  "header_raw": "5 dfhn 8193",
+  "values_raw": "0 5 3 11",
+  "cost_raw": "3 6500 15000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": -3
+    },
+    {
+      "location": 19,
+      "modifier": -1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

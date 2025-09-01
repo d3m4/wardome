@@ -1,0 +1,22 @@
+{
+  "id": 2578,
+  "alias": "robe black",
+  "short_desc": "a black robe",
+  "long_desc": "A pile of black cloth is on the ground here.",
+  "action_desc": "",
+  "header_raw": "15 gjl 1025",
+  "values_raw": "50 0 -1 0",
+  "cost_raw": "8 5000 750",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -9
+    },
+    {
+      "location": 24,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2502,
+  "alias": "locker",
+  "short_desc": "a meat locker",
+  "long_desc": "",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "1000 5 -1 0",
+  "cost_raw": "1000 1000 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "locker",
+      "description": "You just had the horrid thought that a cadaver might be in there."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

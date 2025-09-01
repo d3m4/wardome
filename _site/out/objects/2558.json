@@ -1,0 +1,13 @@
+{
+  "id": 2558,
+  "alias": "potion red",
+  "short_desc": "a bright red potion",
+  "long_desc": "A bright red potion is here.",
+  "action_desc": "",
+  "header_raw": "10 g 16385",
+  "values_raw": "15 15 -1 -1",
+  "cost_raw": "2 1500 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

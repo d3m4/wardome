@@ -1,0 +1,18 @@
+{
+  "id": 2556,
+  "alias": "spoon silver",
+  "short_desc": "a silver stirring spoon",
+  "long_desc": "A silver stirring spoon has been left here.",
+  "action_desc": "",
+  "header_raw": "12 g 16385",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 5650 900",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 24,
+      "modifier": -1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

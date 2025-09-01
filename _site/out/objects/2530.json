@@ -1,0 +1,13 @@
+{
+  "id": 2530,
+  "alias": "cauldron black",
+  "short_desc": "a black cauldron",
+  "long_desc": "A large black cauldron is here bubbling.",
+  "action_desc": "",
+  "header_raw": "15 0 0",
+  "values_raw": "1000 0 -1 0",
+  "cost_raw": "5000 5000 500000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

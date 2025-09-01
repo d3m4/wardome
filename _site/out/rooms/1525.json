@@ -1,0 +1,29 @@
+{
+  "id": 1525,
+  "zone_id": 15,
+  "name": "Revelation",
+  "description": "The Angel Gabriel came to him and said: \"Read!\"  He replied: \"But I\ncannot!\"  The order was repeated three times, until the Angel himself\nsaid: \"Read, in the name of your Lord who created man from clots of blood.\nPraise be to God, Lord of the Universe.\"",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1524
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1526
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 900,
+  "alias": "homba",
+  "short_desc": "the homba",
+  "long_desc": "The homba flits about.",
+  "detailed_desc": "",
+  "flags_raw": "Part kestrel, part bear, part wolf.  Parts is parts, and makes an ugly whole.",
+  "stats1_raw": "~",
+  "stats2_raw": "bflm bdgkp -100 S",
+  "stats3_raw": "4 16 5 2d10+40 1d8+4",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/9.mob"
+}

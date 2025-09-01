@@ -1,0 +1,29 @@
+{
+  "id": 1503,
+  "zone_id": 15,
+  "name": "A Long Road",
+  "description": "The road clears, the fog and pain of the first few steps left behind\nyou.  Despite the sudden clarity, your mind is still haunted, images of\nan old woman kneeling in prayer, eyes closing, smiling and crying.",
+  "header_raw": "15 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1504
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1502
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

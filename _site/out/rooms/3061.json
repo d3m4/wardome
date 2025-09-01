@@ -1,0 +1,45 @@
+{
+  "id": 3061,
+  "zone_id": 30,
+  "name": "The Great Field Of Midgaard",
+  "description": "You are walking on a wide dirt path through the lush, green, fresh\nMidgaard countryside.  You can see to the horizon to the north, east,\nand west; the busy city of Midgaard lies to the south.  All around you\nis healthy green grass and an occasional large oak tree.  The sun feels\nwonderful on your face and a pleasant wind blows through your hair.  Birds\nchirp quietly to themselves and you can smell the faint scent of flowers\nand freshly cut grass.  You feel like you could lie down in the grass and\nstay here forever, surrounded by powerful beauty in all directions.\n   There is a strange structure on the eastern side of the path.  A small\ndirt path splits off of the main path and leads off to the west.",
+  "header_raw": "30 c 1",
+  "flags_text": "c",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path continues northwards bringing you ever closer to the Dragonhelm\nMountains.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3065
+    },
+    {
+      "dir": 1,
+      "description": "There is a strange structure to the east on the edge of the trail.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 18600
+    },
+    {
+      "dir": 2,
+      "description": "You see more of the Field.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3060
+    },
+    {
+      "dir": 3,
+      "description": "There is a strange path leading towards a rusty gate to the west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3066
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

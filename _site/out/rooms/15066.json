@@ -1,0 +1,50 @@
+{
+  "id": 15066,
+  "zone_id": 150,
+  "name": "A Dirt Road",
+  "description": "This section of the dirt road is quiet, but there is an awful stench\nin the air.  It brings to mind rotting corpses and raw sewage.  The woods\ncontiue to press closely about you, and almost totally surround the small\nbuilding to the west with a thatched roof.  There is a blackened shell of\na building to the east with a small sign hanging out front from a black\nand charred chain.\n   The dirt road continues north and south.",
+  "header_raw": "150 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The small dirt road continues towards the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15065
+    },
+    {
+      "dir": 1,
+      "description": "The building to the east is merely a shell of what it once probably\nwas.  The walls are blackened as if they had been exposed to fire at\nsome point in the past...",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15071
+    },
+    {
+      "dir": 2,
+      "description": "The stench from the south is almost overpowering now... it seems that\nthe source wouldn't be too far from here.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15067
+    },
+    {
+      "dir": 3,
+      "description": "A small quiet cottage stands on the west side of the road, apparently\nuntouched by the desecration and destruction that appears to have hit\nthis small village.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15070
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "The sign is covered with soot and the wood is quite charred, but you can\nstill make out the following letters:\n\n        T   TO  SB  DGE   NER L    RE"
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

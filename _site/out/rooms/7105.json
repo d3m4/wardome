@@ -1,0 +1,34 @@
+{
+  "id": 7105,
+  "zone_id": 71,
+  "name": "Down The Old Well",
+  "description": "You are dangling on the slippery sides of the old well leading down and\nup.  The only secure point here is the metal bars that are cemented into the\nsides, the ones that you cling frantically to so that you don't fall.  Who\nknows how deep this well is?  The bars lead down and up and nowhere else.",
+  "header_raw": "71 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "There is a slight, dim light from above, or maybe it is just your imagination.\nAnyway it SEEMS darker down here than up there, if that is possible.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7015
+    },
+    {
+      "dir": 5,
+      "description": "Down there nothing at all can be spotted.  The darkness that engulfs this\ndecent seems utterly impossible in a mortal world.  It is so thick that a \ntorch down there would be utterly useless... or so it seems to you.  Not \nthe kind of thing to cheer you up on this voyage, Eh?",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "bars",
+      "description": "These look like they're pretty slippery, and not very safe, but perhaps safe\nenough for you to climb down, WITH both hands on them."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/71.wld"
+}

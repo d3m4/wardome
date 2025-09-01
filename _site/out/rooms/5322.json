@@ -1,0 +1,30 @@
+{
+  "id": 5322,
+  "zone_id": 53,
+  "name": "At The Crevasse's End",
+  "description": "Here the crevasse comes to an abrupt end.  A chilling wind howls\nat your face from a black shape to the south, but the light from your\nsource is too dim to see exactly what it is.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "You see a strange-looking black shape.",
+      "keywords": "sesame~ 2 5323 5323 D4 It is too dark for you to see anything along the crevasse.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "black shape",
+      "description": "Wind howls about your ears like the roar of a tiger.  As your eyes\nadjust to the light the shape to the south almost seems to take the\nform of a massive animal head."
+    },
+    {
+      "keywords": "tiger head animal sesame",
+      "description": "You are now certain that the wind is the cold breath of some unearthly\ngiant animal, whose voice rumbles lowly on the breeze, and whose\nmassive jaws could easily swallow you whole.\n\nYou move closer for a better look, when suddenly a pair of eyes flashes.\nA cold voice echoes: 'SEEK YE THE DIAMOND... IN THE ROUGH...'\n\n... Then all is silent."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

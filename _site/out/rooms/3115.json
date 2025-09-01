@@ -1,0 +1,37 @@
+{
+  "id": 3115,
+  "zone_id": 31,
+  "name": "A Path In The Park",
+  "description": "You are in the park.  The paths lead north and east.  Eastward is the\npark entrance and to the west you see a small pond.",
+  "header_raw": "31 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3109
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3116
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3114
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

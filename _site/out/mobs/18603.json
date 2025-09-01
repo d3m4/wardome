@@ -1,0 +1,12 @@
+{
+  "id": 18603,
+  "alias": "dragon baby",
+  "short_desc": "the baby dragon",
+  "long_desc": "Someone's little pet dragon has gotten loose, and is sniffing about here.",
+  "detailed_desc": "",
+  "flags_raw": "Awwww... how cute!  A little baby dragon.  He's about 3 feet long and you",
+  "stats1_raw": "just want to cuddle him to death... no, you really want to kill him to tell",
+  "stats2_raw": "the truth.  But, remember, even a little dragon can be a big problem.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

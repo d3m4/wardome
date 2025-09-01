@@ -1,0 +1,29 @@
+{
+  "id": 5348,
+  "zone_id": 53,
+  "name": "An Arched Hall",
+  "description": "This hallway has a beautiful arch to it, formed painstakingly and\nexquisitely out of the sandy stones of the pyramid.  The dust that\ncovers most of the rest of the pyramid interior is not present here,\nscoured away by the blowing of the desert winds that howl about\nyour ears.",
+  "header_raw": "53 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The arched hall proceeds to the east, making a sharp southward turn.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5349
+    },
+    {
+      "dir": 3,
+      "description": "The arched hall proceeds into a sandstone crypt.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5347
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

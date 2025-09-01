@@ -1,0 +1,13 @@
+{
+  "id": 903,
+  "alias": "gauntlets troll",
+  "short_desc": "a pair of troll gauntlets",
+  "long_desc": "A pair of gauntlets made from troll skin lie on the ground.",
+  "action_desc": "",
+  "header_raw": "9 g 129",
+  "values_raw": "5 0 0 0",
+  "cost_raw": "8 2000 1350",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/9.obj"
+}

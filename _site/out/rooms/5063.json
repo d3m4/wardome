@@ -1,0 +1,29 @@
+{
+  "id": 5063,
+  "zone_id": 50,
+  "name": "The Wind-Swept Ledge",
+  "description": "Being very careful not to lose your balance, you look around and\nfind that this canyon is about a half a kilometer deep.  To the west is\na dark cave leading under the desert sands and above you a rope bridge\nspans the gap.",
+  "header_raw": "50 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5064
+    },
+    {
+      "dir": 4,
+      "description": "The desert sands blow down in your face.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5052
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/50.wld"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4029,
+  "zone_id": 40,
+  "name": "The Cave",
+  "description": "You are in a cave that is filled with fresh air, you sense the\nwind blowing from the north.  To the south you see a small tunnel\ncontinue into the mountain.",
+  "header_raw": "40 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4031
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4027
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

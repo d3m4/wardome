@@ -1,0 +1,18 @@
+{
+  "id": 5017,
+  "alias": "scimitar curved",
+  "short_desc": "a curved scimitar",
+  "long_desc": "A curved scimitar lies at your feet.",
+  "action_desc": "",
+  "header_raw": "5 l 8193",
+  "values_raw": "0 1 7 3",
+  "cost_raw": "6 600 150",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6017,
+  "alias": "fish",
+  "short_desc": "the fish",
+  "long_desc": "A fish is swimming about here.",
+  "detailed_desc": "",
+  "flags_raw": "The fish looks about the right size for a meal.",
+  "stats1_raw": "~",
+  "stats2_raw": "b g 100 S",
+  "stats3_raw": "0 20 10 2d5+0 1d3+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

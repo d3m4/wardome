@@ -1,0 +1,22 @@
+{
+  "id": 3605,
+  "alias": "armour white rook",
+  "short_desc": "some White Rook Armour",
+  "long_desc": "Some armour made from the remains of a white rook lies heaped on the floor.",
+  "action_desc": "",
+  "header_raw": "9 agk 9",
+  "values_raw": "2 0 0 0",
+  "cost_raw": "60 17000 5",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": 2
+    },
+    {
+      "location": 5,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

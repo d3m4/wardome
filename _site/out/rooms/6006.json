@@ -1,0 +1,38 @@
+{
+  "id": 6006,
+  "zone_id": 60,
+  "name": "A Small Path In The Dense Forest",
+  "description": "You are on a small path leading through the dense forest.  The crowns of\nthe old trees leave the forest in an unreal twilight illumination.  The path\ncontinues north and east.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The small path leads north through the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6005
+    },
+    {
+      "dir": 1,
+      "description": "The small path leads east through the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6007
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths",
+      "description": "The narrow path is probably used by the animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

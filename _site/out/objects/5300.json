@@ -1,0 +1,18 @@
+{
+  "id": 5300,
+  "alias": "mace egyptian",
+  "short_desc": "an egyptian mace",
+  "long_desc": "A hierogylph-engraved mace has been left here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 6 7",
+  "cost_raw": "10 800 50",
+  "extra_descriptions": [
+    {
+      "keywords": "mace egyptian",
+      "description": "The mace is formed from solid brass, and engraved in strange hieroglyphs."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/53.obj"
+}

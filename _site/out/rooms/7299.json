@@ -1,0 +1,21 @@
+{
+  "id": 7299,
+  "zone_id": 72,
+  "name": "On The Walls Of The Abyss",
+  "description": "You are clutching the steps on the wall so that you don't fall to the\nground down below.  You cannot see anymore handholds below you and thus\nthis stops your journey down, as the only exit is up.",
+  "header_raw": "72 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7279
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

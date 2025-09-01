@@ -1,0 +1,12 @@
+{
+  "id": 15015,
+  "alias": "ergan murderer",
+  "short_desc": "Ergan the Murderer",
+  "long_desc": "Slumped in a corner you see Ergan, aka the Murderer of Townsbridge.",
+  "detailed_desc": "",
+  "flags_raw": "You remember a time almost a decade ago, when the news of the day",
+  "stats1_raw": "was how this man had slaughtered the entire population of the little",
+  "stats2_raw": "village of Townsbridge.  He was imprisoned, and here he is - a shadow",
+  "stats3_raw": "of the undoubtedly great warrior he once was, but still to be reckoned",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 7209,
+  "alias": "boots muddy",
+  "short_desc": "a pair of muddy boots",
+  "long_desc": "A pair of muddy boots has been dropped here.",
+  "action_desc": "",
+  "header_raw": "9 g 65",
+  "values_raw": "4 0 0 0",
+  "cost_raw": "10 75 500",
+  "extra_descriptions": [
+    {
+      "keywords": "boots muddy",
+      "description": "The boots are muddy and they look well worn, but also very comfortable."
+    }
+  ],
+  "affects": [
+    {
+      "location": 14,
+      "modifier": 15
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/72.obj"
+}

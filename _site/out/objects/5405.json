@@ -1,0 +1,13 @@
+{
+  "id": 5405,
+  "alias": "bardiche",
+  "short_desc": "a bardiche",
+  "long_desc": "A bardiche lies here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 6 3",
+  "cost_raw": "4 1900 110",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

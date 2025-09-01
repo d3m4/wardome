@@ -1,0 +1,13 @@
+{
+  "id": 6502,
+  "alias": "key mine",
+  "short_desc": "a mine key",
+  "long_desc": "There is a key to the mines lying here.",
+  "action_desc": "",
+  "header_raw": "18 c 16385",
+  "values_raw": "6502 0 0 0",
+  "cost_raw": "1 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

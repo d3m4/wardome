@@ -1,0 +1,18 @@
+{
+  "id": 5487,
+  "alias": "shoe horse",
+  "short_desc": "a horse shoe",
+  "long_desc": "A horse shoe lies here.",
+  "action_desc": "",
+  "header_raw": "9 bg 16389",
+  "values_raw": "1 0 0 0",
+  "cost_raw": "2 1000 200",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/54.obj"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1514,
+  "zone_id": 15,
+  "name": "The Fall",
+  "description": "In the beginning, he was the best, the most beautiful of all the angels,\nand God's most loved creation.  Look at your own beauty, human, and do what\nhe could not.  Look at your beauty, and learn to kneel!",
+  "header_raw": "15 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1513
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1515
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4054,
+  "alias": "centipede",
+  "short_desc": "the centipede",
+  "long_desc": "A white centipede is here.",
+  "detailed_desc": "",
+  "flags_raw": "The centipede doesn't really seem to notice you.",
+  "stats1_raw": "~",
+  "stats2_raw": "b 0 -100 S",
+  "stats3_raw": "5 17 5 1d10+50 1d7+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

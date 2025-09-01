@@ -1,0 +1,34 @@
+{
+  "id": 3006,
+  "producing": [
+    3060,
+    3061
+  ],
+  "profit_buy": 1.2,
+  "profit_sell": 0.9,
+  "buy_types": [
+    "BOAT"
+  ],
+  "messages": [
+    "%s Sorry pal, I have not got that kind of ship.",
+    "%s Ok, but let me see it first.",
+    "%s I only trade ships.",
+    "%s I can't afford such a nice ship.",
+    "%s This ship is too expensive for you.",
+    "%s Here is your ship, I'll take %d gold coins.",
+    "%s What a fine deal, you get %d gold coins."
+  ],
+  "tail": [
+    0,
+    2,
+    3006,
+    0,
+    3049,
+    -1,
+    6,
+    22,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/30.shp"
+}

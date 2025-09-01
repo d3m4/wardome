@@ -1,0 +1,29 @@
+{
+  "id": 4047,
+  "zone_id": 40,
+  "name": "The Foothills",
+  "description": "After a long trek, you find yourself in the foothills again.  You spot\na narrow trail leading away to the northwest not too far distant to the\nwest.",
+  "header_raw": "40 c 5",
+  "flags_text": "c",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can head towards the narrow trail this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4049
+    },
+    {
+      "dir": 3,
+      "description": "The trail leading back through the mountains seems to go on forever.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4046
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

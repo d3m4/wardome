@@ -1,0 +1,29 @@
+{
+  "id": 3325,
+  "zone_id": 33,
+  "name": "A Cave Passageway",
+  "description": "The cave twists around like a coiled snake, leading \neast and north from here.  You begin to wonder if your \norientations are still correct.  That worries you for\nsome reason.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3324
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3326
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

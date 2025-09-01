@@ -1,0 +1,29 @@
+{
+  "id": 15020,
+  "zone_id": 150,
+  "name": "The Passage",
+  "description": "You are standing in a north-south leading passage.  There is a door\nto the east.",
+  "header_raw": "150 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The passage leads to a staircase.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 15025
+    },
+    {
+      "dir": 1,
+      "description": "The door is quite small and unobtrusive.",
+      "keywords": "door~ 1 -1 15021 D2 The passage continues to the south.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/150.wld"
+}

@@ -1,0 +1,1156 @@
+{
+  "id": 60,
+  "name": "Haon-Dor, Light Forest",
+  "header": {
+    "raw": "6000 6099 13 2",
+    "min_room": 6000,
+    "top_room": 6099,
+    "lifespan": 13,
+    "reset_mode": 2
+  },
+  "commands": [
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6000,
+        1,
+        6009
+      ],
+      "comment": "John The Lumberjack"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6000,
+        2,
+        16
+      ],
+      "comment": "Lumber Axe"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6001,
+        10,
+        5
+      ],
+      "comment": "Chequered Shirt"
+    },
+    {
+      "cmd": "E",
+      "args": [
+        1,
+        6002,
+        20,
+        8
+      ],
+      "comment": "Leather Boots"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6012
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6015
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6017
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        6,
+        6019
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        10
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6002,
+        1,
+        6022
+      ],
+      "comment": "Brown Bear"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6004,
+        1,
+        6023
+      ],
+      "comment": "Fallow Deer"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6024,
+        4
+      ],
+      "comment": "Venison"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6005,
+        4,
+        6014
+      ],
+      "comment": "Brown Fox"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6003,
+        1,
+        6010
+      ],
+      "comment": "Fireplace"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6006,
+        1,
+        6003
+      ],
+      "comment": "Key To Wooden Chest"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6010,
+        6004
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6004,
+        50,
+        6010
+      ],
+      "comment": "Lantern"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6005,
+        1,
+        6010
+      ],
+      "comment": "Wooden Chest"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6007,
+        1,
+        6005
+      ],
+      "comment": "Coins"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6010,
+        6013
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6013,
+        100,
+        6010
+      ],
+      "comment": "Water Barrel"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6010,
+        1,
+        6023
+      ],
+      "comment": "Blackberries"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6006,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6006
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6013,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6013
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6016,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6016
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6019,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6019
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6065,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6065
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6062,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6062
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6069,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6069
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6078,
+        6011
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6011,
+        10,
+        6078
+      ],
+      "comment": "Mushroom"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6012,
+        1,
+        6000
+      ],
+      "comment": "The News Sign"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6006,
+        1,
+        6033
+      ],
+      "comment": "Bird With Broken Wing"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6007,
+        1,
+        6033
+      ],
+      "comment": "Bobcat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6008,
+        4,
+        6005
+      ],
+      "comment": "Sparrow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6008,
+        4,
+        6013
+      ],
+      "comment": "Sparrow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6008,
+        4,
+        6062
+      ],
+      "comment": "Sparrow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6009,
+        3,
+        6032
+      ],
+      "comment": "Robin"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6009,
+        4,
+        6066
+      ],
+      "comment": "Robin"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6009,
+        4,
+        6013
+      ],
+      "comment": "Robin"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6009,
+        4,
+        6016
+      ],
+      "comment": "Robin"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6010,
+        2,
+        6030
+      ],
+      "comment": "Nested (Hidden) Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6010,
+        2,
+        6030
+      ],
+      "comment": "Nested (Hidden) Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6011,
+        1,
+        6067
+      ],
+      "comment": "(Hidden) Badger"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6003
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6007
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6028
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6032
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6030
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6064
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6012,
+        7,
+        6075
+      ],
+      "comment": "Grey Squirrel"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6013,
+        4,
+        6030
+      ],
+      "comment": "Chipmunk"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6013,
+        4,
+        6021
+      ],
+      "comment": "Chipmunk"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6013,
+        4,
+        6067
+      ],
+      "comment": "Chipmunk"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6013,
+        4,
+        6061
+      ],
+      "comment": "Chipmunk"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6014,
+        4,
+        6026
+      ],
+      "comment": "Crow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6014,
+        4,
+        6026
+      ],
+      "comment": "Crow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6014,
+        4,
+        6026
+      ],
+      "comment": "Crow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6014,
+        4,
+        6027
+      ],
+      "comment": "Crow"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6015,
+        1,
+        6026
+      ],
+      "comment": "Vulture"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6016,
+        1,
+        6025
+      ],
+      "comment": "Small 5-Pt Buck"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6024,
+        4
+      ],
+      "comment": "Venison"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6017,
+        3,
+        6027
+      ],
+      "comment": "Fish"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6017,
+        3,
+        6027
+      ],
+      "comment": "Fish"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6017,
+        3,
+        6027
+      ],
+      "comment": "Fish"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6018,
+        2,
+        6027
+      ],
+      "comment": "Duckling"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6018,
+        2,
+        6027
+      ],
+      "comment": "Duckling"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6019,
+        2,
+        6027
+      ],
+      "comment": "Duck"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6019,
+        2,
+        6027
+      ],
+      "comment": "Duck"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        11,
+        6068
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        16
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        11,
+        6062
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        16
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        11,
+        6071
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        16
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        11,
+        6070
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        16
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6001,
+        11,
+        6060
+      ],
+      "comment": "Rabbit"
+    },
+    {
+      "cmd": "G",
+      "args": [
+        1,
+        6023,
+        16
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6005,
+        8,
+        6069
+      ],
+      "comment": "Brown Fox"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6005,
+        8,
+        6074
+      ],
+      "comment": "Brown Fox"
+    },
+    {
+      "cmd": "M",
+      "args": [
+        0,
+        6005,
+        8,
+        6060
+      ],
+      "comment": "Brown Fox"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6006,
+        6014
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6007,
+        6014
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6008,
+        6014
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6013,
+        6014
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6014,
+        6014
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6014,
+        5,
+        6006
+      ],
+      "comment": "Brook"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6014,
+        5,
+        6007
+      ],
+      "comment": "Brook"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6014,
+        5,
+        6008
+      ],
+      "comment": "Brook"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6014,
+        5,
+        6013
+      ],
+      "comment": "Brook"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6014,
+        5,
+        6014
+      ],
+      "comment": "Brook"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6025,
+        6015
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6015,
+        2,
+        6025
+      ],
+      "comment": "Lake"
+    },
+    {
+      "cmd": "R",
+      "args": [
+        0,
+        6025,
+        6015
+      ],
+      "comment": ""
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6015,
+        2,
+        6027
+      ],
+      "comment": "Lake"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6016,
+        1,
+        6033
+      ],
+      "comment": "Oaken Cudgel"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6017,
+        1,
+        6026
+      ],
+      "comment": "Corpse Of The Boar"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6018,
+        1,
+        6017
+      ],
+      "comment": "Meat"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6019,
+        1,
+        6017
+      ],
+      "comment": "Tusks"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6020,
+        1,
+        6067
+      ],
+      "comment": "Invis Floating Log"
+    },
+    {
+      "cmd": "O",
+      "args": [
+        0,
+        6021,
+        1,
+        6032
+      ],
+      "comment": "Invis Bird's Nest"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6022,
+        3,
+        6021
+      ],
+      "comment": "Robin's Egg"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6022,
+        3,
+        6021
+      ],
+      "comment": "Robin's Egg"
+    },
+    {
+      "cmd": "P",
+      "args": [
+        1,
+        6022,
+        3,
+        6021
+      ],
+      "comment": "Robin's Egg"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6009,
+        0,
+        1
+      ],
+      "comment": "Cabin"
+    },
+    {
+      "cmd": "D",
+      "args": [
+        0,
+        6010,
+        2,
+        1
+      ],
+      "comment": ""
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/zon/60.zon"
+}

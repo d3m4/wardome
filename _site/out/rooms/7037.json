@@ -1,0 +1,21 @@
+{
+  "id": 7037,
+  "zone_id": 70,
+  "name": "The Round Room",
+  "description": "As you enter the room it starts rotating - at first slowly, then faster\nand faster - You get totally confused as to where up and down is, but\nyou are certain that the doorway is in the opposite direction of what\nit was when you entered.  It now leads east.  There is only this one\nexit.",
+  "header_raw": "70 ad 1",
+  "flags_text": "ad",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You can just make out a smaller room with a chair.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7050
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

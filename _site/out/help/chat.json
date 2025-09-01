@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "chat"
+  ],
+  "aliases": [],
+  "body": "&nAUCTION CHAT GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS NEWBIE\n&n\n&nUso: chat <mensagem>\n&n     gossip <mensagem>\n&n     grats <mensagem>\n&n     newbie <mensagem>\n&n\n&n    Esses sao canais reservados para propositos especificos. Mensagens nesses canais \n&nchegarao a qualquer um que os esteja monitorando.\n&n\n&nExemplos:\n&n    > chat Ola pessoal!\n&n    > grats LEVEL!!!!!!!!\n&n    > grats GRATS CATJE!!!!!!!!\n&n\n&n    Veja tambem: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

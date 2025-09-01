@@ -1,0 +1,34 @@
+{
+  "id": 4110,
+  "zone_id": 40,
+  "name": "The Hole",
+  "description": "You find yourself standing in a small alcove as the tunnel comes to\na somewhat sudden end.  Looking about you suddenly notice a rather big\nhole in the floor of the tunnel.  In fact, it seems that another step\nforward and you would have fallen into it.\n   The tunnel itself leads to the west, and looking down into the hole\nin the floor reveals little beyond the fact that it seems to be very\ndeep and very dark.  There is a very strange smell emanating from the\nhole, it almost smells like something down there is rotting.",
+  "header_raw": "40 acd 3",
+  "flags_text": "acd",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4111
+    },
+    {
+      "dir": 5,
+      "description": "Before you head down, you drop a rock to see how deep the hole is...\nAfter about five minutes, it still hasn't hit bottom.  Thus, for\nreasons of sanity, you decide not to go this way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": -1
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "hole floor",
+      "description": "Before you head down, you drop a rock to see how deep the hole is...\nAfter about five minutes, it still hasn't hit bottom.  Thus, for\nreasons of sanity, you decide not to go this way."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

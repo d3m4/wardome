@@ -1,0 +1,29 @@
+{
+  "id": 6404,
+  "zone_id": 64,
+  "name": "The Trail To The Valley",
+  "description": "The trail leads down into the valley, where, by judging\nby the height of the trees, the lava had cooled tens\nof decades ago.  Down below you see the path lead into\nthe small forest in the valley, and disappear out of\nsight.  East leads into the valley, West back to civilization.",
+  "header_raw": "64 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6405
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6403
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

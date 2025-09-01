@@ -1,0 +1,12 @@
+{
+  "id": 3007,
+  "alias": "sailor",
+  "short_desc": "the sailor",
+  "long_desc": "A sailor stands here, waiting to help you.",
+  "detailed_desc": "",
+  "flags_raw": "He looks like a strong, fit sailor.",
+  "stats1_raw": "~",
+  "stats2_raw": "blno 0 900 S",
+  "stats3_raw": "33 0 -10 1d1+30000 2d8+12",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3045,
+  "zone_id": 30,
+  "name": "The Dark Alley At The Levee",
+  "description": "You are standing in the alley which continues east and west.  South of\nhere you see the levee.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The alley leads east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3046
+    },
+    {
+      "dir": 2,
+      "description": "You see the levee.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3049
+    },
+    {
+      "dir": 3,
+      "description": "The alley leads west.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3026
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

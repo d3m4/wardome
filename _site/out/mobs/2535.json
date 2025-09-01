@@ -1,0 +1,12 @@
+{
+  "id": 2535,
+  "alias": "sword dancing",
+  "short_desc": "the dancing sword",
+  "long_desc": "A well crafted sword lies on the work table here.",
+  "detailed_desc": "",
+  "flags_raw": "It looks quite sharp.",
+  "stats1_raw": "~",
+  "stats2_raw": "bfhlnopqr dk -500 S",
+  "stats3_raw": "10 1 -10 10d10+100 3d5+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

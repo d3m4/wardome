@@ -1,0 +1,13 @@
+{
+  "id": 6411,
+  "alias": "book elder",
+  "short_desc": "the Book of the Elder",
+  "long_desc": "A grey-bound book lies here.",
+  "action_desc": "",
+  "header_raw": "3 abg 16385",
+  "values_raw": "30 1 1 28",
+  "cost_raw": "25 300000 50000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/64.obj"
+}

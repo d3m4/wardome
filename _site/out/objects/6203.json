@@ -1,0 +1,23 @@
+{
+  "id": 6203,
+  "alias": "Runestone rune stone",
+  "short_desc": "the Runestone",
+  "long_desc": "A small stone with an inscription sits here.",
+  "action_desc": "",
+  "header_raw": "1 a 16385",
+  "values_raw": "0 0 -1 0",
+  "cost_raw": "1 10000 2000",
+  "extra_descriptions": [
+    {
+      "keywords": "runestone rune stone",
+      "description": "It is a small, carved stone with a strange symbol\ncarved upon it.  Strange..."
+    }
+  ],
+  "affects": [
+    {
+      "location": 12,
+      "modifier": 8
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/62.obj"
+}

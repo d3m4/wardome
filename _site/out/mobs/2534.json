@@ -1,0 +1,12 @@
+{
+  "id": 2534,
+  "alias": "master enchanter mage",
+  "short_desc": "the Enchanter",
+  "long_desc": "The Enchanter is here placing a dweomer upon well made sword.",
+  "detailed_desc": "",
+  "flags_raw": "The Enchanter is hard at work, concentrating on a spell which could",
+  "stats1_raw": "either destroy the weapon or make it many times more powerful than",
+  "stats2_raw": "it already is.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

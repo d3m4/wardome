@@ -1,0 +1,21 @@
+{
+  "id": 5316,
+  "zone_id": 53,
+  "name": "The Crawlway's End",
+  "description": "The crawlway shrinks away to nothing as the sandy stones of the pyramid\nclose together into a space through which only a snake could fit.   There is\nbarely enough space to turn around and make your way back through the tiny\ncrawlway to the north.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The crawlway gets a little larger to the north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5315
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

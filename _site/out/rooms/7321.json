@@ -1,0 +1,21 @@
+{
+  "id": 7321,
+  "zone_id": 73,
+  "name": "The East Tunnel",
+  "description": "You are standing in dark tunnel, the exits are east and west.  To the west\nyou see a wooden door.",
+  "header_raw": "73 cd 1",
+  "flags_text": "cd",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "You can see a wooden door.",
+      "keywords": "door wooden~ 1 -1 7318 D1 You can see a muddy tunnel.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

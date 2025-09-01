@@ -1,0 +1,21 @@
+{
+  "id": 0,
+  "zone_id": 0,
+  "name": "The Void",
+  "description": "You don't think that you are not floating in nothing.  You can see\na strange portal located above you.",
+  "header_raw": "0 d 1",
+  "flags_text": "d",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "The Temple of Midgaard floats above you.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3001
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/0.wld"
+}

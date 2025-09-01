@@ -1,0 +1,12 @@
+{
+  "id": 5440,
+  "alias": "daghdha",
+  "short_desc": "Daghdha",
+  "long_desc": "Daghdha the Arch-Magi stands here.",
+  "detailed_desc": "",
+  "flags_raw": "This man is dressed in long brown robes and has a penetrating gaze.",
+  "stats1_raw": "~",
+  "stats2_raw": "ag dhk 200 S",
+  "stats3_raw": "15 5 3 5d2+180 1d6+2",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

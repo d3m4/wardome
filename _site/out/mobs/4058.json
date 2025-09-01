@@ -1,0 +1,12 @@
+{
+  "id": 4058,
+  "alias": "giant hill",
+  "short_desc": "the hill giant",
+  "long_desc": "A hill giant is here, tossing some rocks around.",
+  "detailed_desc": "",
+  "flags_raw": "The hill giant looks like he's about 9 feet tall.  By his actions you",
+  "stats1_raw": "quickly come to the conclusion that he isn't very intelligent.",
+  "stats2_raw": "~",
+  "stats3_raw": "gq k 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

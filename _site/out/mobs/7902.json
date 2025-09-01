@@ -1,0 +1,12 @@
+{
+  "id": 7902,
+  "alias": "cleaver",
+  "short_desc": "the Cleaver",
+  "long_desc": "The Cleaver is here eyeing you hungrily in anticipation of its next meal.",
+  "detailed_desc": "",
+  "flags_raw": "The Cleaver is a huge spidery chittinous creature with four large",
+  "stats1_raw": "spindly arms ending in cleaverlike talons that will surely cut you",
+  "stats2_raw": "to ribbons.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/79.mob"
+}

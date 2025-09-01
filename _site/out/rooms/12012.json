@@ -1,0 +1,37 @@
+{
+  "id": 12012,
+  "zone_id": 120,
+  "name": "A Dirt Road",
+  "description": "You are on a parched and dusty rural road which runs east and west.  There\nis a structure lying to the south.",
+  "header_raw": "120 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Through the dust, you see a paved road.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12019
+    },
+    {
+      "dir": 2,
+      "description": "It is difficult to see through the haze and dust.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12013
+    },
+    {
+      "dir": 3,
+      "description": "It is difficult to see through the haze and dust.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12005
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

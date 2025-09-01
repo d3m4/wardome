@@ -1,0 +1,18 @@
+{
+  "id": 6005,
+  "alias": "chest wooden",
+  "short_desc": "a wooden chest",
+  "long_desc": "A wooden chest stands in the corner.",
+  "action_desc": "",
+  "header_raw": "15 0 1",
+  "values_raw": "100 15 6006 0",
+  "cost_raw": "20 100 10",
+  "extra_descriptions": [
+    {
+      "keywords": "chest wooden",
+      "description": "It is a robust chest made from short, heavy planks that have been fastened\ntogether with tenons.  It is equipped with a simple brass lock."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/60.obj"
+}

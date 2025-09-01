@@ -1,0 +1,117 @@
+{
+  "id": 2548,
+  "zone_id": 25,
+  "name": "The Hallway",
+  "description": "You are in a long hallway leading north and south.  The walls emit a\nfaint magical glow which provides enough light to see by.\n   There is a closed metal door to the west.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2547
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2550
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door metal~ 1 -1 2549 S #2549 A Classroom~    You are in a large classroom filled with bored looking students of the art.  The instructor stops in his lecture on the fine uses of magic missile at your entry and lunges to attack you.    The only apparent exit is back east to the hallway.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door metal~ 1 -1 2548 S #2550 A Hallway~    You are in a long hallway leading north and south.  The walls emit a faint magical glow which provides enough light to see by.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2548
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2551
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door metal~ 1 -1 2552 S #2551 A Hallway~    You are in a long hallway leading north and south.  The walls emit a faint magical glow which provides enough light to see by.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2550
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2553
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "door metal~ 1 -1 2554 S #2552 An Empty Classroom~    You are in an empty classroom.  Some strange sigils are written on a blackboard which is floating in the air here.  Other than a few desks, it is bare of furnishings.    The only apparent exit leads back east to the hallway.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "door metal~ 1 -1 2550 S #2553 A Bend In The Hallway~    You are at a bend in the hallway.  The walls emit a faint magical glow which provides enough light to see by.    The hallway continues east and north.",
+      "door_flag": 25,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2551
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2555
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

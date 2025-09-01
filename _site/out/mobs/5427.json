@@ -1,0 +1,12 @@
+{
+  "id": 5427,
+  "alias": "statue brihaspati",
+  "short_desc": "the statue of Brihaspati",
+  "long_desc": "The statue of Brihaspati stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The statue of Brihaspati, the God of Scholars and Knowledge is made",
+  "stats1_raw": "of a weathered marble.",
+  "stats2_raw": "~",
+  "stats3_raw": "abelnopqr dhk 0 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

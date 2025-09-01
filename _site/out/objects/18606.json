@@ -1,0 +1,18 @@
+{
+  "id": 18606,
+  "alias": "dagger newbie",
+  "short_desc": "a shiny newbie dagger",
+  "long_desc": "A shiny newbie dagger is lying here looking for a back to stab.",
+  "action_desc": "",
+  "header_raw": "5 65 24577",
+  "values_raw": "0 1 4 11",
+  "cost_raw": "1 0 0",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/186.obj"
+}

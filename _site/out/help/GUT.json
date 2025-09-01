@@ -1,0 +1,8 @@
+{
+  "keywords": [
+    "GUT"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Warrior (100)\n- Descricao: Esta skill permite eviscerar o inimigo, cortando-lhe a barriga e fazendo com que seus intestinos pulem pra fora.\n- Dano: 0\n- Numero de rounds necessarios para recuperacao do controle: 2\n- Exemplo de uso:\t> gut zombie\n\t\t\tYou gut A zombie!\n\t\t\tA zombie looks down in horror as their intestines spill out!\n\n- Observacoes: E necessario empunhar uma arma cortante (tipo slash) para utilizar esta skill; o inimigo deve estar bastante ferido, possuindo menos de 5% de HP.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

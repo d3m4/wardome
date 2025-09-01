@@ -1,0 +1,29 @@
+{
+  "id": 3363,
+  "zone_id": 33,
+  "name": "A Mountain Trail",
+  "description": "This mountain trail leads straight up into the evil \nlooking mountains.  High above you, one mountain peak \nseems to radiate danger and fear, and the trail seems \nto be leading straight up to it.  You wonder if it is \nwise to continue this way...\n   The trail goes even higher up to the west, and back \ndown to the west.",
+  "header_raw": "33 0 5",
+  "flags_text": "0",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3364
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3360
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

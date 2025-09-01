@@ -1,0 +1,12 @@
+{
+  "id": 3089,
+  "alias": "pet shop boy",
+  "short_desc": "the Pet Shop Boy",
+  "long_desc": "There is a Pet Shop Boy standing here cuddleing something furry in his hands.",
+  "detailed_desc": "",
+  "flags_raw": "As you look at him, he opens his hands to reveal a rat!",
+  "stats1_raw": "~",
+  "stats2_raw": "blno 0 1000 S",
+  "stats3_raw": "10 10 1 1d1+30000 20d4+10",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

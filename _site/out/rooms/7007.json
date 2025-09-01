@@ -1,0 +1,34 @@
+{
+  "id": 7007,
+  "zone_id": 70,
+  "name": "The Muddy Sewer Bend",
+  "description": "This isn't your idea of a place to stay too long.  You're in up to\nyour knees in something that resembles mud, but you're not quite sure.\nThe bend in which you stand leads west and south.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "The pipe (still filled with mud) leads into a intersection that goes north \nand south.  Interesting.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7002
+    },
+    {
+      "dir": 2,
+      "description": "The pipe leads into a intersection that goes south and east.  The floor here \nis still covered in mud.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7008
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "mud",
+      "description": "It is as dark as tar and looks like something out of a toilet, on top of\nthat, the smell is absolutely overwhelming."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

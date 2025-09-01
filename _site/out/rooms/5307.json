@@ -1,0 +1,12 @@
+{
+  "id": 5307,
+  "zone_id": 53,
+  "name": "On The Dangerous Stones",
+  "description": "Here the elements have carved away at the sides of the pyramid quite a \nbit.  You aren't so sure of your footing anymore...\n\nSuddenly the wind picks up, and you lose your balance!\nYou tumble down the side of the pyramid, and fall to your death!\n\nSPLAT.\n\nOuch.",
+  "header_raw": "53 bd 0",
+  "flags_text": "bd",
+  "sector": 0,
+  "exits": [],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

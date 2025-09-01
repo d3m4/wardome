@@ -1,0 +1,13 @@
+{
+  "id": 6513,
+  "alias": "coal chunk",
+  "short_desc": "a chunk of coal",
+  "long_desc": "There is a chunk of coal here.",
+  "action_desc": "",
+  "header_raw": "13 0 16385",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "100 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

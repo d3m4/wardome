@@ -1,0 +1,12 @@
+{
+  "id": 3609,
+  "alias": "white queen",
+  "short_desc": "the White Queen",
+  "long_desc": "The White Queen stands here.",
+  "detailed_desc": "",
+  "flags_raw": "The White Queen is a stunningly beautiful woman with dark skin and a mass",
+  "stats1_raw": "of light hair that frames her head like the sun.  This is surely love at",
+  "stats2_raw": "first sight for you.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/36.mob"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4037,
+  "zone_id": 40,
+  "name": "The Path Through The Foothills",
+  "description": "You stand on a path that leads through the foothills in an\neast-west direction.  Some distance off to the west you can see\na small intersection of paths and off to the east you see that\nthe path seems to come to an end as part of the mountain chain\njuts out of the ground, blocking your view of the sky.",
+  "header_raw": "40 0 4",
+  "flags_text": "0",
+  "sector": 4,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4038
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4033
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

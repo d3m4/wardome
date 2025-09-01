@@ -1,0 +1,12 @@
+{
+  "id": 12019,
+  "alias": "soldier",
+  "short_desc": "the soldier",
+  "long_desc": "A soldier on leave is walking around looking for entertainment.",
+  "detailed_desc": "",
+  "flags_raw": "You see a member of one of the Emperor's elite legions.  He looks VERY strong.",
+  "stats1_raw": "You have this vague feeling that his entertainment isn't going to be a very",
+  "stats2_raw": "wholesome activity.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

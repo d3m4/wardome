@@ -1,0 +1,34 @@
+{
+  "id": 6135,
+  "zone_id": 61,
+  "name": "A Dusty Trail In The Deep, Dark Forest",
+  "description": "You are on a dusty trail leading through the deep, dark forest.  Ancient\ngrey trees loom all around you.  The trail continues north and east.",
+  "header_raw": "61 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The dusty trail leads north through the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6136
+    },
+    {
+      "dir": 1,
+      "description": "The dusty trail leads east through the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6129
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "tree trees trunk trunks",
+      "description": "The ancient grey giants seem to observe you silently."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/61.wld"
+}

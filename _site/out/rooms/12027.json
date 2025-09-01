@@ -1,0 +1,62 @@
+{
+  "id": 12027,
+  "zone_id": 120,
+  "name": "A Noble Estate",
+  "description": "You are on the grounds of a nobleman's estate which is hundreds of times\nthe size and splendor of anything that a common citizen of Rome would ever\nhope to own.  Everything is lush and green.  The grass is perfectly manicured\nand the trees are all bearing fruit.  Ornamental plants are in perfectly\nsituated to enhance and adorn the three statues of dedicated to gods Jupiter,\nVenus and Neptune.  A tranquil path leads east and west, there is a paved road\nto the north and an extravagant house lies to the south.",
+  "header_raw": "120 0 2",
+  "flags_text": "0",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a paved road in the distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12026
+    },
+    {
+      "dir": 1,
+      "description": "The path leads east through the estate.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12034
+    },
+    {
+      "dir": 2,
+      "description": "You see an incredible house off in the distance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12028
+    },
+    {
+      "dir": 3,
+      "description": "Off through the trees, you see a small, plain hut.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 12021
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "Venus",
+      "description": "Venus, the Roman goddess of beauty and knowledge is displayed in a all of her\nsplendor."
+    },
+    {
+      "keywords": "Jupiter",
+      "description": "A statue made of pure gold depicts Jupiter sitting on his throne.  The throne\nlooks like it is made of silver."
+    },
+    {
+      "keywords": "Neptune",
+      "description": "The statue of Neptune is made of pure jade and is holding a crystal trident.\nIt is sitting in the center of a small pond which has hundreds of beautiful\nfish swimming in it."
+    },
+    {
+      "keywords": "trees tree shrubs shrub plants plant",
+      "description": "All of the plants, trees and shrubs are perfectly trimmed, without so much\nas a dead leaf anywhere to be seen.  You welcome the shade that they give\nfrom the harsh sun above."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/120.wld"
+}

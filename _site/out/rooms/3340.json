@@ -1,0 +1,21 @@
+{
+  "id": 3340,
+  "zone_id": 33,
+  "name": "The End Of The Passage",
+  "description": "The tunnel stops abruptly here at a fissure in the stone.\nAll around on the ground are rocks and gravel, mined from\nthe fissure in an attempt to widen it enough for passage.\nA few pieces of paper litter and wrappers tells you that\nthe work here is relatively recent.",
+  "header_raw": "33 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3339
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/33.wld"
+}

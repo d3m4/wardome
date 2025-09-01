@@ -1,0 +1,13 @@
+{
+  "id": 4002,
+  "alias": "coins",
+  "short_desc": "some coins",
+  "long_desc": "A small pile of coins is on the ground.",
+  "action_desc": "",
+  "header_raw": "20 0 1",
+  "values_raw": "500 0 0 0",
+  "cost_raw": "0 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/40.obj"
+}

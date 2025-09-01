@@ -1,0 +1,29 @@
+{
+  "id": 3027,
+  "zone_id": 30,
+  "name": "The Entrance Hall To The Guild Of Thieves",
+  "description": "The entrance hall to the thieves' and assassins' guild.  A place where you\ncan lose both your life and your money, if you are not careful.  To the north\nis the dark alley and to the east is the thieves' bar.",
+  "header_raw": "30 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the alley.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3026
+    },
+    {
+      "dir": 1,
+      "description": "You see the thieves bar, where everything disappears.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3028
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "enter"
+  ],
+  "aliases": [
+    "ENTER"
+  ],
+  "body": "Uso: enter [lugar]\n\n    Se voce digitar 'enter' enquanto voce estiver em lugar aberto, voce \nentrara em um abrigo proximo. Voce tambem pode passar um argumento ao \n'enter', por exemplo, 'enter window'.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

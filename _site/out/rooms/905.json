@@ -1,0 +1,29 @@
+{
+  "id": 905,
+  "zone_id": 9,
+  "name": "Near The Rocks",
+  "description": "You bob up and down in the waves comming dangerously close to some\nlarge, jagged rocks on the eastern shore of an unusual looking island.\nThere is no way you could possibly land there without getting killed.",
+  "header_raw": "9 0 7",
+  "flags_text": "0",
+  "sector": 7,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 904
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 906
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/9.wld"
+}

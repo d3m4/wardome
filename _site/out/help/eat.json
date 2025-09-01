@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "eat"
+  ],
+  "aliases": [
+    "EAT DRINK SIP TASTE"
+  ],
+  "body": "Uso: eat <item>\n     taste [from] <item>\n     drink [from] <item>\n     sip [from] <item>\n\n    Se voce esta com fome ou sede, estes sao os comandos ideais para voce!\n\n    > eat bread\n    > taste bread\n    > drink from cup\n    > sip fountain",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

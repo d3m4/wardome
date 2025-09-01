@@ -1,0 +1,12 @@
+{
+  "id": 7204,
+  "alias": "rat gigantic",
+  "short_desc": "the gigantic rat",
+  "long_desc": "There is a gigantic rat here, looking at you with a hungry look.",
+  "detailed_desc": "",
+  "flags_raw": "The gigantic rat is about ten feet long from head to tail and has claws the",
+  "stats1_raw": "size of your head, looking very nasty.",
+  "stats2_raw": "~",
+  "stats3_raw": "bf k -800 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/72.mob"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5327,
+  "zone_id": 53,
+  "name": "A Stairway",
+  "description": "You stand now at the head of a stairway that goes down into darkness.\nThe steps and walls are smooth sandy stone, covered with a thick layer\nof dust.  Some inscriptions are carved into the wall here.",
+  "header_raw": "53 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the backside of the coffin lid, featureless stone.",
+      "keywords": "coffin lid~ 2 -1 5326 D5 It is too dark to see down the stairway.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "inscriptions",
+      "description": "You blow dust away from the inscriptions to read:\n\nBeware the curse of the mummy."
+    },
+    {
+      "keywords": "coffin lid",
+      "description": "On this side the coffin lid is smooth featureless stone."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

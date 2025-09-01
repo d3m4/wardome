@@ -1,0 +1,13 @@
+{
+  "id": 3046,
+  "alias": "plate bronze breast",
+  "short_desc": "a bronze breast plate",
+  "long_desc": "A bronze breast plate is lying on the ground.",
+  "action_desc": "",
+  "header_raw": "9 0 9",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "80 7000 100",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

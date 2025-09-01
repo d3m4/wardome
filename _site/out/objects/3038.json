@@ -1,0 +1,18 @@
+{
+  "id": 3038,
+  "alias": "nail",
+  "short_desc": "a nail",
+  "long_desc": "A penny nail lies in the dust.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 1 1 11",
+  "cost_raw": "1 5 1",
+  "extra_descriptions": [
+    {
+      "keywords": "nail",
+      "description": "Its a common iron nail, used for carpentry work."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

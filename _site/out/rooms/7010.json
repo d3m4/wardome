@@ -1,0 +1,29 @@
+{
+  "id": 7010,
+  "zone_id": 70,
+  "name": "A Bend In The Sewer Pipe",
+  "description": "You are in a bend in the sewer pipe.  A strong smell seeps in from the\nnorth.  The sewer goes north and east.",
+  "header_raw": "70 ad 2",
+  "flags_text": "ad",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "North.  You are staring into a huge junction with exits in all directions.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7009
+    },
+    {
+      "dir": 1,
+      "description": "East.  The Pipe leads into utter darkness that way.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7018
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

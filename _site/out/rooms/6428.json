@@ -1,0 +1,26 @@
+{
+  "id": 6428,
+  "zone_id": 64,
+  "name": "A Hall",
+  "description": "This is the southern end of the hall.  There are cells to\nyour right and left, empty and awaiting occupants.",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6426
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "cell cells",
+      "description": "It is open, empty, and uninteresting."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

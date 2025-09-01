@@ -1,0 +1,12 @@
+{
+  "id": 7042,
+  "alias": "naga guardian",
+  "short_desc": "the guardian naga",
+  "long_desc": "The guardian naga looks kindly at you.",
+  "detailed_desc": "",
+  "flags_raw": "The naga are a snake-liked creature.  She is covered in green-gold scales",
+  "stats1_raw": "with silvery triangles along her back.  Her eyes are golden.  She notices",
+  "stats2_raw": "that you are staring at her, and she says 'Watch out.  This way leads to",
+  "stats3_raw": "some evil creatures.'",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

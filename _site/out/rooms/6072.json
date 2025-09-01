@@ -1,0 +1,46 @@
+{
+  "id": 6072,
+  "zone_id": 60,
+  "name": "A Shaded Path Though The Forest",
+  "description": "You are on a small shaded path leading between the trees.  The forest\ngradually becomes more dense to the west.  Paths lead north and east, and you\nsee a small clearing to the south.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6075
+    },
+    {
+      "dir": 1,
+      "description": "The path winds its way between the trees.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6071
+    },
+    {
+      "dir": 2,
+      "description": "A lightly traveled path heads southward to a small clearing.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6067
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "path paths shaded",
+      "description": "The shaded path is probably used by the small animals living in the forest."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The trees are mostly old beeches and oaks."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

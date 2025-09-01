@@ -1,0 +1,22 @@
+{
+  "id": 2589,
+  "alias": "bracelet emerald",
+  "short_desc": "an emerald bracelet",
+  "long_desc": "A beautifully crafted hoop of emerald is here.",
+  "action_desc": "",
+  "header_raw": "9 g 4097",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "5 30000 3500",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 17,
+      "modifier": -5
+    },
+    {
+      "location": 3,
+      "modifier": 1
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

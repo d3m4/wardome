@@ -1,0 +1,12 @@
+{
+  "id": 3122,
+  "alias": "sparrow",
+  "short_desc": "the sparrow",
+  "long_desc": "A sparrow is flapping around on the ground.",
+  "detailed_desc": "",
+  "flags_raw": "The sparrow looks like it is enjoying life.",
+  "stats1_raw": "~",
+  "stats2_raw": "gh 0 1000 S",
+  "stats3_raw": "0 20 10 2d6+0 1d3+0",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/31.mob"
+}

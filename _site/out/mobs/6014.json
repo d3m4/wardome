@@ -1,0 +1,12 @@
+{
+  "id": 6014,
+  "alias": "crow black bird",
+  "short_desc": "the large black crow",
+  "long_desc": "A large black bird flits about here, picking at bits of carrion.",
+  "detailed_desc": "",
+  "flags_raw": "The bird eyes you warily, but continues with its meal.",
+  "stats1_raw": "~",
+  "stats2_raw": "bch 0 -20 S",
+  "stats3_raw": "2 19 8 1d12+22 1d5+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/60.mob"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5481,
+  "alias": "high priest",
+  "short_desc": "the high priest",
+  "long_desc": "The high priest rests here meditating, well he WAS meditating.",
+  "detailed_desc": "",
+  "flags_raw": "He does NOT look real happy that you have disturbed him.",
+  "stats1_raw": "~",
+  "stats2_raw": "bgh dhk 1000 S",
+  "stats3_raw": "8 2 0 10d5+1200 2d8+5",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 6090,
+  "zone_id": 60,
+  "name": "A Road Through The Plains",
+  "description": "You are on a dust covered east-west road through the western plains.  An\noccasional hunter or adventurer can be seen, heading to or from the forest.\nTo the east is the walled city, Midgaard, and to the west the road ends at\nthe head of a narrow trail into a large forest.",
+  "header_raw": "60 c 2",
+  "flags_text": "c",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "Far to the east you see the large walls guarding Midgaard.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6091
+    },
+    {
+      "dir": 3,
+      "description": "To the west the dusty trail ends, and becomes a narrow trail into the cool\nshadows of the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6000
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trail",
+      "description": "The forest trail winds westwards through the trees."
+    },
+    {
+      "keywords": "tree trees forest",
+      "description": "The trees are quite tall considering most of them appear to be quite young."
+    },
+    {
+      "keywords": "road dust dusty",
+      "description": "The road is well used, and quite dusty."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

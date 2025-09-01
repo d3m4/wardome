@@ -1,0 +1,34 @@
+{
+  "id": 5353,
+  "zone_id": 53,
+  "name": "A Massive Sand Dune",
+  "description": "You stand now on a massive sand dune on the southern side of\nthe pyramid.  At the foot of the sand dune to the north you see a\nsmall hole where the stones of the pyramid have collapsed.  Not\nfar to the south is a massive roiling sandstorm; the wind from the\nstorm howls and bites at your face even here.",
+  "header_raw": "53 c 2",
+  "flags_text": "c",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a small hole leading back into the pyramid.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5347
+    },
+    {
+      "dir": 2,
+      "description": "You see only a wall of whirling, blowing, dry sand.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5354
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sand dune sandstorm",
+      "description": "The sand is very white, and very sandy.  There sure is a lot of it."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

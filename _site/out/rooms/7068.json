@@ -1,0 +1,34 @@
+{
+  "id": 7068,
+  "zone_id": 70,
+  "name": "The Watery Sewer Bend",
+  "description": "You can't see anything but the water you're in up to your hips.  The sewer\nseems to bend and lead west and north.",
+  "header_raw": "70 ad 5",
+  "flags_text": "ad",
+  "sector": 5,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can't see anything in that direction and your light isn't enough to light\nthat far.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7067
+    },
+    {
+      "dir": 3,
+      "description": "You can't see anything in that direction and your light isn't enough to light\nthat far.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7060
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "water",
+      "description": "It looks dark and murky, and emanates a foul stench."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/70.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2503,
+  "alias": "rack spice",
+  "short_desc": "a spice rack",
+  "long_desc": "",
+  "action_desc": "",
+  "header_raw": "15 0 1",
+  "values_raw": "50 0 -1 0",
+  "cost_raw": "10 1500 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 5217,
+  "alias": "flute silver",
+  "short_desc": "a silver flute",
+  "long_desc": "A brilliant silver flute glimmers from beneath a rock.",
+  "action_desc": "",
+  "header_raw": "4 fg 16385",
+  "values_raw": "18 2 2 7",
+  "cost_raw": "3 10500 8000",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/52.obj"
+}

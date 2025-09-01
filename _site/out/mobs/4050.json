@@ -1,0 +1,12 @@
+{
+  "id": 4050,
+  "alias": "warrior",
+  "short_desc": "the warrior",
+  "long_desc": "A tall warrior is here.  He has more scars than anyone you have ever seen.",
+  "detailed_desc": "",
+  "flags_raw": "He seems to be a strong, brainless fighter.",
+  "stats1_raw": "~",
+  "stats2_raw": "bcfg k -300 S",
+  "stats3_raw": "12 8 4 10d10+50 2d8+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/40.mob"
+}

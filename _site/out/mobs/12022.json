@@ -1,0 +1,12 @@
+{
+  "id": 12022,
+  "alias": "judge justice",
+  "short_desc": "the judge",
+  "long_desc": "A judge is standing here, reading a case.",
+  "detailed_desc": "",
+  "flags_raw": "He seems to be quite interested in the case, perhaps you shouldn't",
+  "stats1_raw": "disturb him now, later would probably be a better time.",
+  "stats2_raw": "~",
+  "stats3_raw": "bl 0 990 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/120.mob"
+}

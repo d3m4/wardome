@@ -1,0 +1,29 @@
+{
+  "id": 2649,
+  "zone_id": 25,
+  "name": "The Landing",
+  "description": "You are on a small landing in the middle of a long stairway leading up.\nYour senses seem dulled here, no sound or smell can be detected at all, and\nthe only thing you can see in any direction is endless stairway.",
+  "header_raw": "25 dg 0",
+  "flags_text": "dg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2650
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2648
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6116,
+  "alias": "shirt scale",
+  "short_desc": "a black dragon scale shirt",
+  "long_desc": "A black dragon scale shirt has been left here.",
+  "action_desc": "",
+  "header_raw": "9 g 9",
+  "values_raw": "6 0 0 0",
+  "cost_raw": "10 10000 100",
+  "extra_descriptions": [
+    {
+      "keywords": "shirt scale",
+      "description": "It is a sleeveless shirt made from big, black dragon scales joined\nwith silver threads.  Its inside has been made from the soft skin\non the dragon's belly, making it very comfortable to wear.  The word\n'Isha' has been engraved on one of the scales."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/61.obj"
+}

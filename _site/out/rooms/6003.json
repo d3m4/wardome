@@ -1,0 +1,38 @@
+{
+  "id": 6003,
+  "zone_id": 60,
+  "name": "A Trail Through The Dense Forest",
+  "description": "You are on a trail winding east and west through the dense forest.  To\nthe east, the forest gradually seems to become lighter.",
+  "header_raw": "60 0 3",
+  "flags_text": "0",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "The trail continues eastwards to the younger part of the forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6002
+    },
+    {
+      "dir": 3,
+      "description": "You see the narrow trail winding westwards through the dense forest.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6004
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "trail",
+      "description": "The forest trail seems almost fragile compared to the massive trunks."
+    },
+    {
+      "keywords": "tree trees",
+      "description": "The dense crowns of the mature trees leave only a fraction of the sky to be\nseen through the leaves."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/60.wld"
+}

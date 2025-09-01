@@ -1,0 +1,18 @@
+{
+  "id": 7917,
+  "alias": "helmet silvery silver",
+  "short_desc": "a silvery helmet",
+  "long_desc": "The silvery helmet lies here.",
+  "action_desc": "",
+  "header_raw": "9 gkl 17",
+  "values_raw": "8 7000 0 0",
+  "cost_raw": "35 9000 5000",
+  "extra_descriptions": [
+    {
+      "keywords": "helmet silvery silver",
+      "description": "The helmet is made from platinum or silver and has a white fur brush\nattached on the top."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

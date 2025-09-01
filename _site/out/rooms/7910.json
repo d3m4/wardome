@@ -1,0 +1,21 @@
+{
+  "id": 7910,
+  "zone_id": 79,
+  "name": "The Treasure Room",
+  "description": "This place is gloomy.  A HUGE safe is cemented into the west wall.  The\nonly visible exit is west, through the oak door.",
+  "header_raw": "79 cdj 0",
+  "flags_text": "cdj",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "safe steel~ 2 7900 7903 D3 You see a tall oak door.",
+      "door_flag": null,
+      "key": null,
+      "to": null
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/79.wld"
+}

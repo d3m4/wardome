@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "brief"
+  ],
+  "aliases": [
+    "BRIEF"
+  ],
+  "body": "Uso: brief\n\n    Liga ou desliga o modo de exibicao \"brief\". Quando esse modo esta ligado, voce nao vera \ndescricoes da sala na qual voce esta; somente o nome da sala e as pessoas e objetos nela. A \nmenos que voce esteja muito familiarizado com a area na qual voce esta viajando, no entanto, \nnao e aconselhavel utilizar esse comando. frequantemente, voce encontrara dicas pequenas mas \nvitais na descricao das salas: uma olhada extra ao seu redor pode ser a diferenca entre a \nvida e a morte!\n\n    Se voce explicitamente digitar 'look', voce sempre vera a descricao completa da sala, \nmesmo com esse modo ligado.\n\n    Veja tambem: COMPACT, LOOK",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

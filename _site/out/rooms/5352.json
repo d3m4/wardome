@@ -1,0 +1,26 @@
+{
+  "id": 5352,
+  "zone_id": 53,
+  "name": "A Shining Vault",
+  "description": "The stones of the pyramid here take on a strange, twinkling quality,\nalmost seeming to shine with an internal light.  As you look closer you\nsee tiny glass-like glittery particles within the stones, that reflect\nthe light from your light source so perfectly that they seem to shine.",
+  "header_raw": "53 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see a hall with a beautifully arched ceiling.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5351
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "particles glass",
+      "description": "The glassy particles reflect and refract your light source in a myriad\nof dazzling colours that dance across your eyes and make you giggle."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/53.wld"
+}

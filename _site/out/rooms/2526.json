@@ -1,0 +1,21 @@
+{
+  "id": 2526,
+  "zone_id": 25,
+  "name": "A Dark Passage",
+  "description": "You are in a dark passage, which comes to an abrupt stop at what appears\nto be a cave-in to the west.  It is certainly unpassable, and perhaps quite\ndangerous just being this close.\n   The only exit leads back east.",
+  "header_raw": "25 adg 0",
+  "flags_text": "adg",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 2522
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/25.wld"
+}

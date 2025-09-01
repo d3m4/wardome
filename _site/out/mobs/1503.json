@@ -1,0 +1,12 @@
+{
+  "id": 1503,
+  "alias": "raphael angel archangel",
+  "short_desc": "Raphael",
+  "long_desc": "The archangel Raphael looks up and frowns at you in disapproval.",
+  "detailed_desc": "",
+  "flags_raw": "It is impossible to get a solid glance at the archangel.  He is nothing",
+  "stats1_raw": "that is human, and with a mere whisper, he dispels every image that you",
+  "stats2_raw": "attempt to create in your mind.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/15.mob"
+}

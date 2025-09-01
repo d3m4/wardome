@@ -1,0 +1,13 @@
+{
+  "id": 5026,
+  "alias": "ruby gem",
+  "short_desc": "a large ruby",
+  "long_desc": "A large ruby lies on the ground, collecting dust.",
+  "action_desc": "",
+  "header_raw": "8 gh 16385",
+  "values_raw": "20 0 0 0",
+  "cost_raw": "9 4000 200",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/50.obj"
+}

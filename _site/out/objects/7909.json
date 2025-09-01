@@ -1,0 +1,18 @@
+{
+  "id": 7909,
+  "alias": "ring gold goldring",
+  "short_desc": "a golden ring",
+  "long_desc": "A shiny goldring has been abandoned here.",
+  "action_desc": "",
+  "header_raw": "11 dfmpq 3",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "20 3500 2000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 3,
+      "modifier": 2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

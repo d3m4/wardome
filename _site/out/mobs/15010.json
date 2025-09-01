@@ -1,0 +1,12 @@
+{
+  "id": 15010,
+  "alias": "bertram bert guard royal",
+  "short_desc": "Bertram",
+  "long_desc": "Bertram the Royal Guard is here on duty.",
+  "detailed_desc": "",
+  "flags_raw": "As all members of the Guard, Bertram wears the chain mail required of",
+  "stats1_raw": "them as uniform.  He seems very well trained, and carries his scars",
+  "stats2_raw": "with pride.  This guy seems tough...",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/150.mob"
+}

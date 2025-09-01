@@ -1,0 +1,12 @@
+{
+  "id": 3041,
+  "alias": "waiter",
+  "short_desc": "the waiter",
+  "long_desc": "A waiter is going around from one place to another.",
+  "detailed_desc": "",
+  "flags_raw": "A tired looking waiter.",
+  "stats1_raw": "~",
+  "stats2_raw": "bno 0 900 S",
+  "stats3_raw": "23 2 2 6d10+390 1d8+12",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

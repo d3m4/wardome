@@ -1,0 +1,37 @@
+{
+  "id": 3102,
+  "zone_id": 31,
+  "name": "The Promenade",
+  "description": "The river gently flows westwards just north of here.  The promenade\ncontinues both east and west.  South of here you see the entrance to\nthe park, and a small building seems to be just west of the entrance.",
+  "header_raw": "31 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 1,
+      "description": "You see the promenade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3103
+    },
+    {
+      "dir": 2,
+      "description": "You see the park entrance.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3105
+    },
+    {
+      "dir": 3,
+      "description": "You see the promenade.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3101
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/31.wld"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6508,
+  "alias": "club dwarven",
+  "short_desc": "a dwarven club",
+  "long_desc": "There is a dwarven club lying here.",
+  "action_desc": "",
+  "header_raw": "5 0 8193",
+  "values_raw": "0 2 3 3",
+  "cost_raw": "12 3000 300",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/65.obj"
+}

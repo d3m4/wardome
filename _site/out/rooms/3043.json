@@ -1,0 +1,46 @@
+{
+  "id": 3043,
+  "zone_id": 30,
+  "name": "Wall Road",
+  "description": "You are walking next to the western city wall.  Wall Road continues further\nnorth and south.  A small, poor alley leads east.\nSome letters have been written on the wall here.",
+  "header_raw": "30 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "The road continues further north.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3042
+    },
+    {
+      "dir": 1,
+      "description": "Poor Alley leads east.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3044
+    },
+    {
+      "dir": 2,
+      "description": "The road continues further south.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3047
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "wall writing letters",
+      "description": "It says 'Who watches the watchmen?'"
+    },
+    {
+      "keywords": "wall",
+      "description": "It is built from large grey rocks that have been fastened to each other with\nsome kind of mortar.  It is far too high to climb."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

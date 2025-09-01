@@ -1,0 +1,18 @@
+{
+  "id": 3307,
+  "alias": "crown",
+  "short_desc": "a dragon's crown",
+  "long_desc": "Aglandiir's crown sits here, radiating a shield.",
+  "action_desc": "",
+  "header_raw": "8 a 0",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "400 0 0",
+  "extra_descriptions": [
+    {
+      "keywords": "crown",
+      "description": "The shield repulses you, making you wonder how\nyou're going to get your hands on this huge, valuble\nchunk of gold..."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/33.obj"
+}

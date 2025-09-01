@@ -1,0 +1,13 @@
+{
+  "id": 2533,
+  "alias": "book tome",
+  "short_desc": "the book of magic",
+  "long_desc": "An enormous book is lying open here",
+  "action_desc": "",
+  "header_raw": "15 ag 0",
+  "values_raw": "500 0 -1 0",
+  "cost_raw": "5000 0 0",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

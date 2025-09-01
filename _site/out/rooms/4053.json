@@ -1,0 +1,29 @@
+{
+  "id": 4053,
+  "zone_id": 40,
+  "name": "The Tunnel",
+  "description": "You continue along the tunnel to find yourself at a right\nangle turn.  The passage leads north and east from here.  The\nway to the north seems to be a longer tunnel which continues\non through the gloom of the underearth.  The way to the east\nis a fresh change from what would normally be found this far\nunderground in that the tunnel seems to open  up into a fairly\nlarge and well lit cave.",
+  "header_raw": "40 ad 3",
+  "flags_text": "ad",
+  "sector": 3,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4050
+    },
+    {
+      "dir": 1,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 4054
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/40.wld"
+}

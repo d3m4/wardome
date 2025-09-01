@@ -1,0 +1,29 @@
+{
+  "id": 1511,
+  "zone_id": 15,
+  "name": "Hypocrisy",
+  "description": "He called the populace to strict religious purity, rigidly enforcing\nthe times of prayer and the most correct forms of the words of the Muezzin.\nAll of this he strengthened by his most impeccable example, shunning all\nriches and riding in tattered rags through his capital on the back of a\ndonkey.  Despite all this, remember.  Behind closed doors, all men are\nhypocrites.",
+  "header_raw": "15 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1512
+    },
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 1510
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/15.wld"
+}

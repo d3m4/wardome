@@ -1,0 +1,22 @@
+{
+  "id": 12004,
+  "alias": "stethoscope object",
+  "short_desc": "a stethoscope",
+  "long_desc": "There is an odd object laying on the ground here.",
+  "action_desc": "",
+  "header_raw": "11 i 5",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 15000 2000",
+  "extra_descriptions": [],
+  "affects": [
+    {
+      "location": 18,
+      "modifier": 4
+    },
+    {
+      "location": 19,
+      "modifier": -3
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/120.obj"
+}

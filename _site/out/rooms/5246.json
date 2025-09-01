@@ -1,0 +1,21 @@
+{
+  "id": 5246,
+  "zone_id": 52,
+  "name": "The North-West Watchtower",
+  "description": "You stand atop one of the city watchtowers.  The view is magnificent\nfrom here and you can see all the way to the western mountains.  No wonder\nthis place stood for so long.",
+  "header_raw": "52 0 1",
+  "flags_text": "0",
+  "sector": 1,
+  "exits": [
+    {
+      "dir": 5,
+      "description": "The city lies below.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 5224
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/52.wld"
+}

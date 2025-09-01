@@ -1,0 +1,12 @@
+{
+  "id": 5435,
+  "alias": "kid thief",
+  "short_desc": "the skinny kid",
+  "long_desc": "A skinny kid wanders around.",
+  "detailed_desc": "",
+  "flags_raw": "This small child sees you looking at him and quickly looks away.",
+  "stats1_raw": "~",
+  "stats2_raw": "ch 0 100 S",
+  "stats3_raw": "7 12 1 14d1+1 2d5+1",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/54.mob"
+}

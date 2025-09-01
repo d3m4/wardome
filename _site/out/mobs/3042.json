@@ -1,0 +1,12 @@
+{
+  "id": 3042,
+  "alias": "waiter",
+  "short_desc": "the waiter",
+  "long_desc": "A man now leads a quiet, peaceful life as a waiter is standing here.",
+  "detailed_desc": "",
+  "flags_raw": "This man was obviously a famous sorcerer in his younger days as you",
+  "stats1_raw": "instantly recognize his face.",
+  "stats2_raw": "~",
+  "stats3_raw": "bno 0 600 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/30.mob"
+}

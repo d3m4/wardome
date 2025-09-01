@@ -1,0 +1,12 @@
+{
+  "id": 7006,
+  "alias": "snake",
+  "short_desc": "the snake",
+  "long_desc": "The snake slithers towards you. It looks very mean.",
+  "detailed_desc": "",
+  "flags_raw": "This snake is of a variety that you do not recall seeing recently.",
+  "stats1_raw": "It has near black skin with small white diamond shaped spots all",
+  "stats2_raw": "over its head and upper body.  A thin green stripe stretches along",
+  "stats3_raw": "each side of its body.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/70.mob"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3054,
+  "alias": "staff gnarled",
+  "short_desc": "a gnarled staff",
+  "long_desc": "A gnarled staff has carelessly been left here.",
+  "action_desc": "",
+  "header_raw": "4 g 16385",
+  "values_raw": "12 1 1 38",
+  "cost_raw": "17 7000 5000",
+  "extra_descriptions": [
+    {
+      "keywords": "staff gnarled",
+      "description": "The staff is made of old oak, and is around five feet long. It fits\nperfectly into your hand. You notice a small symbol etched at the\nbase of the staff, it looks like:\n\n  ZZZZZ\n     Z\n    Z\n   Z\n  ZZZZZ  z   z"
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/30.obj"
+}

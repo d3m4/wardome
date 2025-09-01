@@ -1,0 +1,12 @@
+{
+  "id": 2552,
+  "alias": "witch hag",
+  "short_desc": "the ugly witch",
+  "long_desc": "An ugly witch is here scrying out secrets.",
+  "detailed_desc": "",
+  "flags_raw": "She has no face at all, just blank skin, rather disturbing.  From about",
+  "stats1_raw": "where her mouth should be, comes a disgusting giggling sound that makes",
+  "stats2_raw": "your skin crawl with revulsion.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/25.mob"
+}

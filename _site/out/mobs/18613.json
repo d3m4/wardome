@@ -1,0 +1,12 @@
+{
+  "id": 18613,
+  "alias": "newbie talkative",
+  "short_desc": "the talkative newbie",
+  "long_desc": "A newbie is here talking a lot.",
+  "detailed_desc": "",
+  "flags_raw": "Well, at least this gal seems pretty cool.  Talks a lot, but she's a",
+  "stats1_raw": "friendly, interesting sort.  Seems to have a clue what she's doing also,",
+  "stats2_raw": "unlike some others you might see.",
+  "stats3_raw": "~",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/186.mob"
+}

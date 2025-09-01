@@ -1,0 +1,45 @@
+{
+  "id": 6421,
+  "zone_id": 64,
+  "name": "A Servant's Room",
+  "description": "This seems to be a small servant's bedroom, sparsely\ndecorated and outfitted with a bed, nightstand, chair\nand a table, etc.  Nothing real important here.",
+  "header_raw": "64 ad 0",
+  "flags_text": "ad",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 2,
+      "description": "",
+      "keywords": "door~ 1 -1 6420 S #6422 The Stairwell~    This stairwell leads up and down, and there is a big open room to your west.",
+      "door_flag": 64,
+      "key": null,
+      "to": 0
+    },
+    {
+      "dir": 3,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6423
+    },
+    {
+      "dir": 4,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6415
+    },
+    {
+      "dir": 5,
+      "description": "",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 6425
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/64.wld"
+}

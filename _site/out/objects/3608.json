@@ -1,0 +1,13 @@
+{
+  "id": 3608,
+  "alias": "staff black bishop",
+  "short_desc": "the Staff of the Black Bishop",
+  "long_desc": "The Black Bishop's Staff is lying here.",
+  "action_desc": "",
+  "header_raw": "4 agj 16385",
+  "values_raw": "20 5 5 36",
+  "cost_raw": "3 20000 6",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/36.obj"
+}

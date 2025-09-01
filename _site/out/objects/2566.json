@@ -1,0 +1,13 @@
+{
+  "id": 2566,
+  "alias": "wand",
+  "short_desc": "a blackened wand",
+  "long_desc": "A blackened wand is here.",
+  "action_desc": "",
+  "header_raw": "3 g 16385",
+  "values_raw": "17 5 1 26",
+  "cost_raw": "4 2500 500",
+  "extra_descriptions": [],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/25.obj"
+}

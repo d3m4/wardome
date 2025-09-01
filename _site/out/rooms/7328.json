@@ -1,0 +1,29 @@
+{
+  "id": 7328,
+  "zone_id": 73,
+  "name": "The Dragon's Lair",
+  "description": "You can see burned walls, the floorstones are fiery red.  All kinds\nof bones are scattered all over the floor.  On the walls you can see\nsome burned shapes.  You smell burnt flesh.  Two creatures are half\nmelted into the floor.",
+  "header_raw": "73 d 2",
+  "flags_text": "d",
+  "sector": 2,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You can see a long tunnel.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7329
+    },
+    {
+      "dir": 3,
+      "description": "You can see nothing but darkness.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 7327
+    }
+  ],
+  "extra_descriptions": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/72.wld"
+}

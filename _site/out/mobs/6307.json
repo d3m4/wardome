@@ -1,0 +1,12 @@
+{
+  "id": 6307,
+  "alias": "spider ethereal",
+  "short_desc": "the ethereal spider",
+  "long_desc": "An ethereal spider strides here, traveling to different worlds.",
+  "detailed_desc": "",
+  "flags_raw": "She winks in and out of reality.  It looks like it'd be difficult to hit her",
+  "stats1_raw": "without a magical weapon.",
+  "stats2_raw": "~",
+  "stats3_raw": "cg bcfgs 300 S",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/mob/63.mob"
+}

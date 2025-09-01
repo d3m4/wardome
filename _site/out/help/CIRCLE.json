@@ -1,0 +1,9 @@
+{
+  "keywords": [
+    "CIRCLE",
+    "AROUND"
+  ],
+  "aliases": [],
+  "body": "- Classes que aprendem: Thief (116)\n- Descricao: Esta skill permite apunhalar um inimigo pelas costas durante uma luta, causando um alto dano.\n- Numero de rounds necessarios para recuperacao do controle: 4\n- Exemplo de uso:\t> circle zombie\n\t\t\tA zombie makes a strange sound as you place a dagger in its back!\n\n- Observacoes: E necessario estar empunhando uma arma perfurante (tipo pierce) para utilizar esta skill; na verdade, esta skill consiste em um BACKSTAB no meio da luta.",
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/text/help/help"
+}

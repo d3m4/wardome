@@ -1,0 +1,35 @@
+{
+  "id": 5415,
+  "producing": [
+    5461,
+    5462,
+    5463
+  ],
+  "profit_buy": 1.1,
+  "profit_sell": 1.0,
+  "buy_types": [
+    "FOOD"
+  ],
+  "messages": [
+    "%s I didn't kill any of those this season, sorry.",
+    "%s I don't buy that.",
+    "%s I don't buy that.",
+    "%s I don't buy that when I don't have the money.",
+    "%s That costs money.  Something you don't have... sorry.",
+    "%s That costs %d coins.",
+    "%s Here are %d coins, thank you for your business."
+  ],
+  "tail": [
+    0,
+    2,
+    5415,
+    0,
+    5522,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/54.shp"
+}

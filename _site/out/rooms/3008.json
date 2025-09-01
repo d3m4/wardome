@@ -1,0 +1,34 @@
+{
+  "id": 3008,
+  "zone_id": 30,
+  "name": "The Reception",
+  "description": "You are standing in the reception.  The staircase leads down to the\nentrance hall.  An exit to the north leads to the Cryogenic Center.\nThere is a small sign on the counter.",
+  "header_raw": "30 d 0",
+  "flags_text": "d",
+  "sector": 0,
+  "exits": [
+    {
+      "dir": 0,
+      "description": "You see the Cryogenic Center.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3064
+    },
+    {
+      "dir": 5,
+      "description": "You see the entrance hall.",
+      "keywords": "",
+      "door_flag": 0,
+      "key": -1,
+      "to": 3006
+    }
+  ],
+  "extra_descriptions": [
+    {
+      "keywords": "sign",
+      "description": "Rooms are expensive but good!  You may:\n\n   Offer - get an offer on a room - Time is in real life days.\n   Rent  - Rent a room (saves your stuff, and quits the game),\n           minimum charge is one day.\n\n\n                          MY WAY OR THE HIGHWAY\n                             PAY YOUR RENT!\n                WE WON'T THINK TWICE BEFORE KICKING YOU OUT."
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/wld/30.wld"
+}

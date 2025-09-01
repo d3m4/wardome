@@ -1,0 +1,27 @@
+{
+  "id": 7912,
+  "alias": "helmet chaos",
+  "short_desc": "a chaos helmet",
+  "long_desc": "On the floor is a grand evil-looking chaos helmet.",
+  "action_desc": "",
+  "header_raw": "9 fgj 17",
+  "values_raw": "8 0 0 0",
+  "cost_raw": "8 2300 1000",
+  "extra_descriptions": [
+    {
+      "keywords": "chaos helmet",
+      "description": "This helmet has mounted some mean looking spikes on the front,\nmoreover it looks like good protection."
+    }
+  ],
+  "affects": [
+    {
+      "location": 19,
+      "modifier": 2
+    },
+    {
+      "location": 24,
+      "modifier": -2
+    }
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/79.obj"
+}

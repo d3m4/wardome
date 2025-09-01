@@ -1,0 +1,18 @@
+{
+  "id": 3108,
+  "alias": "key brass",
+  "short_desc": "a brass key",
+  "long_desc": "A brass key has been left here.",
+  "action_desc": "",
+  "header_raw": "18 c 1",
+  "values_raw": "0 0 0 0",
+  "cost_raw": "1 0 10",
+  "extra_descriptions": [
+    {
+      "keywords": "key brass",
+      "description": "The brass key is small and looks like it fits a very complicated lock."
+    }
+  ],
+  "affects": [],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/obj/31.obj"
+}

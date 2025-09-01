@@ -1,0 +1,38 @@
+{
+  "id": 2506,
+  "producing": [
+    3050,
+    3051,
+    3053
+  ],
+  "profit_buy": 2.5,
+  "profit_sell": 0.3,
+  "buy_types": [
+    "SCROLL",
+    "WAND",
+    "STAFF",
+    "POTION"
+  ],
+  "messages": [
+    "%s Say again?",
+    "%s You don't have that, try INVENTORY!",
+    "%s What do I look like, a fence?",
+    "%s Sorry, I just can't afford such a costly item.",
+    "%s You can't afford it!",
+    "%s You're getting a bargain for that at only %d!",
+    "%s I guess I could give ya %d for that."
+  ],
+  "tail": [
+    0,
+    2,
+    2506,
+    112,
+    2519,
+    -1,
+    0,
+    28,
+    0,
+    0
+  ],
+  "source_path": "/home/d3m4/dev/github/wardome/wdii/lib/world/shp/25.shp"
+}
